@@ -11,9 +11,11 @@ from sklearn.manifold import MDS
 import numpy as np
 import matplotlib.pyplot as plt
 
+from math import sqrt
+
 # NB you must have run the nltk.download() before first use, to get a language model for english
 
-qual_numbers = [43, 39, 11, 8]
+qual_filepaths = ["Resources/peerj/qual/43.methods", "Resources/peerj/qual/39.methods", "Resources/peerj/qual/11.methods", "Resources/peerj/qual/8.methods"]
 
 from HTMLParser import HTMLParser
 
@@ -40,74 +42,68 @@ def ie_preprocess(document):
 	sentences = [nltk.pos_tag(sent) for sent in sentences]
 	return sentences
 
-
-
-
 def text_to_counts(document):
 	print "NLTK preprocessing..."
 	sentences = ie_preprocess(strip_tags(document))
 
 	print "Counting..."
-	countlist = []
 	ngramlens = [1, 2]
-	for sent in sentences:
-		#print sent
-		#print ""
-		for ngramlen in ngramlens:
+	counted = collections.Counter()
+	for ngramlen in ngramlens:
+		thisgramcounter = collections.Counter()
+		for sent in sentences:
 			for position in range(len(sent) + 1 - ngramlen):
-				#print sent[position:position+ngramlen]
-				#print [x[0] for x in sent[position:position+ngramlen]]
-				countlist.append(" ".join([x[0] for x in sent[position:position+ngramlen]]))
+				thisgramcounter.update({" ".join([x[0] for x in sent[position:position+ngramlen]]): 1}) # add 1
+		# next we up-weight the counts by raising them to the power of their ngram length (to account for the null model rarity of long ngrams)
+		thisgramcounter = {k:v**ngramlen for k,v in thisgramcounter.items()}
+		counted.update(thisgramcounter)
 
-	counted = collections.Counter(countlist)
 	print "==================="
-	print "Most common %i-grams:" % ngramlen
+	print "Most common ngrams:"
 	for item in counted.most_common(20):
 		print item
 	return counted
 
-def analyse_folderfull_of_methods(folder):
-	filepaths = glob.glob("%s/*/*.methods" % folder)
+def analyse_folderfull_of_methods(globber):
+	filepaths = glob.glob(globber)
 	analyses = {}
 	grandwordlist = collections.Counter()
 	for fp in filepaths:
-		basename = os.path.basename(fp)
+		#basename = os.path.basename(fp)
 		try:
 			f = open("%s.pickle" % fp, 'rb')
-			analyses[basename] = pickle.load(f)
+			analyses[fp] = pickle.load(f)
 			f.close()
 		except:
 			f = open(fp, 'r')
 			thetext = f.read()
 			f.close()
-			analyses[basename] = text_to_counts(thetext)
-			pickle.dump(analyses[basename], open("%s.pickle" % fp, 'wb'), -1)
-		grandwordlist.update(analyses[basename])
+			analyses[fp] = text_to_counts(thetext)
+			pickle.dump(analyses[fp], open("%s.pickle" % fp, 'wb'), -1)
+		grandwordlist.update(analyses[fp])
 
 	print "GRAND MOST COMMON:"
 	print grandwordlist.most_common(20)
 	return (analyses, grandwordlist)
 
-def mds_of_wordbags(analyses, grandwordlist):
-	basenames = sorted(analyses.keys())
-	idnumbers = [int(basename.split('.')[0]) for basename in basenames]
+def mds_of_wordbags(analyses, test_analyses, grandwordlist):
+	filepaths = sorted(analyses.keys())
 	wordlist = sorted(grandwordlist.keys())
 	# reduce dimnality
-	#wordlist = wordlist[0::15]
-	wordlist = [x[0] for x in grandwordlist.most_common(300)]
+	#wordlist = wordlist[0::100]
+	wordlist = [x[0] for x in grandwordlist.most_common(300)]  # 300
 	print "dimensionality of wordlist: %i" % len(wordlist)
 	print wordlist
 	countsmat = []
-	#print basenames
-	for index, basename in enumerate(basenames):
-		someresults = [analyses[basename].get(aword, 0) for aword in wordlist]
+	for index, filepath in enumerate(filepaths):
+		someresults = [analyses[filepath].get(aword, 0) for aword in wordlist]
 		countsmat.append(someresults)
 	countsmat = np.array(countsmat)
 
-
-	# For each pair, find Hamming distance
+	# For each pair, find distance
 	#distances = [[sum(countsmat[x][d] != countsmat[y][d] for d in range(len(wordlist))) for y in range(len(countsmat))] for x in range(len(countsmat))]
 	distances = [[sum(abs(countsmat[x][d] - countsmat[y][d]) for d in range(len(wordlist))) for y in range(len(countsmat))] for x in range(len(countsmat))]
+	#distances = [[sqrt(sum((countsmat[x][d] - countsmat[y][d])**2 for d in range(len(wordlist)))) for y in range(len(countsmat))] for x in range(len(countsmat))]
 	#print "Pairwise distances:"
 	#for distrow in distances:
 	#	print distrow
@@ -122,7 +118,7 @@ def mds_of_wordbags(analyses, grandwordlist):
 	plt.figure()
 	plt.plot(pos[:,0], pos[:,1], 'x')
 	qualpos = [[],[]]
-	for whichitem, idnumber in enumerate(idnumbers):
+	for whichitem, filepath in enumerate(filepaths):
 		"""
 		if idnumber in qual_numbers:
 			postfix = '<<<Q';
@@ -130,7 +126,7 @@ def mds_of_wordbags(analyses, grandwordlist):
 			postfix = ''
 		plt.text(pos[whichitem, 0], pos[whichitem, 1], "%i%s" % (idnumber, postfix), fontsize='xx-small')
 		"""
-		if idnumber in qual_numbers:
+		if filepath in qual_filepaths:
 			qualpos[0].append(pos[whichitem, 0])
 			qualpos[1].append(pos[whichitem, 1])
 	plt.plot(qualpos[0], qualpos[1], 'rx')
@@ -139,42 +135,61 @@ def mds_of_wordbags(analyses, grandwordlist):
 	#plt.show()
 	plt.xticks([])
 	plt.yticks([])
+	plt.title("Papers organised by unigram/bigram distance (red=qualitative)", fontsize='xx-small')
 	plt.savefig("plot_parsemethodtext.pdf", papertype='A4', format='pdf')
 
 	######################################################################
 	# Construct a larger MDS embedding in order to classify by NN
 	metric = True
-	n_components=4
+	n_components= 4
 	mds = MDS(n_components=n_components, metric=metric, max_iter=3000, eps=1e-12,
 			dissimilarity="precomputed", n_jobs=1, n_init=1)
 	pos = mds.fit_transform(np.array(distances))
 
-	n_true = 0
-	n_false = 0
-	for whichitem, idnumber in enumerate(idnumbers):
+	tp = 0
+	tn = 0
+	fp = 0
+	fn = 0
+	for whichitem, filepath in enumerate(filepaths):
 		# find NNs for this item
 		bestother = 0
 		bestdist = 9e99
-		for whichother, otheridnumber in enumerate(idnumbers):
+		for whichother, otherfilepath in enumerate(filepaths):
+			if otherfilepath==filepath: continue
 			distance = 0
 			for dim in range(n_components):
 				distance += abs(pos[whichitem,dim] - pos[whichother,dim])
 			if distance < bestdist:
 				bestdist = distance
-				bestother = otheridnumber
+				bestother = otherfilepath
 		# decide if matches
-		hasmatched = ((idnumber in qual_numbers) == (bestother in qual_numbers))
-		print hasmatched
-		if hasmatched:
-			n_true += 1
+		if (filepath in qual_filepaths):
+			if (bestother in qual_filepaths):
+				tp += 1
+			else:
+				fn += 1
 		else:
-			n_false += 1
+			if (bestother in qual_filepaths):
+				fp += 1
+			else:
+				tn += 1
 
-	print "%i matched, %i failed" % (n_true, n_false)
+	print tp
+	print tn
+	print fp
+	print fn
+
+	n_true = tp + tn
+	n_false = fp + fn
+	print "%i matched, %i failed (%0.3g%%)" % (n_true, n_false, (100. * n_true) / (n_true + n_false))
 
 ################################################
 if __name__=='__main__':
 	#analyse_some_text(text)
-	(analyses, grandwordlist) = analyse_folderfull_of_methods('Resources/peerj')
-	mds_of_wordbags(analyses, grandwordlist)
+	(train_analyses, train_grandwordlist) = analyse_folderfull_of_methods('Resources/peerj/*/*.methods')
+	(test_analyses, test_grandwordlist) = analyse_folderfull_of_methods('Resources/SOMETHINGELSE/*/methods.txt')
+	grandwordlist = collections.Counter()
+	grandwordlist.update(train_grandwordlist)
+	grandwordlist.update(test_grandwordlist)
+	mds_of_wordbags(train_analyses, test_analyses, grandwordlist)
 
