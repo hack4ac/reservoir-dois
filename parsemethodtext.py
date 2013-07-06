@@ -6,6 +6,7 @@ import re
 import os.path
 import glob
 import cPickle as pickle
+import copy
 
 from sklearn.manifold import MDS
 import numpy as np
@@ -86,8 +87,12 @@ def analyse_folderfull_of_methods(globber):
 	print grandwordlist.most_common(20)
 	return (analyses, grandwordlist)
 
-def mds_of_wordbags(analyses, test_analyses, grandwordlist):
+def mds_of_wordbags(train_analyses, test_analyses, grandwordlist):
+	analyses = copy.copy(train_analyses)
+	analyses.update(test_analyses)
 	filepaths = sorted(analyses.keys())
+	train_filepaths = sorted(train_analyses.keys())
+	test_filepaths = sorted(test_analyses.keys())
 	wordlist = sorted(grandwordlist.keys())
 	# reduce dimnality
 	#wordlist = wordlist[0::100]
@@ -118,7 +123,7 @@ def mds_of_wordbags(analyses, test_analyses, grandwordlist):
 	plt.figure()
 	plt.plot(pos[:,0], pos[:,1], 'x')
 	qualpos = [[],[]]
-	for whichitem, filepath in enumerate(filepaths):
+	for whichitem, filepath in enumerate(train_filepaths):
 		"""
 		if idnumber in qual_numbers:
 			postfix = '<<<Q';
@@ -150,11 +155,11 @@ def mds_of_wordbags(analyses, test_analyses, grandwordlist):
 	tn = 0
 	fp = 0
 	fn = 0
-	for whichitem, filepath in enumerate(filepaths):
+	for whichitem, filepath in enumerate(train_filepaths):
 		# find NNs for this item
 		bestother = 0
 		bestdist = 9e99
-		for whichother, otherfilepath in enumerate(filepaths):
+		for whichother, otherfilepath in enumerate(train_filepaths):
 			if otherfilepath==filepath: continue
 			distance = 0
 			for dim in range(n_components):
@@ -183,13 +188,32 @@ def mds_of_wordbags(analyses, test_analyses, grandwordlist):
 	n_false = fp + fn
 	print "%i matched, %i failed (%0.3g%%)" % (n_true, n_false, (100. * n_true) / (n_true + n_false))
 
+	print "====================================-================"
+	print "Articles from biomed which I hope may be qualitative:"
+
+	for whichitem, filepath in enumerate(test_filepaths):
+		# find NNs for this item
+		bestother = 0
+		bestdist = 9e99
+		for whichother, otherfilepath in enumerate(train_filepaths):
+			if otherfilepath==filepath: continue
+			distance = 0
+			for dim in range(n_components):
+				distance += abs(pos[whichitem,dim] - pos[whichother,dim])
+			if distance < bestdist:
+				bestdist = distance
+				bestother = otherfilepath
+		# decide if matches
+		if (bestother in qual_filepaths):
+			print filepath
+
+
 ################################################
 if __name__=='__main__':
-	#analyse_some_text(text)
-	(train_analyses, train_grandwordlist) = analyse_folderfull_of_methods('Resources/peerj/*/*.methods')
-	(test_analyses, test_grandwordlist) = analyse_folderfull_of_methods('Resources/SOMETHINGELSE/*/methods.txt')
 	grandwordlist = collections.Counter()
+	(train_analyses, train_grandwordlist) = analyse_folderfull_of_methods('Resources/peerj/*/*.methods')
 	grandwordlist.update(train_grandwordlist)
+	(test_analyses, test_grandwordlist) = analyse_folderfull_of_methods('harvest/hostdata/www.biomedcentral.com/*/methods.txt')
 	grandwordlist.update(test_grandwordlist)
 	mds_of_wordbags(train_analyses, test_analyses, grandwordlist)
 
