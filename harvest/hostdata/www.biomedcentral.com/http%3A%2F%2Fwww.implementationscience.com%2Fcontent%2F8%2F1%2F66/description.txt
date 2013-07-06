@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Audit and feedback is one of the most widely used and promising interventions in implementation research, yet also one of the most variably effective. Understanding this variability has been limited in part by lack of attention to the theoretical and conceptual basis underlying audit and feedback. Examining the extent of theory use in studies of audit and feedback will yield better understanding of the causal pathways of audit and feedback effectiveness and inform efforts to optimize this important intervention.
+
+				
+				
+					
+						Methods
+
+					A total of 140 studies in the 2012 Cochrane update on audit and feedback interventions were independently reviewed by two investigators. Variables were extracted related to theory use in the study design, measurement, implementation or interpretation. Theory name, associated reference, and the location of theory use as reported in the study were extracted. Theories were organized by type ( e.g ., education, diffusion, organization, psychology), and theory utilization was classified into seven categories (justification, intervention design, pilot testing, evaluation, predictions, post hoc, other).
+
+				
+				
+					
+						Results
+
+					A total of 20 studies (14%) reported use of theory in any aspect of the study design, measurement, implementation or interpretation. In only 13 studies (9%) was a theory reportedly used to inform development of the intervention. A total of 18 different theories across educational, psychological, organizational and diffusion of innovation perspectives were identified. Rogers’ Diffusion of Innovations and Bandura’s Social Cognitive Theory were the most widely used (3.6% and 3%, respectively).
+
+				
+				
+					
+						Conclusions
+
+					The explicit use of theory in studies of audit and feedback was rare. A range of theories was found, but not consistency of theory use. Advancing our understanding of audit and feedback will require more attention to theoretically informed studies and intervention design.
+
+				
+			
+		

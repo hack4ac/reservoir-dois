@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Apoptosis is a form of programmed cell death, which is fundamental to all multicellular organisms. Deregulation of apoptosis leads to a number of severe diseases including cancer. Apoptosis is initiated either by extrinsic signals  via  stimulation of receptors at the cellular surface or intrinsic signals, such as DNA damage or growth factor withdrawal. Apoptosis has been extensively studied using systems biology which substantially contributed to the understanding of this death signaling network. This review gives an overview of mathematical models of apoptosis and the potential of systems biology to contribute to the development of novel therapies for cancer or other apoptosis-related diseases.
+
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					There is some evidence that hospital performance in England measured by the Dr Foster Hospital Standardised Mortality Ratio (HSMR) has improved substantially over the last 10 years. This study explores mortality in-hospital and up to 30 days post-discharge over a five year period to determine whether there have been improvements in case-mix adjusted mortality, to examine if any changes are due to changes in case-mix adjustment variables such as age, sex, method of admission and comorbidity, and to compare changes between hospital trusts.
+
+				
+				
+					
+						Methods
+
+					Using Hospital Episode Statistics linked to mortality data from the Office for National Statistics the Summary Hospital-Level Mortality Index (SHMI) was calculated for all patients who were discharged or died in general acute hospital trusts in England for the period 01/04/2005 to 30/09/2010.
+
+				
+				
+					
+						Results
+
+					During this five year period the number of admissions rose by 8% but deaths fell by 5%. The SHMI fell by 24% from 112 to 85 over the period, partly due to fewer deaths but partly due to increasing numbers predicted by the SHMI model. Excluding comorbidities from the model the SHMI fell by 18% from 108 to 89 over this period. The reduction was similar in emergency and elective admissions and in all other sub-groups examined. The average quarterly change in SHMI varied considerably between trusts (range: -4.4 to −0.2).
+
+				
+				
+					
+						Conclusions
+
+					As measured by the SHMI there has been a 24% improvement in mortality in acute general trusts in England over a period of five and a half years. Part of this improvement is an artificial effect caused by changes in the depth of coding of comorbidities and other effects due to change in case-mix or non-constant risk.
+
+				
+			
+		

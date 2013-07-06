@@ -1,0 +1,75 @@
+Methods
+   
+      Data from the Scopus database were retrieved between Dec 2011 and Sept 2012 by using
+         the SCImago portal [18]. Countries were organized into eight geographic regions: Western Europe, Eastern
+         Europe, Africa (Central and Southern Africa), North America (US and Canada), Latin
+         America (including the Caribbean), Middle East (Middle East and North Africa), Asia,
+         and the Pacific region. These geographic regions were the same as those designated
+         in SCImago, with the exception of North Africa and the Middle East, which were grouped
+         together (as grouped by the World Health Organization), because of the low number
+         of articles from African regions and because North African countries are closely aligned
+         with Middle Eastern countries with regard to agriculture and cultural attitudes about
+         animals [19].
+      
+      The most current journal data (2011) obtained for the subject area “Veterinary” included
+         the SCImago Journal Rank (SJR) indicator, H-index, total and citable articles (last
+         3 years), total citations (last 3 years), self-citations (last 3 years), citations/article
+         (last 2 years), number of cited and uncited articles, years of coverage, country of
+         publication, publisher, and subject category (food animal [FA], small animal [SA],
+         equine [EQ], and miscellaneous [MISC]). The SJR is a prestige metric of journal impact
+         based on the Scopus database that considers both the quantity of citations (average
+         number of citations received in a specific year by documents published in the journal
+         in the previous three years) and the quality of citations (based on the scientific
+         influence of the journals that cite them) [20]. The SJR has been shown to be a good alternative to the impact factor for journal
+         evaluation, although journal ranks differ, in part because the SJR restricts the inflationary
+         effect of self-citations [20,21]. The journal rankings used in this study were based on the SJR. The number and country
+         of publication of veterinary journals indexed in 1999 (for 1996 citation data), 2003,
+         and 2007 were recorded to document changes in the database over time. The 2011 impact
+         factors for veterinary journals indexed in Scopus were obtained from Journal Citation
+         Reports [22]. The Directory of Open Access Journals was queried to ascertain which of the journals
+         were open-access [23] Language of publication was determined by examining journal websites and instructions
+         for authors and through indexers.
+      
+      Veterinary article data for regions and countries were obtained for the 14-year period
+         1996–2010 combined and for 1996 and 2010 (the most recent year for which data were
+         available) separately. Data included the H index (for countries), total and citable
+         articles, citations, citations/article, self-citations, number of cited and uncited
+         articles, and % of articles with international collaboration. Percent international
+         collaboration was defined as the proportion of articles whose author affiliations
+         included more than one country. Regional data were also obtained for each individual
+         year between 1996 and 2010. The number and percentage of articles in species-specific
+         journals was recorded for each country and region from 1996 to 2010 and for the entire
+         period combined. World data were calculated manually from regional data.
+      
+      The following demographic and economic indicators were retrieved from the database
+         of the World Bank [24]: gross domestic product (GDP; in current US$), gross national income (GNI; per capita,
+         Atlas method, in current US$), agriculture value added (as a % of GDP), research and
+         development (R&amp;D; % of GDP), total population, % urban population, and % rural population.
+         “Agriculture, value added” corresponds to the net output of agricultural sectors (forestry,
+         hunting, fishing, crop cultivation, and livestock production). “Research and development”
+         includes current and capital expenditures on basic and applied research and experimental
+         development. Data were obtained for 2010 for all variables except R&amp;D, for which 2009
+         data were used (too few countries had data reported for 2010). Where data were not
+         available in 2010 (or 2009 for R&amp;D), data from the most recent year available was
+         used (but not earlier than 2000). The number of veterinary faculties in each country
+         was obtained from the American Veterinary Medical Association [25] and the World Association of Veterinarians [26]. Where discrepancies occurred between sources, the highest number was used. The number
+         of veterinary faculty per population and articles per population, GDP, and veterinary
+         faculty were calculated.
+      
+      Co-citation maps were visualized in SCImago for all countries for which data were
+         available between 1996–97 and 2009–10. The discipline to which veterinary medicine
+         was directly linked by co-citations in each year was recorded. In addition, co-citation
+         links between veterinary subject categories (FA, SA, EQ, MISC) and other subject categories
+         were also visualized and recorded. Where subject categories were linked to more than
+         one discipline, both disciplines were recorded. The strength of co-citation links
+         was not determined.
+      
+      Data were collated and computations were done in Excel (Microsoft, Redmond, WA, USA).
+         Data were analyzed statistically using JMP (v. 10.0.0, SAS Institute, Cary, NC, USA).
+         Because most data were not normally distributed, median and range of values were reported.
+         Principal component analysis was used to evaluate correlations among total articles,
+         number and proportion of species-specific articles (using data from 1996–2010), and
+         demographic and economic indicators. Statistical significance was set at P &lt; 0.05.
+      
+   
+

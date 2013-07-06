@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The establishment of the mid-hindbrain region in vertebrates is mediated by the isthmic organizer, an embryonic secondary organizer characterized by a well-defined pattern of locally restricted gene expression domains with sharply delimited boundaries. While the function of the isthmic organizer at the mid-hindbrain boundary has been subject to extensive experimental studies, it remains unclear how this well-defined spatial gene expression pattern, which is essential for proper isthmic organizer function, is established during vertebrate development. Because the secreted Wnt1 protein plays a prominent role in isthmic organizer function, we focused in particular on the refinement of  Wnt1  gene expression in this context.
+
+				
+				
+					
+						Results
+
+					We analyzed the dynamics of the corresponding murine gene regulatory network and the related, diffusive signaling proteins using a macroscopic model for the biological  two-scale signaling process . Despite the discontinuity arising from the sharp gene expression domain boundaries, we proved the existence of unique, positive solutions for the partial differential equation system. This enabled the numerically and analytically analysis of the formation and stability of the expression pattern. Notably, the calculated expression domain of  Wnt1  has no sharp boundary in contrast to experimental evidence. We subsequently propose a post-transcriptional regulatory mechanism for  Wnt1  miRNAs which yields the observed sharp expression domain boundaries. We established a list of candidate miRNAs and confirmed their expression pattern by radioactive in situ hybridization. The miRNA  miR-709  was identified as a potential regulator of  Wnt1  mRNA, which was validated by luciferase sensor assays.
+
+				
+				
+					
+						Conclusion
+
+					In summary, our theoretical analysis of the gene expression pattern induction at the mid-hindbrain boundary revealed the need to extend the model by an additional  Wnt1  regulation. The developed macroscopic model of a two-scale process facilitate the stringent analysis of other morphogen-based patterning processes.
+
+				
+			
+		

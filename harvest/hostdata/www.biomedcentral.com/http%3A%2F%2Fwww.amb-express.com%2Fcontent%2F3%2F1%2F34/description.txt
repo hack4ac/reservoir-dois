@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Efficient degradation of cellulosic biomass requires the synergistic action of the cellulolytic enzymes endoglucanase, cellobiohydrolase, and β-glucosidase. Although there are many reports describing consolidation of hydrolysis and fermentation steps using recombinant  Saccharomyces cerevisiae  that express cellulolytic enzymes, the efficiency of cellulose degradation has not been sufficiently improved. Although the yeast  S. cerevisiae  cannot take up cellooligosaccharide, some fungi can take up and assimilate cellooligosaccharide through a cellodextrin transporter. In this study, a  S. cerevisiae  strain co-expressing genes for several cell surface display cellulases and the cellodextrin transporter was constructed for the purpose of improving the efficiency of direct ethanol fermentation from phosphoric acid swollen cellulose (PASC). The cellulase/cellodextrin transporter-coexpressing strain produced 1.7-fold more ethanol (4.3 g/L) from PASC during a 72-h fermentation than did a strain expressing cellulase only (2.5 g/L). Direct ethanol production from PASC by the recombinant  S. cerevisiae  strain was improved by co-expression of cellulase display and cellodextrin transporter genes. These results suggest that cellulase- and cellodextrin transporter-co-expressing  S. cerevisiae  could be a promising technology for efficient direct ethanol production from cellulose.
+
+			
+		

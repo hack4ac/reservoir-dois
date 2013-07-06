@@ -1,0 +1,31 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Background
+
+
+               Phenotypic plasticity refers to the range of phenotypes a single genotype can express as a function of its environment. These phenotypic variations are attributable to the effect of the environment on the expression and function of genes influencing plastic traits. We investigated phenotypic plasticity in grapevine by comparing the berry transcriptome in a single clone of the vegetatively-propagated common grapevine species  Vitis vinifera cultivar Corvina through 3 consecutive growth years cultivated in 11 different vineyards in the Verona area of Italy.
+
+
+            
+               
+                  Results
+
+
+               Most of the berry transcriptome clustered by year of growth rather than common environmental conditions or viticulture practices, and transcripts related to secondary metabolism showed high sensitivity towards different climates, as confirmed also by metabolomic data obtained from the same samples. When analyzed in 11 vineyards during 1 growth year, the environmentally-sensitive berry transcriptome comprised 5% of protein-coding genes and 18% of the transcripts modulated during berry development. Plastic genes were particularly enriched in ontology categories such as transcription factors, translation, transport, and secondary metabolism. Specific plastic transcripts were associated with groups of vineyards sharing common viticulture practices or environmental conditions, and plastic transcriptome reprogramming was more intense in the year characterized by extreme weather conditions. We also identified a set of genes that lacked plasticity, showing either constitutive expression or similar modulation in all berries.
+
+
+            
+               
+                  Conclusions
+
+
+               Our data reveal candidate genes potentially responsible for the phenotypic plasticity of grapevine and provide the first step towards the characterization of grapevine transcriptome plasticity under different agricultural systems.
+
+
+

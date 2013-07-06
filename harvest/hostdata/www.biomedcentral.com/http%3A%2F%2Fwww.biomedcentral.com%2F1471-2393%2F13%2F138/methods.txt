@@ -1,0 +1,100 @@
+Methods
+   
+      The present study is part of a larger prospective longitudinal project called ‘Expectant
+         Parents’ on prenatal risk factors and postnatal infant development [45]. More details about recruitment of the participants and the data collection used
+         in this study have been reported earlier [45] and are briefly summarized here. At the first routine antenatal visit (between 9–15
+         weeks gestational age) 835 women were invited to participate by their midwives, who
+         informed them about the project and handed out a leaflet with written information
+         about the aim and design of the study. Parents were asked to participate in a longitudinal
+         study, in which parents were followed from pregnancy (15 weeks gestational age) until
+         24 months postpartum. The aim of the larger prospective study was to gain more insight
+         into feelings, emotions, behaviors and expectations about the pregnancy and the fetus,
+         and about experiences with and development of the child after birth. The purpose is
+         to investigate the quality of parent-infant relationships from parents’ perspectives,
+         both in the prenatal and postpartum period. This was also communicated to parents
+         [45]. For the purpose of the present study we informed parents that we aimed to gain more
+         insight into feelings and emotions with the pregnancy and with the developing fetus.
+         Women with a poor understanding of Dutch or English language and those expecting multiple
+         births were excluded from participation.
+      
+      Three-hundred fifty two pregnant women and their partners (n=268, 78%) agreed to participate
+         and gave their written consent. The mean age of the women was 31.5 years (SD=4.4),
+         ranging from 17 to 44 years. The mean age of the partner was 34.0 years (SD=4.6),
+         ranging from 22 to 49 years. The mean gestational age was 26 weeks (SD = 1; Range 23–30 weeks). Most participants were white Caucasian women with the Dutch
+         nationality (84%). The other participants have another Western (7%) or non-western
+         (9%) ethnic background (e.g., Polish, Moroccan, Turkish, Surinam or Asian). Both women
+         and men had completed an average of 16 years of formal education (SD=4.1). Fifty-three
+         percent of the women (n= 187) and 53% of the men (n=143) were primiparous. The Medical
+         Ethical Committee of the Elisabeth Hospital Tilburg approved the study protocol.
+      
+      Procedure and measures
+      At 26 weeks gestational age parents were asked to fill in questionnaires (M/PAAS)
+         and all participating women and their partners completed a pictorial measure during
+         a home-visit (PRAM). Women and men who filled in the questionnaires (M/PAAS) after
+         31 weeks gestational age were excluded from the analyses to limit the gestational
+         age range, since antenatal attachment is known to increase during the course of pregnancy
+         with a peak towards the end of the third semester [46,47]. The M/PAAS and PRAM were administered in the same order. We first sent parents the
+         M/PAAS at 24–26 weeks GA (by mail) and during the home-visit at 26 weeks GA parents
+         completed the PRAM. At the home visit we collected all questionnaires that were filled
+         out by the parents before the home-visit and were not send back to us. Our experience
+         is that sending parents questionnaires before a home visit -with the instruction that
+         we will collect the questionnaires at the home visit- improves the response rate.
+         Due to this standard order we are not able to control for a possible effect of the
+         M/PAAS on the PRAM.
+      
+      Maternal antenatal attachment scale (MAAS)
+      All women completed the Maternal Antenatal Attachment Scale (MAAS: [4]; Dutch translation by Van Bussel et al., [18]) designed to assess the mother’s attachment with the unborn child. It consists of
+         19 items divided over two subscales: “Quality of Attachment (QA)” (11 items) and “Intensity
+         of Preoccupation (IP)” (8 items). The subscale QA measures the quality of the mother’s
+         affective experience towards the unborn child (such as feelings of closeness and tenderness
+         versus feelings of detachment and distance or irritation). The second subscale IP
+         assesses the strength of feelings toward the unborn child and the amount of time thinking
+         or dreaming about and talking to the fetus. All items are scored on 5-point Likert
+         scales. The minimum score for the Global Attachment (i.e., Total) MAAS (GA) score
+         is 19 and the maximum score is 95. The scores of the subscale QA range between 11
+         and 55 and those of the subscale IP vary between 8 and 40. On both subscales and the
+         GA, higher scores reflect a positive quality of attachment and a high preoccupation
+         with the unborn child. Internal consistencies of the MAAS and its subscales were adequate
+         in earlier research [4] as well as in the current study with Cronbach’s alpha’s of .76 (GA), .66 (QA) and
+         .68 (IP).
+      
+      Paternal antenatal attachment scale (PAAS)
+      The fathers completed the Paternal Antenatal Attachment Scale (PAAS: [4]; Dutch translation by Colpin, De Munter, Nys, &amp; Vandemeulebroecke, [48]), which consists of 16 items and also contains the subscales “Quality of Attachment
+         (QA)” (10 items) and “Intensity of Preoccupation (IP)” (6 items), which represent
+         the same underlying dimensions as the maternal scales, i.e., the quality and the preoccupation
+         of antenatal attachment. The 16 items are scored on a 5-point Likert scale. The minimum
+         score for the Global Attachment (i.e., Total) PAAS score (GA) is 16 and the maximum
+         score is 80. The scores of the subscale QA range between 10 and 50 and the score range
+         of the scale IP is between 6 and 30. Higher scores reflect a positive quality of attachment
+         and a high preoccupation with the fetus. Internal consistencies of the PAAS and its
+         subscales were sufficient in the current study, with Cronbach’s alpha’s of .78 (GA),
+         .61 (QA) and .65 (IP).
+      
+      Pictorial representation of attachment measure (PRAM)
+      To assess the representation of antenatal attachment non-verbally, parents completed
+         the PRAM [21]. The parent was provided with a white A4-size paper with a big circle in the centre
+         (diameter of 18.6 cm), which represents the parent’s current life. A yellow circle
+         of 5 cm in the centre of the big circle represents the parent her- or himself. The
+         parent was handed a green round sticker (5 cm) and was asked to imagine that the green
+         circle represents the unborn child. They were then asked "where would you place the
+         baby in your life at the moment?". We also asked all parents to describe why they
+         put the sticker at a particular distance. All parents were able to answer this question,
+         indicating that there were no problems in understanding the instruction.
+      
+      For quantative use, the main score is the PRAM Self-Baby-Distance (PRAM-SBD), i.e.,
+         the distance, in centimeters, between the centres of the 'Baby' and 'Self' circles.
+         The PRAM-SBD could range from 0 to 9.30 cm. A smaller PRAM-SBD is regarded as indicating
+         more feelings of attachment.
+      
+      Statistics
+      All statistical analyses were performed using SPSS 19.0 for Windows. Since all study
+         variables (MAAS/PAAS GA, QA, IP and PRAM-SBD) were normally distributed, parametric
+         methods were used. To explore the convergent validity of the PRAM, relationships between
+         MAAS, PAAS, and PRAM-SBD, were computed with Pearson product–moment correlations.
+         Pearson correlation coefficients and paired sample t-tests were performed to evaluate
+         the scores of women and men on attachment measures and PRAM-SBD. In addition, analyses
+         were conducted comparing women and men, and primi- and multiparous parents separately,
+         and taking into account parental age.
+      
+   
+

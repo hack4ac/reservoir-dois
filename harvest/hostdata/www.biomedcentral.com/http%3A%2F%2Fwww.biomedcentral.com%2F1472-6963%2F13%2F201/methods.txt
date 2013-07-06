@@ -1,0 +1,173 @@
+Methods
+   
+      This paper analyses data collected as part of a larger trial, the Health Improvement
+         and Prevention Study (HIPS), the details of which have been published elsewhere 
+         				[23].
+      
+      Recruitment
+      The study was conducted in two rural and three urban Divisions of General Practice
+         (Primary Care Organizations) in New South Wales (NSW) Australia. A total of 36 practices
+         were invited to participate in the trial and 30 agreed to take part. Practices were
+         randomly allocated to an ‘intervention’ (n = 16) or ‘control’ group (n = 14). Eligibility
+         included having attended the practice in the previous 12&nbsp;months, being aged 40–55
+         with hypertension and / or hyperlipedaemia or aged 56–64, and not being involved in
+         other research. In each practice up to 160 eligible individuals were invited to participate
+         by mail. Individuals were excluded if they had diabetes, cardiovascular disease, current
+         severe illness, or were unable to speak adequate English or understand the consent
+         form.
+      
+      Intervention
+      General practitioners (GPs) and practice nurses from intervention practices were offered
+         a three hour training session on lifestyle assessment and counselling including brief
+         motivational interviewing supplemented with practice visits and educational resources.
+         Participating individuals were invited to attend for a health check during which the
+         GP and practice nurse provided brief lifestyle counselling based on the 5As model
+         (ask, assess, advise, assist, and arrange) 
+         					[25]. In intervention practices, providers were encouraged to refer high risk individuals
+         (defined as one or more of the following: history of gestational diabetes, impaired
+         glucose tolerance or impaired fasting glycaemia, hypertension, hyperlipidaemia, body
+         mass index &gt;28 or waist circumference &gt;102 cm in males or 88 cm in females, current
+         smoker) to a LMP. The LMP was coordinated by trained Intervention Officers at local
+         Primary Care Organizations. The program consisted of an initial visit with a dietitian
+         or exercise physiologist, who conducted an assessment and negotiated individual dietary
+         and physical activity goals with the participant and an individual review session
+         with the same allied health professional following the group program. The group program,
+         which was adapted from the group component of the “Counterweight Program – CHANGE” 
+         					[26], consisted of four group sessions (1.5 hours each) over the first three months, and
+         a further two follow up sessions at six and nine months. The group sessions included
+         an educational and physical activity component (20–30 minutes of walking or resistance
+         exercise) and were based on the use of self-management strategies (goal setting, self
+         monitoring, developing practical skills and problem solving) to promote positive dietary
+         and physical activity changes and weight loss. Between sessions participants were
+         encouraged to keep a food and physical activity diary, use a pedometer and carry out
+         home based physical activity. The program was offered out of business hours in some
+         Divisions. Some urban Divisions also gave taxi vouchers to participants to provide
+         transport to and from the sessions.
+      
+      Data collection
+      This paper used a concurrent mixed methods approach 
+         					[27], drawing on both quantitative and qualitative data to explore factors influencing
+         attendance rates at the LMP. Data sources 
+         					[23] included:
+      
+      1) Participant survey data
+      2) Participant clinical audit data
+      3) Practice questionnaire on capacity for preventive care
+      4) Semi-structured interviews and journal notes from Intervention Officers
+      5) Lifestyle modification program referral and attendance records
+      Participant survey data
+      Participating individuals completed a mailed survey at baseline, six and 12&nbsp;months.
+         The survey was based on the NSW Health Survey 
+         						[28] and previous research 
+         						[29,30]. It included questions about: (1) practice attendance; (2) reported assessment and
+         management of lifestyle risk factors (smoking, nutrition, alcohol, physical activity
+         and weight) and satisfaction with intervention received; (3) attendances at other
+         services as a result of referral from the practice or self-referral; (4) self-reported
+         fruit and vegetable intake, smoking, physical activity and alcohol intake, and attempts
+         to change these; (5) readiness for behaviour change (stage of change) for each lifestyle
+         risk factor 
+         						[31]; (6) The Kessler Psychological Distress Scale (K-10), a ten item questionnaire measuring
+         negative emotional states in the preceding four weeks 
+         						[32], and demographic variables (age, gender, postcode of residence, education level,
+         employment status, language spoken at home and country of birth).
+      
+      The 12&nbsp;month survey also included the Porter Novelli’s 10-item scale 
+         						[33] which categorizes individuals into four distinct groups based on differences in degree
+         of engagement in health enhancement (active versus passive) and degree of independence
+         in health decision making (independent versus doctor dependent). Self-reported LMP
+         attendance rates and reasons for non attendance were collected in the 12&nbsp;month survey.
+      
+      The postcode of residence for each participant was linked to the 2006 index of relative
+         socio-economic advantage/disadvantage 
+         						[34] for the area in which the participant lived. The index ranks geographical areas where
+         a high proportion of people are relatively more, or less, disadvantaged taking into
+         account income, education, occupation, wealth and living conditions. The index was
+         linked to the participants’ postcode of residence using quintiles. A quintile number
+         of one represented the lowest 20% of areas, up to the highest 20% of areas which were
+         given a quintile number of five. For the purposes of analysis three categories were
+         created: 1) most disadvantaged participants (quintiles one and two), 2) intermediate
+         disadvantaged participants (quintile three) and 3) least disadvantaged participants
+         (quintiles four and five).
+      
+      Participant clinical audit data
+      GPs and practice nurses were requested to record participant weight, waist circumference
+         and blood pressure at baseline and 12&nbsp;months. These data were then extracted from
+         patient records by trained data collectors. Participants were asked to have a fasting
+         blood test to assess their serum lipids (total cholesterol, HDL, LDL, triglycerides)
+         and glucose at baseline and 12&nbsp;months and a copy of these results was sent directly
+         to the study centre by the pathology company.
+      
+      Practice questionnaire on capacity for preventive care
+      The practice manager or principal GP was asked to complete a questionnaire on practice
+         capacity for preventive care. The questionnaire included questions on practice characteristics
+         (location, size, employment of practice nurses), the use of education materials, staff
+         roles and teamwork in preventive care as well as the use of written preventive care
+         protocols and linkages between the practice and support services 
+         						[35].
+      
+      Semi-structured interviews and journal notes from Intervention Officers
+      All Intervention Officers (n = 5, two from rural and three from urban areas) were
+         invited to participate in a semi-structured interview at the completion of the intervention.
+         The interviews explored their experience of implementing the LMP, including the referral
+         process, participant engagement and attendance, program content and process of delivery,
+         participant outcomes and program sustainability. Interviews were carried out by a
+         researcher not involved in the study. Interviews were conducted over the phone and
+         recorded with participants’ permission and generally lasted between 20 and 45 minutes.
+         Intervention Officers were also asked to keep a journal throughout the intervention
+         period recording their reflections about the program.
+      
+      Lifestyle modification program referral and attendance records
+      The Intervention Officers monitored and kept the records of GP referrals and attendance
+         at the LMP. They were responsible for making initial contact with participants, scheduling
+         the group program and individual allied health visits and monitoring participant attendance.
+      
+      Quantitative data analysis
+      Referral and attendance data
+      Data were initially subject to preliminary descriptive analysis using SPSS statistical
+         software (version 20; SPSS, Chicago, IL, USA) to examine the frequency of attendance
+         at the program. Individuals were then categorized according to their participation:
+         as 1) non attender (did not attend any individual or group sessions), 2) low attender
+         (attended less than half of all group/individual sessions) or 3) high attender (attended
+         at least half of all individual/group sessions).
+      
+      Characteristics of high versus low or non attenders
+      Univariate analysis was initially used to compare high attenders versus low/non attenders
+         in terms of demographic characteristics, individuals health risk profile, health seeking
+         behavior and readiness to change, degree of psychological distress, as well as previous
+         GP intervention or referral for diet and physical activity. The characteristics of
+         practices from which high and low/non attenders were referred were also compared.
+         Significant differences in categorical variables for high and low/non attenders were
+         examined using chi square statistic and independent samples t-test for normally distributed variables.
+      
+      Factors influencing attendance
+      Variables found to be significant (p &lt; 0.05) in the univariate analysis were entered
+         into a multivariate logistic regression model to examine the predictors of high attendance
+         at the LMP. The data were then subject to multi-level logistic regression analysis
+         to examine participant and practice factors associated with attendance levels. The
+         multi-level analysis was considered appropriate as participant data for attendance
+         was clustered by practice (ICC = 0.111). The intra class correlation (ICC) represents
+         the degree to which participant data from the same practice are similar to one another
+         compared with those of individuals from different practices. The high ICC values indicate
+         that the analysis must account for the variance between practices, supporting the
+         choice of multi-level analysis 
+         						[36]. Multilevel logistic regression models were used with a dichotomous dependent variable
+         (0 = non/low attendance, 1 = high attendance) adjusted for clustering of individuals
+         (level 1) and within practices (level 2) 
+         						[37]. Initially, we fitted a baseline variance component or empty model (no independent
+         variables) followed by the model with individual and practice variables (Model 1).
+         ICC was calculated using the latent variable method. The (standard) logistic distribution
+         has variance π2/3 = 3.29 and hence this can be taken as the level 1 variance 
+         						[34]. As both the level 1 and 2 variances are on the same scale, the following formula
+         was used: ICC = (level 2 variance)/(level 2 variance + 3.29). All multi-level models
+         were performed with MLwiN version 2.0. 
+         						[37].
+      
+      Qualitative data analysis
+      All interview data were transcribed verbatim and journal notes typed in a Word document.
+         Factors influencing participant engagement and attendance at the LMP were then coded
+         using NVivo 7.0 software [QSR 
+         					[38] and key themes identified along with supportive quotes. All analysis was undertaken
+         by one researcher (RL) with codes and themes discussed with the broader research team.
+      
+   
+

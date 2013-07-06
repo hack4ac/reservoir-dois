@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Introduction
+
+					When developing tissue engineered solutions for existing clinical problems, cell seeding strategies should be optimized for desired cell distribution within matrices. The purpose of this investigation was to compare the effects of different static cell seeding methods and subsequent static cell culture for up to 12 days with regard to seeding efficiency and resulting cellular distribution in acellular dermis.
+
+				
+				
+					
+						Materials and methods
+
+					The seeding methods tested were surface seeding of both unmodified and mechanically incised dermis, syringe injection of cell suspension, application of low-pressure and use of an ultrasonic bath to remove trapped air. The effect of “platelet derived growth factor” (PDGF) on surface seeding and low pressure seeding was also investigated. Scaffolds were incubated for up to 12 days and were histologically examined at days 0, 4, 8 and 12 for cell distribution and infiltration depth. The metabolic activity of the cells was quantified with the MTT assay at the same time points.
+
+				
+				
+					
+						Results
+
+					The 50 ml syringe degassing procedure produced the best results in terms of seeding efficiency, cell distribution, penetration depth and metabolic activity within the measured time frame. The injection and ultrasonic bath methods produced the lowest seeding efficiency. The incision method and the 20 ml syringe degassing procedure produced results that were not significantly different to those obtained with a standard static seeding method.
+
+				
+				
+					
+						Conclusion
+
+					We postulate that air in the pores of the human acellular dermis (hAD) hinders cell seeding and subsequent infiltration. We achieved the highest seeding efficiency, homogeneity, infiltration depth and cell growth within the 12 day static culturing period by degassing the dermis using low- pressure created by a 50 ml syringe. We conclude that this method to eliminate trapped air provides the most effective method to seed cells and to allow cell proliferation in a natural scaffold.
+
+				
+			
+		

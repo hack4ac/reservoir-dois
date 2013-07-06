@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					We investigated longitudinal right ventricular (RV) function assessed using speckle-tracking strain echocardiography in patient with myocardial infarction (MI), and identified the contributing factors for RV dysfunction.
+
+				
+				
+					
+						Methods
+
+					We retrospectively studied 71 patients with old MI (the OMI group) and 45 normal subjects (the Control group) who underwent a transthoracic echocardiography. Global and free wall RV peak systolic strains (PSSs) in the longitudinal direction were measured by using speckle-tracking strain echocardiography. Left ventricular (LV) PSSs were measured in the longitudinal, radial and circumferential directions. Cardiac hemodynamics including peak systolic pulmonary artery pressure was also assessed non-invasively. Plasma brain natriuretic peptide (BNP) levels were measured in all patients.
+
+				
+				
+					
+						Results
+
+					In the OMI group, 73% of the patients had a normal estimated peak systolic pulmonary artery pressure of less than 35 mmHg. Global and free wall RV PSS were impaired in the OMI group compared with the Control group, and these RV systolic indices were significantly associated with heart rate, logarithmic transformed plasma BNP, greater than 1 year after onset of MI, Doppler-derived estimated pulmonary vascular resistance, LV systolic indices, LV mass index, infarcted segments within a territory of the left circumflex artery and residual total occlusion in the culprit right coronary artery. Multivariable linear regression analysis indicated that reduced longitudinal LV PSS in the 4-chamber view and BNP levels ≥500 pg/ml were independently associated with reduced global and free wall RV PSS. Moreover, when patients were divided into 3 groups according to plasma BNP levels (BNP <100 pg/ml; n = 31, 100 ≤BNP <500 pg/ml; n = 24, and BNP ≥500 pg/ml; n = 16), only patients with BNP ≥500 pg/ml had a strong correlation between RV PSS and longitudinal LV PSS in the 4-chamber view (r = 0.78 for global RV PSS and r = 0.71 for free wall RV PSS, p <0.05).
+
+				
+				
+					
+						Conclusion
+
+					Longitudinal RV systolic strain depends significantly on longitudinal LV systolic strain especially in patients with high plasma BNP levels, but not on estimated peak systolic pulmonary artery pressure. These results indicate that process of RV myocardial dysfunction following MI may be governed by neurohormonal activation which ...

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					While the essential role of 3D nuclear architecture on nuclear functions has been demonstrated for various cell types, information available for neutrophils, essential components of the immune system, remains limited. In this study, we analysed the spatial arrangements of telomeres which play a central role in cell fate. Our studies were carried out in swine, which is an excellent model organism for both biomedical research and agronomic applications. We isolated bacterial artificial chromosome (BAC)-containing subtelomeric p and q sequences specific to each porcine chromosome. This allowed us to study the behaviour of p and q telomeres of homologous chromosomes for seven pairs chosen for their difference in length and morphology. This was performed using 3D-FISH on structurally preserved neutrophils, and confocal microscopy. Resting and lipopolysaccharide (LPS)-activated states were investigated to ascertain whether a response to a pathogen aggression modifies this organization.
+
+				
+				
+					
+						Results
+
+					The positions of the p and q telomeres relative to the nuclear outer border were determined in the two states. All p telomeres changed their position significantly during the activation process, although the effect was less pronounced for the q telomeres. The patterns of telomeric associations between homologs and their frequencies were analysed for 7 pairs of chromosomes. This analysis revealed that the distribution of pp, qq and pq associations differs significantly among the 7 chromosomes. This distribution does not fit with the theoretical distribution for each chromosome, suggesting that preferential associations occur between subtelomeres.
+
+				
+				
+					
+						Conclusions
+
+					The percentage of nuclei harbouring at least one telomeric association between homologs varies significantly among the chromosomes, the smallest metacentric chromosome SSC12, which is also the richest in gene-density, harbouring the highest value. The distribution of types of telomeric associations is highly dependent on the chromosomes and is not affected by the activation process. The frequencies of telomeric associations are also highly dependent on the type of association and the type of chromosome. Overall, the LPS-activation process induces only minor changes in these patterns of associations. When telomeric associations occur, the associations of p and q arms from the same chromosome are the most frequent, suggesting that “chromosome bending” occurs in neutrophils as previously observed in gametes.
+
+				
+			
+		

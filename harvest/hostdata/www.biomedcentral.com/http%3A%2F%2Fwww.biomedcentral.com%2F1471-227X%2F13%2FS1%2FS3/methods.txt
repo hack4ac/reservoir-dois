@@ -1,0 +1,36 @@
+Methods
+   
+      The QCPR3535 monitor was used to measure and record each performer’s heart compression
+         depth, frequency, released pressure between compressions and the time of compression
+         and ventilation, which was supervised by pressure distance sensor placed on chest
+         under the hands, and the hand skill, position and posture were recorded. The measured
+         data were evaluated by 2 persons, one of whom recorded them into the table and fed
+         them into the computer, and the other checked to make sure the data were accurate
+         and reliable.
+      
+      Testing instruments
+      The QCPR3535 monitor with a pressure distance sensor which could be placed on the
+         sternum was provided by Philips Company. The sensor could gather the data, and deliver
+         them to HeartStart MRx to be explained. The wave table could be used to show compression
+         frequency and depth. The height of waves showed the compression depth, and the time
+         interval between waves showed the frequency and the data above waves were the calculated
+         number of compression per minute. The equipment could make real-time analysis of the
+         compression, and compare the practical performance with that of the AHA Guideline
+         2010. If the compression depth or frequency exceeded the target, MRX would show signals
+         on the screen and provide feedback sound. The compression depth was tested by compression
+         depth waves on the monitor, and if the depth exceeded the line, it was proper. If
+         the depth couldn’t reach the line, it was too low; the proper compression frequency
+         was no less than 100 times per minute. The released pressure between compressions
+         could be shown with special signals on the screen, and it could be shown by the “*”s
+         on the monitor screen. If there was “*”on the screen, that meant no pressure was released;
+         if there was no “*”on the screen, that meant pressure was released. The same Annier
+         CPR simulated dummies were used in the test.
+      
+      Statistical processing
+      The SPSS15.0 software system was used in data processing. The measured materials were
+         expressed with x- ± s, and analyzed by t Test; the calculated materials were tested
+         by χ2, and the influence factors were analyzed by multi-factor Logistic repression
+         method, and P&lt;0.05 referred to the distinct difference in statistics.
+      
+   
+

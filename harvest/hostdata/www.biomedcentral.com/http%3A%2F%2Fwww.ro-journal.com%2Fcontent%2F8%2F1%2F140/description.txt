@@ -1,0 +1,42 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					The accuracy of the two dose calculation engines available for RapidArc planning (both released for clinical use) is investigated in comparison to the COMPASS data.
+
+				
+				
+					
+						Methods
+
+					
+					Two dose calculation algorithms (Acuros-XB and Anisotropic Analytic Algorithm (AAA)) were used to calculate RA plans and compared to calculations with the Collapsed Cone Convolution algorithm (CC) from the COMPASS system (IBA Dosimetry). CC calculations, performed on patient data, are based on experimental fluence measurements with a 2D array of ion chambers mounted on the linac head. The study was conducted on clinical cases treated with RA. Five cases for each of the following groups were included: Brain, Head and Neck, Thorax, Pelvis and stereotactic body radiation therapy for hypo-fractionated treatments with small fields. COMPASS measurements were performed with the iMatrixx-2D array. RapidArc plans were optimized for delivery using 6MV photons from a Clinac-iX (Varian, Palo Alto, USA).
+
+					Accuracy of the RA calculation was appraised by means of: 1) comparison of Dose Volume histograms (DVH) metrics; 2) analysis of differential dose distributions and determination of mean dose differences per organ; 3) 3D gamma analysis with distance-to-agreement and dose difference thresholds set to 3%/3 mm or 2%/2 mm for targets, organs at risks and for the volumes encompassed by the 50 and 10% isodoses.
+
+				
+				
+					
+						Results
+
+					
+					For almost all parameters, the better agreement was between Acuros-XB and COMPASS independently from the anatomical site and fractionation. The same result was obtained from the mean dose difference per organ with Acuros-CC average differences below 0.5% while for AAA-CC data, average deviations exceeded 0.5% and in the case of the pelvis 1%. Relevance of observed differences determined with the 3D gamma analysis resulted in a pass rate exceeding 99.5% for Acuros-CC and exceeding 97.5% for AAA-CC.
+
+				
+				
+					
+						Conclusions
+
+					
+					This study demonstrated that i) a good agreement exists between COMPASS-CC calculations based on measured fluences with respect to dose distributions obtained with both Acuros-XB and AAA algorithms; ii) 3D dose distributions reconstructed from actual delivery coincide very precisely with the planned data; iii) a slight preference in favor of Acuros-XB was observed suggesting the preference for this algorithm in clinical applications.
+
+				
+			
+		

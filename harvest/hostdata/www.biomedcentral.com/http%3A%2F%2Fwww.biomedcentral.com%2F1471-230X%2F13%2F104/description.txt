@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The aim of this study was to evaluate the time trend of seropositivity of  Helicobacter pylori  ( H .  pylori ) over the period of 13 years in an asymptomatic Korean population, and investigate associated risk factors.
+
+				
+				
+					
+						Methods
+
+					This cross-sectional nationwide multicentre study surveyed anti- H .  pylori  IgG antibodies in 19,272 health check-up subjects (aged [greater than and equal to]16 years) in 2011. Risk factors for  H .  pylori  infection were investigated using logistic regression. Seropositivity in asymptomatic subjects without  H .  pylori  eradication was compared between the years 1998 and 2005. Birth cohort effects were also evaluated.
+
+				
+				
+					
+						Results
+
+					After exclusion of subjects with a history of  H .  pylori  eradication therapy (n = 3,712, 19.3%) and gastric symptoms (n = 4,764, 24.7%), the seroprevalence of  H .  pylori  infection was 54.4% in 10,796 subjects. This was significantly lower than the seroprevalence of 59.6% in 2005 and that of 66.9% in 1998, and this decrease of seropositivity of  H .  pylori  became widespread across all ages and in most areas of the country. This decreasing trend could be explained by cohort analysis. All younger birth cohorts had a lower seroprevalence of  H .  pylori  than older birth cohorts at the same age. Decreased seroprevalence within the same birth cohorts also accounted for this phenomenon. Clinical risk factors of  H .  pylori  infection were higher cholesterol level ([greater than and equal to] 240 mg/dl) (OR = 1.33; 95% CI = 1.14-1.54), male gender, older age, low income, and residence in a rural area.
+
+				
+				
+					
+						Conclusions
+
+					A decreasing trend of  H .  pylori  seroprevalence due to a birth cohort effect requires further studies on its related human host factors as well as socio-economic and hygienic factors. In addition, the relationship between  H .  pylori  infection and high cholesterol level needs more investigation regarding underlying pathogenesis.
+
+				
+			
+		

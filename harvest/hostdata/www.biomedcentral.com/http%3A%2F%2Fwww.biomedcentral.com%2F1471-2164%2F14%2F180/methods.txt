@@ -1,0 +1,193 @@
+Methods
+   
+      Animals were treated according to the Directive 2010/63/UE of the European Parliament
+         and of the Council of 22 September 2010 on the protection of animals used for experimentation
+         and other scientific purposes. All experimental protocols were approved by the Institutional
+         Animal Care and Use Committee of the University of Santiago de Compostela (Spain).
+      
+      Sanger sequencing
+      Experimental design and samplings
+      The E. scophthalmi infection trial was performed at the facilities of CETGA (Centro Tecnológico Gallego
+         de Acuicultura; NW Spain). Naïve turbot (8484 recipients = R and 8484 controls = C)
+         from a balanced mixture of five unrelated families with known pedigree, hatched and
+         reared at a commercial fish farm were sent to CETGA facilities and acclimated to experimental
+         conditions for 10&nbsp;days before the beginning of the experiment. R and C fish were kept
+         in separate tanks (7 tanks for each group) in two separated recirculating systems,
+         with constant water temperature (19–20°C) and fed with commercial dried pellets. R
+         fish were infected by oral intubation with intestinal scrapings containing E. scophthalmi stages obtained from infected turbot, for two consecutive days. C fish were maintained
+         under equivalent conditions as R fish, but intubated with PBS instead. More details
+         on this procedure can be found in a previous work [112].
+      
+      The progression of the infection was monitored by sampling both C and R groups at
+         different times post inoculation (p.i.). The prevalence of infection at each sampling
+         point was obtained by detecting positive fish by either PCR or histology in any of
+         the organs examined. At each sampling point, 14 fish from each group were sized, weighed
+         and euthanized by over-exposure to benzocaine (3-aminobenzoic acid ethyl ester, 100
+         mg L-1, Sigma, St. Louis, MO, USA). The resulting prevalence of infection was 0, 7.1,
+         28.6, 85.7 and 92.9% at 4, 7, 14, 25 and 34&nbsp;days p.i, respectively. No C fish was
+         found to be infected.
+      
+      Samples of spleen, head kidney, thymus, liver and pyloric caeca were rapidly dissected,
+         immediately frozen in liquid nitrogen and stored at −80°C until used for RNA extraction.
+         At each sampling time, samples of each tissue from the different individual fish from
+         each group (C, R) were pooled. The serial times of sampling provided tissues expressing
+         different genes related to immune response from initial until late states of the infection.
+      
+      RNA isolation, library preparation and sequence analysis
+      RNA extraction of samples from control and infected fish, cDNA library construction
+         and sequencing were performed as described elsewhere [36]. Briefly, RNA was extracted using TRIZOL Reagent (Invitrogen, Carlsbad, CA, USA).
+         Poly-A mRNA was isolated using the Dynabeads® mRNA Purification Kit (Invitrogen, Carlsbad,
+         CA, USA). The two cDNA libraries (control and infected) were directionally constructed
+         (5′EcoRI, 3′XhoI), with equal amounts of RNA from each tissue at each sampling time, using the ZAP-cDNA
+         Library Construction Kit (Stratagene, La Jolla, CA, USA), except size fractioning
+         that was performed with the SizeSep 400 Spun Columns (GE Healthcare, Uppsala, Sweden).
+         Plasmid DNA was isolated from approximately 4,000 clones from each library using the
+         DirectPrep® 96 Miniprep kit (QIAGEN, Valencia, CA, USA). Plasmid DNA was sequenced
+         following the ABI Prism BigDye™ Teminator v3.1 Cycle Sequencing Kit protocol on an
+         ABI 3100 DNA sequencer (Applied Biosystems, Foster City, CA, USA). All clones were
+         sequenced from their 3′ ends using a standard T7 primer to obtain the highest specific gene sequences for
+         oligo-microarray design. Those clones that suffered a systematic drop on sequencing
+         signal after poly-A tails were sequenced from the 5′ end. Basecalling from chromatogram traces was performed by using PHRED [113,114].
+      
+      454 pyrosequencing run
+      Reproductive tissue sampling and RNA extraction
+      A total of 30 turbot samples were collected from CETGA from a mixture of unrelated
+         genetic families. In order to obtain the widest possible range of expressed transcript
+         sub-sets, tissues were dissected in fish at different stages of gonad development.
+         The number, age and the mean values of biometry (standard length and body weight)
+         for each animal group were the following: undifferentiated animals (n = 5; 90&nbsp;days
+         post hatch [dph], 5.2 ± 0.6&nbsp;cm, 2.9 ± 0.9&nbsp;g); differentiating animals (n = 4; 150
+         dph, 9.8 ± 1.3&nbsp;cm, 21.8 ± 9.5&nbsp;g); male juveniles (n = 4; 400 dph, 20.9 ± 4.2&nbsp;cm, 195.0
+         ± 123.0&nbsp;g); female juveniles (n = 5; 450 dph, 23.4 ± 3.6&nbsp;cm, 264.1 ± 93.4&nbsp;g); male
+         broodstock (n = 3; 900 dph, 44.8 ± 3.6&nbsp;cm, 2,059.0 ± 591.6&nbsp;g) and female broodstock
+         (n = 3; 900 dph, 47.7 ± 6.4&nbsp;cm, 2,834.3 ± 1,264.9&nbsp;g). Brain and hypophysis from broodstock
+         animals were also dissected and rapidly flash frozen in liquid nitrogen. Gonads were
+         fully isolated in adult and juvenile fish and thus gonadal tissue was devoid of any
+         other tissue. However, gonads of sexually differentiating fish contained a bit of
+         attached epithelium. Due to their extremely small size, the isolation of the gonads
+         alone was not feasible and thus samples contained also portions of the surrounding
+         tissues.
+      
+      RNA was individually extracted by RNeasy Mini Kit (Qiagen, Hilden, Germany) following
+         the manufacturer’s instructions. Quantity was determined using a Nanodrop spectrophotometer
+         (Nanodrop Technologies, US). The RNA integrity number (RIN) was determined in an Agilent
+         BioAnalizer (Agilent Technologies, US). RNA samples with a RIN &gt; 8.1 were further
+         processed for the sequencing run. A pooled sample was generated by mixing 70% of gonads
+         containing equal amounts of RNA from each individual and 30% of equal amount of RNA
+         from broodstock brains and hypophysis tissues.
+      
+      cDNA library, normalization and 454 FLX Titanium pyrosequencing
+      Full-length-enriched double stranded cDNA was synthesized from 1.5&nbsp;μg of pooled total
+         RNA using the MINT cDNA synthesis kit (Evrogen, Moscow, Russia) according to the manufacturer’s
+         protocol, and was subsequently purified using the QIAquick PCR Purification Kit (Qiagen
+         USA, Valencia, CA). The amplified cDNA was normalized using the Trimmer kit (Evrogen,
+         Moscow, Russia) to minimize differences in representation of transcripts [115,116]. The single-stranded cDNA fraction was then amplified twice by sequential PCR reactions
+         according to manufacturer’s protocol. Normalized cDNA was purified using the QIAquick
+         PCR Purification Kit (Qiagen USA, Valencia, CA). Normalized cDNA (5&nbsp;μg) was used to
+         generate a 454 library. cDNA was fractionated into small, 300 to 800&nbsp;bp fragments
+         and the specific A and B adaptors were ligated to both the 3′ and 5′ ends of the fragments and used for purification, amplification, and sequencing steps.
+         Two and a quarter PTP regions were used for the GS-FLX sequencing run using Titanium
+         chemistry. All reagents and protocols were from Roche 454 Life Sciences, USA. 454
+         data was processed with Roche’s software, using default settings, to obtain fasta
+         and quality files containing the trimmed sequence of all reads [117]. Contigs with at least 100&nbsp;bp were recovered. Sequences were de novo assembled into contigs by running Mira v3.2.0rc1 in EST mode. Contigs less than 100&nbsp;bp were filtered out and the rest was blasted against
+         D. rerio RefSeq protein sequences with est2assembly’s analyse_assembly.pl script [118] in order to validate the whole process.
+      
+      Turbot databases
+      Bioinformatic tools were developed to process all sequencing data obtained from both
+         Sanger and 454 FLX Titanium technologies. The starting point of the current work was
+         the Turbot 1 database, which was reported previously [36]. In order to generate the Turbot 2 database sequences of Turbot 1 database (9,873)
+         were clustered with: 3,043 sequences obtained from the E. scophthalmi trial cDNA libraries, 1,371 genomic sequences from enriched DNA libraries [51] and 3,339 sequences available in public databases [52], using CAP3 software (http://seq.cs.iastate.edu/ webcite) (Table&nbsp;1). The resulting “.ace” file was used to study coverage and construct user-friendly
+         alignment views with Mview [119]. To construct the Turbot 3 database, the primitive sequences of Turbot 2 (17,626)
+         were pooled with the 454 contigs (65,472) and then clustered using CAP3 software.
+         The resulting contigs and singletons were annotated using AutoFact (http://www.bch.umontreal.ca/Software/AutoFACT.htm webcite), BLASTN and BLASTX with databases nr, UniProt, UniRef, COG, KEGG, PFam, LSU and
+         SSU. Results were uploaded to a MySQL database and a portal web was created.
+      
+      To study the different pathways found in the Turbot 3 database the DAVID web tool
+         was used [120,121]. After the selection of the pathways of interest, a list of reference genes was downloaded
+         from the NCBI RefSeq database and BLASTed against the Turbot 3 database. A gene was
+         considered present in our database if its reference sequence had a match with an e-value
+         cut off ≤ 1,00E-5 and hit length ≥50. To make the colour pathway diagrams (Additional
+         file 2 and Additional file 4) the KEGG mapper tool http://www.genome.jp/kegg/tool/map_pathway2.html webcite was used [122,123]. Due to the lack of a D. rerio Chemokine signaling pathway in KEGG website the human version was used for Additional
+         file 2. In Additional file 4, the Progesterone-mediated oocyte maturation pathway from D. rerio given by KEGG website is labeled as Xenopus oocyte. This label is kept in the figure.
+      
+      Microsatellites and SNPs
+      For SSR and SNP detection, EST sequences were clustered with CAP3 using default parameters
+         and the resulting “.ace” format assembly file was fed into the corresponding programs.
+         The set of unique sequences was searched for microsatellites using the SPUTNIK program
+         (http://espressosoftware.com/sputnik/ webcite). The minimum repeat number used for this search was six for dinucleotide and four
+         for tri-, tetra- and pentanucleotide microsatellites. Microsatellite-containing ESTs
+         were identified as candidates for marker development if they presented enough flanking
+         sequences on either side of the repeats for primer design. Whenever possible, we selected
+         three putative primers using the Primer3 software (http://frodo.wi.mit.edu/primer3/ webcite).
+      
+      SNP detection was performed with contigs of at least four sequences using the QualitySNP
+         program (http://www.bioinformatics.nl/tools/snpweb/ webcite). This program uses three filters for the identification of reliable SNPs (see [92] for details). SNPs that pass filters 1 and 2 are called real SNPs and those passing
+         all filters are called true SNPs. The resulting files were processed with our own
+         custom Perl programs to extract relevant information. The obtained true SNPs were
+         imported into a MySQL database (http://www.mysql.com webcite). A user-friendly web access interface was designed so that contig graphs are clickable
+         and the output visually refined with color-coded nucleotide views (http://bio-mview.sourceforge.net/ webcite). A graphical interface allowing for SNP database search by alleles, contig depth,
+         and annotation was also established in our on line database. Searchable chromatograms
+         for each of the Sanger sequences making up each contig were also included. It should
+         be emphasized that SNPs detected with the help of bioinformatic pipelines are only
+         putative and they should be technically validated.
+      
+      To ensure identification of new molecular markers, sequences similar to GenBank deposited
+         sequences were filtered out to avoid identification of already known SSR and SNP sequences,
+         especially the ones previously identified by turbot [18,19,48,51,94,124,125].
+      
+      Pilot-microarray platform
+      A custom 2 x 105 K array was printed with turbot sequences from the Turbot 3 database
+         by Agilent Technologies (US). In order to study the orientation of the non-annotated
+         sequences and their possible gene expression, false annotation of genes and identify
+         possible NATs, oligos were designed in both orientations, forward and reverse. Oligo
+         design was done by using Repeat Masker to eliminate low-complexity regions, and then
+         OligoArray 2.1 software to do the design itself [126]. Cross-hybridization between oligos was checked by BLAST searches against the entire
+         Turbot 3 database and oligos with ≥ 3 putative cross-hybridizations were removed.
+         A total number of 96,292 oligos were printed and almost half of the array contained
+         oligos (47,291) also designed with the opposite orientation. This pilot microarray
+         also included all default positive and negative controls defined by the company (1,325
+         spots).
+      
+      Microarray hybridization
+      The same samples of immune tissues used for library construction and Sanger sequencing
+         and those from the brain-pituitary-gonad axis used for 454 sequencing were used for
+         hybridization (in duplicate) with the pilot microarray. A total of four microarrays
+         were used, two for the reproductive system and two for the immune system. Hybridizations
+         were performed at the Universidad de Santiago de Compostela (USC) Functional Genomics
+         Platform by the Agilent Technology Gene Expression Unit using a 1-colour labeling
+         protocol. This method demonstrated very similar performances to the 2-colour protocol
+         [97,127]. Briefly, 50&nbsp;ng of total RNA were labelled using the Low Input Quick Amp Labeling
+         Kit, One-Color (Cy3) (Agilent Technologies, USA). cRNA was prepared for overnight
+         hybridization with the corresponding buffers during 17&nbsp;h at 65°C and washed on the
+         following day. Hybridized slides were scanned using an Agilent G2565B microarray scanner
+         (Agilent Technologies, USA).
+      
+      Pilot microarray data processing, filtration, and identification of NATs
+      The hybridization signal was captured and processed using an Agilent scanner (G2565B,
+         Agilent Technologies, USA). The scanner images were segmented with the Agilent Feature
+         Extraction Software (v9.5) using protocol GE1-v5_95. Extended dynamic range implemented
+         in the Agilent software was applied to avoid saturation in the highest intensity range.
+         Agilent feature extraction produced the raw data for further pre-processing. The processed
+         signal (gProcessed-Signal) value was chosen as statistical for the absolute hybridization
+         signal.
+      
+      The filtration process was made in two steps. First, the features which did not conform
+         with any of the following well established quality criteria were filtered: (1) non-uniform
+         pixel distributed outliers and population replicate outliers according to the default
+         Agilent feature extraction criteria; (2) features whose ratio between processed signal
+         and their error was below 2; (3) spots not differentiated from background signal (as
+         estimated for each spot); (4) features below the limit where the linear relationship
+         between concentration and intensity was lost according to Spike-In information. The
+         numbers of oligos filtered using this first step is shown in Table&nbsp;10. Second, two additional filtering criteria were applied: (5) only features with intensity
+         ≥ 100 fluorescence units were kept; (6) features likely to present cross-hybridization
+         were filtered. Table&nbsp;10 shows the numbers of oligos filtered using the complete filtration process.
+      
+      For miRNA identification in the Turbot 3 database, a BLASTN search against the miRBase
+         v.18 database (http://www.mirbase.org/ webcite) was used. The ten best matches were selected and are depicted in Table&nbsp;11.
+      
+      Statistical analyses were carried out with the statistical language R (2.13.1 version).
+         The GOStats Bioconductor package (version 2.18) was used to perform the analysis of
+         GO Terms.
+      
+   
+

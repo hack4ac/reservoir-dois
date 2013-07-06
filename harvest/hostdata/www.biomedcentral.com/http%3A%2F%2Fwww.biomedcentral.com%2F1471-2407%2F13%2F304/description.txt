@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					We usually report five-year survival from population-based cancer registries in Japan; however these survival estimates may be pessimistic for cancer survivors, because many patients with unfavourable prognosis die shortly after diagnosis. Conditional survival can provide relevant information for cancer survivors, their family and oncologists.
+
+				
+				
+					
+						Methods
+
+					We used the period approach to estimate the latest 10-year survival of 38,439 patients with stomach, colorectal, lung, breast and prostate cancer diagnosed between 1990 and 2004 and followed-up from 2000–04 in Osaka, Japan. Conditional survival is an estimate, with the pre-condition of having already survived a certain length of time. Conditional five-year relative survival of one to five years after diagnosis was calculated by site, age and stage for survivors under the age of 70.
+
+				
+				
+					
+						Results
+
+					Five-year relative survival for stomach cancer was 60%. Conditional five-year relative survival was 77% one year after diagnosis and 97% five years after diagnosis. This means that 97% of patients who survive five years after diagnosis can survive a further five years. Conditional five-year relative survival improved successively with each additional year that patients lived after diagnosis for stomach, colorectal and lung cancer. These figures for breast and prostate cancer were stable at high survival. Liver cancer did not show an increase in conditional five-year survival.
+
+				
+				
+					
+						Conclusion
+
+					Conditional five-year survival is a relevant figure for long-term cancer survivors in Japan. It is important for population-based cancer registries to provide figures which cancer patients and oncologists really need.
+
+				
+			
+		

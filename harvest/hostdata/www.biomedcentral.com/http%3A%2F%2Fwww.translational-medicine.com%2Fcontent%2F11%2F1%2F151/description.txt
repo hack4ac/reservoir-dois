@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Colorectal cancer (CRC) remains one of the most common cancers worldwide. We observed that MUC20 was significantly up-regulated in CRC patients with poor prognosis based on the microarray analysis. However, little is known about the role of MUC20 in CRC.
+
+				
+				
+					
+						Methods
+
+					Microarray experiments were performed on the Affymetrix U133 plus 2.0 GeneChip Array. The protein and mRNA levels of MUC20 were examined by immunohistochemistry (IHC) and Real-Time quantitative PCR (RT-qPCR) in CRC tissues and adjacent noncancerous tissues (ANCT). ShRNA and overexpression plasmids were used to regulate MUC20 expression in CRC cell lines in vitro; wound healing, Transwell migration assays, and Western blotting were used to detect migration and invasion changes.
+
+				
+				
+					
+						Results
+
+					MUC20 was one of the up-regulated genes in CRC patients with poor prognosis by microarray. Using IHC and RT-qPCR, we showed that MUC20 expression was significantly higher in CRC tissues than in ANCT (P < 0.05). We further showed that MUC20 overexpression was correlated with recurrence and poor outcome (P < 0.05). The Kaplan-Meier survival curves indicated that disease-free survival (DFS) and overall survival (OS) were significantly worse in CRC patients with MUC20 overexpression. The Cox multivariate analysis revealed that MUC20 overexpression and TNM stage were independent prognostic factors. Elevated expression of MUC20 in cells promoted migration and invasion, whereas ShRNA-mediated knockdown inhibited these processes. In addition, Western blotting demonstrated that MUC20-induced invasion was associated with MMP-2, MMP-3, and E-cadherin.
+
+				
+				
+					
+						Conclusions
+
+					Cumulatively, MUC20 may serve as an important predictor of recurrence and poor outcome for CRC patients. MUC20 overexpression could enhance migration and invasion abilities of CRC cells. Translation of its roles into clinical practice will need further investigation and additional test validation.
+
+				
+			
+		

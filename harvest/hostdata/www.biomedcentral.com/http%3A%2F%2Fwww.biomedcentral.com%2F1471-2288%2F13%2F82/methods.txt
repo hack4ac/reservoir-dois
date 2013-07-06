@@ -1,0 +1,96 @@
+Methods
+   
+      The data source for this study was the Australian Department of Veterans’ Affairs
+         (DVA) administrative claims databases. DVA claims data contain records of prescription
+         medicines dispensed under the Pharmaceutical Benefits Scheme and Repatriation Pharmaceutical
+         Benefits Scheme, medical and allied health services and hospital admissions provided
+         to subjects for whom DVA pays a subsidy. The treatment population is approximately
+         310,000 subjects, and there are approximately 100 million pharmacy records, 200 million
+         medical and allied health service records and over 6 million hospital admission records.
+         A client file is maintained by DVA which includes data on gender, date of birth, date
+         of death and family status. We undertook two study designs using the same populations
+         and study inclusion and exclusion criteria. The study period was the 1st July 2007
+         to the 30th June 2011. In both studies eligible subjects were those 65&nbsp;years of age
+         or over at the 1st July 2007, who had a least one medication prescribed in the 6&nbsp;months
+         prior to entry into the cohort and who were eligible for all health services subsidised
+         by DVA. Entry into both studies was the 1st July 2007. Subjects were excluded if they had been prescribed a proton pump inhibitor
+         in the 12&nbsp;months prior to the study start or a histamine 2 receptor antagonist (H2RA)
+         in the six months prior to or during the study. The reason for excluding H2RA is because
+         we were interested in the more potent medicine, proton pump inhibitors and including
+         H2RAs could have diluted the effect if it exists with proton pump inhibitors.
+      
+      For both studies, exposure was determined by identifying prescription data on proton
+         pump inhibitors (omeprazole, pantoprazole, lansoprazole, rabeprazole, esomeprazole)
+         and the outcome of interest was a primary diagnosis of pneumonia (ICD-10: J12, J13,
+         J14, J15, J16, J17, J18) during the study period.
+      
+      Dosage information was not available in the data set so duration of proton pump inhibitor
+         use was defined as the period within which 75% of subjects returned for a repeat dispensing
+         of the medicine. This was calculated using the entire database as 36&nbsp;days. This is
+         consistent with the standard package size of proton pump inhibitors of 28–30 tablets,
+         taken once daily. Exposure to proton pump inhibitors was defined as the date from
+         when a prescription was dispensed plus 72&nbsp;days (1 duration interval of 36&nbsp;days plus
+         a grace period of 36&nbsp;days). Any person-time in the study prior to a subject’s first
+         prescription was considered unexposed time. Subjects with no record of dispensing
+         of a proton pump inhibitor for more than 72&nbsp;days after their last dispensing were
+         considered unexposed to a proton pump inhibitor from 72&nbsp;days after their last dispensing.
+         This was to allow for possible non-compliance and stock piling of medicine. Therefore,
+         for both studies exposure to a proton pump inhibitor is a time dependent variable.
+         Inclusion of unexposed time prior to proton pump inhibitors initiation helps to prevent
+         immortal time bias being a factor in this study design [10].
+      
+      For both studies, the time after initiation of a proton pump inhibitor was stratified
+         into a priori risk periods: 1 to 7&nbsp;days, 8 to 30&nbsp;days and greater than 30&nbsp;days. The actual day
+         of initiation was excluded from the analysis because in cases where the pneumonia
+         hospitalisation occurred on the same day it was not possible to determine which occurred
+         first.
+      
+      For the cohort study, eligible subjects were followed until death, pneumonia hospitalization
+         or study end (30 June 2011). The numbers of hospitalisations for pneumonia during
+         exposed and non-exposed times were determined. Individuals could be unexposed for
+         the whole study or they could have unexposed periods before and after exposure to
+         a proton pump inhibitor. Hospitalisation rates were calculated as the cumulative number
+         of hospitalisations in each period divided by the number of days at risk. Rate Ratios
+         were calculated using Poisson generalised estimating equations (GEE) to allow for
+         clustering of observations within patients, adjusting for both fixed and time-varying
+         confounders. Fixed confounders were assessed at study entry; including age, gender,
+         socioeconomic index of disadvantage for area of residence [11]. The following time-varying confounders were determined annually; number of co-morbidities
+         (using the validated Rx-Risk-V [12] score), number of prescriptions, number of prescribers, number of pharmacies and
+         number of occupational therapy visits and speech pathology services. The remaining
+         time-varying confounders changed as the season changed (season), when subjects entered
+         aged care (residential aged-care status) and when they had their first script of tiotropium
+         as a proxy indicator of chronic obstructive pulmonary disease (COPD), and first concurrent
+         use of angiotensin renin system medicines with frusemide as a proxy indicator of those
+         with heart failure. All the above confounders were included in the model and the decision
+         to include them was based on clinical knowledge.
+      
+      For the self-controlled case series study, eligible subjects were all subjects who
+         had a hospitalisation with a primary diagnosis of pneumonia during the study period
+         between 1st January 2007 and 30th June 2011. These are the same subjects who were
+         identified in the cohort study as having a hospitalisation for pneumonia. Exposure
+         to proton pump inhibitors was calculated and time partitioned into unexposed time
+         and pre and post exposure times. Subjects with a pneumonia hospitalisation but with
+         no record of being prescribed a proton pump inhibitor were included to adjust for
+         the change in the underlying hospitalisation rate associated with age [2]. In addition to the post-exposure risk periods, two consecutive 30&nbsp;day (1–30, 31–60&nbsp;days)
+         and a 60&nbsp;day (61–120&nbsp;days) pre-exposure risk periods were included prior to proton
+         pump inhibitor initiation; to allow for time periods where proton pump inhibitors
+         may have been initiated as a result of hospitalisation. The consequence of not partitioning
+         this prior exposure would be an increase in the rate of pneumonia hospitalisations
+         in the unexposed period. This would cause a bias towards the null in the exposed resulting
+         in a decrease in the rate ratios in the post exposure periods. All residual time before
+         and after exposure was considered unexposed and used for the baseline comparison.
+         In each risk period, the cumulative number of hospitalisations was divided by the
+         person-years at risk and these were compared to the risk in the baseline period (Figure&nbsp;1). If a subject was re-hospitalised within 30&nbsp;days, the subsequent hospitalisation(s)
+         were excluded as they were considered to be related and part of the same episode [2]. Rate ratios were calculated using conditional Poisson regression, with results presented
+         as adjusted rate ratios and 95% confidence intervals. We also performed two sensitivity
+         analyses for the self-controlled case series 1) adjusted for the same time-varying
+         confounders as the cohort study, 2) analysis restricted to patients alive at hospital
+         discharge. The self-controlled case series design controls implicitly for fixed covariates
+         [2,3], however, all SCCS analyses were adjusted for time-varying age and study year. All
+         analyses were performed using SAS version 9.12 (SAS Institute, Cary, NC). This research
+         has ethics approval from the Department of Veteran Affairs human research committee
+         and the University of South Australia human research committee.
+      
+      Figure 1. A graphical representation of the self-controlled case-series design for patients (a) exposed to a proton pump inhibitor (b) unexposed to a proton pump inhibitor.
+   
+

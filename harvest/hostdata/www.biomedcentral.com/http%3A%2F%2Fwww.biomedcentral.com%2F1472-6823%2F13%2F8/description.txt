@@ -1,0 +1,50 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					The glycated haemoglobin A1c (HbA1c) level may be used for screening for type 2 diabetes and prediabetes instead of a more burdensome oral glucose tolerance test (OGTT). However, among the high-risk South Asian population, little is known about the overlap of the methods or about the metabolic profiles of those disconcordantly diagnosed.
+
+				
+				
+					
+						Methods
+
+					
+					We included 944 South Asians (18–60 years old), whom we screened with the HbA1c level and the OGTT in The Hague, the Netherlands. We calculated the area under the receiver-operator characteristic curve (AUROC) with a 95% confidence interval of HbA1c using the American Diabetes Association classifications, and determined the sensitivity and specificity with 95% confidence intervals at different thresholds. Moreover, we studied differences in metabolic characteristics between those identified by HbA1c and by the OGTT alone.
+
+				
+				
+					
+						Results
+
+					
+					The overlap between HbA1c and OGTT classifications was partial, both for diabetes and prediabetes. The AUROC of HbA1c for OGTT defined diabetes was 0.86 (0.79–0.93). The sensitivity was 0.46 (0.29–0.63); the specificity 0.98 (0.98–0.99). For prediabetes, the AUROC was 0.73 (0.69–0.77). Each of the 31 individuals with diabetes and 353 with prediabetes identified with the HbA1c level had a high body mass index, large waist circumference, high blood pressure, and low insulin sensitivity, all of which were similar to the values shown by those among the 19 with diabetes or 62 with prediabetes who only met the OGTT criteria, but not the HbA1c criteria.
+
+				
+				
+					
+						Conclusions
+
+					
+					The HbA1c level identified a partially different group than the OGTT did. However, both those identified with the HbA1c level and those identified with the OGTT alone were at increased metabolic risk.
+
+				
+				
+					
+						Trial registration
+
+					
+					Dutch Trial Register: 
+						 NTR1499 
+					
+
+				
+			
+		

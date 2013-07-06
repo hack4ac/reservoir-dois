@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Members of the  WUSCHEL - RELATED HOMEOBOX  ( WOX ) gene family have important functions during all stages of plant development and have been implicated in the development of morphological novelties during evolution. Most studies have examined the function of these genes in angiosperms and very little is known from other plant species.
+
+				
+				
+					
+						Results
+
+					In this study we examine the presence and expression of  WOX  genes in the conifer  Picea abies . We have cloned 11  WOX  genes from both mRNA and genomic DNA and examined their phylogenetic relationship to  WOX  genes from other species as well as their expression during somatic embryogenesis and in adult tissues.
+
+				
+				
+					
+						Conclusions
+
+					Our study shows that all major radiations within the  WOX  gene family took place before the angiosperm-gymnosperm split and that there has been a recent expansion within the intermediate clade in the Pinaceae family. Furthermore, we show that the genes from the intermediate clade are preferentially expressed during embryo development in  Picea abies . Our data also indicates that there are clear orthologs of both  WUS  and  WOX5  present in the  P .  abies  genome.
+
+				
+			
+		

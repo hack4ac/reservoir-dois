@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Current fetal-infant growth references have an obvious growth disjuncture around 40 week gestation overlapping where the fetal and infant growth references are combined. Graphical smoothening of the disjuncture to connect the matching percentile curves has never been validated. This study was designed to compare weight gain patterns of contemporary preterm infants with a fetal-infant growth reference (derived from a meta-analysis) to validate the previous smoothening assumptions and inform the revision of the Fenton chart.
+
+				
+				
+					
+						Methods
+
+					
+					Growth and descriptive data of preterm infants (23 to 31 weeks) from birth through 10 weeks post term age were collected in three cities in Canada and the USA between 2001 and 2010 (n = 977). Preterm infants were grouped by gestational age into 23–25, 26–28, and 29–31 weeks. Comparisons were made between the weight data of the preterm cohort and the fetal-infant growth reference.
+
+				
+				
+					
+						Results
+
+					
+					Median weight gain curves of the three preterm gestational age groups were almost identical and remained between the 3rd and the 50th percentiles of the fetal-infant-growth-reference from birth through 10 weeks post term. The growth velocity of the preterm infants decreased in a pattern similar to the decreased velocity of the fetus and term infant estimates, from a high of 17–18 g/kg/day between 31–34 weeks to rates of 4–5 g/kg/day by 50 weeks in each gestational age group. The greatest discrepancy in weight gain velocity between the preterm infants and the fetal estimate was between 37 and 40 weeks; preterm infants grew more rapidly than the fetus. The infants in this study regained their birthweight earlier compared to those in the 1999 National Institute of Child Health and Human Development report.
+
+				
+				
+					
+						Conclusion
+
+					
+					The weight gain velocity of preterm infants through the period of growth data disjuncture between 37 and 50 weeks gestation is consistent with and thus validates the smoothening assumptions made between preterm and post-term growth references.
+
+				
+			
+		

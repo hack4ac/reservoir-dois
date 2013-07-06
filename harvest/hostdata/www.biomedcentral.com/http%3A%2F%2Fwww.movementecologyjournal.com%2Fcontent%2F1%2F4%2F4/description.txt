@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Understanding how environmental conditions, especially wind, influence birds' flight speeds is a prerequisite for understanding many important aspects of bird flight, including optimal migration strategies, navigation, and compensation for wind drift. Recent developments in tracking technology and the increased availability of data on large-scale weather patterns have made it possible to use path annotation to link the location of animals to environmental conditions such as wind speed and direction. However, there are various measures available for describing not only wind conditions but also the bird's flight direction and ground speed, and it is unclear which is best for determining the amount of wind support (the length of the wind vector in a bird’s flight direction) and the influence of cross-winds (the length of the wind vector perpendicular to a bird’s direction) throughout a bird's journey.
+
+				
+				
+					
+						Results
+
+					We compared relationships between cross-wind, wind support and bird movements, using path annotation derived from two different global weather reanalysis datasets and three different measures of direction and speed calculation for 288 individuals of nine bird species. Wind was a strong predictor of bird ground speed, explaining 10-66% of the variance, depending on species. Models using data from different weather sources gave qualitatively similar results; however, determining flight direction and speed from successive locations, even at short (15 min intervals), was inferior to using instantaneous GPS-based measures of speed and direction. Use of successive location data significantly underestimated the birds' ground and airspeed, and also resulted in mistaken associations between cross-winds, wind support, and their interactive effects, in relation to the birds' onward flight.
+
+				
+				
+					
+						Conclusions
+
+					Wind has strong effects on bird flight, and combining GPS technology with path annotation of weather variables allows us to quantify these effects for understanding flight behaviour. The potentially strong influence of scaling effects must be considered and implemented in developing sampling regimes and data analysis.
+
+				
+			
+		

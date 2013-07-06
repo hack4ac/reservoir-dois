@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					COPD is a significant cause of morbidity and mortality in the Veterans Health Administration (VHA). To determine the clinical factors associated with the cost of COPD management, we analyzed the relationship between clinical characteristics and COPD healthcare costs at the Cincinnati VAMC.
+
+				
+				
+					
+						Methods
+
+					We queried the VHA Decision Support System for patients diagnosed with COPD at the Cincinnati VAMC and calculated their VHA COPD-related encounters and costs in FY2008. Patients were ranked by COPD-related cost. We determined the detailed clinical characteristics of patients selected by modified systematic sampling and performed univariate and multivariable ordinary linear regression analysis to determine factors associated with cost.
+
+				
+				
+					
+						Results
+
+					3263 Veterans had 11,869 encounters with a primary or secondary diagnosis of COPD: 10,032 clinic visits, 505 emergency department (ED) visits, and 1,332 hospitalizations and incurred a total COPD-related healthcare cost of $21.4 M: $2.4 M clinic visits, $0.21 M ED visits, and $18.7 M hospitalizations and $0.89 M for COPD-related prescription costs. When the patients were ranked by VHA healthcare costs, the top 20% of patients accounted for 86% of the total costs and 57% of the total encounters with a primary or secondary diagnosis code of COPD and 90% of the total costs and 75% of the total encounters with a primary diagnosis code of COPD. The clinical characteristics and VHA healthcare costs of 840 of the 3263 unique individuals with COPD were analyzed to determine those characteristics associated with increased COPD-related costs. Univariate analysis showed significant associations with 24 clinical variables; the 4 most highly associated factors were nursing home residence, total hospital admissions, use of oral corticosteroids, and supplemental oxygen (p < 0.001 for all). In multivariate analysis, total number of admissions (p < 0.001), management by a pulmonologist (p < 0.001), number of clinic visits (p < 0.001), use of short acting anticholinergic (p = 0.001), forced expiratory volume in 1 second (FEV1) (p = 0.011), number of prescriptions (p = 0.011), body mass index (BMI) (p = 0.025), and use of inhaled corticosteroid (p = 0.043) were associated with COPD management cost.
+
+				
+				
+					
+						Conclusion
+
+					The total number of admissions, clinic visits, physiologic impairment, BMI, number of medications, and type of provider are strongly associated with the total cost of COPD management. These factors may be used to focus COPD management toward patients with the potential for high utilization of healthcare resources.
+
+				
+			
+		

@@ -1,0 +1,1 @@
+A DFT-based approximate eigenvalue and singular value decomposition of polynomial matrices

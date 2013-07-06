@@ -1,0 +1,105 @@
+Methods
+   
+      Since 1994, the Rakai Health Sciences Program has followed an open cohort of about
+         12,000 participants aged 15 to 49&nbsp;years in 50 communities in the Rakai district of
+         southwestern Uganda. The cohort has been described in detail elsewhere [9,10]. In brief, participants provide consent and are interviewed privately by interviewers
+         of the same gender every 10 to 14&nbsp;months, using a standardized questionnaire. Venous
+         blood is collected for HIV-1 testing. More than 90% of eligible individuals participate
+         in any given survey round.
+      
+      Women who participated in the study between 2000 and 2009 were included in analyses
+         if they reported at least one sexual partner during the study period and if they had
+         provided any data on whether they experienced IPV during the study period.
+      
+      Intimate partner violence (IPV) was defined as any physical, sexual, or verbal violence
+         by a partner in an intimate relationship. Questions on IPV were modified from the
+         Revised Conflict Tactics Scales (CTS2), and, in some analyses, type of IPV was classified
+         as minor or severe as per the CTS2 [11,12]. Minor physical violence was defined as a husband or partner who had “pushed you,
+         pulled you, slapped you or held you down,” and severe physical violence questions
+         were having had a husband or partner who “punched you with a fist or with something
+         that could hurt you,” “kicked you or dragged you,” “tried to strangle you or burn
+         you,” or “attacked you with a knife, gun or other weapon.” Minor verbal violence was
+         defined as a husband or partner having “verbally abused or shouted at you” and severe
+         verbal violence was defined as a husband or partner who had “threatened you with a
+         knife, gun, or other weapon.” Sexual violence was defined as a sexual partner having
+         “used verbal threats to force you to have sex when you did not want to,” “physically
+         forced you to have sex when you did not want to,” or “forced you to perform other
+         sexual acts you did not want to do,” and all of these types of sexual violence were
+         considered severe. Data were collected in all survey rounds on experiences of IPV
+         in the current year, and in one survey round on experiences of all three forms of
+         IPV ever. Data were collected on frequency of IPV in the past year for physical and
+         verbal IPV in four survey rounds, and for sexual IPV in three survey rounds.
+      
+      Potential risk factors for IPV were determined based on the literature and on which
+         data were collected for the RCCS between 2000 and 2009. Since characteristics and
+         experiences in early life may cause some of the characteristics and experiences in
+         adulthood, and specifically, risk factors for IPV in adulthood may be on the causal
+         pathway from early factors to IPV [13], risk variables were separated into early factors and contemporary factors, with
+         early factors defined as variables that may affect women early in life (i.e. in childhood or in early adulthood) and contemporary factors defined as variables
+         that may affect women in their current lives. These two groups of variables were analysed
+         separately.
+      
+      Early factors included sexual abuse in childhood or adolescence [6], age at first intercourse [14,15], whether first intercourse was coerced, and education level [4,6,15-22]. Childhood or adolescent sexual abuse was defined as having ever been sexually abused
+         by a male before the age of 18, and was only asked about in one survey round. Age
+         at first intercourse was taken from the round in which this question was first answered.
+         Coerced first intercourse was defined as force having been used the first time a participant
+         had sex, and was coded as yes if the participant indicated in any survey round that
+         their first sex had been coerced. Education level was taken from the baseline survey
+         round, i.e. from the first round of participation during the period under study.
+      
+      Contemporary factors included demographic variables such as age [4,16-21,23-25], marital status [4,6,20-25], religion [16,19,22,25], occupation [4,21,25], partner’s occupation, and pregnancy status [5,20,23]; relationship variables such as type of relationship with partner [20], length of primary sexual partnership [20,24], difference in age between the participant and her partner [17,18,20,24,25], number of sexual partners in the past year [14-16,19,21,23,26-28], alcohol use before sex by the participant [14,18,26], alcohol use before sex by the participant’s partner [6,17,25], attitudes toward violence, and HIV status [4,6,15,17,20,21,23-25,29]. Pregnancy status was self-reported. A variable for attitudes toward violence was
+         derived from a series of questions about whether a man is justified in beating his
+         wife or partner in several situations, with acceptable defined as responding yes to
+         any of these questions and not acceptable defined as responding no to all these questions,
+         which were: she neglects household responsibilities, she disobeys the instructions
+         of her husband/elders, she uses contraception without permission, she refuses her
+         husband sex, he learns about his wife’s partner’s positive HIV serostatus, he learns
+         about his positive HIV serostatus, argues over money, is unfaithful, or another reason.
+         HIV status was defined as a positive result on two enzyme immunoassays, confirmed
+         by Western blot or RT-PCR.
+      
+      For participants who reported multiple partners in the past year, data about the partner
+         with whom the participant reported having had sex most recently was used for the variables
+         type of relationship with partner, alcohol use by partner, length of sexual partnership,
+         and difference in age with partner; it was not possible to determine which specific
+         partner (if any) had perpetrated violence.
+      
+      Statistical methods
+      The prevalence of IPV and of potential IPV risk factors was assessed. To identify
+         early factors, logistic regression was used to estimate the bivariate and multivariable
+         odds ratios (OR) and 95% confidence intervals (95% CI) associated with violence during
+         the period of study participation. For contemporary factors, population-averaged logistic
+         regression models were used to look at bivariate and multivariable associations [30], which account for repeated measures for each participant, using an exchangeable
+         correlation matrix and a robust variance estimator, and modelling the associations
+         between each variable and IPV in the subsequent year.
+      
+      For each of early factors and contemporary factors, since there were multiple predictors
+         of interest and to minimize the risk of Type I error of conventional backward selection
+         models, an Allen-Cady modified backward selection procedure was used for the multivariable
+         models [31]. Candidate variables were identified a priori as being of greater importance on the basis of known associations with violence,
+         including sexual abuse in childhood or adolescence, coerced first sex, and education
+         for early factors, and age, marital status, pregnancy status, difference in age with
+         partner, use of alcohol, number of partners in past year, and attitudes toward violence
+         for contemporary factors [2,27,32]. Additional variables hypothesized to be relevant were then ranked in order of putative
+         importance, which in ascending order of importance for contemporary factors were relationship
+         type, length of relationship, woman’s occupation, partner’s occupation, religion,
+         and HIV status. For early variables, this included only age at first sex. Variables
+         from the second group were deleted in order of ascending importance, i.e. age at first sex for early factors and beginning with relationship type for contemporary
+         factors, until the first variable was encountered with a p value of p &lt; 0.1, either
+         by Wald test or by likelihood ratio test, depending on whether the variable was continuous,
+         binary, or categorical.
+      
+      Separate models were run to look at the associations between contemporary factors
+         and risk of violence in the same year, in consideration of the fact that certain associations,
+         such as the temporal association between pregnancy and violence, might not be adequately
+         captured when looking at exposure and outcome data from sequential years. Analyses
+         were done using Stata 12.
+      
+      During the period under study, the Rakai Community Cohort Study was approved by institutional
+         review boards at the Scientific and Ethics Committee of the Uganda Virus Research
+         Institute, the Uganda National Council of Science and Technology, Columbia University,
+         Johns Hopkins University, Johns Hopkins Bloomberg School of Public Health, and the
+         Western. Ethics approval was obtained for this analysis from the University of Toronto.
+      
+   
+

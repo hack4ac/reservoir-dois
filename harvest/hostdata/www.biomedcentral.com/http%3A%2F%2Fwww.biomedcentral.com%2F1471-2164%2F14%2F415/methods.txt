@@ -1,0 +1,144 @@
+Methods
+   
+      Low-temperature tolerance assays and RNA preparation
+      The tea plant cultivar ‘Camellia sinensis (L.) O. Kuntze cv. Longjing 43’ was planted in the China National Germplasm Hangzhou Tea Repository (CNGHTR) at
+         the Tea Research Institute, Chinese Academy of Agricultural Sciences (TRI, CAAS).
+         Starting in October 2010, intact mature leaves were selected in every 10–15 days until
+         March 2011, when the average temperature became higher than 15°C. All samples were
+         washed with distilled deionized water and divided into two parts, one for −80°C storage
+         using liquid nitrogen for quick freezing and the other for evaluating low-temperature
+         tolerance using an electrolyte leakage assay. RNAprep pure Plant Kit (Tiangen, Beijing,
+         China) was used for total RNA extraction, and Agilent 2100 Bioanalyzer was used to
+         test the RNA integrity with a minimum integrity value of 8.
+      
+      The low-temperature tolerance was determined from leaf samples by electrolyte leakage
+         assay similar with previous study [71]. Briefly, leaves were washed with deionized water. Leaf samples (5 mm in diameter)
+         were extracted using a hole puncher and the midvein of the leaf was excluded. Leaf
+         samples (0.5 g) were placed in closed vials containing 20 ml of deionized water and
+         incubated at 25°C on a rotary shaker for 24 h. Then the electrical conductivity of
+         the solution (L1) was determined. Samples were then autoclaved at 100°C for 20 min
+         and the final electrical conductivity (L2) was determined after equilibration at 25°C.
+         The EL (relative electrical conductivity) was defined as follows: EL (%) = (L1/L2×100%).
+         Based on the level of electrolyte leakage, three samples including non-acclimated
+         (CK, the date for sample collection was 1st December, 2010), fully acclimated (CA1,
+         the date was 29th December, 2010) and de-acclimated (CA3, the date was 1st March,
+         2011) were selected for RNA-Seq and DGE analyses.
+      
+      Library preparation and RNA-Seq
+      The samples for RNA-Seq were prepared using Illumina’s kit and following manufacturer’s
+         recommendations. In short, mRNA was purified from 20 μg of total RNA using oligo (dT)
+         magnetic beads, followed by fragmentation, in which the mRNA is fragmented into small
+         pieces using divalent cations under elevated temperature. The cleaved RNA fragments
+         were used for first-strand cDNA synthesis using reverse-transcriptase and random primers
+         followed by second-strand cDNA synthesis using DNA polymerase I and RNase H. After
+         the end repair process and ligation of adapters, the products were enriched by PCR
+         to create the final cDNA library.
+      
+      The cDNA library was sequenced from both 5′ and 3′ ends using the Illumina HiSeq™
+         2000 platform according to the manufacturer’s instructions. The fluorescent image
+         processing, base-calling and quality value calculation were performed by the Illumina
+         data processing pipeline 1.4, in which 290 bp paired-end reads were obtained.
+      
+      Short-read RNA-Seq datasets
+      In our study, we performed RNA-Seq for three samples from tea plants that represented
+         three key stages during the CA process, including CA1, CA3 and CK. We called these
+         dataset 1. The accession code of our RNA-Seq dataset is SRA061043. The previous study
+         reported the transcriptome of C. sinensis, with 75 bp paired-end reads produced from the Illumina GAII platform, and we called
+         this dataset 2. Its accession code is SRX020193, which includes samples from seven
+         different tissues of C. sinensis: tender shoots, young leaves, mature leaves, stems, young roots, flower buds and
+         immature seeds [21]. Furthermore, we combined dataset 1 and dataset 2 together as dataset 3 in order
+         to compare the outcomes from de novo assembly using different datasets.
+      
+      Preprocessing and de novo assembly
+      
+      Raw data is preprocessed before de novo assembly: low-quality nucleotides (we defined nucleotides with a quality score less
+         than 20 as low-quality nucleotides) in the last 20 cycles and ambiguous nucleotides
+         in the first five cycles were trimmed by custom PERL script. After preprocessing,
+         we obtained a total of ~ 4.96 G bases (Gb), ~ 1.90 Gb and ~ 6.86 Gb quality filtered
+         short reads for dataset 1, dataset 2 and dataset 3, respectively.
+      
+      De novo assemblies for these three datasets were performed separately by Trinity (release
+         20110713) [20]. The command-line parameters are “--seqType fq --left 1.fq --right 2.fq --paired_fragment_length
+         300 --min_contig_length 100 --run_butterfly --output RNASeq_Trinity --CPU 8”.
+      
+      Removal of redundancy
+      Some isoforms reconstructed by Trinity with the same “chrysalis component” and “butterfly
+         sub-component” had only small variations, such as SNPs, small insertions or deletions;
+         such variations introduced redundancies for the assembly outcomes. CD-HIT-EST [72] was used to remove the shorter redundant transcripts when they were entirely covered
+         by other transcripts with more than 99% identity. This set of transcripts was then
+         used to count the basic assembly statistics and for downstream analysis.
+      
+      Gene annotation and classification
+      All non-redundant transcripts (≥ 100 bp) were used to search against the NR, UniRef90
+         [22], TAIR10, KEGG (version 58) [23] and KOG [24] databases by BLASTALL package (release 2.2.22) with the significant threshold of
+         E-value ≤ 10-5. Each known gene from the best BLASTx hit was parsed and assigned. Gene ontology
+         (GO) [73] terms for each transcript were assigned based on the best BLASTx hit from the NR
+         database using Blast2GO software (version 2.3.5) [25] with an E-value threshold of 10-5.
+      
+      The ORF of assembled transcripts was determined based on the results of BLASTx search
+         in the following order: NR, UniRef90, KEGG and KOG. Extending from both sides of the
+         aligned region, the coding region sequences were translated into amino acid sequences
+         with the standard codon table using custom PERL scripts. For those transcripts without
+         any BLASTx hit against known databases, the best potential coding region was predicted
+         using the software BestORF with parameters trained on Arabidopsis ESTs. The predicted amino sequences were submitted to search against the Pfam database
+         (version 25.0) [74] for domain/family annotation using HMMER 3.0, with the ‘Best Match Cascade’ protocol.
+         The “optimising allowed match overlap” method [75] was used to resolve complex overlapping protein domains.
+      
+      Mapping reads to transcripts
+      In order to get assembly statistics for the ratio of number of reads that could be
+         mapped back to transcripts (mapping ratio), bowtie (version 0.12.7) [76] was used to align short reads to the reconstructed transcripts, with parameters “-q
+         --solexa1.3-quals --fr −1 fq1 -2 fq2 -k 1 -v 3 -X 300”. Custom PERL scripts were used
+         to summarize the aligned results.
+      
+      Calculation of gene expression level
+      RSEM (v1.1.11) [27] was used to quantify transcript abundance in each sample, with parameters “--phred64-quals
+         --estimate-rspd --calc-ci --out-bam --fragment-length-min 100 --fragment-length-max
+         350” , and then the RSEM-estimated fragment counts were fed into DESeq package (1.0.6)
+         [28] to get the ‘baseMean’ value. The false discovery rate (FDR) of each comparison (CA1
+         vs. CA3 and CA1 vs. CK) was calculated by the winflat program which implements a rigorous
+         statistical analysis described by Audic and Claverie [18]. The FDR ≤ 0.01 and the absolute value of log2 ratio ≥ 1 were used as the threshold
+         of significant differences in gene expression. Those genes that were significantly
+         differentially expressed in both CA1 vs. CK and CA1 vs. CA3 were identified as potentially
+         related to CA.
+      
+      Digital gene expression
+      Tag library preparation for three samples was performed in parallel using the Illumina
+         gene expression sample preparation kit. Briefly, 6 μg total RNA from each sample was
+         used for mRNA capture with magnetic oligo (dT) beads. First- and second-strand cDNA
+         were synthesized. Bead-bound cDNA was subsequently digested with NlaIII. The cDNA fragments with 3' ends were then purified with magnetic beads, and the
+         Illumina adapter 1 was ligated to their 5' ends. The junction of the Illumina adapter
+         1 and CATG site is the recognition site of MmeI, which cuts the cDNA at 17 bp downstream
+         of the CATG site, producing tags linked with adapter 1. After removing 3' fragments
+         with magnetic beads precipitation, the Illumina adaptor 2 was ligated to the 3' ends
+         of tags. The ligation products were enriched by PCR amplification (15 cycles) and
+         purified by 6% TBE PAGE Gel electrophoresis. Sequencing was carried out on the Illumina
+         HiSeq™ 2000 platform, as recommended by the manufacturer, for 35 cycles.
+      
+      Raw image data was transformed by base calling into sequence data. Adaptor sequences
+         were removed by custom PERL scripts and low-quality tags with ambiguous nucleotide(s)
+         were discarded. All remaining tags were then aligned to the reconstructed transcripts
+         by bowtie with parameters “-a -f -v 0”. Tags that could not be uniquely aligned were
+         discarded. For gene expression analysis, the number of expressed tags was counted
+         and then normalized to TPM.
+      
+      Quantitative real-time RT-PCR (qRT-PCR) analysis
+      In order to validate the reliability of RNA-Seq and DGE experiments, 28 transcripts
+         were selected for quantitative RT-PCR (qRT-PCR) test. The RNA (1 μg) of each sample
+         was treated with DNase I (Tiangen, China), then real-time PCR was performed using PrimeScriptTM RT reagent qPCR Kit fromTakara (Dalian, China) under the following parameters: 95°C
+         for 30 s, 40 cycles at 94°C for 15 s, 60°C for 34 s. Fluorescence intensity was measured
+         using the Applied Biosystems 7300 Sequence Detection System (Carlsbad, CA, USA). Triplicates
+         of each reaction were performed. To ensure the robustness of the reference gene used
+         in the qRT-PCR experiment, we analyzed the gene expression stability of 4 commonly
+         used housekeeping genes (18S RNA, β-Actin, GAPDH and α-Tubulin) across the cold acclimation
+         process. As previously reported by others [77], our results also showed that the 18S RNA gene was the most stable one for its constant
+         expression levels and was finally chosen as the reference gene in our study. The relative
+         expression of the genes in the three samples was calculated using the 2−ΔΔCt method described earlier [78]. The result of the qRT-PCR was presented as fold changes in gene expression relative
+         to that of CK sample. So, the relative value of CK is 1 and the relative values of
+         CA1 and CA3 samples were normalized to that of CK sample. All data are shown as the
+         mean ± SD and all primer information is provided in Additional file 6.
+      
+      Additional file 6. List of designed primers for quantitative RT-PCR.
+         	Format: XLSX 
+         	Size: 13KB Download file or  display content in a new window
+   
+

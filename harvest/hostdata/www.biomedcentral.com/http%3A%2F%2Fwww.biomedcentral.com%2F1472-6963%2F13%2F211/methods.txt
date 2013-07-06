@@ -1,0 +1,180 @@
+Methods
+   
+      Existing systematic reviews and rationale for the current review
+      In order to develop an efficient search and review strategy, over 200 existing reviews
+         on the same or similar topics were firstly systematically examined (identified in
+         a broad search covering PROs and quality of life measures between January 2000 and
+         October 2011). Three reviews [26-28] were identified as the baseline reviews for this project and their review strategies
+         were carefully examined in aspects such as the aim and scope, time span, search strategy
+         and search terms used, articles included in each review, and conclusions drawn. A
+         table summarising the three systematic reviews is presented in Table&nbsp;1.
+      
+      Table 1. A comparison of three baseline reviews
+      Review search strategy
+      Analysing the results of above three systematic reviews demonstrates the importance
+         of search strategies in determining what literature will be included in the study,
+         which in turn, may influence what conclusions will be derived. Valderas et al.’s (2008)
+         [27] review excluded three out of the five clinical trials on cancer patients that were
+         included in Marshall et al.’s (2006) [28] review. Lucket et al.’s (2009) review [26] excluded one article (Taenzer et al. (2000), [33] a before-after study) from Marshall et al.’s review [27]. A mixed methodology search was developed in order to maximise the identification
+         of recent literature in a short period of time. The search was conducted in six different
+         ways as follows:
+      
+      1. A text-based search strategy was developed based on previous reviews. To elicit
+         previous reviews, a search was conducted for the text terms ‘patient reported outcome*’,
+         ‘self-reported’, ‘self-assessed’ anywhere in title, abstract and key words, combined
+         with ‘quality of life’, ‘symptom’, ‘functional status’, ‘health status’, ‘patient
+         satisfaction’, ‘unmet need*’ anywhere in title, abstract and key words. For original
+         articles, a search was conducted using the same strategy as above but restricted to
+         those with ‘neoplasm’ or ‘cancer’ in the key words. The search results were restricted
+         to between January 2000 and October 2011 (full search strategy is listed in Additional
+         file 1: Appendix 1).
+      
+      Additional file 1. Appendix 1. Full text search strategies used in Scopus.
+         	Format: DOC 
+         	Size: 23KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      2. All reviews were evaluated (over 200 in total on various topics but not limited
+         to only cancer patients) with three baseline reviews used as the starting point for
+         our top-down and bottom-up search strategy. We chose the three baseline reviews because
+         that: 1) they are all systematic reviews that could be helpful in forming the structure
+         or strategy of the current review (but not necessarily restricted to cancer patients);
+         and 2) they were published after 2005.
+      
+      3. All articles were examined if they cited the 7 key randomised controlled trials
+         [33-39] listed in the above reviews (bottom-up approach). References were also sought from
+         the most recently published trials, editorials, and commentaries (a top-down approach).
+         The powerful citation tracking feature of Scopus™ made this strategy feasible.
+      
+      4. Simplified text terms (i.e. patient reported outcome, PRO, PROM, Quality of life,
+         QOL) were used to conduct a web search for identifying grey literature.
+      
+      5. Leading researchers and experts in the field (elicited through the advice of Cancer
+         Institute NSW (CINSW), editorials, review articles and most cited articles) were purposefully
+         searched in order to analyse the references and citations in their publications.
+      
+      6. Some key cancer centres’ websites were also searched in order to get more detailed
+         information.
+      
+      The search was limited to the Scopus™ database as it is the largest abstract and citation
+         database of peer-reviewed literature and quality web sources including 100% coverage
+         of Medline titles and EBASE. It also tracks, analyses and visualises publication results,
+         which is well suited to our top-down and bottom-up search strategy.
+      
+      Aim, study selection and endpoints of the review
+      In this review, the aim was to synthesize the evidence in relation to the impact of
+         routinely collected PROs on patients, providers, and health organisations. The frameworks
+         proposed by Greenhalgh and colleagues [25] and by Abernethy and colleagues [40] were adopted to guide our evaluation of the existing literature. Greenhalgh et al.
+         [25] proposed a framework (Figure&nbsp;1) that depicts mechanisms between the routine collection of PROs and changes in patient
+         outcomes. The authors suggest that the multilayer mediators (i.e. changes to doctor-patient
+         communication, monitoring treatment responses, detecting unrecognised problems, changes
+         to patient health behaviour, changes to clinicians’ management plans, and improved
+         patient satisfaction) have complex relationships among them. The studies that revealed
+         these complex relationships may assist in understanding whether and how the underlying
+         mechanisms of routinely collected PROs work to improve the intended outcomes.
+      
+      Figure 1. A hypothetical framework to understand the impact of routinely collected PROs on patient
+            health outcomes (adopted from Greenhalgh et al. (2005) [25]with permission).
+      Recently, Abernethy and colleagues [40] have argued that the routine collection of PROs has the capacity to impact not only
+         at the patient-level, but by addressing the logistics of data linkage, and could ensure
+         that the system will grow to accommodate other clinical- and health system-level issues;
+         for example, evaluating comparative effectiveness of treatments, monitoring quality
+         of care, and translating basic science findings into clinical practice (Figure&nbsp;2). The integration of data systems will fuel rapid learning cancer care at the national
+         and societal levels (see Figure&nbsp;2a and b), making many types of research and system learning possible across institutions
+         and health sectors. The benefits and implications of such a rapid learning health
+         care system may include, but is not limited to, strong and effective quality improvement
+         (QI), increased transparency, accountability, public reporting, better health system
+         performance (monitoring, planning, financing, evaluating, responding) and better quality
+         of care.
+      
+      Figure 2. (a) A data linkage framework (b): A learning health care system. Note: Figures&nbsp;2: adopted from Aberthnethy et al. (2010) [40] with permission.
+      
+      Combining both frameworks, a list of outcome indicators was developed (Table&nbsp;2) against which each eligible study was assessed. To include not only the doctors’
+         experience with patients after collecting PROs, but also the experience of other health
+         services providers (i.e. nurses, allied health workers), the term ‘Patient-provider
+         communication’ was used instead of ‘doctor patient communication’ as proposed by Greenhalgh
+         et al. [25]. In order to answer review questions 2 &amp; 3 for the studies included, all possible
+         explicit mediation effects were reviewed through examining if a path-analysis or a
+         mediation-analysis by multiple, staged regression approach was presented in the paper.
+         To examine potential moderating effect, each study was examined to determine if it
+         explicitly tested the interaction effect/moderating effect, or inexplicitly conducted
+         subgroup analysis. Significant possible mediating or moderating effect results were
+         indicated as part of review endpoints in Table&nbsp;3. Inferences made and the discussion were based on these results.
+      
+      Table 2. Outcome indicators assessed for each eligible study included in the review
+      Table 3. The characteristics of design and study quality
+      Inclusion and exclusion criteria
+      The inclusion criteria were: 1) substantial content in presenting empirical evidence
+         on the impact of routinely collected PROs on at least one of the outcomes listed in
+         Table&nbsp;2; 2) adult cancer patients; 3) conducted in an oncologic setting including inpatient,
+         outpatient and outreach services; and 4) studies using a composite PRO. We defined
+         a composite PRO as those PROs are often based on a well-developed instrument and with
+         an aim for measuring a substantial aspect of patient conditions (or treatment) with
+         at least 4 items. To reflect the demanding and complex nature of evaluating the impact
+         of routine collected PROs, eligible studies included a variety of designs including,
+         but not limited to, randomised controlled trials (RCTs), controlled before-after trials
+         (CBA) and interrupted time series (ITS). ITS designs have a longitudinal character,
+         with repeated measurements and at least three data points before and after the intervention
+         point. Surveys and clinical audits were also included if the studies provided quantitative
+         results relevant to the listed outcomes.
+      
+      Studies were excluded if they were non-English language articles, opinion and theoretical
+         articles, historical descriptions, review articles, feasibility studies of some PROs
+         collection devices, studies investigating child cancer patients or qualitative studies
+         with no substantial quantitative results on the review endpoints.
+      
+      Data extraction and quality assessment
+      Electronic search results were downloaded into EndNote bibliographic software. Two
+         reviewers independently (JC, LO) screened all titles and abstracts of citations identified
+         by the electronic search, applied the selection criteria to potentially relevant papers,
+         and extracted data from included studies using a standardised form. Any disagreements
+         concerning studies to be included were resolved by consensus.
+      
+      All studies were classified into two domains. Domain 1 correlated sample characteristics
+         with population wide characteristics, and Domain 2 focused on study design. The data
+         extraction form was adapted from other review studies using the outcome measures discussed
+         above (see Table&nbsp;4). For each eligible study, a list was made including the leading author, country
+         and jurisdiction, design, sample, outcome measures, the PROs used, times of feedback
+         and intervention, members of medical teams given feedback, management plans offered
+         to teams, and training (see Table&nbsp;5). All qualifying studies were listed chronologically with the outcome indicators
+         (see Table&nbsp;3).
+      
+      Table 4. The components, rating criteria and symbol, and categories used in summarising the
+            study evidence in the current study
+      Table 5. The impact and effect sizes of the studies on patients, care providers and organisations*
+      In Domain 1, the routinely collected PROs in particular participants or samples was
+         classified as rated on a 4-point scale representing how closely the participants or
+         samples overlapped with the characteristics and needs of the intended study populations(1
+         star=very weakly related to 4 stars =very strong related). For example, for a study
+         conducted in the US on a sample of lung cancer patients, the degree of overlap of
+         the study sample with the characteristics of lung cancer patients in the US overall
+         was assessed by considering the study setting, sample size and sampling frame, response
+         rate, loss-to-follow-up, and characteristics of the study sample. In Domain 2, study
+         design was classified and rated on 4 categories with 1 star indicating the weakest
+         design and 4 stars indicating the strongest design. Four stars indicated a randomised
+         trial or experimental study; 3 stars indicated a controlled trial, pre–post trial
+         with control (controlled before–after trial), time series, or observational cohort
+         with multivariable adjustment; 2 stars indicated a pre–post trial without control,
+         observational cohort study without multivariable adjustment, cross-sectional study
+         without multivariable adjustment, analysis of time trends without control, or well-designed
+         qualitative study; and 1 star indicated a case series, other qualitative study, or
+         survey (descriptive) study.
+      
+      Revised appraisal criteria were adapted from the guidelines on the assessment of quality
+         improvement interventions [58,59]. A global rating was also created using the Grading of Recommendations, Assessment,
+         Development, and Evaluation (GRADE) system [60]. The British Medical Journal has recommended the GRADE system since 2006 for grading
+         evidence when submitting a clinical guidelines article. It has multiple advantages
+         and is useful for systematic reviews and health technology assessments, as well as
+         for evaluating research on clinical guidelines. The global rating created in the current
+         study was based on the integration of the Domain 1 and Domain 2 ratings, as well as
+         the intervention fidelity (the degree of success of the interventional strategy, the
+         patients’ and providers’ adherence to the intervention strategy), dose–response gradient,
+         precision and validity of outcomes (potential confounding factors and biases), and
+         uncertainty of the direction of results. The global rating was divided into three
+         categories; indication that the study should carry great (3 checks), moderate (2 checks),
+         or little (1 check) weight when considering the strength of evidence (see Table&nbsp;4). Any experimental research that is reported in the manuscript was performed with
+         the approval of an appropriate ethics committee.
+      
+      No attempt was made to quantitatively synthesize the results as the data were too
+         heterogeneous to support pooling.
+      
+   
+

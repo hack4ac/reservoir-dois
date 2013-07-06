@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Nectar reabsorption is a widely known phenomenon, related to the strategy of resource-recovery and also to maintain the nectar homeostasis at the nectary. The method currently performed to demonstrate nectar being reabsorbed involves the use of radioactive tracers applied to the nectary. Although this method works perfectly, it is complex and requires specific supplies and equipment. Therefore, here we propose an efficient method to obtain a visual demonstration of nectar reabsorption, adapting the use of Lucifer Yellow CH (LYCH), a fluorescent membrane-impermeable dye that can enter the vacuole by endocytosis.
+
+				
+				
+					
+						Results
+
+					We applied a LYCH solution to the floral nectary (FN) of  Cucurbita pepo  L., which is a species known for its ability of nectar reabsorption, and to the extrafloral nectary (EFN) of  Passiflora edulis  Sims which does not reabsorb the secreted nectar. In all tests performed, we observed that LYCH stained the nectary tissues differentially according to the reabsorption ability of the nectary. The treated FN of  C. pepo  presented a concentrated fluorescence at the epidermis that decreased at the deeper nectary parenchyma, until reaching the vascular bundles, indicating nectar reabsorption in the flowers of the species. In contrast, treated EFN of  P. edulis  presented fluorescence only at the cuticle surface, indicating that nectar is not reabsorbed by that particular tissue.
+
+				
+				
+					
+						Conclusion
+
+					LYCH is an efficient marker to demonstrate nectar reabsorption.
+
+				
+			
+		

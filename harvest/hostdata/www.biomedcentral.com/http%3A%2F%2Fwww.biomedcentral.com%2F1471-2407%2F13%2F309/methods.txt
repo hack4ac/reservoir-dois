@@ -1,0 +1,95 @@
+Methods
+   
+      Patient selection
+      Serum samples were collected from 87 healthy subjects, 73 bone and soft tissue sarcoma
+         patients, and 7 metastatic cancer patients with musculoskeletal metastases. The details
+         of the clinicopathological features of 73 patients of the bone and soft tissue sarcoma
+         are listed in Table&nbsp;1. The mean follow-up period was 43&nbsp;months (range, 1–115&nbsp;months). The patient group
+         included 36 males and 37 females, with a mean age of 51&nbsp;years (range, 10–85&nbsp;years)
+         at the first presentation. There were 23 bone sarcomas, including 14 osteosarcomas
+         (OS), 3 chondrosarcomas, 3 Ewing sarcomas, and 3 chordomas. There were also 50 soft
+         tissue sarcomas, including 10 malignant fibrous histiocytomas (MFH), 9 liposarcomas
+         (5 myxoid liposarcomas, 2 pleomorphic liposarcomas, and 2 dedifferentiated liposarcomas),
+         6 malignant peripheral nerve sheath tumors (MPNST), 3 synovial sarcomas, 3 dermatofibrosarcoma
+         protuberans, 3 rhabdomyosarcomas, 2 epithelioid sarcomas, 2 clear cell sarcomas, an
+         extraskeletal chondrosarcoma, an extraskeletal osteosarcoma, a myxofibrosarcoma, a
+         malignant granular cell tumor, and 8 unclassifiable spindle cell sarcomas. There were
+         six metastatic cancer to the bone (2 thyroid cancers, 2 renal cancers, 1 lung cancer,
+         and 1 multiple myeloma), and one metastatic cancer to the soft tissue (squamous cell
+         carcinoma). A histological grading of the bone sarcoma was performed according to
+         the grading system proposed by Borders AC [15] and a histological evaluation of soft tissue sarcoma was performed using the grading
+         system of the French Federation of Cancer Centers Sarcoma Group system [16]. The histological grading in soft tissue sarcoma was low grade (grade 1) in 9 sarcomas
+         and in high grade 41 sarcomas (grade 2:20, grade 3:21), while the histological grading
+         in bone sarcoma was low grade in 4 sarcomas and high grade in 19 sarcomas. All patients
+         underwent a complete tumor resection with a wide margin during the initial surgery
+         at our hospital. The diagnoses were primarily based on the morphological appearance
+         based on the results of their reactivity for immunostaining. The 73 samples consisted
+         of 50 primary lesions, 17 local recurrences, and 6 metastases.
+      
+      Table 1. Patient and tumor characteristics
+      At the final follow-up, 26 patients were continuously disease-free, 13 patients had
+         no evidence of disease, 15 patients were alive with disease, and 19 patients died
+         of disease.
+      
+      The control subjects comprised 28 males and 59 females. The mean age of the control
+         subjects was 46&nbsp;years (range, 19–89&nbsp;years). Almost all control subjects younger than
+         60&nbsp;years old were healthy volunteers without any medical history of cancer. Those
+         over 60&nbsp;years of age had conditions such as osteoarthritis, osteoporosis, and so on,
+         and all had C-reactive protein values below 0.5&nbsp;mg/dl.
+      
+      This study is in compliance with the principles of the Declaration of Helsinki and
+         written informed consent was obtained from all of the patients included in this study.
+      
+      Serum sample collection and storage
+      Fifty-one serum samples were obtained at open biopsy or initial surgical excision
+         before administration of any chemotherapeutic agent. Seventeen serum samples were
+         obtained at the excision of recurrent tumor. Five serum samples were obtained at the
+         excision of the metastatic lesion. Longitudinal change of the sN-CAD was measured
+         by measuring the serum level at the pre- and post-operative day in a metastatic epitheliod
+         sarcoma patient. Venous blood samples were collected and centrifuged at 2,500&nbsp;g for
+         10&nbsp;min. All sera were stored at -80°C until measurement. All samples were collected
+         under the approval of the ethics committee of the Mie University Graduate School of
+         Medicine.
+      
+      Immunoenzymometric assay for the sN-CAD levels
+      The immunoenzymometric assay for the sN-CAD levels was performed using a home-made
+         ELISA plate, as described in a previous report [17]. All serum samples were diluted 5 times in PBS containing 0.1% bovine serum albumin
+         (BSA). A dilution series of recombinant N-cadherin from 1 to 1,000&nbsp;ng/ml was prepared
+         (recombinant human N-cadherin/Fc chimera, R&amp;D Systems, Abingdon, UK). A 96 well immunoplate
+         (CN-469949, Nalge Nunc International, Denmark) was coated with 75 μl of the diluted
+         sample overnight at 4°C. The wells were washed with PBS/0.05% Tween-20 and quenched
+         at 37°C with PBS/1% BSA for 1&nbsp;hr. Next, the plates were washed again (4 times) and
+         incubated with the primary antibody (Mouse GC-4 antibody, Sigma, St. Louis, MO; 1/200
+         in PBS/0.1% BSA) at 37°C for 2&nbsp;hr. The plates were then washed again (4 times), and
+         subsequently incubated with a mouse secondary antibody linked to alkaline phosphatase
+         (Goat anti-mouse linked to alkaline phosphatase, Sigma, St. Louis, MO; 1/3,000). The
+         substrate, p-nitrophenylphosphate (N2765, Sigma, St. Louis, MO), was added to the
+         plates, and after 30&nbsp;min, the optical density of each well was determined with a microplate
+         reader (Molecular Devices, Wokingham, UK) at 405&nbsp;nm. Measurements were done at least
+         in a triplet for each sample, and the mean value was calculated.
+      
+      Statistical analysis
+      The Mann–Whitney U test was used to analyze the association of the serum sN-CAD levels
+         between healthy subjects and patients. The Mann–Whitney U test was also used to analyze
+         the associations between the serum sN-CAD levels and the clinicopathological variables,
+         such as the type of tumor (bone or soft tissue sarcoma), age, tumor depth, tumor size,
+         histological grade, and the type of malignancy (primary or recurrence/metastasis).
+         We defined the cut-off level of sN-CAD at 1,500&nbsp;ng/ml to identify the high-risk patient
+         group. The disease-free survival (DFS) was defined as the time from the initial treatment
+         to the date of clinically documented local recurrence/metastasis. The local recurrence-free
+         survival (LRFS) was defined as the time from the initial treatment to the date of
+         clinically documented local recurrence. The metastasis-free survival (MFS) was defined
+         as the time from the initial treatment to the date of clinically documented distant
+         metastasis. The overall survival (OS) was defined as the time from the initial treatment
+         to the date of death from any cause. For the multivariate analysis, a Cox proportional
+         hazards regression model was used to identify the statistically significant differences
+         in the survival and to estimate hazard ratios and 95% confidence intervals. The prognostic
+         variables by the univariate analysis with a p &lt; 0.2 (age, tumor size, histological
+         grading, and sN-CAD) were entered into a Cox multivariate analysis model. A p value &lt; 0.05
+         was considered to be significant. The analysis was performed using the StatView statistical
+         software package (version 5.0; SAS Institute, Cary, NC, USA). The statistical analysis
+         was performed by N.R. and M.A., and both of whom have responsibility for the results
+         of statistical analysis.
+      
+   
+

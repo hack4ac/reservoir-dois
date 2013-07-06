@@ -1,0 +1,130 @@
+Methods
+   
+      Participants
+      20 participants (12 females &amp; 8 males) aged between 18 and 50 (M = 27, SD = 8) were
+         recruited from Southern Cross University (Coffs Harbour) campus. Participants were
+         naive to the aims of the experiment. Participants had normal to corrected vision,
+         none were anosmic, and none were ill at the time of testing. Informed written consent
+         was obtained from all participants prior to experimentation. This study was conducted
+         in compliance with the Helsinki Declaration and was approved by the Human Research
+         Ethics Committee of Southern Cross University ECN-10-138.
+      
+      Materials
+      Participants were seated in front of a Dell Trinitron flat-screen monitor at a viewing
+         distance of 57&nbsp;cm in an unlit, sound-attenuated testing cubicle. Data was collected
+         on a Pentium 4 processor. The display resolution of the monitor was set to 1,024 × 768
+         pixels, it was calibrated for luminance, and had a refresh rate of 100&nbsp;Hz at 32 bit
+         colour resolution. Participant responses were recorded using a Microsoft Wireless
+         Multimedia Keyboard 1.0A. Participants signalled their responses (“male” or “female”)
+         using the “m” and “z” keys, counter-balanced across participants.
+      
+      Visual stimuli
+      PointLightLab (v4.0.13) custom-written software was used to generate the visual stimuli.
+         The point-light walker stimuli used here were derived from examples of walkers taken
+         from the gender-continuum developed by Troje (2002; Troje 2008). Detailed methods describing how the walkers of which that continuum is composed
+         were created have been provided elsewhere (Troje 2008). In summary: Increments along the gender continuum were obtained first by integrating
+         the gaits of 50 female and 50 male walkers. Then, using linear classifiers derived
+         from the female and male subsets respectively, standard deviations from the mathematically
+         average walker (represented as 0) were calculated to create walkers that were more
+         female (increments below 0 on the continuum) and more male (increments above 0). Thus,
+         increment 0 is the statistically neutral walker at the centre of the continuum and
+         the statistical “sex” of each increment away from 0, both in the female and male directions
+         along the continuum, was calculated.
+      
+      Using PointlightLab to generate animated point-light walkers based on Troje’s models
+         this experiment used as test stimuli the most perceptually ambiguous female and male
+         exemplars from that continuum. Pilot studies and other work from the laboratory had
+         shown that on a 13 increment continuum, numbered from −6 (extreme female walker) to
+         +6 (extreme male walker), the walkers at the −1 and 0 positions are most often judged
+         as being the most sexually ambiguous. As noted above, the 0 walker is the statistically
+         neutral walker. Observers typically report the 0 walker as looking slightly male (congruent
+         with the so-called male-bias observed for point-light walkers: (Troje 2008); and for faces: (Davidenko 2007)) and so it was included here as a test stimulus because it represented to most ambiguous
+         walker with perceptually male characteristics. This stimulus will be, here, described
+         as the “ambiguous male” walker. The −1 walker on the continuum, the first walker with any female characteristics,
+         is typically the increment closest to the perceptually neutral point on Troje’s continuum
+         (van der Zwan et al. 2009; Troje 2008). In contrast to the 0 walker, this walker typically is reported by observers to
+         look slightly female. It was included as a test stimulus here because it is the most
+         ambiguous walker to carry slightly female characteristics. This stimulus will be,
+         here, described as the “ambiguous female” walker.
+      
+      Both the ambiguous male and the ambiguous female walkers were constructed using 15
+         white points defining the major joints of a human actor (wrists, elbows, shoulders,
+         centre sternum, hips, middle pelvis, knees, ankles) plus three additional reference
+         points (centre sternum, centre pelvic, and head). Each walker was presented on a black
+         background. Walkers were orientated on the frontal plane so as to face away/towards
+         the observer (direction-of-facing is, in objective terms at least perfectly ambiguous,
+         but see also (Schouten et al. 2010)). Each walker was shown in motion, walking as if on a treadmill (they neither loomed
+         nor receded). Each dot of which the models were composed subtended a visual angle
+         of 0.3° and the PLWs stood 20.5° visual angle high and 6.5° wide. To reduce the ability
+         of participants to monitor just a single spatial location PLWs were on each presentation
+         positioned randomly within a pre-assigned region of uncertainty (a square 10° × 10°
+         visual angle).
+      
+      Trials containing target stimuli had interspersed between them presentations of distractor
+         walkers, each sexually unambiguous. Distractor walkers were constructed using exactly
+         the same methods as the target stimuli but were chosen from more extreme locations
+         on Troje’s (2002; Troje 2008) continuum to ensure they were not sexually ambiguous. Female and male distractors
+         occurred with equivalent frequency. The target/distractor ratio was 0.22.
+      
+      Olfactory stimuli
+      Lundstrom and Olsson (2005) demonstrated that congruency between the environment and a pheromone-like chemosensory
+         cue is important for behavioural effects to be conveyed via olfaction. Because there
+         was only one male experimenter running the trials it was decided that using a female
+         chemosensory cue (sweat) could be confounded by the overall conditions. For this reason
+         congruency between the environment (male experimenter) and the olfactory cue used
+         was maintained and only male sweat was used.
+      
+      The criteria and donor requirements for sweat collection were based on methods used
+         by Zhou and Chen (2009). Fresh sweat samples were collected each day of testing in order to minimise bacterial
+         growth and the consequent odour. Each time, samples were taken from two of three possible
+         donors using cotton pads taped under the arms and to the abdomens of the male donors
+         while they exercised (running or cycling for 40 – 60 mins). For 24&nbsp;h prior to collection,
+         donors avoided consuming foods known to add odorants to sweat (eg garlic, chilli,
+         asparagus). For that same period they abstained from having sex, and from applying
+         deodorants or strong scented soaps. All male sweat donors were healthy adults with
+         no medical conditions and were taking no medications. Donors were also required to
+         be available to participate for the duration of the study.
+      
+      Fifteen minutes before testing commenced the sweat-soaked cotton pads were collected
+         and placed into an opaque plastic bowl that was then placed in the testing cubicle
+         behind the computer monitor, 80-100&nbsp;cm from the participant. The container was placed
+         out of the direct line-of-sight of the participant to avoid potentially priming participants
+         as to the purpose of the experiment. Sweat pads from more than one donor always were
+         combined to avoid the possibility of interactions between an individual donor and
+         participants.
+      
+      Procedure
+      Participants completed the sex-discrimination task on two separate occasions: Once
+         for the non-olfactory condition (no sweat cue) and once with the olfactory (sweat)
+         cue present. On all occasions participants were kept naïve as to the nature of the
+         experiment, specifically that it included an olfactory manipulation. The order of
+         the two conditions was counter-balanced across participants.
+      
+      Upon arrival at the laboratory participants were asked to sit in front of a computer
+         screen in an unlit cubicle. Lundstrom and Olsson (2005) previously have reported that some effects are contingent on social context and
+         that effects mediated by male olfactory cues are most effective when the experimenter
+         is male. For that reason a male experimenter was used on all occasions. Having given
+         instructions and answered any questions the experimenter immediately left the testing
+         cubicle and closed the door. The experimenter then monitored proceedings using a slave
+         monitor in an adjacent room. Presentation protocol comprised a 3&nbsp;second blank grey
+         pre-stimulus screen followed by a 1000&nbsp;msec presentation of a walker (one complete
+         2-step walking cycle). Participants recorded their response in a post-stimulus 5&nbsp;second
+         interval. Participants completed on each occasion two blocks of trials, each composed
+         of 11 different walkers (2 target walkers, 9 distractors) each repeated 5 times. Participants
+         were given a short break between blocks of trials.
+      
+      Having completed their first session participants arranged to return, a week later,
+         for a second testing session where the procedures were repeated. The olfactory cue
+         was present at only one session but on all occasions identical plastic containers
+         to the one in which pads were stored was in place behind the computer monitor – a
+         measure implemented (in spite of participants’ naivety to the olfactory manipulation)
+         to provide the most stringent possible control across conditions.
+      
+      After the second testing session participants were debriefed without being told of
+         the aim of the experiment or of the presence or otherwise of the olfactory cue. All
+         were questioned, during debriefing, about their visual, auditory, temperature, and
+         olfactory experiences as an observer. No participant reported any awareness of unusual
+         odours or odorants in the testing room.
+      
+   
+

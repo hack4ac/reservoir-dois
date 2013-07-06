@@ -1,0 +1,13 @@
+
+
+
+
+Abstract
+
+
+
+
+The stabilizability concept for bivariate means has been introduced and studied in (Raïssouli in Appl. Math. E-Notes, 11:159-174, 2011). It has been proved to be a useful tool for theoretical viewpoint as well as for practical purposes (Raïssouli in Appl. Math. E-Notes, 11:159-174, 2011). In the present paper, we give an extension of the stabilizability concept, the so-called generalized stabilizability. Our paper will be completed by some applications and examples illustrating the above extension and showing the interest of this work.
+
+
+

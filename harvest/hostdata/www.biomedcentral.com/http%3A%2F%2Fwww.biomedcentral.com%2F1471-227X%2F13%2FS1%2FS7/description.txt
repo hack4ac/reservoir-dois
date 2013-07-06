@@ -1,0 +1,36 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Objective
+
+
+               To study ultra-early pathophysiological changes of rabbit acute lung injury (ALI) caused by paraquat (PQ) and discuss the ultra-early protective effect of ulinastatin on rabbit ALI due to PQ.
+
+
+            
+               
+                  Methods
+
+
+               30 New Zealand white rabbits were randomly divided into a control group, a paraquat group and an ulinastatin intervention group with 10 rabbits in each group. For paraquat group and intervention group a single dose of paraquat (35mg/kg) was injected intraperitoneally to establish rabbit models of ALI. The control group was injected an equal volume of saline. The intervention group was treated with 100Ku/kg ulinastatin immediately after the establishment of the ALI model. The respective experimental groups underwent 320-slice CT perfusion scan of pleural at 2h, 4h and 6h time point after modeling to get CTP (CT Perfusion) images and related parameters. 2mL blood was collected in the marginal ear vein to determine the mass concentration of the vascular endothelial growth factor (VEGF). The animals were killed by air embolism after 6h and lung tissue was taken for pathology observation.
+
+
+            
+               
+                  Results
+
+
+               The reginal blood flow (rBF) and reginal blood volume (rBV) of paraquat group at 2,4,6 h time point were significantly (P <0.05) lower than those of control group. The intervention group rBF and rBV at 2, 4 and 6 h time points were significantly higher (P <0.05) compared to paraquat group. The permeability surface (rPS) and VEGF mass concentration of paraquat group at 2,4,6 h time point were significantly higher than the control group (P <0.05), and the intervention group rPS and VEGF mass concentrations at 2,4,6h time point were significantly lower (P <0.05) than those of paraquat group. Pathological detection indicators of paraquat group (congestive capillary percentage, the number of red blood cells outside of capillaries, percentage of capillaries with basement membrane damage) were significantly higher (P <0.05) at 6h time point compared with the control group, while significantly lower (P <0.05) in intervention group than in paraquat groups. Pathological observation under light microscope showed in paraquat group obvious inflammatory cell infiltration, alveolar epithelial cell hyperplasia, widened alveolar septum, visible focal hemorrhage, visible acute and chronic inflammatory cell infiltration in bronchioles cavity; under electron microscopy alveolar epithelial cell degeneration and necrosis, vascular welling of the endothelial cells, basement membrane rupture, a lot of exudates in alveolar space. In the intervention group, the above the symptoms were mitigated.
+
+
+            
+               
+                  Conclusion
+
+
+               In the ultra-early stage of rabbit ALI induced by PQ, pulmonary vascular endothelial ...

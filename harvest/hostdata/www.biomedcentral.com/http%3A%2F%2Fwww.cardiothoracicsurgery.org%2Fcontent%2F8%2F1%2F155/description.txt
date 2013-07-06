@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				Currently, Saphenous vein (SV) and internal thoracic artery (ITA) are still the most common graft materials in Coronary Artery Bypass Grafting (CABG) whereas SV graft have a lower long-term patency than ITA. Vascular smooth muscle cells (VSMCs) phenotype conversion, proliferation and migration may play a key role in mechanism of vein graft restenosis. To explore differential gene expression profile in VSMCs from SV and ITA will help to further elucidate the mechanism of VSMCs in vein graft restenosis after CABG and to provide new thread of gene therapy.
+
+			
+			
+				
+					Methods
+
+				VSMCs from paired SV and ITA were cultured for experiments of Affymetrix microarrays and verification using FQ RT-PCR, while the database for annotation, visualization and integrated discovery bioinformatics resources (DAVID 2.0) was utilized for bioinformatics analysis of differential gene expression profile between SV VSMCs and ITA VSMCs. RNA of tunica media from SV and ITA segments were extracted for FQ RT-PCR to display differential expression of PLAT
+
+			
+			
+				
+					Results
+
+				54,613 probe sets were examined by gene microarray experiments. In SV VSMCs, 1,075 genes were up-regulated and 406 of them were higher than two-fold; 1,399 genes were down-regulated and 424 of them were lower than two-fold as compare with ITA VSMCs.14 ECM-related genes differentially expressed were verificated and listed as following: COL4A4, COL11A1, FN1, TNC, THBS, FBLN, MMP3, MMP9, TIMP3, WNT5A, SGCD were higher whereas COL14A1, ELN, PLAT lower in SV VSMCs than ITA VSMCs. In addition, PLAT was lower in tunica media from SV segments than ITA.
+
+			
+			
+				
+					Conclusion
+
+				VSMCs from SV and ITA have distinct phenotypes characteristics. Both promoting and inhibiting migration ECM-related genes were higher in VSMCs from SV as compared with ITA, suggesting that VSMCs from SV have more potential migrating capability whereas less PLAT both in SV VSMCs and vascular tissue,implying that SV may prone to be restenosis after CABG.
+
+			
+		

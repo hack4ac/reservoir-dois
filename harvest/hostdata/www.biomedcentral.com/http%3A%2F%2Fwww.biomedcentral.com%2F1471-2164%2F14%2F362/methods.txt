@@ -1,0 +1,130 @@
+Methods
+   
+      Mice were housed under conditions meeting the guidelines issued by the Association
+         for Assessment and Accreditation of Laboratory Animal Care. All animal protocols were
+         approved by the University of Pennsylvania’s Institutional Animal Care and Use Committee
+         (IACUC protocol #801832).
+      
+      Animal processing
+      Experiments were performed on male mice (C57BL/6&nbsp;J) 10 +/−1 wk of age. Mice were kept
+         in a pathogen-free environment with 12&nbsp;hr:12&nbsp;hr light:dark cycle. Temperature and
+         humidity were regulated (22°C and 45–55% respectively). Water was available ad libitum. Food was accessible only during the 12&nbsp;hours of the active period. Animals were
+         acclimated to this feeding pattern for 14&nbsp;days prior to the beginning of the deprivation
+         and tissue collection protocols. This was done to avoid differential food intake between
+         mice that were subsequently sleep deprived during the lights-on period and those allowed
+         uninterrupted sleep. This acclimatization period was also used to allow animals to
+         become accustomed to the extended presence of an experimenter and repeated gentle
+         touching. This likely reduced, but did not fully remove stress resulting from the
+         subsequent sleep deprivation procedure. Mice were sacrificed by cervical dislocation
+         following 3, 6, 9, and 12&nbsp;h of total sleep deprivation (n = 8 or 9 at each time point). Deprivation was initiated at lights-on and performed
+         through gentle handling. Mice that had been allowed undisturbed sleep were sacrificed
+         at the same diurnal time points as sleep-deprived mice. An additional baseline group
+         (n = 10) was sacrificed at time zero, i.e., at the time of lights-on at 7:00&nbsp;AM. All
+         mice were behaviorally monitored with the AccuScan infrared monitoring system that
+         detects movement when the mouse crosses electronic beams (Columbus Instruments). For
+         each animal, descriptive statistics such as average activity (beam breaks) for each
+         hour (and then averaged across 12&nbsp;h of light and dark) and estimated sleep amounts
+         were computed. Sleep was considered to be present when there was 40&nbsp;s or more of continuous
+         inactivity. This has been shown previously to provide accurate estimates of sleep
+         and wake [76]. In addition, plots of activity and sleep graphed as moving averages broken down
+         by light/dark cycle per day were generated for visual inspection. All mice studied
+         had normal sleep/wake behavior for this strain at this age.
+      
+      Tissue sampling, RNA isolation, and microarrays
+      The animals were subjected to cervical dislocation followed by tissue collection.
+         Total RNA was isolated with TRIzol (Invitrogen-Life, Carlsbad, CA) and further purified
+         using RNeasy columns (Qiagen, Valencia, CA) as recommended by the manufacturer’s instructions.
+         Transcript levels were assayed using the GeneChip® Mouse Gene 1.0 ST array (Affymetrix,
+         Santa Clara, CA), comprising 28.000 genes. RNA quality and integrity was checked using
+         spectrophotometer to access the concentration and purity in ratio of absorbance at
+         260&nbsp;nm. A total of 100&nbsp;ng of RNA from each time point from each animal and respectively
+         tissue was used to hybridize independents sets of Gene Chip Mouse Gene St 1.0 arrays
+         (Affymetrix®, Santa Clara, CA, USA), according to the manufacturer’s protocol and
+         following the best practice and high-standard criteria required. The RNA processing
+         and microarrays experimental protocols were performed in the University of Pennsylvania
+         Microarray Core Facility. Each sample was analyzed with a single microarray.
+      
+      Target preparation, including hybridization and post-hybridization procedures, was
+         performed as described by the Affymetrix GeneChip Whole-transcriptome Terminal Labeling
+         and Controls manual (http://www.affymetrix.com webcite). Each of the 28,853 genes is represented on the array by approximately 27 probes
+         spread across the full length of the gene.
+      
+      Preprocessing and data analysis
+      Probe intensity data from all arrays were read into the R software environment (http://www.R-project.org webcite) directly from .cel files using the R/oligo package [77,78]. R/oligo was also used to extract probe level data to assess data quality using intensity
+         histograms and boxplots and to create summary measures of expression. Normalization
+         was performed using the robust multi-array average (RMA) method to form one expression
+         measure for each gene on each array histograms [79]. RMA processing was performed separately for each tissue (heart, lung), using all
+         data sets from a given tissue together. Data analysis proceeded in a staged approach.
+         The first step was an analysis of variance (ANOVA)-based approach to find gene expression
+         differences between behavioral states (sleep or sleep deprived). The data from the
+         animals at the baseline group (time zero, lights on) were not used in this first step
+         of the analysis. Overall contrasts across conditions were considered by implementing
+         gene-specific, fixed-effect ANOVA models [80] using the R/maanova package [81]. Specifically, the model Yi = μ + STATE + ei was used to fit gene expression measures within each tissue, where μ is the mean
+         for each array, STATE is the effect for each behavioral state (sleep deprived or sleeping),
+         and ei captures random error. The first analysis looked for a main effect of state, comparing
+         expression levels between all sleep-deprived (awake) and sleeping (sleep) animals.
+         All statistical tests were conducted with a modified F-statistic (Fs) that that shrinks
+         variance components based on information from all the probe sets on the array [82]. Critical P values were calculated through permutation analyses incorporating 1,000 sample shuffles
+         and pooled F-statistics [83]. False discovery rate (FDR) values were determined using the Benjamini Hochberg method
+         [84] implemented through the p. adjust function in R. An FDR threshold of 1% was used
+         to determine differential gene expression.
+      
+      Transcripts differentially expressed between sleep/wake behavioral states (step 1)
+         were included in a secondary analysis to test for temporal expression changes among
+         the experimental and baseline animals not subjected to gentle handling and enforced
+         sleep deprivation. This secondary trend analysis utilized the data obtained from both
+         mice sacrificed at lights-on (time zero at 7:00&nbsp;AM) and the animals sacrificed after
+         different durations of spontaneous sleep (i.e., at 10:00&nbsp;AM, 1:00&nbsp;PM, 4:00&nbsp;PM, 7:00&nbsp;PM).
+         Trend tests were performed through linear regression analyses in which time was treated
+         as a continuous variable. For each tissue, expression measures were fit to the model
+         Yi(t) = α0(i) + ßj(i)t + ϵijk, which included common intercepts (α0) and unique slopes over time (ßj) for each state (j = 1,2 for sleep and sleep deprivation, respectively). The temporal
+         pattern of differential gene expression over time was determined according to the
+         slope (positive or negative). Statistical significance was determined as described
+         in step 1. Strict sleep enhanced (sleep repressed) genes met criteria for differential
+         expression in the first analysis and showed a significantly positive (or negative)
+         slope during the spontaneous sleep period (FDR &lt;1%). Unless otherwise noted all other
+         plots and data analysis were done in the R programming environment.
+      
+      Clustering and heatmap generation
+      For each gene found to have sleep dependant transcription (either sleep repressed
+         or sleep enhanced) in both the heart and lung, we created an eight dimensional vector
+         describing the difference in mean mRNA expression between the sleep and sleep deprived
+         cohorts as a function of time (mean differences in heart and lung at times 3, 6, 9,
+         and12). The agglomerative clustering command (Agglomerate) in Mathematica v. 8.0 (Wolfram
+         Research) was used with the Euclidean distance metric to provide a relative ordering
+         of the transcript expression vectors. The heat map was generated with the ArrayPlot
+         command. Clustering was only done to order the genes for vertical placement on the
+         resulting heat map.
+      
+      DAVID analysis
+      We used Database for Annotation, Visualization and Integrated Discovery (DAVID) [28,29] bioinformatics toolbox to identify significant overrepresentation in one of the following
+         categories: gene ontology (GO) biological process, molecular function, and Protein
+         Information Resource (PIR) Key words, Kyoto Encyclopedia of Genes and Genomes (KEGG)
+         pathways. Over-represented functional categories are identified by calculation of
+         a conservative adjustment to the one-tailed Fisher’s exact probability that represents
+         the upper bound of the distribution. In addition, we used the within-system FDR (False
+         discovery rate) to assess the impact of multiple testing using an FDR cutoff of 5%.
+      
+      To aid in interpreting these results the functional clustering tool available within
+         DAVID was used to group overrepresented biological terms that represent overlapping
+         gene sets and common physiology. The clustering stringency was set to “medium”. Tables
+         were constructed from DAVID clustering output by maintaining the clusters but including
+         only the enriched terms that met the FDR threshold.
+      
+      KEGG pathway visualization
+      To generate figures of the imputed pathways, the lists of sleep specific transcripts
+         were loaded onto the KEGG Mapper search and color tool [85] (http://www.genome.jp/kegg/tool/map_pathway2.html webcite). The protein processing pathway was redrawn to enhance resolution.
+      
+      Uniformity of variance analysis
+      Only data from animals sacrificed at baseline and after uninterrupted sleep was used
+         in this analysis. Log base 2 expression intensities for each probe were grouped based
+         on the duration of uninterrupted sleep (baseline-0, 3&nbsp;hrs, 6&nbsp;hrs, 9&nbsp;hrs, and 12&nbsp;hrs).
+         Bartlett’s test of homoscedasticity [70] was used to assess the homogeneity of variance among all 5 groups. Testing was done
+         in the R programming environment using the bartlett.test() function from library stats. Resulting p values were corrected for multiple testing by the method of Benjamini
+         and Hochberg [84] with the p.adjust() command. All probes with a resulting q value &lt;0.01 were retained for further analysis.
+         The implementation of the Brown-Forsythe [72] test in R package lawstat was used as a confirmatory nonparametric test. Probes that passed secondary screening
+         with a p value &lt;0.01 were considered to have significant changes in variance as a
+         function of sleep duration and/or diurnal time.
+      
+   
+

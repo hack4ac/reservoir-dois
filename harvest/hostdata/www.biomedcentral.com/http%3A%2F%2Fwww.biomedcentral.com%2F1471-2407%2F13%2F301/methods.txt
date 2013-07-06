@@ -1,0 +1,76 @@
+Methods
+   
+      Patients
+      256 patients with primary and locally advanced OSCC were enrolled in a prospective,
+         randomized, phase 3 trial at Ninth People’s Hospital, Shanghai Jiao Tong University
+         School of Medicine [9], which was in compliance with the Helsinki Declaration. The aim of this study was
+         to test the hypothesis that TPF induction chemotherapy administered prior to surgery
+         and post-operative radiotherapy improves survival in patients with resectable locally
+         advanced OSCC (trial registration ID: NCT01542931). After eligibility was confirmed
+         and written informed consent obtained, patients were randomized to the control group
+         (surgery followed by post-operative radiotherapy) or experimental group (TPF induction
+         chemotherapy followed by surgery and post-operative radiotherapy).
+      
+      The TPF induction chemotherapy consisted of docetaxel 75 mg/m2 intravenously and cisplatin 75 mg/m2 intravenously on day 1, followed by 5-fluorouracil 750 mg/m2/day as a 120-hour continuous intravenous infusion on days 1 through 5. Induction
+         chemotherapy was given every 3 weeks for 2 cycles. Surgery was performed at least
+         2 weeks after completion of induction chemotherapy, consisting of radical resection
+         of the primary lesion and full neck dissection with appropriate reconstruction (pedicle
+         or free flap); frozen sections during surgery was performed to confirm adequate margins.
+         Post-operative radiotherapy was initiated 4–6 weeks after surgery, at a dose of 1.8-2
+         Gy/day, 5 days/week for 6 weeks, totally 54-60 Gy; in patients with high risk features,
+         such as positive surgical margins, extracapsular nodal spread, or vascular embolism,
+         a total radiation dose of 66 Gy was recommended.
+      
+      Clinical tumor response to induction chemotherapy was determined by clinical evaluation
+         and imaging studies (performed at baseline and 2 weeks after cycle 2 of induction
+         chemotherapy). Responses were characterized according to the RECIST version 1.0 [29]. Pathologic response to TPF induction chemotherapy was assessed by examination of
+         the resected specimen. A favorable response was defined as absence of tumor cells
+         or presence of scattered foci of a few tumor cells (minimal residual disease with
+         &lt;10% viable tumor cells), as previously described by Licitra et al. [30]; an unfavorable pathologic response was defined as the presence of ≥10% viable tumor
+         cells in the resected specimen.
+      
+      After treatment, patients were monitored every three months in the first two years,
+         every six months in the subsequent 3–5 years, and once a year thereafter until death
+         or data censoring.
+      
+      Detection of Annexin A1 expression using immunohistochemistry
+      Pre-treatment formalin fixed and paraffin embedded biopsy specimens were used for
+         detection of Annexin A1 expression; however, in the control group, if pre-treatment
+         biopsy was unavailable, resected surgical specimens were used. Sections of 4 μm thick were studied using hematoxylin and eosin (HE) staining and immunohistochemical
+         staining for Annexin A1. The HE sections were reviewed according to the WHO histological
+         criteria [31]. Immunohistochemical staining was accomplished using well established methods as
+         previously described [32,33]. In brief, after deparaffinization, endogenous peroxidase block and heat-induced
+         epitope retrieval, primary rabbit polyclonal antibody to Annexin A1 (product code
+         of BA0640, Boster Biotech Co., Wuhan, China) at 1:150 dilution was added overnight
+         at 4°C, then visualized using 3,3’-diaminobenzidine (DAB) detection kit (Dako Cytomation,
+         Denmark). The 1:150 dilution was the best dilution compared to 1:50, 1:100, and 1:200.
+         Negative control was prepared using PBS instead of antibody. Microscopic examination
+         was performed by two pathologists and all specimens were blinded. Positive staining
+         for Annexin A1 expression was observed in the cellular membrane and cytoplasm. The
+         Annexin A1 expression index was determined based on the proportion of stained cells
+         on a scale of negative to strong as follows: negative, absence of stained cells; weak
+         positive, &lt;50% of stained cells; and strong positive, ≥50% of stained cells. Low Annexin
+         A1 expression was defined as negative and weak positive Annexin A1 expression, high
+         Annexin A1 expression was defined as strong positive Annexin A1 expression. This was
+         based on previous studies demonstrating that the chosen cut-off of 50% was reasonable
+         for prognostic analysis [24].
+      
+      Statistical analysis
+      The primary endpoint of this trial was survival rate. Second endpoints of this trial
+         were local control and safety. Overall survival (OS) was calculated from the date
+         of randomization to the date of death; disease-free survival (DFS)/locoregional recurrence-free
+         survival (LRFS)/distant metastasis-free survival (DMFS) were calculated, respectively,
+         from the date of randomization to recurrence/locoregional recurrence/distant metastasis
+         or death from any cause.
+      
+      For descriptive analysis, categorical data were expressed as number and percentage.
+         Chi-square test was applied to compare the difference between the baseline factors
+         and Annexin A1 expression. The survival analysis was conducted using the Kaplan-Meier
+         method and log-rank test. Hazard ratios (HR) were calculated using the Cox proportional
+         hazards model. Intention-to-treat principle was applied for efficacy analysis.
+      
+      All hypothesis-generating tests were two-sided at a significance level of 0.05. Data
+         were analyzed with the statistical software SPSS13.0 for Windows (SPSS Inc., USA).
+      
+   
+

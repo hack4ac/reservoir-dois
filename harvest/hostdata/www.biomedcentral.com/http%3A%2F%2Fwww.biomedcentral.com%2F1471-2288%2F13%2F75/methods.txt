@@ -1,0 +1,1726 @@
+Methods
+   
+      Statistical context
+      Model
+      Let us consider a Generalized Linear Model with p explanatory variables [17], where Yi (1≤i≤n) are independently distributed with probability density function in the exponential
+         family defined as follows:
+      
+      
+         
+               
+                  
+                     
+                        f
+                     
+                     
+                        
+                           
+                              Y
+                           
+                           
+                              i
+                           
+                        
+                     
+                  
+                  (
+                  
+                     
+                        y
+                     
+                     
+                        i
+                     
+                  
+                  ,
+                  
+                     
+                        θ
+                     
+                     
+                        i
+                     
+                  
+                  ,
+                  ϕ
+                  )
+                  =
+                  exp
+                  
+                     
+                        
+                           
+                              
+                                 
+                                    y
+                                 
+                                 
+                                    i
+                                 
+                              
+                              
+                                 
+                                    θ
+                                 
+                                 
+                                    i
+                                 
+                              
+                              −
+                              b
+                              (
+                              
+                                 
+                                    θ
+                                 
+                                 
+                                    i
+                                 
+                              
+                              )
+                           
+                           
+                              a
+                              (
+                              ϕ
+                              )
+                           
+                        
+                        +
+                        c
+                        (
+                        
+                           
+                              y
+                           
+                           
+                              i
+                           
+                        
+                        ,
+                        ϕ
+                        )
+                     
+                  
+                  ;
+               (1)
+      
+      with 
+            
+               E
+               [
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+               
+               ]
+               =
+               
+                  
+                     μ
+                  
+                  
+                     i
+                  
+               
+               =
+               
+                  
+                     b
+                  
+                  
+                     ′
+                  
+               
+               (
+               
+                  
+                     θ
+                  
+                  
+                     i
+                  
+               
+               )
+               ,
+               V
+               ar
+               [
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+               
+               ]
+               =
+               
+                  
+                     b
+                  
+                  
+                     ″
+                  
+               
+               (
+               
+                  
+                     θ
+                  
+                  
+                     i
+                  
+               
+               )
+               a
+               (
+               ϕ
+               )
+             and where a(·), b(·), and c(·) are known and differentiable functions. b(·) is three times differentiable, and its first derivative b′(·) is invertible. Parameters (θi,ϕ) belong to 
+            
+               Ω
+               ⊂
+               
+                  
+                     ℝ
+                  
+                  
+                     2
+                  
+               
+            , where θi is the canonical parameter and ϕ is the dispersion parameter.
+      
+      In this context, we wished to test the association between the outcome Yi and explanatory variable of interest Xi, adjusted on a vector of explanatory variables Zi. The form of the effect of Xi is unknown, so we may consider K transformations of this variable Xi(k)=gk(Xi) with k=1,…,K.For example, if we transform the continuous variable in mk classes, mk−1 dummy variables are defined from the function gk(·): 
+            
+               
+                  
+                     
+                        X
+                     
+                     
+                        i
+                     
+                  
+                  (
+                  k
+                  )
+               
+               =
+               
+                  
+                     g
+                  
+                  
+                     k
+                  
+               
+               (
+               
+                  
+                     X
+                  
+                  
+                     i
+                  
+               
+               )
+               =
+               (
+               
+                  
+                     X
+                  
+                  
+                     i
+                  
+                  
+                     1
+                  
+               
+               (
+               k
+               )
+               ,
+               …
+               ,
+               
+                  
+                     X
+                  
+                  
+                     i
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+               (
+               k
+               )
+               )
+            . Different numbers of level mk of the categorical transformation are possible.The model for a transformation k can then be obtained by modeling the canonical parameter θi as:
+      
+      
+         
+               
+                  
+                     
+                        θ
+                     
+                     
+                        i
+                     
+                  
+                  (
+                  k
+                  )
+                  =
+                  γ
+                  
+                     
+                        
+                           Z
+                        
+                        
+                           i
+                        
+                     
+                  
+                  +
+                  
+                     
+                        
+                           β
+                        
+                        
+                           k
+                        
+                     
+                  
+                  
+                     
+                        
+                           X
+                        
+                        
+                           i
+                        
+                     
+                     (
+                     k
+                     )
+                  
+                  ,
+                  
+                  
+                  i
+                  =
+                  1
+                  ,
+                  …
+                  ,
+                  n
+                  ;
+               (2)
+      
+      where 
+            
+               
+                  
+                     
+                        Z
+                     
+                     
+                        i
+                     
+                  
+               
+               =
+               (
+               1
+               ,
+               
+                  
+                     Z
+                  
+                  
+                     i
+                  
+                  
+                     1
+                  
+               
+               ,
+               …
+               ,
+               
+                  
+                     Z
+                  
+                  
+                     i
+                  
+                  
+                     p
+                     −
+                     1
+                  
+               
+               )
+             and γ=(γ0,…,γp−1)T is a p−1 vector of coefficients, and βk is the mk−1 vector of coefficients associated with a categorical transformation k of the variable Xi. For dichotomous or Box-Cox transformations βk reduce to a scalar (
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               ∈
+               ℝ
+            ).The hypothesis of the test for the transformation k is defined as follows:
+      
+      
+         
+               
+                  
+                     
+                        ℋ
+                     
+                     
+                        0
+                     
+                  
+                  (
+                  k
+                  )
+                  :
+                  
+                     
+                        
+                           β
+                        
+                        
+                           k
+                        
+                     
+                  
+                  =
+                  
+                     
+                        
+                           0
+                        
+                     
+                     
+                        
+                           
+                              m
+                           
+                           
+                              k
+                           
+                        
+                        −
+                        1
+                     
+                  
+                  
+                  
+                  versus
+                  
+                  
+                  
+                     
+                        ℋ
+                     
+                     
+                        1
+                     
+                  
+                  (
+                  k
+                  )
+                  :
+                  
+                     
+                        
+                           β
+                        
+                        
+                           k
+                        
+                     
+                  
+                  ≠
+                  
+                     
+                        
+                           0
+                        
+                     
+                     
+                        
+                           
+                              m
+                           
+                           
+                              k
+                           
+                        
+                        −
+                        1
+                     
+                  
+                  ,
+               
+         
+      
+      where 
+            
+               
+                  
+                     0
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+             is a null vector of dimension mk−1. Under the null hypothesis 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+               (
+               k
+               )
+             we have θi(k)=γZi, which do not depend on k. Thus all the null hypotheses are the same, and denote it by 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            .
+      
+      Maximum test and minimum P-value procedures
+      For each coding, k, of the variable Xi, a test statistic Tk is performed on the nullity of the vector βk. We then have a vector of test statistics T=(T1,…,TK) for the same null hypothesis (no effect of the risk factor of interest). In the
+         context of dichotomous and Box-Cox transformations, each test statisitic, Tk, has asymptotically, a standard normal distribution. Thus rejecting the null hypothesis
+         if one of the absolute values of the test Tk is larger than a critical value cα, is equivalent to rejecting the null hypothesis if Tmax&gt;cα where Tmax=max(|T1|,…,|TK|). To cope with the multiplicity problem, Liquet and Commenges [13,14] proposed that the probablity of Type-I error for the statistic Tmax under the null hypothesis be computed as:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              
+                                 p
+                              
+                              
+                                 value
+                              
+                           
+                        
+                        
+                           =
+                           P
+                           (
+                           
+                              
+                                 T
+                              
+                              
+                                 max
+                              
+                           
+                           ≥
+                           
+                              
+                                 t
+                              
+                              
+                                 max
+                              
+                           
+                           )
+                           =
+                           1
+                           −
+                           P
+                           (
+                           |
+                           
+                              
+                                 T
+                              
+                              
+                                 1
+                              
+                           
+                           |
+                           
+                        
+                        
+                           
+                        
+                     
+                     
+                        
+                        
+                           &lt;
+                           
+                              
+                                 t
+                              
+                              
+                                 max
+                              
+                           
+                           ,
+                           …
+                           ,
+                           |
+                           
+                              
+                                 T
+                              
+                              
+                                 max
+                              
+                           
+                           |
+                           &lt;
+                           
+                              
+                                 t
+                              
+                              
+                                 max
+                              
+                           
+                           ,
+                           )
+                           
+                        
+                     
+                  
+               (3)
+      
+      where Tmax is the realization of Tmax.An equivalent approach is to use a procedure based on the individual pvalue of each test Tk noted Pk=P(|Tk|&gt;|tk|) (where Tk is the realization of Tk). The minimum of the K realized pvalue corresponds to the test k which obtains the highest realization (in absolute values; k/ tmax=|tk|). Then, we have:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              
+                                 p
+                              
+                              
+                                 value
+                              
+                           
+                           =
+                           P
+                           (
+                           
+                              
+                                 P
+                              
+                              
+                                 min
+                              
+                           
+                           ≤
+                           
+                              
+                                 p
+                              
+                              
+                                 min
+                              
+                           
+                           )
+                        
+                        
+                           
+                        
+                     
+                  
+               (4)
+      
+      where Pmin=min(P1,…,PK) and pmin is the realization of pmin. The interest of using a procedure based on the pvalue is the possibility of combining statistical tests which do not follow the same distribution.
+         In the current context, we will combine dichotomous, Box-Cox and categorical transformations
+         with more than two levels.
+      
+      Score test
+      We briefly present the score test used for all of the K transformations where the
+         same null hypothesis is tested (i.e.
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            : “
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               =
+               
+                  
+                     
+                        0
+                     
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+            ” given by 
+            
+               
+                  
+                     θ
+                  
+                  
+                     i
+                  
+               
+               (
+               k
+               )
+               =
+               γ
+               
+                  
+                     
+                        Z
+                     
+                     
+                        i
+                     
+                  
+               
+             (with different alternatives)). We present the main results obtained by Liquet and
+         Commenges [14] for the Generalized Linear Model in the context of dichotomous and Box-Cox transformations,
+         and then consider the score test for categorical transformations.
+      
+      Dichotomous and Box-cox Transformations
+      In the context of dichotomous and Box-Cox transformations, the score test used for
+         testing the effect of the transformed variable (βk=0 with 
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               ∈
+               ℝ
+            ) follows asymptotically a standard normal distribution:
+      
+      
+         
+               
+                  
+                     
+                        T
+                     
+                     
+                        k
+                     
+                  
+                  =
+                  
+                     
+                        X
+                        
+                           
+                              (
+                              k
+                              )
+                           
+                           
+                              T
+                           
+                        
+                        
+                           
+                              R
+                           
+                           ̂
+                        
+                     
+                     
+                        
+                           
+                              X
+                              
+                                 
+                                    (
+                                    k
+                                    )
+                                 
+                                 
+                                    T
+                                 
+                              
+                              (
+                              I
+                              −
+                              H
+                              )
+                              VX
+                              (
+                              k
+                              )
+                           
+                        
+                     
+                  
+               
+         
+      
+      where 
+            
+               
+                  
+                     R
+                  
+                  ̂
+               
+             is the vector of residuals 
+            
+               
+                  
+                     
+                        
+                           R
+                        
+                        
+                           i
+                        
+                     
+                  
+                  ̂
+               
+               =
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+               
+               −
+               
+                  
+                     
+                        
+                           μ
+                        
+                        
+                           i
+                        
+                     
+                  
+                  ̂
+               
+             computed under the null hypothesis, V is a diagonal matrix such that 
+            
+               
+                  
+                     v
+                  
+                  
+                     ii
+                  
+               
+               =
+               
+                  
+                     Var
+                  
+                  ̂
+               
+               (
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+               
+               )
+               ,
+               H
+               =
+               VZ
+               (
+               
+                  
+                     Z
+                  
+                  
+                     T
+                  
+               
+               VZ
+               )
+               
+                  
+                     Z
+                  
+                  
+                     T
+                  
+               
+            , and Z the n×p matrix with rows Zi, i=1,…,n.
+      
+      The correlation between the different tests has been defined by Liquet and Commenges
+         [14]. Asymptotically, the joint distribution of T1,…,TK is a multivariate normal distribution with zero mean and a certain covariance matrix.
+         Thus Liquet and Commenges [14] propose that the pvalue (associated with the test Tmax) defined in (3) using numerical integration [18] be calculated. They called their method the “exact method”.
+      
+      Categorical transformations
+      In the context of a categorical transformation in mk classes, the score test testing 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            : “
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               =
+               
+                  
+                     
+                        0
+                     
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+            ” (with 
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               ∈
+               
+                  
+                     ℝ
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+            ) follows asymptotically a χ2 distribution with mk−1 degrees of freedom and is defined as:
+      
+      
+         
+               
+                  
+                     
+                        T
+                     
+                     
+                        k
+                     
+                  
+                  =
+                  
+                     
+                        U
+                     
+                     
+                        k
+                     
+                     
+                        T
+                     
+                  
+                  
+                     
+                        I
+                     
+                     
+                        k
+                     
+                     
+                        −
+                        1
+                     
+                  
+                  
+                     
+                        U
+                     
+                     
+                        k
+                     
+                  
+                  ;
+               
+         
+      
+      where Uk and Ik are respectively the score function and the Fisher information matrix under the null
+         hypothesis [19]. To compute the pvalue defined in (4), it is necessary to know the joint distribution of T=(T1,…,TK). Some studies have defined the distribution of the multivariate χ2[20,21]. However, even though the correlation between the different tests could be easily
+         estimated, it has not been possible, as far as we know, to obtain the joint distribution
+         of T=(T1,…,TK). To overcome this problem, we propose approximating the pvalue (defined in (4) by the minimum pvalue procedure) using a resampling method (defined in the next section) which also accounts
+         for the correlation between the test statistics.
+      
+      Significance level correction
+      Bonferroni method
+      One of the most common corrections in multiple testing is the Bonferroni method. It
+         has been described by several authors in various applications [7,11,22]. It allows an upper bound of the significance level of the minimum pvalue procedure to be computed as:
+      
+      
+         
+               
+                  
+                     
+                        p
+                     
+                     
+                        value
+                     
+                  
+                  =
+                  P
+                  (
+                  
+                     
+                        P
+                     
+                     
+                        min
+                     
+                  
+                  ≤
+                  
+                     
+                        p
+                     
+                     
+                        min
+                     
+                  
+                  )
+                  ≤
+                  K
+                  ×
+                  
+                     
+                        p
+                     
+                     
+                        min
+                     
+                  
+               
+         
+      
+      where K is the number of tests. This method is very simple and does not require any assumption
+         about the correlation between the different tests. It can therefore be applied directly
+         to the different possible codings of an explanatory variable. However, this only provides
+         an upper bound of the pvalue, which may be very conservative if the correlation between tests are high and the
+         number of transformation are large.
+      
+      Resampling based methods
+      We propose the use of resampling based methods [23,24] with the aim of building a reference distribution for the test statistics. These
+         procedures have the advantage of taking into account the dependence of the test statistics
+         for evaluating the correct significance level of the minimum pvalue procedure (or the maximum test procedure). The principle of resampling procedures
+         is to define new samples from the probability measure defined under 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            : “
+            
+               
+                  
+                     
+                        β
+                     
+                     
+                        k
+                     
+                  
+               
+               =
+               
+                  
+                     
+                        0
+                     
+                  
+                  
+                     
+                        
+                           m
+                        
+                        
+                           k
+                        
+                     
+                     −
+                     1
+                  
+               
+            ”.
+      
+      Permutation test procedure
+      Permutation methods can be used to construct tests which control the Type-I error
+         rate [25]. In our context, the algorithm of the permutation procedure is defined as follows:
+         
+      
+      1. Apply the minimum pvalue procedure to the original data for the K transformations considered. We note pmin the realization of the minimum of the pvalue;
+      
+      2. As under 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            , the Xi variable has no effect on the response variable, a new dataset is generated by permuting
+         the Xi variable in the initial dataset;
+      
+      3. Generate B new datasets 
+            
+               
+                  
+                     s
+                  
+                  
+                     b
+                  
+                  
+                     ∗
+                  
+               
+               ,
+               b
+               =
+               1
+               ,
+               …
+               ,
+               B
+             by repeating B times the step 2;
+      
+      4. For each new dataset, apply the minimum pvalue procedure for the transfomation under consideration. We note 
+            
+               
+                  
+                     p
+                  
+                  
+                     min
+                  
+                  
+                     ∗
+                     b
+                  
+               
+             the smallest pvalue for each new dataset.
+      
+      5. The pvalue defined in (4) is then approximated by:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              p
+                           
+                           
+                              value
+                           
+                        
+                     
+                     ̂
+                  
+                  =
+                  
+                     
+                        1
+                     
+                     
+                        B
+                     
+                  
+                  
+                     
+                        ∑
+                     
+                     
+                        b
+                        =
+                        1
+                     
+                     
+                        B
+                     
+                  
+                  
+                     
+                        I
+                     
+                     
+                        
+                           
+                              
+                                 
+                                    p
+                                 
+                                 
+                                    min
+                                 
+                                 
+                                    ∗
+                                    b
+                                 
+                              
+                              &lt;
+                              
+                                 
+                                    p
+                                 
+                                 
+                                    min
+                                 
+                              
+                           
+                        
+                     
+                  
+                  ,
+               
+         
+      
+      where I{·} is an indicator function.
+      
+      However, it is important to note that exchangeability need to be satisfied [25-30]. This condition is much more restrictive than it appears at first sight. In fact,
+         Commenges [29] and Commenges and Liquet [25] showed that the permutation test approach for the score test is robust if the model
+         has only one intercept under the null hypothesis, or if Xi are independent of Zi for all i in the context of a linear model and the proportional hazards model. This issue applies
+         in our context. Thus we investigated, the robustness of the permutation method when
+         the exchangeability assumptions is violated.
+      
+      Parametric bootstrap procedure
+      In 2000, Good [31] explained: “Permutations test hypotheses concerning distributions; bootstraps test
+         hypotheses concerning parameters. As a result, the bootstrap implies less stringent
+         assumptions”. Therefore, an alternative way may be to use resampling method based
+         on bootstrap [32], which give us an asymptotic reference distribution. This procedure could be defined
+         by the following algorithm: 
+      
+      1. Apply the minimum pvalue procedure to the original data for the K transformations being considered. We note pmin the realization of the minimum of the pvalue;
+      
+      2. Fit the model under the null hypothesis, using the observed data, and obtain 
+            
+               
+                  
+                     γ
+                  
+                  ̂
+               
+            , the maximum likelihood estimate (MLE) of γ;
+      
+      3. Generate a new outcome 
+            
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+                  
+                     ∗
+                  
+               
+             for each subject from the probability measure defined under 
+            
+               
+                  
+                     ℋ
+                  
+                  
+                     0
+                  
+               
+            . For example, for a logistic model (where a(ϕ)=1, 
+            
+               b
+               (
+               
+                  
+                     θ
+                  
+                  
+                     i
+                  
+               
+               )
+               =
+               log
+               (
+               1
+               +
+               
+                  
+                     e
+                  
+                  
+                     
+                        
+                           θ
+                        
+                        
+                           i
+                        
+                     
+                  
+               
+               )
+            , and 
+            
+               
+                  
+                     μ
+                  
+                  
+                     i
+                  
+               
+               =
+               E
+               (
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+               
+               )
+               =
+               
+                  
+                     e
+                  
+                  
+                     
+                        
+                           θ
+                        
+                        
+                           i
+                        
+                     
+                  
+               
+               /
+               (
+               1
+               +
+               
+                  
+                     e
+                  
+                  
+                     
+                        
+                           θ
+                        
+                        
+                           i
+                        
+                     
+                  
+               
+               )
+            ), we generate 
+            
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+                  
+                     ∗
+                  
+               
+             according to:
+      
+      
+         
+               
+                  P
+                  (
+                  
+                     
+                        Y
+                     
+                     
+                        i
+                     
+                     
+                        ∗
+                     
+                  
+                  =
+                  1
+                  |
+                  
+                     
+                        
+                           Z
+                        
+                        
+                           i
+                        
+                     
+                  
+                  )
+                  =
+                  
+                     
+                        
+                           
+                              e
+                           
+                           
+                              
+                                 
+                                    γ
+                                 
+                                 ̂
+                              
+                              
+                                 
+                                    
+                                       Z
+                                    
+                                    
+                                       i
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     
+                        1
+                        +
+                        
+                           
+                              e
+                           
+                           
+                              
+                                 
+                                    γ
+                                 
+                                 ̂
+                              
+                              
+                                 
+                                    
+                                       Z
+                                    
+                                    
+                                       i
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+                  .
+               
+         
+      
+      Repeat this for all the subjects to obtain a sample noted 
+            
+               
+                  
+                     s
+                  
+                  
+                     ∗
+                  
+               
+               =
+               {
+               
+                  
+                     Y
+                  
+                  
+                     i
+                  
+                  
+                     ∗
+                  
+               
+               ,
+               
+                  
+                     
+                        Z
+                     
+                     
+                        i
+                     
+                  
+               
+               ,
+               
+                  
+                     X
+                  
+                  
+                     i
+                  
+               
+               }
+            
+      
+      4. Generate B new datasets 
+            
+               
+                  
+                     s
+                  
+                  
+                     b
+                  
+                  
+                     ∗
+                  
+               
+               ,
+               b
+               =
+               1
+               ,
+               …
+               ,
+               B
+             by repeating B times the step 3;
+      
+      5. Apply for each new dataset, the minimum pvalue procedure for the transformation considered. We note 
+            
+               
+                  
+                     p
+                  
+                  
+                     min
+                  
+                  
+                     ∗
+                     b
+                  
+               
+             the smallest pvalue for each new dataset.
+      
+      6. Then, the pvalue defined in (4) is then approximated by:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              p
+                           
+                           
+                              value
+                           
+                        
+                     
+                     ̂
+                  
+                  =
+                  
+                     
+                        1
+                     
+                     
+                        B
+                     
+                  
+                  
+                     
+                        ∑
+                     
+                     
+                        b
+                        =
+                        1
+                     
+                     
+                        B
+                     
+                  
+                  
+                     
+                        I
+                     
+                     
+                        
+                           
+                              
+                                 
+                                    p
+                                 
+                                 
+                                    min
+                                 
+                                 
+                                    ∗
+                                    b
+                                 
+                              
+                              &lt;
+                              
+                                 
+                                    p
+                                 
+                                 
+                                    min
+                                 
+                              
+                           
+                        
+                     
+                  
+                  .
+               
+         
+      
+   
+

@@ -1,0 +1,100 @@
+Methods
+   
+      Study design
+      With the permission of the Office for National Statistics to access and use ONSLS
+         data, we conducted a cohort study, with a 10 year follow-up period. The ONSLS is a
+         representative 1% sample of individuals in England and Wales, initiated at the time
+         of the 1971 Population Census [17]. Study members were children born on one of four selected dates of birth in 1971
+         or subsequent census years. Individuals were tracked through subsequent censuses (1981,
+         1991 and 2001) and their data linked. The ONSLS has a large sample of children and
+         thus has sufficient power to account for the potential confounding of the relationship
+         between socio-economic disadvantage and disabling chronic conditions. In addition
+         to data on cohort members, the ONSLS also contains data on individuals (non-members)
+         identified at each census as living in the same households as cohort members. Thus
+         data on the socio-economic circumstances of the households within which the study
+         children live are available. Data files were created, containing only the 1991 and
+         2001 census data fields relevant to our study, on children born between 1981 and 1991
+         who became ONSLS members and who have been tracked in the 1991 and 2001 censuses.
+      
+      Index and comparison groups
+      Children with disabling chronic conditions were identified from a question asked in
+         the 1991 and 2001 Population Census of the household reference person. Children for
+         whom the household reference person responded positively to the following question
+         were classified as having a disabling chronic condition:
+      
+      ‘Do you have any long-term illness, health problem, or handicap which limits your
+         daily activities or the work you can do?’
+      
+      In this cohort study, all children with no disability at 1991 census were included,
+         and these were classified on the basis of their 2001 data. The index group of interest
+         was all ONSLS child members born between 1981 and 1991 reported to have a disabling
+         chronic condition in 2001 but not in 1991. The comparison group comprised ONSLS child
+         members born between 1981 and 1991, who were reported as not having a disabling chronic
+         condition in either 1991 or 2001. Data were extracted on both the index and comparison
+         groups.
+      
+      Independent variables of interest
+      The independent variables of interest, extracted from the 1991 member and non-member
+         data files, were as follows:
+      
+      Highest household social class: data were extracted from the non-members’ data file
+         collapsed into 6 categories: I - Professional; II- Managerial &amp; Technical; IIINM -
+         Skilled non-manual; IIIM – Skilled manual; IV - Partly skilled; V– Unskilled. Armed
+         Forces households and inadequately described social class were treated as missing
+         data.
+      
+      Housing tenure: data extracted from the members’ data file collapsed into 2 categories:
+         Owner-occupied and Rented/other accommodation. Those in communal establishments were
+         treated as missing data as no data were available on social class of household members.
+      
+      Car/van ownership: data extracted from the members’ data file in 4 categories: no
+         car/van; one car/van; two cars/vans; three or more cars/vans).
+      
+      As no standardised deprivation score was available in the dataset, these three variables
+         were used to construct a household socio-economic disadvantage aggregate index (SDI)
+         that combined the available individual measures of socio-economic exposures into a
+         continuous measure and allowed the gradation of onset by socio-economic disadvantage
+         to be examined. Each of the available variables was dichotomised (housing tenure:
+         owner occupied v rented/other; social class of household: high (1–4) v low (5–6);
+         Car/van ownership: 1 or more cars/vans v 0 cars/vans) and summed to generate a socio-economic
+         disadvantage aggregate index. Each variable was scored as follows: 0 indicates no
+         disadvantage, score of 1 indicates disadvantage. Scores were summed across variables
+         to give an aggregate score of 0–3, where 0 = not disadvantaged on any and 3 = disadvantaged
+         on all 3 factors.
+      
+      Confounding variables
+      A number of factors such as age, sex, ethnicity and family status have been shown
+         in other studies to be associated with childhood disability and can confound the relationship
+         between childhood disability and socio-economic disadvantage. For this study, available
+         potential confounding variables were: child’s age (in years in 1991 extracted from
+         the members’ data file); child’s sex (extracted from the members’ data file); child’s
+         ethnicity extracted from the members’ data file and collapsed into 5 categories: White
+         UK/European; Black British/Caribbean/African; Indian; Pakistani and Bangladeshi; Other);
+         family status (in 1991 extracted from the members’ data file and collapsed into 2
+         categories: lone parent with children; married/co-habiting pair with children, with
+         all other categories treated as missing data).
+      
+      Data analysis
+      Missing data
+      Children with missing data were omitted from the analysis. Cross tabulations were
+         run to establish any differences between children with complete data and those with
+         missing data using the Pearson Chi-square test.
+      
+      Main analyses
+      In order to examine the associations between individual, family and socio-economic
+         factors and disabling chronic conditions, the Pearson Chi-square test and Chi-square
+         for linear trend were used. At the multivariable level, we explored the associations
+         between socio-economic disadvantage in early childhood and developing disabling chronic
+         conditions up to 10 years later using multiple logistic regression modelling, introducing
+         sequentially potential confounders of the association (age, sex, ethnicity and family
+         status). Logistic regression models were fitted on the index and comparison groups
+         to produce odds ratios with 95% confidence intervals. First, the SDI variable alone
+         was entered. Second, the SDI was entered with age and sex. Third, ethnicity (white
+         vs. all other) was added along with age and sex. At the final stage, family status
+         was added together with age, sex and ethnicity. Only those children with complete
+         data for all variables were included in the regression models. Statistical significance
+         was set at the 5% level (P ≤0.05). All analyses were carried out in SPSS V16 and undertaken
+         on secure computers at the ONS Virtual Microdata Laboratory, London.
+      
+   
+

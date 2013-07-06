@@ -1,0 +1,102 @@
+Methods
+   
+      Numerical integration
+      A characteristic of semi-quantitative, macroscopic models of two-scale processes is
+         the development of spatially discontinuous functions for the cell specific transcription
+         factors (see position marked with dashed circles in Figure&nbsp;2). A standard heat equation solver or spectral methods cannot solve this models without
+         prior knowledge of the discontinuity’s position. The numerical integration method
+         must solve the PDE as well as the increasingly discontinuous solutions for the ODEs
+         without mollifying. We used a semi-discretization in space so if △x denotes a discretized Laplace operator we obtained an initial value problem for ODEs
+         given by 
+      
+      
+         
+            
+         
+      
+       for each grid point xi, i = 1,…N. As all solutions are in  we needed a L2 stable spatial discretization and we chose finite differences. We took into account
+         that with h→0, where h is the grid width, the generated ODEs became increasingly stiff. The finite differences
+         method yields a Jacobian matrix with a special sparsity pattern. The matrix is non
+         zero only on the eight subdiagonals and the eight superdiagonals, which we use to
+         enhance the performance of the ODE solver. The algorithm is implemented for MATLAB R2012a and can be found in Additional file 5: Data S1.
+      
+      Additional file 5. Data S1. MATLAB files for simulation.
+         	Format: ZIP 
+         	Size: 8KB Download file or  display content in a new window
+      Steady state approximation and stability analysis
+      We determined the steady states by simulating the model with the parameters given
+         in the results section from different initial conditions until the calculated state
+         of the system changed less than machine accuracy between two time steps. This was
+         repeated for many different initial conditions, space fillingly sampled, to find as
+         many steady states as possible with a numerical simulation.
+      
+      In a second step, we identified the stability of the reached state. Therefore, we
+         added uniform distributed noise, , to the calculated value for each component under the constraint that ui(t,x) + ϵ≥0 for i = 1,…,6 and vj(t,x) + ϵ≥0 for j = 1,2. We used the obtained value as the initial condition for the approximation
+         of the steady state. If the unperturbed state was reached again we concluded that
+         the state was stable.
+      
+      Experimental animals
+      Outbred CD-1 mice were purchased from Charles River (Kisslegg, Germany) and kept under
+         a 12-12 light-dark cycle under standard conditions. Mice had ad libitum access to
+         food and water. Noon on the day of vaginal plug detection was designated as embryonic
+         day (E) 0.5. Embryos were staged according to Theiler [43].
+      
+      miRNA prediction
+      To improve the robustness of the predicted miRNAs that target the Wnt1 mRNA, data sets of five most commonly used miRNA prediction tools were used in combination.
+         A miRNA target was considered as a candidate if the miRNA target interaction was predicted
+         by at least three out of five miRNA target prediction tools. For the miRNA target
+         prediction, we used the following publicly available tools: TargetScan [44], PicTar [45], miRNAMAP (miranda) [46], TargetSpy [47] and miRBase (DIANA) [48].
+      
+      Radioactive in situ hybridization (ISH) and probe labeling
+      
+      Timed-pregnant mice were killed by CO2 asphyxiation. Uterine horns were removed and kept in cold phosphate buffered saline
+         (PBS) before dissection of the embryos. Embryos were fixed in 4% paraformaldehyde
+         (PFA) (Sigma, Germany) in PBS overnight, dehydrated in an ascending ethanol series,
+         cleared in xylene, embedded in paraffin, and sectioned on a microtome (Microm, Germany)
+         at 8 μm thickness. Radioactive locked nucleic acid (LNA)-based ISH using unlabeled, LNA-modified
+         mmu-miR-709 (Exiqon, Denmark, Cat No 39324-00) and mmu-miR-705 (Exiqon, Cat No 39320-00) detection probes were performed using an ISH protocol as
+         described in [33] with minor modifications: the proteinase K treatment was omitted, pre-hybridization
+         and hybridization of the labeled probes was done in an in situ Hybridization Buffer (Ambion, USA, Cat No B8807G) at 53°C, and post-hybridization
+         washes were done sequentially in 1xSSC, 0.2xSSC and 0.1xSSC at 53° C. Sections were
+         counterstained with Cresyl Violet (0.5%, Sigma) according to standard procedures after
+         exposure for 1–3 weeks. Images were taken with an Axioplan2 microscope using bright-
+         and darkfield optics, AxioCam MRc camera and Axiovision 4.6 software (Zeiss, Germany),
+         and processed with Adobe Photoshop CS5 software (Adobe Systems Inc., USA). The LNA-modified
+         mmu-miR-709 and mmu-miR-705 detection probes were labeled with [ α35S]-dATP (GE Healthcare, USA), using the Terminal Transferase Labeling Kit (Roche, Germany)
+         according to the manufacturer’s instructions, with minor modifications: a 1:50 dilution
+         (0.5 μM) of the unlabeled LNA-modified detection probe, 1 mCi/mlα35S-dATP and no UTP were used in the reaction mixture.
+      
+      Calculation of grayscale profile and profile fitting
+      We defined a 300 pixel long and 15 pixel wide region from the approximate anterior
+         end the midbrain to the approximate posterior end of the rostral hindbrain (both marked
+         by dashed red lines in Figure&nbsp;4A) on a darkfield picture taken from a sagittal sections of an E12.5 wild-type embryo
+         hybridized with the radioactive mmu-miR-709 detection probe). Using the software ImageJ (NIH, USA), we calculated the gray value
+         in this picture at each pixel within the rectangular area in Figure&nbsp;4A and averaged the values along the width of the rectangular. The gray value profile
+         obtained was normalized against the mean gray value intensity in the two light blue
+         squares/boxes shown in Figure&nbsp;4A. We estimated the parameters p = (p1,p2,p4) and l of the profile function αm(x) = p1(tanh((l − x)/p2) + p4) (suggested in [30]). Therefore, we minimized the quadratic distance , with pixels xi and gray value D(xi), using the minimization method fminsearch implemented in MATLAB R2012a. The optimal parameters are p1 = 0.3062, l = 0.451, p2 = 0.2, p3 = 0.064 and p4 = 2.2868 and the least squares fit of αm(x) to the gray value curve D(xi) is shown in in Figure&nbsp;3E.
+      
+      Luciferase sensor assays
+      A 857 bp fragment of the Wnt1 3’UTR (Entrez Gene Acc. No. NM_021279, basepairs 1496-2352) was amplified from the E12.5
+         mouse embryo head cDNA using the primer pair shown in Additional file 4: Table S1. This Wnt1 3’UTR fragment contains two putative BS each for mmu-miR-709 and for mmu-miR-705 as predicted by miRBase (microCosm). This fragment was subsequently subcloned into
+         the XbaI site located downstream of the firefly luciferase stop codon in the pGL3 Promoter
+         vector (Promega, USA). Site-directed mutagenesis of the predicted mmu-miR-709 seed sequences within the 857 bp Wnt1 3’UTR fragment was done using the Quick Change Multi-Site Directed Mutagenesis Kit (Stratagene,
+         USA) according to the manufacturer’s instructions. Mutagenic primers used are shown
+         in Table S4. HEK293T (1×105 cells/well) were plated in a 24-well plate and co-transfected 24 hours later with
+         300 ng ofWnt1 3’UTR-WT or Wnt1 3’UTR-MUT sensor vector, 30 ng of renilla luciferase vector, and mmu-miR-709 (Ambion, Cat No PM11496) or mmu-miR-705 (Ambion, Cat No PM11392) precursor miRNA as indicated in the figures, using Lipofectamine
+         2000 (Invitrogen) according to the manufacturer’s instructions. Luciferase activity
+         was measured 48 hours after transfection using the Dual-Luciferase Reporter Assay
+         System (Promega). The firefly luciferase values were normalized against the renilla
+         luciferase values as internal transfection control. As we also observed a down-regulation
+         of luciferase activity after co-transfection of the precursor miRNA and the pGL3 Promoter
+         vector (without any 3’UTR cloned into it) in some instances, which we considered to
+         be “off-target” effects of the corresponding miRNA, we always used the co-transfection
+         of pGL3 Promoter vector without 3’UTR (“empty vector”) and the corresponding miRNA
+         as the control in our experiments, and this value was set as one. Transfections were
+         done in triplicate and all data derive from three independent experiments.
+      
+      Ethics statement
+      Animal treatment was conducted under federal guidelines for the use and care of laboratory
+         animals and was approved by the HMGU Institutional Animal Care and Use Committee.
+      
+   
+

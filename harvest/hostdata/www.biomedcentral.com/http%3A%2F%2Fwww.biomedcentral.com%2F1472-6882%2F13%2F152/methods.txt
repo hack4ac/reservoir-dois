@@ -1,0 +1,99 @@
+Methods
+   
+      Materials
+      TLJN was provided by Kangyuan Pharmaceutical Engineering Co. Ltd (Beijing, China).
+         The concentrations of geniposide (4.95&nbsp;mg/mL) and ginsenoside Rg1 (1.02&nbsp;mg/mL) in
+         TLJN were determined by high performance liquid chromatography (HPLC; Figure&nbsp;
+         					1) 
+         					[14]. The purified geniposide and ginsenoside Rg1 were from the National Institutes for
+         Food and Drug Control (Beijing, China). The cell counting Kit-8 (CCK-8) for measurement
+         of cell viability was from Dojindo Co. (Kumamoto, Japan). Hoechst33258 was from Sigma
+         and Alexa Fluor 488 Phalloidin was from Invitrogen (Carlsbad, CA, USA). The primary
+         antibody against Bcl-2 was purchased from Cell Signaling Technology (Waltham, MA, USA) and the β-actin antibody
+         was from Beyotime Institute of Biotechnology (Jiangsu, China). The enhanced chemiluminescence
+         (ECL) substrate was from Pierce (Boston, MA, USA) and polyvinylidene difluoride (PVDF)
+         membrane was purchased from Millipore (Billerica, MA, USA). The annexin V apoptosis
+         detection kit, total superoxide dismutase (SOD) assay kit with WST-1, cellular glutathione
+         peroxidase (GSHPx) assay kit and catalase assay kit were from the Beyotime Institute
+         of Biotechnology (Jiangsu, China). The Taq DNA Polymerase and TansStartTM Green qPCR
+         SuperMix were purchased from Transgen Inc. (Beijing, China). The primers for Bcl-2, P53, caspase 3, caspase 9, β-actin and 18&nbsp;s RNA were designed and synthesized by Shanghai Sangon Biotech Co. Ltd (Shanghai, China).
+      
+      Figure 1. Chemical structures and HPLC analysis of TLJN. A. Geniposide (C16H24O10, molecular weight 388 Da); B. Geniposidic acid (C16H22O10, molecular weight 374 Da); C. Ginsenoside Rg1 (C42H72O14, molecular weight 800 Da); D. HPLC analysis of TLJN.
+      
+      Cell culture
+      SH-SY5Y cells were grown in Dulbecco’s modified eagle medium (DMEM) containing 10%
+         (v/v) fetal bovine serum (Invitrogen) and maintained in 5% (v/v) CO2/90% (v/v) humid air at 37°C. Cells were plated onto 96-well culture plates at a density
+         of 1 × 104 cells/well for cytotoxicity assays or 60-mm culture dishes at a density of 1 × 106 cells/well for western blotting, RT-PCR, flow cytometry, and total SOD detection.
+         After 24&nbsp;h, the culture medium was replaced with serum-free DMEM supplemented with
+         0.12&nbsp;mM formaldehyde, and different concentrations of drugs were used to treat cells
+         as indicated in the results.
+      
+      Cell viability assay
+      The viability of cells was evaluated using the CCK-8 kit. Briefly, 10&nbsp;μL of the CCK-8
+         solution was added to each well of the 96-well plate and left to incubate for 4&nbsp;h
+         in the incubator at 37°C. According to the manufacturer, simultaneous absorbance readings
+         were measured at 450 and 630&nbsp;nm using a microplate reader. The difference between
+         the two readings was used in the final analysis.
+      
+      Cell morphology analysis
+      SH-SY5Y cells (plated at 3 × 105) were grown in DMEM containing 10% (v/v) fetal bovine serum in 5% (v/v) CO2/90% (v/v) humid air at 37°C. After 12&nbsp;h of plating, the culture medium was replaced
+         with serum-free DMEM in the presence of 0.12&nbsp;mM formaldehyde supplemented with 100&nbsp;μM
+         geniposide, 10&nbsp;μM ginsenoside Rg1 or TLJN, which consisted of 100&nbsp;μM geniposide and
+         10&nbsp;μM ginsenoside Rg1. At different time intervals (6, 12, and 24&nbsp;h), cells were fixed
+         with 4% (w/v) paraformaldehyde. Hoechst33258 was applied to label the nuclei and F-actin
+         was labeled with phalloidin. All images were obtained by laser scanning confocal microscopy
+         (LSCM; Olympus FV1000, Tokyo, Japan).
+      
+      Analysis of apoptosis
+      Analysis of apoptosis was carried out by flow cytometry using the annexin V apoptosis
+         detection kit. Cells were harvested, counted, and resuspended in 1 x binding buffer
+         at a concentration of 1 × 106 cells/mL. The cell suspension (100&nbsp;μL) was transferred to a 5&nbsp;mL culture tube and
+         5&nbsp;μL of Annexin V-FITC was added. The suspension was gently mixed and incubated for
+         10&nbsp;min at room temperature in the dark. Propidium iodide (PI) was added (10&nbsp;μL) and
+         samples were analyzed by flow cytometry (FACSCalibur, BD Biosciences, San Jose, CA,
+         USA) within 1&nbsp;h.
+      
+      Western blotting
+      Western blotting was carried out as previously described 
+         					[17]. SH-SY5Y cell lysates were prepared and 50 μg of protein was loaded on a 12% (w/v)
+         sodium dodecylsulfate-polyacrylamide gel. The separated proteins were transferred
+         to PVDF membrane and the membrane was hybridized with an anti-Bcl-2 monoclonal antibody (1:1000 dilution) or anti-β-actin monoclonal antibody (1:5000
+         dilution). Horse radish peroxidase-conjugated anti-rabbit/mouse IgG was used as the
+         secondary antibody (1:5000 dilution).
+      
+      RT-PCR analysis
+      The expression of the apoptotic-related genes was detected by RT-PCR. Total RNA was
+         extracted from SH-SY5Y cells using Trizol reagent (Invitrogen). The integrity of RNA
+         was examined by identifying intact 18&nbsp;s and 28&nbsp;s ribosomal RNA bands upon agarose
+         gel electrophoresis. The purity and quantity were estimated by measuring the absorbance
+         at 260/280&nbsp;nm spectrophotometrically. RNA was reverse-transcribed into cDNA using
+         M-MLV reverse transcriptase (Transgen Inc.). Quantitative real time PCR was performed
+         using TansStartTM Green qPCR SuperMix (UDG) (Transgen Inc.) according to the following
+         reaction conditions: 50°C 2&nbsp;min (UDG Incubation), 95°C 10&nbsp;min (UDG Inactivation),
+         40–45&nbsp;cycles: 5&nbsp;sec 95°C, 15&nbsp;sec 55°C (according to different primers), and 10&nbsp;sec
+         72°C. The collected data were analyzed using Rotor-Gene 6000 Series Software 1.7 (Qiagen,
+         Valencia, CA, USA). Normal RT-PCR was performed using Taq DNA Polymerase (Transgen
+         Inc.) and detected by gel electrophoresis. The PCR primers were designed by Primerpremier
+         5.0 software and synthesized by Shanghai Sangon Inc. (Shanghai, China). The primers
+         for Bcl-2 were (TM: 55°C), forward: 5′-tgtgtggagagcgtcaacag-3′ and reverse: 5′-cagacatgcacctacccagc-3′;
+         for 18&nbsp;s RNA (TM: 55°C), forward: 5′-cagccacccgagattgagca-3′ and reverse: 5′-tagtagcgacgggcggtgtg-3′;
+         for P53 (TM: 60°C), forward: 5′-acagctttgaggtgcgtgttt -3′ and reverse: 5′- ccctttcttgcggagattctct-3′;
+         for caspase 3 (TM: 53°C), forward: 5′-gaaattgtggaattgatgcgtga-3′ and reverse: 5′-ctacaacgatcccctctgaaaaa-3′;
+         for caspase 9 (TM: 53°C), forward: 5′-cttcgtttctgcgaactaacagg-3′ and reverse: 5′-gcaccactggggtaaggttt-3′;
+         for β-actin (TM: 60°C), forward: 5′-catgtacgttgctatccaggc-3′ and reverse: 5′-ctccttaatgtcacgcacgat-3′.
+      
+      Assay for SOD, GSHPx and catalase activity
+      SH-SY5Y cells were harvested and then lysed using cell lysis solution (Beyotime Institute
+         of Biotechnology, Jiangsu, China). Total protein concentration was quantified using
+         the BCA Protein Assay Kit (Thermo Fisher Scientific Inc., Boston, MA, USA). The activity
+         of SOD was determined using the total SOD assay kit with WST-1. The activities of
+         GSHPx and catalase were determined using the cellular glutathione peroxidase assay
+         kit and catalase assay kit according to the manufacturers’ instructions.
+      
+      Statistical analysis
+      Each experiment was repeated at least three times and results were expressed as the
+         mean ± standard deviation (SD). Analysis of variance was carried out using SPSS 11.0
+         (SPSS, Chicago, IL, USA). Values of P &lt; 0.05 were considered statistically significant.
+      
+   
+

@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Patients with B cell malignancies refractory to allogeneic stem cell transplantation (SCT) can be treated by subsequent immunotherapy with donor lymphocyte infusions (DLI). But unlike myeloid leukemia, B cell leukemia and lymphoma are less sensitive to allogeneic adoptive immunotherapy. Moreover, the beneficial graft-versus-lymphoma (GVL) effect may be associated with moderate to severe graft-versus-host disease (GVHD). Thus, novel therapeutic approaches augmenting the anti-tumor efficacy of DLI and dissociating the GVL effect from GVHD are needed. The anti-CD20 x anti-CD3 trifunctional bispecific antibody (trAb) FBTA05 may improve the targeting of tumor cells by redirecting immune allogeneic effector cells while reducing the risk of undesirable reactivity against normal host cells. Hence, FBTA05 may maximize GVL effects by simultaneously decreasing the incidence and severity of GVHD.
+
+				
+				
+					
+						Methods/Design
+
+					Based on this underlying treatment concept and on promising data taken from preclinical results and a small pilot study, an open-label, non-randomized, uncontrolled, dose-escalating phase I/II-study is conducted to evaluate safety and preliminary efficacy of the investigational antibody FBTA05 in combination with DLI for patients suffering from rituximab- and/or alemtuzumab-refractory, CD20-positive low- or high-grade lymphoma after allogeneic SCT. During the first trial phase with emphasis on dose escalation a maximum of 24 patients distributed into 4 cohorts will be enrolled. For the evaluation of preliminary efficacy data a maximum of 12 patients (6 patients with low-grade lymphoma and/or Chronic Lymphocytic Leukemia (CLL) / 6 patients with high-grade or aggressive lymphoma) will attend the second phase of this clinical trial.
+
+				
+				
+					
+						Discussion
+
+					Promising data (e.g. induction of cellular immunity; GVL predominance over GVHD; achievement of partial or complete responses; prolongation of time-to-progression) obtained from this phase I/II trial would represent the first milestone in the clinical evaluation of a novel immunotherapeutic concept for treatment-resistant low- and high-grade lymphoma and NHL patients in relapse.
+
+				
+				
+					
+						Trial registration
+
+					
+						 NCT01138579 
+					
+
+				
+			
+		

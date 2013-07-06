@@ -1,0 +1,19 @@
+
+Abstract
+
+Background
+
+Cytosine methylation is a frequent epigenetic modification restricting the activity of gene regulatory elements. Whereas DNA methylation patterns are generally inherited during replication, both embryonic and somatic differentiation processes require the removal of cytosine methylation at specific gene loci to activate lineage-restricted elements. However, the exact mechanisms facilitating the erasure of DNA methylation remain unclear in many cases.
+
+
+Results
+
+We previously established human post-proliferative monocytes as a model to study active DNA demethylation. We now show, for several previously identified genomic sites, that the loss of DNA methylation during the differentiation of primary, post-proliferative human monocytes into dendritic cells is preceded by the local appearance of 5-hydroxymethylcytosine. Monocytes were found to express the methylcytosine dioxygenase Ten-Eleven Translocation (TET) 2, which is frequently mutated in myeloid malignancies. The siRNA-mediated knockdown of this enzyme in primary monocytes prevented active DNA demethylation, suggesting that TET2 is essential for the proper execution of this process in human monocytes.
+
+
+Conclusions
+
+The work described here provides definite evidence that TET2-mediated conversion of 5-methylcytosine to 5-hydroxymethylcytosine initiates targeted, active DNA demethylation in a mature postmitotic myeloid cell type.
+
+
+

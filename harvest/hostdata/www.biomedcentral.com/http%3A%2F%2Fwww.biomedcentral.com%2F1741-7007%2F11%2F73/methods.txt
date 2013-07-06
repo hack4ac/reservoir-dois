@@ -1,0 +1,81 @@
+Methods
+   
+      p53-Venus reporter cell line
+      The U-2 OS and A549 cell lines were purchased from American Type Culture Collection
+         (ATCC, Manassas, VA, USA) and cultured at 37°C with 5% CO2 in McCoy’s 5A or F-12K medium supplemented with 10% fetal calf serum (FCS), 100 U/ml
+         penicillin and 100 μg/ml streptomycin. To generate fluorescent reporter cell for live-cell
+         imaging of p53 dynamics, we infected U-2 OS and A549 cells with lentiviruses encoding
+         an established p53-Venus reporter construct (consisting of wild-type p53 fused to
+         a yellow fluorescent protein, Venus; generous gift from Dr Galit Lahav, Department
+         of Systems Biology, Harvard Medical School, USA) [9], and selected isogenic clones.
+      
+      Chemicals and reagents
+      Etoposide was purchased from Sigma-Aldrich (St. Louis, MO, USA). siRNA for knocking
+         down Mdm2 (#4457298) was purchased from Ambion Inc. (Austin, TX, USA), and the Mdm2
+         siRNA was used at a final concentration of 20 nmol/l for RNAi in all experiments.
+         The non-targeting siRNA control was On-Target plus siControl (#D-001810-01; Dharmacon
+         Inc., Lafayette, CO, USA). All siRNA transfections were performed using HiPerFect
+         (Qiagen Inc., Valencia, CA, USA) in accordance with the manufacturer’s instructions.
+         Experiments were conducted after 48 hours of gene silencing.
+      
+      Western blotting analysis
+      Cell lysates were obtained using LDS sample buffer (NuPAGE; Invitrogen Corp., Carlsbad,
+         CA, USA). Proteins were resolved on Tris-glycine gels and transferred onto PVDF membranes.
+         Blots were probed with commercial primary antibodies and enhanced chemiluminescence
+         detection using (ECL-Plus; Amersham Biosciences Inc., Piscataway, NJ, USA). Antibodies
+         used were: PARP1 (#9542), p21 (#2947), Puma (#4976), TFIIB (#4169), phospho-p53 (Ser20)
+         (#9287), phospho-p53 (Ser46) (#2521) and acetyl-p53 (Lys382) (all Cell Signaling Technology/(Danvers,
+         MA, USA); acetyl-p53 (Lys120; #BAM-71-131-EX; Cosmo Bio, Yokohama, Japan); p53 (#sc-126),
+         Mdm2 (#sc-965) and Bax (#sc-493) (all from Santa Cruz Biotechnology, Santa Cruz, CA,
+         USA); phospho-histone H2A.X (#06-570; Millipore Corp., Billerica, MA, USA). Anti-actin
+         (#A5316; (Sigma-Aldrich) and anti-tubulin (#2148; Cell Signaling Technology) were
+         used as loading controls.
+      
+      Real-time quantitative PCR
+      Total cellular RNA was isolated from U-2 OS cells (RNeasy Mini Kit; Qiagen) in accordance
+         with the manufacturer’s instructions. A high-capacity cDNA reverse transcription kit
+         (Applied Biosystems, Foster City, CA, USA) was used to reverse-transcribe RNA into
+         cDNA, and a SYBR Green system (Fast SYBR Green Master Mix; Applied Biosystems) was
+         used for DNA amplification on a PCR system (7500 Fast Real-Time PCR System; Applied
+         Biosystems). The data were analyzed by Sequence Detection Systems Software (version
+         2.3). For the primer sequences for the respective genes, see Additional file 1: Table S1.
+      
+      Subcellular fractionation
+      U-2 OS cells were treated with trypsin, rinsed twice with PBS, and then lysed at 4°C
+         with isotonic buffer (10 mmol/l Tris HCl, pH 7.5, 2 mmol/l MgCl2, 3 mmol/l CaCl2, 3 mol/l sucrose) supplemented with 1 mmol/ldithiothreitol (DTT) and protease inhibitor
+         cocktail (set III; Calbiochem, San Diego, CA, USA). Lysis buffer was used at 100 μl
+         per 20 μl of packed cell volume (PCV). Detergent (IGEPAL CA-630; Rhodia, La Défense,
+         France) was then added to a final concentration of 0.03 to 0.05%, and sample was immediately
+         separated by centrifugation for 30 seconds at 11,000 g and 4°C. The resulting supernatant
+         was taken as the cytoplasmic fraction. The pellet was then rinsed twice with 100 μl
+         isotonic buffer, and taken as the nuclear fraction for western blot analysis.
+      
+      Time-lapse microscopy and image analysis
+      Cells were plated in 35 mm imaging dishes (μ-dish; ibidi, Planegg, Germany) and cultured
+         in phenol red-free CO2-independent medium (Invitrogen) supplemented with 10% FCS, 100 U/ml penicillin, and
+         100 μl streptomycin. Cell images were acquired with an inverted microscope (TE2000-PFS;
+         Nikon, Tokyo, Japan) enclosed in a humidified chamber maintained at 37°C. Cells were
+         imaged every 10 minutes using a motorized stage and a ×20 objective.
+      
+      For data plotted in the cumulative survival curves and the phenotype distributions,
+         we viewed and analyzed the images manually by eye, using MetaMorph software (Molecular
+         Dynamics Inc., Sunnyvale, CA, USA). In the phase-contrast images, we scored by morphological
+         tracking the following: interphase (by flat morphology), entry into mitosis (by cell
+         rounding), cell division (by re-spreading and splitting), cell-cycle arrest (by absence
+         of cell division for 72 hours) and cell death (by blebbing followed by cell lysis).
+         For quantifying the single-cell p53 traces, we used an automatic cell-tracking program
+         that we developed using MatLab. The program consists of image-analysis procedures
+         that sequentially segment the individual cells, track them in time, identify the nucleus,
+         and measure the p53 fluorescence intensity in the nucleus and cytoplasm, respectively.
+         Based on the quantified p53 fluorescent trajectories, we classified the dynamic mode
+         of nuclear p53 manually by eye. We categorized as ‘oscillatory’ any single-cell p53
+         signals in the nucleus that exhibited periodic fluctuations in intensity between a
+         high fluorescent state and a low state near background fluorescence. We defined a
+         nuclear p53 signal that monotonically rose to and sustained at a high fluorescence
+         level as ‘monotonic increase’. Most (approximately 95%) of the p53 trajectories had
+         obvious features that could be unambiguously categorized into the two distinct modes.
+         For the 5% of trajectories that had ambiguous features (mostly occurring at the intermediate
+         DNA damage level), we discarded these trajectories from further analysis.
+      
+   
+

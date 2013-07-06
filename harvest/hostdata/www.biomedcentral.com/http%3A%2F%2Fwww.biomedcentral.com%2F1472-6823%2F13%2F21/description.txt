@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Chronic insulin resistance, exacerbated in the course of pregnancy, is an important pathophysiologic mechanism of gestational diabetes mellitus (GDM). We hypothesise that the degree of insulin resistance, assessed at diagnosis of GDM, is a parameter of its pathophysiologic heterogeneity and/or severity. Thus, it offers potential to open new avenues for the personalization of therapy in affected women.
+
+				
+				
+					
+						Methods
+
+					1254 Polish Caucasian women with GDM were recruited into the study. The following parameters were assessed in the course of the study: body mass index (BMI), parity, weight gain during pregnancy, glycated haemoglobin, glucose level during an oral glucose tolerance test (OGTT), insulin, insulin resistance and insulin secretion. The severity of GDM was assessed based on insulin use and daily insulin dose during gestation. In order to evaluate insulin secretion and insulin resistance the homeostatic method was used (HOMA-B and HOMA-IR, respectively). We compared all the metabolic parameters and methods of treatment of GDM in women subdivided by quartiles of insulin resistance.
+
+				
+				
+					
+						Results
+
+					The HOMA-IR in the whole population ranged from 0.34 to 20.39. The BMI, fasting insulin, fasting glucose and insulin dose per day increased along with increasing quartiles (HOMA-IR > 1.29). We observed a decrease of HOMA-B in the third quartile (1.92-2.89) compared with the first quartile (0.34-1.29). Insulin treatment was associated with HOMA-IR (<1.29 vs. >2.89), OR: 3.37, fasting glucose (≤6.11 vs. >6.11 mmol/dl), OR: 2.61, age (≤30 vs. >30 y. o.), OR: 1.54, and BMI (<25 vs. ≥25 kg/m 2 ), OR: 1.45. Maximum insulin dose was associated with HOMA-IR, OR: 2.00, after adjustment for family history of diabetes, and 2-h OGTT glucose.
+
+				
+				
+					
+						Conclusion
+
+					Insulin resistance assessed by the HOMA index at diagnosis is associated with the severity and pathophysiological heterogeneity of GDM. A HOMA-IR >1.29 points to the major role of insulin resistance, indicating the need for a treatment aimed at improving tissue sensitivity to insulin. A HOMA-IR 1.29-2.89 suggests reduced insulin secretion, which is an indication for the introduction of insulin therapy. A HOMA-IR >2.89 indicates insufficient compensation for insulin resistance, which suggests the need for a treatment aimed at improving susceptibility of tissues to insulin combined with insulin therapy.
+
+				
+			
+		

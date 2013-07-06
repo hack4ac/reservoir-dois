@@ -1,0 +1,73 @@
+Methods
+   
+      Sample selection
+      Funded by the US Agency for International Development (USAID), DHS has conducted national
+         household surveys on health-related issues in more than 90 countries since 1984. The
+         Kenya 2008-2009 DHS surveyed women aged 15 to 49 in selected households. In every
+         second selected household, women were offered voluntary HIV testing [34], p. 8. Of the 4,418 women eligible for HIV testing, 8.2% refused to provide blood
+         and 3.5% were not interviewed or were absent from the blood collection [34], p.212. One woman per household was selected to participate in a domestic violence
+         module. Questions on IPV were administered to women completing the domestic violence
+         module who had ever had an intimate partner, with questions asked about either the
+         current or most recent partner [34], p. 254. Our sample for this study is women who are: currently married or living
+         with someone, completed the IPV questions, and obtained HIV testing.
+      
+      Women participating in the DHS survey gave their informed consent before data collection
+         and before giving blood for HIV testing [34]. For the domestic violence survey, privacy was ensured before the interview was conducted
+         [34]. The blood collection and analysis was based on a protocol developed by the DHS and
+         revised and approved by the Scientific and Ethical Review Committee of the Kenya Medical
+         Research Institute, and the National AIDS Control Council [34]. Permission for using the data for this study was authorized by ICF International,
+         which coordinates the DHS.
+      
+      Measures
+      There were 12 IPV questions in the DHS IPV survey questionnaire, grouped into four
+         IPV types: psychological, severe physical, less severe physical and sexual. The participants
+         were asked if they had ever experienced any of these, and if so, about frequency in
+         the last 12 months. Dried blood spots were collected during the survey and tested
+         for HIV using ELISA (see [34], p. 10).
+      
+      Basic sociodemographic factors analyzed in this study were those commonly considered
+         in the aformentioned studies, and included age, education, working status (whether
+         respondents are currently working), religion, geographic residence (urban/rural),
+         wealth and age gap between the respondents and their male partners [13,20,24,25,27-29,33,36-40]. On the basis of theoretical considerations and previous research [23-28,41-46] (though limited by the data collected), we also selected certain HIV risk factors
+         a priori to assess: partner’s alcohol consumption, condom use at last sex, partner’s number
+         of other wives, respondent’s of sex partners with the last 12 months and in lifetime.
+         In addition, location (cluster ID and province) and ethnicity were treated as random
+         effects to properly control for correlations between people from the same geographic
+         area and ethnicity. Women who reported no sexual activity within the preceding 12
+         months were not asked about condom use; we coded these women as “not asked” rather
+         than excluding them from the study.
+      
+      Statistical analysis
+      We used generalized linear mixed models (GLMMs) to examine the association between
+         IPV and HIV infection. The GLMM framework allows us to model a binary response variable
+         (HIV test result), and to take random effects (location and ethnicity) into account.
+         To simplify interpretation and to account for relationships between predictors, we
+         assessed all the selected sociodemographic variables with the IPV predictor together
+         in a single GLMM. Given theoretical and empirical uncertainty about whether HIV risk
+         factors may mediate and/or confound the association between IPV and HIV, we included
+         HIV risk factors in a model with sociodemographic variables to see whether and how
+         they affected the magnitude of association between IPV and HIV, without presupposing
+         which of these roles they might have.
+      
+      To construct a simple model, we combined the 12 IPV questions (see Table 1) by converting responses into scores (see Table 2), and used the first principal component from a scaled, uncentered principal components
+         analysis (PCA) as an index to describe the overall IPV experience of each woman, using
+         a single variable.
+      
+      Table 1. Responses to IPV questions
+      Table 2. Sociodemographic breakdown of HIV prevalence and IPV scores
+      We made an a priori decision to model wealth effects using a three-knot spline, and age effects using
+         a four-knot spline.
+      
+      In a follow-up model, we constructed a separate PCA index for each of the four DHS
+         categories of IPV, using the same methodology as we used for the overall index.
+      
+      Variable-level p values were calculated by sequentially dropping each variable and
+         comparing the restricted models to the original model.
+      
+      Scripts
+      We are not able to make our data available, but researchers can request them from
+         DHS. All of the R scripts use to analyze the data and produce the figures are available
+         for download at http://lalashan.mcmaster.ca/theobio/Kenya_IPV_risk/ webcite.
+      
+   
+

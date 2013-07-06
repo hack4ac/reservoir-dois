@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Purpose
+
+					1. To develop a framework for exposure calculation via the dermal route to meet the needs of 21st century toxicity testing and refine current approaches; 2. To demonstrate the impact of exposure scenario and application conditions on the plasma concentration following dermal exposure.
+
+				
+				
+					
+						Method
+
+					A workflow connecting a dynamic skin penetration model with a generic whole-body physiologically-based pharmacokinetic (PBPK) model was developed. The impact of modifying exposure scenarios and application conditions on the simulated steady-state plasma concentration and exposure conversion factor was investigated for 9 chemicals tested previously in dermal animal studies which did not consider kinetics in their experimental designs.
+
+				
+				
+					
+						Results
+
+					By simulating the animal study scenarios and exposure conditions, we showed that 7 studies were conducted with finite dose exposures, 1 with both finite and infinite dose exposures (in these 8 studies, an increase in the animal dose resulted in an increase in the simulated steady-state plasma concentrations ( C 
+						 p,ss )), while 1 study was conducted with infinite dose exposures only (an increase in the animal dose resulted in identical  C 
+						 p,ss ). Steady-state plasma concentrations were up to 30-fold higher following an infinite dose scenario vs. a finite dose scenario, and up to 40-fold higher with occlusion vs. without. Depending on the chemical, the presence of water as a vehicle increased or decreased the steady-state plasma concentration, the largest difference being a factor of 16.
+
+				
+				
+					
+						Conclusions
+
+					The workflow linking Kasting’s model of skin penetration and whole-body PBPK enables estimation of plasma concentrations for various applied doses, exposure scenarios and application conditions. Consequently, it provides a quantitative, mechanistic tool to refine dermal exposure calculations methodology for further use in risk assessment.
+
+				
+			
+		

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					L-ascorbic acid (L-AA) is naturally synthesized in plants from D-glucose by 10 steps pathway. The pathway branch to synthesize L-galactose, the key intermediate for L-ascorbic acid biosynthesis, has been recently elucidated. Budding yeast produces an 5-carbon ascorbic acid analogue Dehydro-D-arabinono 1,4-lactone (D-DAL), which is synthesized from D-arabinose. Yeast is able to synthesize L-ascorbic acid only if it is cultivated in the presence of one of its precursors: L-galactose, L-galactono 1,4-lactone, or L-gulono 1,4-lactone extracted from plants or animals. To avoid feeding the yeast culture with this “L” enantiomer, we engineered  Kluyveromyces lactis  with L-galactose biosynthesis pathway genes: GDP-mannose 3,5-epimerase (GME), GDP-L-galactose phosphorylase (VTC2) and L-galactose-1-phosphate phosphatase (VTC4) isolated from  Arabidopsis thaliana .
+
+				
+				
+					
+						Results
+
+					Plasmids were constructed and modified such that the cloned plant genes were targeted to the  K. lactis  LAC4 Locus by homologous recombination and that the expression was associated to the growth on D-galactose or lactose. Upon  K. lactis  transformation, GME was under the control of the native LAC4 promoter whereas VTC2 and VTC4 were expressed from the  S. cerevisiae  promoters  GPD1  and  ADH1  respectively. The expression in  K. lactis,  of the L-galactose biosynthesis genes was determined by Reverse Transcriptase-PCR and western blotting. The recombinant yeasts were capable to produce about 30 mg.L -1  of L-ascorbic acid in 48 hours of cultivation when cultured on rich medium with 2% (w/v) D-galactose. We also evaluated the L-AA production culturing recombinant recombinant strains in cheese whey, a waste product during cheese production, as an alternative source of lactose.
+
+				
+				
+					
+						Conclusions
+
+					This work is the first attempt to engineer  K. lactis  cells for L-ascorbic acid biosynthesis by a fermentation process without any trace of “L” isomers precursors in the culture medium. We have engineered  K. lactis  strains capable of converting lactose and D-galactose into L-galactose, by the integration of the genes from the  A. thaliana  L-galactose pathway. L-galactose is a rare sugar, which is one of the main precursors for L-AA production.
+
+				
+			
+		

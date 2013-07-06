@@ -1,0 +1,103 @@
+Methods
+   
+      A cross-sectional design was chosen because we wanted to use sick leave measures as
+         an indicator of a poor working environment; not to study causal pathways.
+      
+      We used workplace-registered sick leave data from municipal eldercare workers in Aarhus,
+         Denmark. Questionnaire data on the working environment were collected by the NRCWE,
+         Copenhagen in 2005.
+      
+      Study population
+      Survey data on psychosocial work factors were merged with workplace-registered sick
+         leave records from 2005. Sick leave from 2005 was chosen because all of the respondents
+         had answered the questionnaire at some point between 18 February and 18 July 2005.
+         Employees were included if they had been employed and had been working throughout
+         2005 and had received a questionnaire (N = 3,346) (Figure&nbsp;1).
+      
+      Figure 1. Flowchart of the selection of eldercare employees into the study.
+      Sick leave patterns
+      Data on absence in 2005 were retrieved from the workplace records, which also contained
+         stated reasons for each absence spell. Only spells related to sick leave were included.
+         The dates of the first and the last day of each sick leave spell were available for
+         each individual. A sick leave spell was counted in calendar days regardless of whether
+         all of these days were work days. Overlapping, consecutive or duplicate sick leave
+         spells were merged into a single spell.
+      
+      First, sick leave was measured as the total number of sick leave days including all
+         spells ended in 2005. We dichotomised this measure into 0–14&nbsp;days and 15–581&nbsp;days
+         [10,11,25,28,29]. In 2005, the public insurance system reimbursed sickness benefits for sick leave
+         spells lasting more than 14&nbsp;days in conformity with the Danish Sickness Benefit Act
+         [30].
+      
+      Second, sick leave was categorised into patterns with short, long or a combination
+         of short and long spells. We defined short spells as spells lasting zero to seven
+         calendar days. This definition has also been used in other studies [24,31]. Long spells were defined as spells lasting eight calendar days or more.
+      
+      Based on the above-mentioned measures, the sick leave patterns were:
+      Length of sick leave per year: 0–14&nbsp;days and more than 14&nbsp;days.
+      
+      Spell patterns: 0–2 short spells, 3–9 short spells, 2–13 mixed spells and 1–3 long spells.
+      
+      Psychosocial work environment factors
+      The Copenhagen Psychosocial Questionnaire (COPSOQ) [32] was used to collect information on perceived work-related demands and resources from
+         the eldercare workers.
+      
+      The environmental factors suggested to be the most important variables in explaining
+         the self-reported high levels of sick leave among eldercare workers [10,11] were selected from the survey. These were: work pace, emotional demands, demands
+         for hiding emotions, physical work load, influence, meaning of work, commitment to
+         the workplace, role conflict and quality of leadership. These factors were scored
+         on five-point Likert scales (Always, Often, Sometimes, Seldom, Never/hardly ever). The scores were transformed into 0–100 scores. The mean values of the different
+         work environment scales were measured in a representative sample of working Danes
+         in 2004/2005 [33]. In the present study, the selected work environment scales were dichotomised into
+         favourable / unfavourable scores according to these mean scores. This was done for
+         all scales except for physical work load which was dichotomised according to the mean
+         value found in our data. Response categories on bullying and threats of violence were
+         “at least once a month”, “from time to time” and “never”. They were dichotomised into “at least from time to time” and “never”. Response categories on general health were “Excellent”, “very good”, “good”, “fair” and “poor”. This variable was dichotomised into “excellent-good” and “fair-poor”. Reference scores were not available for bullying, threats of violence and general
+         health.
+      
+      Socio-demographics and potential confounders
+      Age (= &lt; 40/&gt;40&nbsp;years) and gender were retrieved from the personnel files, whereas occupation (categorised
+         in administration, manager, therapist/nurse, home care and non-care) was retrieved from the questionnaire. We used the cut point of 40&nbsp;years of age so
+         direct comparisons with the results of the analyses carried out by NRCWE (10;11) were
+         possible.
+      
+      Statistical analyses
+      Univariable and multivariable logistic regression models were applied to find associations
+         between total sick leave days/spell patterns and unfavourable scores in work factors
+         and general health.
+      
+      In the first analysis, using total sick leave days as the independent variable, we
+         adjusted the model for age, gender, occupation and number of spells (continuous variable ranging from 0–13).
+      
+      In the second analysis, using spell pattern as the independent variable (0–2 short-term
+         sick leave spells was the reference), we adjusted the models for age, gender, occupation
+         and total sick leave days categorised in four (0&nbsp;days, 1–14&nbsp;days, 15–56&nbsp;days and &gt;57&nbsp;days). A Wald-test was performed to establish the overall difference in the odds of having
+         unfavourable work factor scores between the sick leave patterns.
+      
+      In the third analysis, using spell pattern as the independent variable, we again performed
+         the same adjustments as mentioned in the second analysis. Based on the literature,
+         we expected that unfavourable work factor scores and total sick leave length were
+         more likely to be due to frequency of spells than duration, and that this association
+         would be more pronounced among young employees than among their older colleagues.
+         Long-term spells, on the other hand, were believed to be more strongly associated
+         with poor general health than short-term spells. In this analysis, emphasis was on
+         the odds of having unfavourable work factor scores / general health scores among eldercare
+         workers with many short spells compared with few, but long spells (reference). We
+         also sought to establish whether these associations were stronger among young employees
+         than among older colleagues by including an interaction term between age and spell
+         pattern.
+      
+      The scale reliability coefficient (Cronbach’s alpha) of work factors used from the
+         COPSOQ was calculated. To establish whether the work factor scores and general health
+         scores were statistically significantly different between total sick leave categories
+         and sick leave patterns, t-test, one-way ANOVA and chi2 was applied.
+      
+      The significance level was set at p &lt; 0.05. The results are shown as crude and adjusted
+         figures.
+      
+      STATA version 12.1 was used as statistical software.
+      Approval (2012-41-1290) for using workplace-registered sick leave records and questionnaire
+         data was obtained from the Danish Data Protection Agency: http://www.datatilsynet.dk/english/ webcite.
+      
+   
+

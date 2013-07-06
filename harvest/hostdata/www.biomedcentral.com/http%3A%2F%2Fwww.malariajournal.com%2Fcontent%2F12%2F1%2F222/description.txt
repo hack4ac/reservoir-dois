@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					As countries make progress in malaria control, transmission may be reduced to such an extent that few cases occur, and identification of the remaining foci of transmission may require a combination of surveillance tools. The study explored the usefulness of parasite prevalence, seroprevalence and model-estimated seroconversion rates for detecting local differences in malaria transmission in a West African country.
+
+				
+				
+					
+						Methods
+
+					Age-stratified cross-sectional surveys were conducted during the wet season in 2008 and the following dry season in 2009 in The Gambia. In each season, 20 village communities were sampled from six diverse areas throughout the country. A total of 7,586 participants were surveyed, 51% (3,870) during the wet season. Parasites were detected by thick film slide microscopy, and anti-MSP1- 19  antibodies were detected by ELISA using eluted dried blood from filter papers.
+
+				
+				
+					
+						Results
+
+					Overall parasite prevalence was 12.4% in the wet season and 2.2% in the dry season, with village-specific parasite prevalence ranging from 1.4 to 45.9% in the wet season and from 0.0 to 13.2% in the dry season. Prevalence was highest in the eastern part of the country. Serological indices also varied between villages, indicating local heterogeneity in transmission, and there was a high correlation between wet and dry season estimates across the villages. The overall prevalence of anti-MSP1 19  antibodies was similar in the wet (19.5%) and in the dry (19.6%) seasons.
+
+				
+				
+					
+						Conclusion
+
+					The study illustrates the utility of measuring both parasite prevalence and serological indices for monitoring local variation in malaria transmission, which are more informative than single measures as control intensifies and malaria declines. Measurements of seropositivity have the logistical advantage of being relative stable seasonally so that sampling at any time of year may be conducted.
+
+				
+			
+		

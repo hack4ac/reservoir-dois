@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Emerging evidence suggests that walking and cycling for different purposes such as transport or recreation may be associated with different attributes of the physical environment. Few studies to date have examined these behaviour-specific associations, particularly in the UK. This paper reports on the development, factor structure and test-retest reliability of a new scale assessing perceptions of the environment in the neighbourhood (PENS) and the associations between perceptions of the environment and walking and cycling for transport and recreation.
+
+				
+				
+					
+						Methods
+
+					A new 13-item scale was developed for assessing adults’ perceptions of the environment in the neighbourhood (PENS). Three sets of analyses were conducted using data from two sources. Exploratory and confirmatory factor analyses were used to identify a set of summary environmental variables using data from the iConnect baseline survey (n = 3494); test-retest reliability of the individual and summary environmental items was established using data collected in a separate reliability study (n = 166); and multivariable logistic regression was used to determine the associations of the environmental variables with walking for transport, walking for recreation, cycling for transport and cycling for recreation, using iConnect baseline survey data (n = 2937).
+
+				
+				
+					
+						Results
+
+					Four summary environmental variables (traffic safety, supportive infrastructure, availability of local amenities and social order), one individual environmental item (street connectivity) and a variable encapsulating general environment quality were identified for use in further analyses. Intraclass correlations of these environmental variables ranged from 0.44 to 0.77 and were comparable to those seen in other similar scales. After adjustment for demographic and other environmental factors, walking for transport was associated with supportive infrastructure, availability of local amenities and general environment quality; walking for recreation was associated with supportive infrastructure; and cycling for transport was associated only with street connectivity. There was limited evidence of any associations between environmental attributes and cycling for recreation.
+
+				
+				
+					
+						Conclusion
+
+					PENS is acceptable as a short instrument for assessing perceptions of the urban environment. Previous findings that different attributes of the environment may be associated with different behaviours are confirmed. Policy action to create supportive environments may require a combination of environmental improvements to promote walking and cycling for different ...

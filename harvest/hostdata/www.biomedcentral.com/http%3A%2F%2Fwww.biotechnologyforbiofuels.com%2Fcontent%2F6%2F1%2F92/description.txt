@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					The recalcitrant cell walls of microalgae may limit their digestibility for bioenergy production. Considering that cellulose contributes to the cell wall recalcitrance of the microalgae  Chlorella vulgaris , this study investigated bioaugmentation with a cellulolytic and hydrogenogenic bacterium,  Clostridium thermocellum , at different inoculum ratios as a possible method to improve CH 4  and H 2  production of microalgae.
+
+				
+				
+					
+						Results
+
+					
+					Methane production was found to increase by 17?~?24% with the addition of  C .  thermocellum , as a result of enhanced cell disruption and excess hydrogen production. Furthermore, addition of  C .  thermocellum  enhanced the bacterial diversity and quantities, leading to higher fermentation efficiency. A two-step process of addition of  C .  thermocellum  first and methanogenic sludge subsequently could recover both hydrogen and methane, with a 9.4% increase in bioenergy yield, when compared with the one-step process of simultaneous addition of  C .  thermocellum  and methanogenic sludge. The fluorescence peaks of excitation-emission matrix spectra associated with chlorophyll can serve as biomarkers for algal cell degradation.
+
+				
+				
+					
+						Conclusions
+
+					
+					Bioaugmentation with  C .  thermocellum  improved the degradation of  C .  vulgaris  biomass, producing higher levels of methane and hydrogen. The two-step process, with methanogenic inoculum added after the hydrogen production reached saturation, was found to be an energy-efficiency method for hydrogen and methane production.
+
+				
+			
+		

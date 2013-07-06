@@ -1,0 +1,44 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In the current study we report on the effects of an implementation strategy in the form of a training programme on the assessed work limitations of a client with depression by insurance physicians (IPs) participating in a RCT. These assessed work limitations of a client were in the form of scores on the List of Functional Abilities (LFA).
+
+				
+				
+					
+						Method
+
+					We conducted a randomised controlled trial (RCT) for IPs in which we compared the intervention of a specially developed training programme with the usual methods of implementation and training currently used. The outcome was the mean sum score and the inter-rater reliability (Intraclass Correlation Coefficient, ICC) of the LFA scores. These LFA scores were scored by the IPs participating in the RCT for the work limitations of the cases presented in different videos, two videos before the training and two after the training of the intervention group.
+
+				
+				
+					
+						Results
+
+					At baseline, the intervention group (IG) consisted of 21 IPs and the control group (CG) of 19. For one participant of the IG and for one of the CG the LFAs of the two case reports after training were not available. Before training the sum scores for the first case report did not differ significantly between the groups, while the mean sum score was higher in the IG than in the CG for the second case report. For both case reports after training a higher score was found in the IG than in the CG. The inter-rater reliability measured for the two case reports before training was about the same in the IG and the CG: 0.64 and 0.65, respectively. For the two case reports after training, the ICC was higher in the IG than in the CG: 0.69 and 0.54, respectively. This difference was not significant however.
+
+				
+				
+					
+						Conclusion
+
+					It would appear that the implementation of a specially designed training programme on guidelines for depression may lead to greater inter-rater reliability in the assessments by insurance physicians of the work limitations of clients with depression. It is, however, important to note that insurance physicians who receive training may find more work limitations than those who do not.
+
+				
+				
+					
+						Trial registration
+
+					Netherlands’ Trial Register  NTR1863 
+					
+
+				
+			
+		

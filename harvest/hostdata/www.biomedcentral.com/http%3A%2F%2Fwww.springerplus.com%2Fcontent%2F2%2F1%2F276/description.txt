@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				To evaluate the screening performance of individual and combined use of clinical breast examination, ultrasonography and mammography in Chinese women, we conducted a biennial breast cancer screening program among 14,464 women aged 35 to 74 years old who lived in Qibao County, Minhang district of Shanghai, China, between May 2008 and Sept 2012. All participants were submitted to clinical breast examination, and then women with positive results and all women at age of 45-69 years old were preformed breast ultrasonography and mammography. The examination results were compared against pathological findings as the gold standard of reference. A total of 66 women were diagnosed with breast cancer in the two rounds of the screening, yielding an incident rate of 194 per 100,000 person-years. The sensitivity of clinical breast examination, ultrasonography and mammography alone were 61.4%, 53.7% and 67.3%, respectively. While mammography performed better in elder age groups and hormone receptor positive disease groups, ultrasonography had a higher sensitivity in younger age group and did not differ in sensitivity by estrogen receptor or progesterone receptor status. Combined use of the two imaging examinations increased the sensitivity in almost all age groups, but had a higher sensitivity in hormone receptor positive cancers than in those negative. Our results suggest that the Qibao modality is an effective strategy for breast cancer screening among Chinese women, especially for early detection of elder and hormone receptor positive breast cancer.
+
+			
+		

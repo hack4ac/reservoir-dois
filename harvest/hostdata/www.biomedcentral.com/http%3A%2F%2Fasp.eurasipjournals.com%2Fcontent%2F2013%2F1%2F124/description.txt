@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Generating function (GF) has been used in blind identification for real-valued signals. In this paper, the definition of GF is first generalized for complex-valued random variables in order to exploit the statistical information carried on complex signals in a more effective way. Then an algebraic structure is proposed to identify the mixing matrix from underdetermined mixtures using the generalized generating function (GGF). Two methods, namely GGF-ALS and GGF-TALS, are developed for this purpose. In the GGF-ALS method, the mixing matrix is estimated by the decomposition of the tensor constructed from the Hessian matrices of the GGF of the observations, using an alternating least squares (ALS) algorithm. The GGF-TALS method is an improved version of the GGF-ALS algorithm based on Tucker decomposition. More specifically, the original tensor, as formed in GGF-ALS, is first converted to a lower-rank core tensor using the Tucker decomposition, where the factors are obtained by the left singular-value decomposition of the original tensor’s mode-3 matrix. Then the mixing matrix is estimated by decomposing the core tensor with the ALS algorithm. Simulation results show that (a) the proposed GGF-ALS and GGF-TALS approaches have almost the same performance in terms of the relative errors, whereas the GGF-TALS has much lower computational complexity, and (b) the proposed GGF algorithms have superior performance to the latest GF-based baseline approaches.
+
+			
+		

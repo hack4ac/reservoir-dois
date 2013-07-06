@@ -1,0 +1,142 @@
+Data and methods
+   
+      The entire experimental process consistes the following steps: (1) obtain and parse
+         entire MEDLINE corpus; (2) create disease and drug lexicons; (3) tag MEDLINE sentences
+         with drug and disease entities; (4) Find treatment specific patterns; (5) extract
+         additional pairs from MEDLINE with selected patterns; and (6) perform semantic analysis
+         of extracted drug-disease pairs (Figure 1).
+      
+      Figure 1. Flow chart of the overall pattern learning, pair extraction and semantic analysis
+            process. The entire process consisted of the following steps: (1) obtain entire MEDLINE corpus,
+         (2) create a clean and MEDLINE-specific disease lexicon, (3) tag MEDLINE sentences
+         with drug and disease entities, (4) extract treatment-specific patterns from tagged
+         MEDLINE sentences using known drug-disease pairs, (5) extract new drug-disease pairs
+         from tagged MEDLINE using selected patterns, (6) semantic analysis of extracted drug-disease
+         pairs.
+      
+      Obtain MEDLINE data
+      We have used 20 million MEDLINE abstracts (roughly 100 million sentences) published
+         from 1965 to 2010 as the text corpus for our task of treatment-specific drug-disease
+         relationship extraction. The 2010 MEDLINE/PubMed baseline XML files was downloaded
+         from NLM’s anonymous FTP server at ftp://ftp.nlm.nih.gov/nlmdata/.medleasebaseline/.
+         The MEDLINE XML files were then parsed. Abstracts and titles were extracted and split
+         into sentences.
+      
+      Create drug and disease lexicons
+      Clean and MEDLINE-specific disease lexicon: Highly accurate and comprehensive lexicons are prerequisites for many biomedical
+         relationship extraction tasks, including our task of extracting drug-disease pairs
+         from MEDLINE. In this study, we created a clean and MEDLINE-specific disease lexicon
+         by combining an automatic approach and manual curation (Figure 2). The disease lexicon is based on the UMLS (Unified Medical Language System) Metathesaurus
+         (2009 AB version) and Human Disease Ontology (HDO). We first created a disease lexicon
+         of 528,198 distinct terms by combining UMLS terms with following semantic types: “Disease
+         Or Syndrome,” “Neoplastic Process,” “Sign Or Symptom,” “Congenital Abnormality,” “Mental
+         or Behavioral Dysfunction,” and “Anatomical Abnormality.” We then added 32,414 distinct
+         terms from HDO (http://bioportal.bioontology.org/ontologies/1009 webcite). The initial disease lexicon consisted of 529,179 distinct terms. Since our task
+         in this study is to extract drug-disease relationship from MEDLINE, we are only interested
+         in disease terms that have appeared in MEDLINE at least once. One of our previous
+         studies has shown that many UMLS terms have never appeared in MEDLINE [27]. In order to build a MEDLINE-specific disease lexicon as well as to reduce our manual
+         curation effort, we tagged all 20 million MEDLINE abstracts with terms from the initial
+         disease lexicon. We then filtered out terms with MEDLINE frequency of zero. After
+         this MEDLINE filtering, the disease lexicon consisted of 95,762 terms, a 82% reduction
+         from original lexicon. We then manually curated the disease lexicon by removing non-disease
+         terms (ie, brain, liver etc), ambiguous disease terms (ie consumption, weak etc) and
+         terms that were too general (ie disorder, disease, deficiency etc). The final curated
+         disease lexicon consisted of 70,247 terms.
+      
+      Figure 2. The process in creating a clean and MEDLINE specific disease lexicon.
+      Drug lexicon: The drug lexicon was downloaded from (http://www.drugbank.ca/ webcite) and consisted of 6,516 drugs, including both FDA-approved drugs and experimental
+         drugs. The decision of using drug names from DrugBank instead of RxNORM or other sources
+         is that DrugBank contains both experimental and FDA-approved clinical drugs.
+      
+      Extract known drug-disease pairs from Clinicaltrials.gov
+      ClinicalTrials.gov is a registry of federally and privately supported clinical trials
+         conducted in the United States and around the world. For each of the trials listed
+         at ClinicalTrials.gov, there is associated medical condition and drug treatment information.
+         We downloaded a total of 115,026 clinical trial XML files from Clinicaltrials.gov
+         (data accessed in 04/2011). A total 196,002 drug-disease pairs were extracted from
+         the downloaded XML files. Many of the disease and drug names in the drug-disease pairs
+         were in free text form. In addition, drug names are often mixtures of drug brand names
+         and trade names. We performed named entity recognition for both drug and disease terms.
+         We then mapped drug trade names to their generic names. Drug generic names as well
+         as trade names were downloaded from DrugBank. After these steps, total 52,000 drug-disease
+         pairs were obtained. These pairs were subsequently used as input (or seeds) to learn
+         treatment-specific patterns, which then were used to extract additional drug-disease
+         pairs from MEDLINE.
+      
+      Tag MEDLINE sentences and extract patterns
+      We tagged MEDLINE sentences with disease entities from the clean disease lexicon and
+         drug entities from the drug list we extracted from DrugBank. The tagging was based
+         on case-insensitive extact string matching for high precision an d efficiency. For
+         each sentence tagged with both drug and disease entities, we extracted the textual
+         patterns between each pair. The pattern could be “DRUG pattern DISEASE” if the drug
+         entity precedes the disease entity or “DISEASE pattern DRUG” vice versa. For example,
+         from the phrase: “Role of irinotecanin the treatment ofsmall cell carcinoma” (PMID: 11995707), we extracted the pattern “DRUG in the treatment of DISEASE.” From the sentence: “Seventeen women with breast cancerwere treated withtamoxifen (20 mg, twice a day)” (PMID 06798066), the pattern “DISEASE were treated with DRUG” was extracted.
+      
+      Find treatment-specific patterns
+      Drug-disease pairs from ClinicalTrials.gov were first used as input to learn drug-disease
+         treatment-specific patterns. Then the learned patterns were used to extract additional
+         pairs from MEDLINE. For example, using the pairs from ClinicalTrial.gov, we learned
+         a treatment-specific pattern “DRUG in the treatment of DISEASE”. We then used this
+         learned pattern to extract additional drug-disease pairs from MEDLINE, which were
+         not included in ClinicalTrials.gov. If the pattern “DRUG in the treatment of DISEASE”
+         is associated with 1,000 pairs from ClinicalTrials.gov and 10,000 pairs in MEDLINE,
+         then we will extract an additional 9,000 pairs from MEDLINE using this pattern.
+      
+      The patterns between drug entities and disease entities are often highly complicated.
+         The patterns can be very general such as “DRUG and DISEASE” or very specific such
+         as “DRUG in combination with 5-FU/leucovorin (LV) was subsequently evaluated as first-line
+            therapy for DISEASE” as shown in the sentence “Irinotecanin combination with 5-FU/leucovorin (LV) was subsequently evaluated as first-line
+            therapy formetastatic colorectal cancer in two randomized, phase III studies” (PMID 11585970). In addition, the patterns
+         between a drug entity and a DISEASE entity are often unrelated to drug treatment.
+         For instance, the pattern “DRUG-induced DISEASE” in sentence “Tamoxifen-inducedendometrial cancer” (PMID 12701962) is related to drug side effect. In order to find drug treatment
+         specific patterns, we extracted the textual patterns between known drug-disease pairs
+         from Clinicaltrials.gov. We then ranked the patterns by the number of associated known
+         drug-disease pairs. Finally, we manually examined the top patterns and selected drug
+         treatment specific ones. After the ranking step, the time required to examine the
+         top ranked patterns was minimal (less than 10 minutes).
+      
+      Extract additional pairs from MEDLINE with selected patterns
+      For each of the manually selected treatment-specific patterns, we extracted its associated
+         drug-disease pairs from tagged MEDLINE sentences. These patterns were learned using
+         known drug-disease pairs. Here, we used them to extract additional drug-disease pairs
+         from MEDLINE.
+      
+      Evaluate extracted drug-disease pairs
+      In order to evaluate drug-disease pairs extracted from MEDLINE, which include FDA-approved
+         as well as experimental drug-disease pairs, we manually created two MEDLINE-specific
+         datasets to evaluate the precision and recall of the extraction algorithm. The first
+         evaluation set consisted of drug-disease treatment pairs for the drug “irinotecan”.
+         The second set consisted of drug-disease pairs for the disease “thrombocytopenia”.
+         To create the “Irinotecan-Disease” evaluation set, we first retrieved all MEDLINE
+         sentences (not just sentences containing the patterns) tagged with the term “irinotecan”
+         and at least one disease term. We then manually extracted 360 treatment-specific pairs
+         from these sentences. For creating the evaluation set “Drug-Thrombocytopenia”, we
+         retrieved all MEDLINE sentences tagged with thrombocytopenia and at least one drug
+         term. We manually extracted 43 treatment specific pairs from those sentences. The
+         annotation task was performed by three curators. Each curator independently annotated
+         tagged sentences and created two evaluation sets. Only the pairs agreed upon by all
+         three curators were used in the final evaluation. The two sets were created independent
+         of the methods we used (evaluators did not know the patterns we used). In this way,
+         the final performance captured the effect of both the learned patterns and the quality
+         of the drug and disease lexicons. Standard precision, recall, and F1 measures were
+         used to evaluate extracted drug-disease pairs. One of the limitations is that these
+         two manually created evaluation datasets (one drug and one disease only) may not be
+         representative for other diseases and drugs. However, due to the intensive manual
+         curation, we did not create evaluation datasets for multiple drugs and multiple diseases.
+         Since the aim of this paper is to extract many additional pairs (pairs that are not
+         included in ClinicalTrials.gov) from MEDLINE, we could not use pairs from ClincialTrials.gov
+         to evaluate these additional pairs extracted from MEDLINE. But we did used pairs from
+         ClinicalTrials.gov as prior knowledge (or seeds) to learn treatment-specific patterns.
+      
+      Semantic analysis of extracted drug-disease pairs
+      To demonstrate the potential of the drug-disease pairs that we extracted from MEDLINE
+         using the selected patterns in drug repurposing, we studied the correlations of our
+         extracted drug-disease pairs with drug target genes as well as drug therapeutic classes.
+         We extracted 10,478 drug-target gene pairs from DrugBank (accessed in 01/2012) and
+         extracted 5,544 drug-ATC associations from the World Health Organization Anatomical
+         Therapeutic Chemical (ATC) Classification System (http://www.whocc.no/atc webcite). Examples of these associations include tamoxifen-anti-estrogens and trometamol-hemofiltrates. For all drug-drug pairs that shared disease indications, we calculated the average
+         shared target genes as well as shared ATC codes, then compared them to those of all
+         drug-drug pairs.
+      
+   
+

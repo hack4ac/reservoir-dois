@@ -1,0 +1,291 @@
+Methods
+   
+      Cell lines and culture conditions
+      The human neuroblastoma (NB) cell line SK-N-AS (American Type Culture Collection,
+         Manassas, VA) was maintained in Dulbecco's Modified Eagle Medium (DMEM; Hyclone, Fisher
+         Scientific, Savannah, GA) with 10% fetal bovine serum (Atlanta Biologicals, Lawrenceville,
+         GA) and 2 mM L-glutamine (Hyclone, Fisher Scientific, Savannah, GA) at 37°C and 10%
+         CO2. Parent SK-N-AS cells and stable transfectants were cultured under the same conditions.
+         Human dermal microvascular endothelial cells (HDMVEC) were obtained from Lonza, Inc.
+         (Allendale, NJ), and the human bone marrow endothelial cell line, HBMEC-28, was provided
+         by Dr. E. van der Schoot (Sanquin Blood Supply Foundation, The Netherlands) [23]. HDMVEC cells were grown in gelatin-coated culture flasks in Endothelial Cell Grown
+         Medium (EGM) supplemented with 10% heat-inactivated FBS. HBMEC-28 cells were propagated
+         in medium prepared using the EGM™ BulletKit™ (Lonza) according to the directions of
+         the manufacturer.
+      
+      Plasmids encoding human ICAM-2 and ICAM-2 variants
+      The plasmid encoding human ICAM-2 was generated as published [13]. Briefly, cDNA encoding ICAM-2 was generated from RNA isolated from human umbilical
+         vein endothelial cells (Clonetics, San Diego, CA). Primers for full length ICAM-2
+         were: forward (5'GCTTCCGCTGCCTGGATTCT3') and reverse (5'AAGTCCAGGTGTTGTATTC3'). Amplification
+         was performed at 95°C for 1 min; then 30 cycles of 94°C for 30 sec, 55°C for 30 sec,
+         72°C for 1 min, followed by 72°C for 7 min. The resulting cDNA was isolated after
+         electrophoresis in agarose gels, sequenced in its entirety by automated sequencing
+         methods (St. Jude Hartwell Center for Bioinformatics, Memphis, TN), and subcloned
+         into the BamH1 restriction site of the expression plasmid pIRESneo2 (Clontech, San
+         Jose, CA) to generate pIRES.ICAM-2. Plasmid transfections were carried out using FuGene6
+         (Roche Diagnostics, Indianapolis, IN). Forty-eight hours after transfection, 750 μg/ml
+         geneticin (G418; Roche Diagnostics Corporation, Indianapolis, IN) was added to select
+         transfected cell populations. The use of a vector containing an internal ribosomal
+         entry site (IRES) between the ICAM-2 cDNA and the gene encoding the G418 resistance
+         protein eliminated the need to isolate and characterize multiple individual clonal
+         cell lines. The ICAM-2 cDNA sequence was verified as error-free in the resulting cell
+         line (SK-N-ASpIRES.ICAM-2) by the St. Jude Hartwell Center.
+      
+      Mutagenesis and nomenclature of ICAM-2 variants
+      The objective of this study was to evaluate the impact of the glycosylation status
+         of ICAM-2 on the function in NB tumor cells. Therefore, mutagenesis by overlapping
+         PCR, using Pfu polymerase (QuickChange mutagenesis kit; Stratagene-Agilent Tech, Wilmington,
+         DE) and pIRES.ICAM-2 as a template, was performed to replace some or all of the six
+         asparagine glycosylation sites with alanine residues at positions 47, 82, 105, 153,
+         176, and 187, each of which is glycosylated in the endogenous wild-type protein. Alanine
+         was chosen for substitution at all six or of a subset of glycosylation sites to prevent
+         glycosylation [24-26]. Plasmids encoding mutated variants of ICAM-2 cDNA were identified by restriction
+         enzyme analysis and sequences confirmed by direct DNA sequencing. Transfection of
+         plasmids encoding ICAM-2 variants into SK-N-AS cells, selection of transfected cells,
+         and culture conditions were the same as for SK-N-ASpIRES.ICAM-2 transfectants. Plasmids
+         and transfected cell lines are designated as glycosylation site variants (gsv) followed
+         by the positions of the amino acids (asparagines) that were replaced with alanine.
+         For example, gsv1,4,5 is non-glycosylated at amino acids 47, 153 and 176 (Figure&nbsp;1). In Figures&nbsp;2, 3, 4, 5, 6, 7 and 8, transfected SK-N-AS cell lines expressing variant forms of ICAM-2 are referred to
+         as the specific variant expressed: gsv1,4,5; gsv1,2,5; gsv4,5; and gsv1-6. SK-N-AS
+         cells expressing ICAM-2 WT are labeled in the Figures as “WT”. SK-N-ASpIRESneo2 control
+         transfectants are labeled “neo”.
+      
+      Figure 2. Transfected SK-N-AS cells express ICAM-2 transcripts and proteins. A) RNA from control human dermal microvascular endothelial cells (HDMVEC) generated
+         RT-PCR products of the predicted 631 base pairs. All ICAM-2 transfectants contained
+         readily detectable ICAM-2 RNA. B) Bar graph depicting quantitation of the RT-PCR products shown in “A”. RNA expression
+         levels were within 20% among the transfectants. This level of variability was not
+         statistically significant. C) Immunoblots of whole cell lysates (40 μg protein/lane) demonstrated that control
+         HBMEC-28 cells and WT transfectants expressed immunoreactive protein having an apparent
+         molecular mass of 55-60 kDa. ICAM-2 variants expressed proteins of appropriately lesser
+         apparent masses.  Transfectants expressed equivalent levels of actin and α-actinin.
+         D) Deglycosylation of proteins in whole cell lysates and subsequent immunoblots for
+         ICAM-2 confirmed that all variants displayed the expected apparent molecular mass
+         of ~30kDa. The “nonspecific” band that appears at ~36kDa in all lanes marked + PNGase
+         F is the PNGase F protein itself. E) Quantitation of ICAM-2 variants (lanes indicated as + PNGase F) was done to compare
+         relative amounts of ICAM-2 protein expressed by transfectants. Results were normalized
+         to the level of actin expression for each cell line. F) ICAM-2 WT and variants localized to cell membranes. Experimental details are included
+         in Methods. G) Membrane localization of ICAM-2 WT and gsv4,5 was confirmed by fluorescence activated
+         cell sorting (FACS) of intact cells, incubated with an antibody recognizing the extracellular
+         domain (ED) of ICAM-2 (CBR-IC2/2) and a PE-conjugated secondary antibody. Non-intact
+         cells were gated out using light scatter parameters and propidium iodide uptake. FACS
+         profiles shown are for PE-positive cells generated using negative control IgG (blue
+         line) or anti-ICAM-2 (red line). H) Biotinylation experiments also demonstrated that ICAM-2 WT and variants localized
+         to cell membranes. Experimental details are included in Methods.
+      
+      Figure 3. Morphology of ICAM-2 variants derived from SK-N-AS neuroblastoma cells. Cells plated at low density (~20% confluence) in CoStar tissue culture flasks were
+         cultured at 37°C at 5% CO2 in humidified chambers, and allowed to proliferate to ~70% confluence. SK-N-AS cells
+         transfected to express WT or gsv ICAM-2 have nascent neuronal morphologies. In comparison
+         to SK-N-ASpIRES.ICAM-2 transfectants (WT), gsv transfectants were morphologically
+         more pleomorphic and discohesive. All transfectants grew as attached monolayers. When
+         detached and sized using a Coulter Counter, no differences in cell size were observed.
+      
+      Figure 4. ICAM-2 WT and glycosylation variants inhibit NB cell migration in scratch assays. Expression of WT and gsv ICAM-2 inhibited SK-N-AS cell motility in vitro. A) Scratch assays to evaluate cell motility were performed using standard methods,
+         and images acquired at 24 hour intervals. At each time point, the distance remaining
+         across the scratch was calculated in pixels. Only wells in which initial scratches
+         were of similar width were included in analyses. B) Analysis by two-way ANOVA followed by Bonferroni post test showed that at 72 hours
+         post scratch, all variants except gsv4,5 migrated more slowly than transfectants that
+         expressed no detectable ICAM-2 (neo) (P &lt; 0.05* [gsv1-6] and P &lt; 0.001*** [gsv1,4,5
+         and gsv1,2,5]). At 72 hours post scratch, all gsv transfectants migrated more rapidly
+         than transfectants expressing ICAM-2 WT (P&lt;0.01 – P&lt;0.001, P values not indicated
+         on graph).
+      
+      Figure 5. The cellular distribution of F-actin in control transfectants (neo) differs from that
+            of transfectants expressing ICAM-2 WT. A) Control neo transfectants harbored transverse actin fibers. ICAM-2 WT induced juxtamembrane
+         actin fiber distribution. ICAM-2 gsv expression did not induce a juxtamembrane localization
+         of actin fibers. Each transfectant was plated at ~60% confluence and maintained under
+         standard conditions at 37oC to allow the cells to adhere to chamber slides. Approximately 18 hours after plating,
+         cells were fixed with 3.7% paraformaldehyde and incubated with FITC-conjugated phalloidin.
+         Actin fibers were then visualized using confocal fluorescence microscopy by standard
+         methods. Inset photomicrographs were acquired at 20x magnification and using a Zeiss
+         Axio Observer Z.1 microscope platform in conjunction with Zen 2011 Blue imaging software
+         (Carl Zeiss) (Photomicrographs of control cell lines (neo and WT) were published previously
+         [13]). B) The distribution of actin fibers in cells at the leading edge of migration in scratch
+         (wound healing) assays was similar to actin fiber distribution in stationary sub-confluent
+         cultures of each cell line. Scratch assays were performed as described for experiments
+         depicted in Figure&nbsp;4. At 72 hours “post scratch”, cells were fixed and actin fibers visualized using FITC-phalloidin
+         staining as described above, and fluorescence photomicrographs acquired using Nikon
+         TE2000-U microscope with X-cite 120 mercury vapor short arc in conjunction with Q-capture
+         ProV 5.1.1.14 software (Nikon Instruments, Inc.). Care was taken to acquire images
+         of the control neo transfectants in areas where residual gaps from the original scratch
+         were still visible, to confirm acquisition of the leading edge of migration.
+      
+      Figure 6. WT and gsv ICAM-2 suppressed anchorage-independent growth in vitro. All four glycosylation site ICAM-2 variants suppressed anchorage-independent growth.
+         Soft agar assays were performed using standard methods. Number of colonies of &gt;20
+         cells were visualized 14-21 days after plating and results analyzed using a 2-tailed
+         t test and GraphPad Prism software. P = 0.0124*. P &lt; 0.0001***. Not shown in this
+         Figure are control experiments demonstrating that the growth in soft agar of parental
+         SK-N-AS cells was equivalent to control SK-N-ASpIRESneo transfectants.
+      
+      Figure 7. ICAM-2 WT and variants co-precipitated with α-actinin. A) IP/IB experiments with control cell lines demonstrate the expected association of
+         ICAM-2, α-actinin and actin in lysates from SK-N-ASpIRES.ICAM-2 cells (labeled as
+         WT), but not SK-N-ASpIRESneo cells (neo). Results for these control cell lines were
+         published previously [13]. B) ICAM-2 glycosylation site variants associated simultaneously with α-actinin and
+         actin. Immunoprecipitations (IP) were performed using whole cell lysates and a mouse
+         monoclonal antibody to α-actinin (MAB1682, Millipore). Following protein separation
+         by electrophoresis, immunoblots (IB) were performed with antibodies to α-actinin (sc-7454,
+         Santa Cruz Biotech), ICAM-2 (AF244, R&amp;D Systems), or actin (4968, Cell Signaling).
+         The presence of ICAM-2 WT and variants in each preparation was confirmed by immunoblot
+         analysis of input preparations (a representative blot is shown in Figure&nbsp;2C) and also by immunoblot analysis of the proteins remaining in the supernatant following
+         precipitation (not shown), to confirm the presence of sufficient/excess ICAM-2 protein
+         or variant in each preparation used for immunoprecipitation experiments.
+      
+      Figure 8. ICAM-2 variants significantly delayed but did not completely inhibit development of
+            disseminated tumors in an in vivo model of metastatic neuroblastoma. Mice received intravenous injections of SK-N-AS cells expressing no detectable ICAM-2
+         (neo, N = 10), ICAM-2 WT (N = 10), or one of four hypo-glycosylated forms of ICAM-2
+         (N = 5/group). Kaplan-Meier survival plots were analyzed by log-rank (Mantel-Cox)
+         test using GraphPad Prism 5 software (Version 5.02). Mice receiving cells expressing
+         hypo-glycosylated ICAM-2 survived longer than mice receiving cells expressing no detectable
+         ICAM-2, but not as long as mice receiving cells expressing ICAM-2 WT.
+      
+      Cell proliferation assays (cell doubling time)
+      To determine if the growth rates of all SK-N-AS transfectants expressing ICAM-2 variants
+         were comparable, 1×106 cells were plated in 75 cm2 flasks, and cell numbers determined daily thereafter, using a hemocytometer. Doubling
+         times were calculated using http://www.doubling-time.com/compute.php webcite[27].
+      
+      Anchorage-independent growth
+      Each well of a 6-well plate was plated with 1mL 0.8% Sea-plaque agarose in DMEM with
+         10% FBS, and cooled to 4°C overnight. NB cells were resuspended in soft agar (0.4%)
+         in DMEM with 10% FBS at a density of 30,000 cells in 10 mL, and 1 mL of cell suspension
+         was overlaid in the wells containing 0.8% agar. Plates were then incubated at 37°C
+         for 14-21 days. Colonies of &gt;20 cells were identified microscopically and the number
+         of colonies/well recorded. Six replicate wells of each transfectant were included
+         in at least three independent experiments, as published previously [13,28].
+      
+      Scratch assays (wound healing assays)
+      To assess the motility of transfectants expressing ICAM-2 variants, we performed scratch
+         or wound healing assays [29]. Cells were plated at an initial density of 1×106 cells per well in 6-well plates and allowed to grow to confluency. A centerline was
+         marked on the underside of each well along its horizontal axis, to designate loci
+         at which images would be acquired at each time point. Vertical linear defects (scratches)
+         were introduced into cell monolayers using a 200 μL pipet tip. Each well received
+         3 scratches. Images were acquired at 0, 24, 48, and 72 hours post scratch, at 100×
+         magnification at each intersection of the scratch wound (vertical defect) and the
+         marked horizontal centerline using a Dr-5 digital camera (Southern Microscope) mounted
+         t22232o a Nikon Eclipse TS100 inverted microscope. For each time point, 5 measurements
+         were taken per well in each of 3 wells and the average the horizontal width of the
+         linear defect in pixels calculated using Adobe Photoshop CS4 (version 11.0.2).
+      
+      Biotinylation of surface proteins
+      Cells (SK-N-AS cells transfected to express ICAM-2 WT or variants gsv1,4,5; gsv1,2,5;
+         gsv4,5; or gsv1-6) were plated in 175 cm2 tissue culture flasks (Corning) with standard growth medium (high glucose DMEM +
+         10%FBS + 2 mM L-glutamine) and grown to near-confluence. Cells were washed 3 times
+         with ice-cold PBS (pH 8.0) and surface proteins biotinylated for 30 minutes at room
+         temperature using 0.5 mg/ml EZ-Link® Sulfo-NHS-LC-Biotin (21335; Thermo Scientific/Pierce)
+         reconstituted in PBS (pH 8.0). The biotinlyation reaction was quenched by washing
+         the cells 3 times with 100 mM glycine in PBS (pH 7.2). Cells were then lysed with
+         0.5% NP-40 + complete Mini protease inhibitor (Roche) and homogenized. Biotinylated
+         protein preparations were then incubated with 100 μl Pierce streptavidin® resin (6%
+         crosslinked beaded agarose 50% aqueous slurry) at room temperature for 20 minutes
+         with gentle rocking, and then centrifuged to separate membrane-associated, biotin-avidin
+         precipitated proteins from unlabeled proteins. After unbound proteins (supernatant)
+         were removed, beads were washed 3 times with cold lysis buffer, boiled in sample buffer,
+         and subjected to SDS-PAGE. Following electrophoresis, standard immunoblots were performed.
+      
+      Glycosidase digestion
+      Cleavage of N-linked glycans was carried out using Endo H (#P0702L; New England BioLabs,
+         Ipswich, MA) and PNGase F (#P0704S; New England BioLabs, Ipswich, MA) according to
+         the manufacturer’s instructions. In brief, 20 μg of protein from control cells (HBMEC-28)
+         or NB cells expressing ICAM-2 WT or a variant were denatured at 100°C for 10 minutes
+         with glycoprotein denaturing buffer (5% SDS, 0.4M DTT in PBS). After cooling, protein
+         solutions were centrifuged and incubated for an additional hour at 37°C with 2 μl
+         of either Endo H enzyme (plus G5 Reaction buffer, pH 5.5; New England Biolabs) or
+         PNGase F enzyme (plus G7 reaction buffer, pH 7.5 plus 10% NP-40 ; New England Biolabs).
+         Control samples were subjected to the same denaturing and digesting conditions, but
+         substituting equivalent volumes of water for enzyme. Samples were then subjected to
+         SDS-PAGE and immunoblot analyses.
+      
+      Immunoprecipitations and immunoblots
+      Co-immunoprecipitations (IP) were done as described previously [13]. The antibody used for IP of α-actinin was MAB1682 (Millipore, Fisher Scientific,
+         Savannah, GA). Antibodies used for immunoblots (IB) for ICAM-2, α-actinin, and actin
+         were AF244 (R&amp;D Systems, Minneapolis, MN) and sc-1512 (Santa Cruz Biotech, Santa Cruz,
+         CA), 4968 (Cell Signaling Technology, Danvers, MA), and A5316 (Sigma-Aldrich, St.
+         Louis, MO), respectively. AF244 is a goat polyclonal IgG that recognizes the extracellular
+         domain of ICAM-2. C-20 is a goat polyclonal IgG that recognizes the intracellular
+         C-terminus of the ICAM-2 protein. Secondary HRP-conjugated anti-goat (AF244, sc-1512),
+         anti-rabbit (4968) and anti-mouse (A5316) antibodies were purchased from Santa Cruz
+         Biotech. The ECL system (Pierce ECL Chemiluminescent Substrate; Thermo Scientific)
+         was used to detect presence of horseradish peroxidase (HRP) enzyme. Immunoblot result
+         in Figure&nbsp;2D was quantitated using Adobe Photoshop CS4 (San Jose, CA) by multiplying area by
+         integrated intensity of the band of interest and normalizing that result to that of
+         a control protein (actin) band.
+      
+      Subcellular localization of F-actin
+      Actin fibers were visualized by fluorescence microscopy using standard methods [30]. Briefly, cells were plated in chamber well slides (2 × 105 cells per chamber) and allowed to adhere. Approximately 18 hours after plating, cells
+         were washed with PBS and fixed with 3.7% (w/v) paraformaldehyde in PBS for 10 minutes
+         at room temperature. Remaining attached cells were washed with PBS, and permeabilized
+         with 0.2% (v/v) Triton X-100 for 1 minute. Actin fibers were stained with 10 μg fluorescein
+         isothiocyanate (FITC)-conjugated phalloidin (P5282; Sigma-Aldrich, St. Louis, MO)
+         in 1 mL phosphate buffered saline (PBS) for 30 minutes. Phalloidin-stained fibers
+         were visualized by confocal fluorescence microscope equipped with narrow band filters,
+         by standard methods (Figure&nbsp;5A) or by the Zeiss Axio Observer Z.1 microscope platform in conjunction with Zen 2011
+         Blue imaging software (Carl Zeiss)(insets in Figure&nbsp;5A). DAPI (4’,6-diamidino-2-phenylindole; appears as blue fluorescence) was used to
+         detect DNA.
+      
+      Fluorescence-activated cell sorting (FACS)
+      Flow cytometric analyses were used to verify the cell membrane localization of ICAM-2
+         and ICAM-2 variants. Cells (1 × 106) were trypsinized, washed twice with PBS, and incubated for 30 min with goat serum
+         (G9023, Sigma-Aldrich) diluted 1:10 in PBS. Cells were then incubated for 60 minutes
+         on ice with mouse monoclonal anti-human ICAM-2 antibody (CBR-IC2/2, sc-23935 PE; Santa
+         Cruz Biotech). A separate aliquot of cells was incubated with mouse isotope-matched
+         IgG (sc-2025, Santa Cruz Biotech, Santa Cruz, CA) as a negative control. All samples
+         were then washed twice with FACS buffer (1% BSA in PBS) and incubated for 60 minutes
+         on ice with phycoerythrin (PE, sc-3798, Santa Cruz Biotech, Santa Cruz, CA)-conjugated
+         goat anti-mouse IgG. Data were acquired on an LSR-II cytometer (BD Biosciences, San
+         Jose, CA) and analyzed using FlowJo v 7.6.1 (TreeStar) software. Only intact cells,
+         as identified by forward and side light scatter, were analyzed. Propidium iodide (5
+         μg/mL PBS; stored at 4°C in the dark) staining was also used as a parameter to exclude
+         non-viable cells.
+      
+      Morphology
+      Transfected cells were seeded at a density of 15,000 cells/cm2 and maintained under standard culture conditions for 24-48 hours. Photomicrographs
+         were acquired at 20× magnification using a Dr-5 digital camera (Southern Microscope)
+         mounted to a Nikon Eclipse TS100 inverted microscope and archived with TSView software
+         (version 7.1.04, Tucsen Imaging Technology Co./Southern Microscope, Inc., Haw River,
+         NC).
+      
+      Membrane fractionation
+      Cells were washed three times with PBS at 4°C, and resuspended in Cell Lysis Buffer
+         (10 mM HEPES, 10 mM NaCl, 1 mM KH2PO4, 5 mM NaHCO3, 1 mM CaCl2, and 0.5 mM MgCl2 solution ) + 1 mM EDTA + protease inhibitor (complete mini protease inhibitor tablets;
+         Roche Applied Science, Indianapolis, IN) solution. Cells were allowed to swell for
+         5 minutes on ice and then homogenized using a Fisher Scientific Misonix XL2000 Ultrasonic
+         Homogenizer (Fisher Scientific), and centrifuged at 7,500 rpm for 5 minutes. The resulting
+         supernatant suspension contained both plasma membrane and cytosolic proteins. This
+         suspension was then re-centrifuged at 25,000 rpm for 30 minutes to separate the plasma
+         membrane (pellet) from the soluble protein fraction. The crude plasma membrane pellet
+         was then resuspended in 40 μl PBS and standard assays done to determine the protein
+         concentration of these suspensions. Samples were stored at -80°C until ready for use.
+         Suspensions were verified as membrane-enriched by immunoblot analysis for the plasma
+         membrane marker (ATP1A1; Novus, Novus Biologicals, Littleton, CO) [31].
+      
+      Mouse model of metastatic neuroblastoma
+      Female Es1e/SCID mice (6-8 weeks old) were obtained from St. Jude Children’s Research Hospital
+         Animal Resources Center (ARC) (Memphis, TN), with the approval of Dr. Phil Potter
+         [32]. The in vivo animal studies were carried out in accordance with a protocol approved by the St.
+         Jude Children’s Research Hospital Animal Care and Use Committee (Approval Number:
+         374). All mice were maintained in the Animal Resources Center at St. Jude and monitored
+         daily for tumor growth. Mice were euthanized as soon as any animal that appeared to
+         be in distress or discomfort. Animals were housed in an AAALAC accredited vivarium
+         at St. Jude Children’s Research Hospital Animal Resources Center under the direction
+         of Dr. Richard Rahija. Bedding and chow were autoclaved and cages changed twice weekly.
+      
+      When injected intravenously into the tail veins of Es1e/SCID mice, SK-N-AS NB cells (5 × 105 cells) produce disseminated tumors in 100% of mice. The number of cells administered
+         was not toxic to Es1e/SCID mice and no discomfort or death was seen at the time of injection. In this model,
+         there is no “primary tumor” but the pattern of tumor development recapitulates the
+         clinical dissemination of high-risk NB; tumors develop in multiple anatomic locations
+         including lung, liver and bone marrow [33,34]. Groups of 10 (neo and WT transfectants) or 5 mice (gsv1,4,5; gsv1,2,5; gsv4,5; gsv1-6
+         transfectants) were followed for 300 days after intravenous injection of tumor cells.
+         Any animal that appeared to be in distress was euthanized and the day of euthanasia
+         was recorded as the day of death.
+      
+      Statistical analyses
+      Statistical analyses were performed using GraphPad Prism software, version 5.02 (GraphPad,
+         San Diego, CA); graphs were generated using the same software. Two-tailed t tests
+         were used to analyze results of soft agar assays and two-way ANOVA followed by Bonferroni
+         post tests was used to analyze scratch assays. Soft agar assays and scratch (wound
+         healing) assays were repeated a minimum of three times, with each experiment including
+         six replicates of each cell line. Kaplan Meier survival data were used to calculate
+         the 95% confidence interval for time-dependent fractional survival, using a log-rank
+         (Mantel-Haenszel) test to compare survival of mice receiving vector control cells
+         (neo), ICAM-2 WT, or gsv transfected cells.
+      
+   
+

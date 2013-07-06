@@ -1,0 +1,1 @@
+Trade-off between maximum cardinality of collision sets and accuracy of RFID reader-to-reader collision detection

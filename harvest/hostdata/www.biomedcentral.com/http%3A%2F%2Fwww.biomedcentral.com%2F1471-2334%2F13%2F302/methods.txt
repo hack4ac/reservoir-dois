@@ -1,0 +1,83 @@
+Methods
+   
+      Reagents and buffers
+      PBS (phosphate buffered saline), Tween 20, 4-nitrophenyl phosphate (pNPP) and goat
+         antibodies to human IgMs were purchased from Sigma-Aldrich; bovine serum albumin (BSA)
+         from Roche; low-fat milk powder from Regilait; Maxisorp ELISA plates from NUNC. Buffer
+         A contained 0.1% Tween 20 in PBS; buffer B, 5% (w/v) low-fat milk powder in buffer
+         A; buffer C, 1% (w/v) low-fat milk powder in buffer A; buffer D, 10% diethanolamine,
+         pH&nbsp;9.8, 10&nbsp;mM MgSO4, 20 μM ZnCl2.
+      
+      Bacterial, plasmid and viral strains
+      The plasmids encoding the H6-ED3-PhoA hybrids have been described [41]. Table&nbsp;1 gives the origin of the viral ED3 domain and the corresponding segment of the envelope
+         protein. Table&nbsp;2 gives the number of residue changes between the ED3 domains of any two DENV serotypes,
+         and also between the ED3 domain of any DENV serotype and the consensus ED3 domain
+         (DENVc) [63,64]. The productions of the H6-ED3-PhoA hybrids in the periplasmic space of E. coli and their purification from periplasmic extracts through their His-tag were performed
+         essentially as described [41]. The fractions of purification were analyzed by SDS-PAGE in reducing conditions.
+         The purest fractions were pooled, snap-frozen and kept at −80°C. They were homogeneous
+         at &gt;95%.
+      
+      Table 1. Viral origins of the (H6-ED3-PhoA)2 dimers
+      Table 2. Number of residue changes between ED3 domains of different serotypes
+      Clinical samples
+      A first set of human serums (Group 1) was collected within the normal activity of
+         the National Reference Center (NRC) for Arboviruses, Institut Pasteur de la Guyane,
+         French Guiana. These serums were collected from patients who displayed clinical symptoms
+         of dengue and whose infection by DENV was confirmed by laboratory methods. A second
+         set of human serums (Group 2) was collected in the context of a clinical study (DENFRAME
+         project) that was performed in French Guiana [65]. These serums were collected from patients who displayed clinical symptoms of dengue
+         but were diagnosed as negative for DENV infection. In the following, we designate
+         these serums as DENV-uninfected serums. Both Group 1 and Group 2 serums consisted
+         of a series of blood samples collected for the first one during the viremic phase
+         of the disease (from day 0 to day 4 after fever onset) and for a second one during
+         the early convalescent phase (day 5 or later). The samples were characterized by standard
+         diagnostic methods that included virus isolation on mosquito cells and/or viral RNA
+         detection by RT-PCR, non-structural NS1 protein detection, as well as MAC-ELISA and
+         IgG-specific indirect ELISA using virus-infected suckling mouse brain (SMB) extracts
+         as antigens. For the serums of Group 1, the DENV serotype that was responsible for
+         the disease, was identified by RT-PCR and the presence of IgMs against the infecting
+         DENV serotype was ascertained from a MAC-ELISA that used the corresponding SMB extract
+         as antigen. None of the serums was infected simultaneously by two or more DENV serotypes.
+         The serums of Group 1 scored as positive for IgG to DENV in an indirect ELISA performed
+         on an additional sample collected during the convalescent phase of the disease (day
+         15 or later). For the serums of Group 2, all the tests were negative. The methodologies
+         for the collection of the serum samples, the collection of the associated clinical
+         data, and the characterization of the serums have been described previously in detail
+         [65]. Data on the primary or secondary nature of the infection were not available. We
+         obtained informed consent from the patients for the use of the Group 2 serum samples
+         in a previous clinical study, as described [65]. The constitution of the above human serum collections (Group 1 and Group 2) and
+         their use for the present study were approved by the Institutional Review Board of
+         Institut Pasteur and a regional ethical committee (Comité de Protection des Personnes,
+         Ile-de-France 1).
+      
+      MAC-ELISA
+      The MAC-ELISAs of the present study were performed in 96-well flat-bottom microtiter
+         plates with a volume of 100 μL/well. The plates were sensitized with antibodies to
+         human IgMs as follows. A goat antibody to human IgMs (1.0 μg/mL in PBS) was loaded
+         in the wells of the plate. The plate was incubated overnight at 4°C for the reaction
+         of adsorption. The wells were washed with buffer A (three times), blocked with buffer
+         B for 1&nbsp;h at 37°C, and then washed as above. The serums and recombinant antigens were
+         diluted in buffer C. The serums were diluted 100-fold, a dilution at which they nearly
+         saturate the IgM binding sites in the sensitized wells [66]. Wells were loaded with the diluted serums or with buffer C as a blank sample, and
+         the plate was incubated for 1&nbsp;h at 37°C for the reaction of antibody capture. The
+         wells were washed as above and then loaded with the solution of recombinant antigen.
+         The plate was incubated for 1&nbsp;h at 37°C for the binding reaction. The wells were washed
+         as above and the bound antigen, (H6-ED3-PhoA)2, was detected by addition of 5&nbsp;mM pNPP in buffer D and measurement of A405nm after 3&nbsp;h at 25°C. Each experimental data point was performed at least in duplicate
+         and the corresponding signals were averaged. The serum specific signal was obtained
+         by subtracting the signal of the blank sample from the signal of the serum sample.
+      
+      Analysis of the experimental data
+      The curve fits were performed with Kaleidagraph (Synergy Software), which gives Pearson’s
+         coefficient of correlation, RP. The mean values, standard deviations (SD) and standard errors (SE) were calculated
+         with the same program. The results of the MAC-ELISAs were analyzed through ROC curves,
+         which are equivalent to Wilcoxon statistics [67,68]. A ROC curve relates the False Positive Fraction (FPF = 1 - specificity) to the True
+         Positive Fraction (sensitivity) of a test when the threshold varies. The area under
+         the ROC curve (AUC) is an unbiased measure of the test accuracy and the difference
+         AUC - 0.5 is the discrimination power or more simply discrimination of the test. An
+         AUC value of 1.0 represents a perfect test whereas a value of 0.5 represents a worthless
+         test. A rough guide for classifying the accuracy of a test has been proposed: 0.90-1.0 = excellent,
+         0.80-0.90 = good, 0.70-0.80 = fair, 0.60-0.70 = poor, 0.50-0.60 = fail. Semi-parametric
+         ROC curves were computed with the LABROC4 program [69] as implemented in the Web based calculator JLABROC4 [70].
+      
+   
+

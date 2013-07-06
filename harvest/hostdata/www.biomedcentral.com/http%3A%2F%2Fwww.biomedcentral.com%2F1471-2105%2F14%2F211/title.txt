@@ -1,0 +1,1 @@
+Jenner-predict server: prediction of protein vaccine candidates (PVCs) in bacteria based on host-pathogen interactions

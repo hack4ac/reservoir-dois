@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Multiuser multiple-input multiple-output (MU-MIMO) has been proposed as a means to improve spectrum efficiency for various future wireless communication systems. This paper reports indoor experimental results obtained for a newly developed and implemented downlink (DL) MU-MIMO orthogonal frequency division multiplexing (OFDM) transceiver for gigabit wireless local area network systems in the microwave band. In the transceiver, the channel state information (CSI) is estimated at each user and fed back to an access point (AP) on a real-time basis. At the AP, the estimated CSI is used to calculate the transmit beamforming weight for DL MU-MIMO transmission. This paper also proposes a recursive inverse matrix computation scheme for computing the transmit weight in real time. Experiments with the developed transceiver demonstrate its feasibility in a number of indoor scenarios. The experimental results clarify that DL MU-MIMO-OFDM transmission can achieve a 972-Mbit/s transmission data rate with simple digital signal processing of single-antenna users in an indoor environment.
+
+			
+		

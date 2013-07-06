@@ -1,0 +1,83 @@
+Methods
+   
+      Animals
+      Eighty-one mixed-breed, male and female, adult dogs, which were referred to the Veterinary
+         Teaching Hospital at UNESP - São Paulo State University, and to the local Zoonosis
+         Control Center, between August/2006 and June/2009, were used in this study. The municipality
+         of Araçatuba is an endemic area for VL with a seroprevalence of canine VL of 12% [26]. Blood samples were collected before the dogs were euthanized, in compliance with
+         the State law, with an overdose of pentobarbital and potassium chloride. Necropsies
+         were performed immediately after euthanasia, and gross lesions were recorded. None
+         of the animals presented history of neurological symptoms.
+      
+      Parasitological and serological analysis
+      The diagnosis of VL was achieved by serological and parasitological examinations.
+         Serological diagnosis was done using ELISA tests as described by Lima et al. [27] with the lower limit of positivity (cut-off) considered as 0.270 (optical density).
+         Parasitological diagnosis of VL was achieved by finding typical amastigotes forms
+         of Leishmania in cytological examinations of tissue smears from the popliteal lymph node.
+      
+      The serological diagnosis of toxoplasmosis and neosporosis was performed using indirect
+         immunofluorescence assays as described by Varandas et al. [28], being considered seropositives those dogs presenting antibody titer equal to or
+         greater than 1:16 and 1:50, respectively.
+      
+      Experimental design
+      The dogs were divided into four experimental groups: (1) the LTN group was composed
+         of 24 dogs with concurrent seropositivity to VL, toxoplasmosis and/or to neosporosis;
+         (2) the L group was constituted by 31 dogs with seropositivity only to VL; (3) the
+         TN group was composed of 16 dogs with negative diagnosis to VL and with seropositivity
+         to toxoplasmosis and/or to neosporosis; and (4) the C group, constituted by 10 control
+         healthy dogs with negative diagnosis for VL, toxoplasmosis and neosporosis, which
+         death have not been related to CNS injury and which were referred by the owners to
+         the Animal Pathology Service of UNESP - São Paulo State University in Araçatuba (Table&nbsp;1). Age and gender were not taken into account in the analyses, since Gennari et al.
+         [19] detected no association between gender or age and the prevalence of toxoplasmosis,
+         neosporosis or visceral leishmaniasis.
+      
+      Table 1. Gender and age range of the dogs included in this study, according to the experimental
+            groups
+      Histopathology and immunohistochemistry (IHC)
+      The brain was sagitally sliced after removal and fixed in 10% neutral buffered formalin.
+         Tissue samples were paraffin-embedded, sectioned (4&nbsp;μm) and stained with haematoxylin
+         &amp; eosin (HE) using routine protocols. The following areas were evaluated for lesions:
+         ventricular choroid plexi, ependyma and sub-ependymal area, leptomeninges in the temporal
+         and piriform cortex and in the thalamus. The histopathological examination was done
+         to verify the presence of inflammatory cells particularly in the perivascular, ventricular
+         and sub-meningeal spaces.
+      
+      IHC stains were performed using standard streptavidin-biotin peroxidase (HRP) immunostaining
+         with polyclonal rabbit anti-human CD3 antibody (Dako A0452, Carpinteria, CA, USA)
+         to detect CD3+ T lymphocytes, and the monoclonal mouse anti-human CD79αcy antibody (Dako M7051,
+         Carpinteria, CA, USA) to identify CD79α+ B lymphocytes. Slides were deparaffinised in xylene and hydrated through graded alcohols.
+         Antigen retrieval was achieved by steam heating in Tris-EDTA buffer plus 0.05% (v/v)
+         Tween-20, pH&nbsp;9.0, for 30&nbsp;minutes. To inhibit endogenous peroxidase, slides were incubated
+         with 2% (v/v) hydrogen peroxide 30 vol. diluted in 50% (v/v) methanol and deionized
+         water for 30&nbsp;minutes, and nonspecific binding was blocked with 3% (w/v) non-fat dry
+         milk in phosphate-buffered saline (PBS) pH&nbsp;7.2 for 30&nbsp;minutes. Primary antibodies
+         against CD3 (1:100), and CD79α (1:50) were applied for 18–22&nbsp;hours at 4°C in a humidified
+         chamber. Slides were washed in PBS, incubated with a biotinylated secondary antibody
+         and streptavidin-HRP complex (Dako K0690 LSAB+ Kit, Carpinteria, CA, USA), then the reaction was developed with 3,3′-diaminobenzidine
+         (Dako K3468, Carpinteria, CA, USA) and counterstained with Harris’s haematoxylin,
+         dehydrated, cleared with xylene, and mounted with cover slips. For internal IHC control,
+         sections of canine lymph node were used as positive control, and for negative control
+         the primary antibody incubation was skipped in some slides. Tissue sections were examined
+         by light microscopy. The presence of immunostained cells was analysed colorimetrically,
+         quantifying the percentage of the immunostained area in relation to the total area,
+         using the software Image-Pro Plus 6.1 (Media Cybernetics, Bethesda, MA, USA) according
+         to the guidelines described by Melo and Machado [24]. Twenty images representative of twenty microscopic fields (90,506.04&nbsp;μm2 per field, at the magnification of 40×) were obtained in four pre-defined encephalic
+         areas: (1) leptomeninges in the temporal and piriform cortex; (2) ependyma and sub-ependymal
+         area in the hippocampus; (3) leptomeninges in the thalamus; and (4) choroid plexus
+         in the lateral ventricle, in a total area of 1,810,120.7&nbsp;μm2. Examinations were done “blindly”, without knowledge of the experimental groups.
+      
+      Statistical analysis
+      The differences between groups were determined by the Kruskal-Wallis test followed
+         by Dunn’s multiple comparison test. Association between the diseases was analysed
+         using the Fisher’s exact test, and data were submitted to Spearman correlation test.
+         A value of P &lt; 0.05 was considered statistically significant. Data are expressed as the median
+         (minimum - maximum), and all statistical analyses were performed using Prism 5 software
+         (GraphPad, La Jolla, CA, USA).
+      
+      Ethics
+      This study was approved by the Institutional Ethics and Animal Welfare Committee (CEEA
+         – Comissão de Ética e Experimentação Animal, UNESP – São Paulo State University, process
+         number 05/06).
+      
+   
+

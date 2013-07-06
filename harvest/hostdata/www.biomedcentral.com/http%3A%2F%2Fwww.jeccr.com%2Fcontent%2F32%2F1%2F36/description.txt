@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Objective
+
+					
+					This study investigates the expression of Lewis y antigen, integrin αv, β3 in epithelial ovarian cancer tissues. We further evaluate the relationship between their expression and chemotherapy resistance of ovarian cancer and its possible clinical significance.
+
+				
+				
+					
+						Methods
+
+					
+					Tissues of 92 patients with ovarian cancer meeting the inclusion criteria with complete follow-up data were enrolled and divided into chemotherapy resistant group and sensitive group. The expression and relationship of Lewis y antigen and integrin αv, β3 are assessed in paraffin sections using immunohistochemistry and double-labeling immunofluorescence method. Multivariate logistic regression analysis was used to investigate the relationship between age, clinical stage, differentiation, histologic subtype, Lewis y antigen and integrin αv, β3 expression in ovarian cancer patients.
+
+				
+				
+					
+						Results
+
+					
+					The expression rates of Lewis y antigen and integrin αv in the resistant group, significantly higher than the rates found in the sensitive group ( p  <0.05). Multivariate analysis showed that the expression of Lewis y antigen, integrin αv and ovarian cancer’s clinical stage were independent, drug resistance-related risk factors. The expression levels of Lewis y antigen and integrin αv, β3 were positively correlated with each other.
+
+				
+				
+					
+						Conclusions
+
+					
+					A close correlation between Lewis y antigen, integrin αv, β3 and ovarian cancer was observed. Lewis y antigen can influence the biological behavior of a tumor cell as an important composition of integrin αv, β3 by some signal pathway. And the expression of Lewis y antigen, integrin αv and ovarian cancer’s clinical stage are both independent, drug resistance-related risk factors.
+
+				
+			
+		

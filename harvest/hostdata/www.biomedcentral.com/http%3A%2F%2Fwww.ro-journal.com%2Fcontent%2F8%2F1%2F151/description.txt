@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Early stage breast cancer patients are long-term survivors and finding techniques that may lower acute and late radiotherapy-induced toxicity is crucial. We compared dosimetry of wedged tangential fields (W-TF), tangential field intensity-modulated radiotherapy (TF-IMRT) and multi-beam IMRT (MB-IMRT) in prone and supine positions for whole-breast irradiation (WBI).
+
+				
+				
+					
+						Methods
+
+					MB-IMRT, TF-IMRT and W-TF treatment plans in prone and supine positions were generated for 18 unselected breast cancer patients. The median prescription dose to the optimized planning target volume (PTV optim ) was 50 Gy in 25 fractions. Dose-volume parameters and indices of conformity were calculated for the PTV optim  and organs-at-risk.
+
+				
+				
+					
+						Results
+
+					Prone MB-IMRT achieved (p<0.01) the best dose homogeneity compared to WTF in the prone position and WTF and MB-IMRT in the supine position. Prone IMRT scored better for all dose indices. MB-IMRT lowered lung and heart dose (p<0.05) in supine position, however the lowest ipsilateral lung doses (p<0.001) were in prone position. In left-sided breast cancer patients population averages for heart sparing by radiation dose was better in prone position; though non-significant. For patients with a PTV optim  volume ≥600 cc heart dose was consistently lower in prone position; while for patients with smaller breasts heart dose metrics were comparable or worse compared to supine MB-IMRT. Doses to the contralateral breast were similar regardless of position or technique. Dosimetry of prone MB-IMRT and prone TF-IMRT differed slightly.
+
+				
+				
+					
+						Conclusions
+
+					MB-IMRT is the treatment of choice in supine position. Prone IMRT is superior to any supine treatment for right-sided breast cancer patients and left-sided breast cancer patients with larger breasts by obtaining better conformity indices, target dose distribution and sparing of the organs-at-risk. The influence of treatment techniques in prone position is less pronounced; moreover dosimetric differences between TF-IMRT and MB-IMRT are rather small.
+
+				
+			
+		

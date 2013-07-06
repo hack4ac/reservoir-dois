@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Links between the demanding nature of studies in the health sciences, students’ personality traits and psychological distress have been well-established. While considerable amount of work has been done in medicine, evidence from the dental education arena is sparse and data from Latin America are lacking. The authors conducted a large-scale investigation of psychological distress among dental students in Colombia and sought to determine its curriculum and student-level correlates.
+
+				
+				
+					
+						Methods
+
+					The Spanish version of the Derogatis’ Symptoms Checklist Revised (SCL-90-R) was administered to all students officially registered and attending classes or clinics in 17 dental schools in 4 geographic districts of Colombia between January and April 2012. Additional information was collected on participants’ socio-demographic information and first career choice, as well as school’s characteristics such as class size. The Global Severity Index (GSI) score, a measure of overall psychological distress, served as the primary analytical endpoint. Analyses relied on multilevel mixed-effects linear and log-binomial regression, accounting for study design and sample characteristics.
+
+				
+				
+					
+						Results
+
+					A total of 5700 dental students completed the survey, a response rate of 67%. Pronounced gradients were noted in the association between socio-economic status and psychological distress, with students in higher strata reporting fewer problems. After adjustment for all important covariates, there was an evident pattern of increasing psychological distress corresponding to the transition from the didactic, to the preclinical and clinical phases of training, with few differences between male and female students. Independent of other factors, reliance on own funds for education and having dentistry as the first career choice were associated with lower psychological distress.
+
+				
+				
+					
+						Conclusions
+
+					Levels of psychological distress correlated with students’ socio-economic and study-level characteristics. Above and beyond the influence of person-level factors, variations in levels of distress paralleled specific transitional stages of the 5-year dental curriculum, providing opportunities for targeted interventions.
+
+				
+			
+		

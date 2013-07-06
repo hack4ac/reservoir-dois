@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					It has been argued that the quality of daily interactions within organisations effects the wellbeing of both individuals and the broader organisation. Coaching for leadership development is one intervention often used to create organisation-wide changes in culture and wellbeing. Leadership style has been associated with employee stress and wellbeing. Coaching has also been shown to improve individual level measures of wellbeing. However, almost all the research into the effectiveness of coaching interventions assumes a linear model of change, and expects that any flow-on effects are also linear. In other words, much of the research assumed that any change in the leader has relatively uniform effects on the wellbeing of others, and that these effects can be adequately accessed via standard linear statistical analyses. We argue that linear approaches do not take the complexity of organisations seriously, and that Complex Adaptive Systems theory (CAS) provides a useful non-linear approach to thinking about organisational change and the wellbeing of individuals embedded in these systems. The relatively new methodology of Social Network Analysis (SNA) provides researchers with analytic tools designed to access the relational components of complex systems. This paper reports on changes observed in the relational networks of an organisation following a leadership coaching intervention.
+
+				
+				
+					
+						Methods
+
+					An AB design coaching intervention study was conducted across an organisation (N = 225). Wellbeing measures were taken for all employees and a social network analysis was conducted on the degree and quality of all organisational interactions. Twenty leaders (n = 20) received 8 coaching sessions. Individual self report measures of goal attainment as well as 360 feedbacks on transformational leadership were assessed in the control, pre and post intervention periods.
+
+				
+				
+					
+						Results
+
+					A significant increase in the goal attainment, transformational leadership and psychological wellbeing measures were observed for those who received coaching. Average change in the perceived quality of interaction improved for those who received coaching. However there was a decline in the perceived quality of the interaction others believed they were having with those who were coached. It was also found that the closer any member of the network was identified as being connected to those who received coaching, the more likely they were to experience positive increases in wellbeing.
+
+				
+				
+					
+						Conclusions
+
+					This research highlights the influence of leadership coaching beyond the individual leader, and has important implications for organisational wellbeing initiatives and how we measure the impact of interventions aimed at organisational change. Our findings suggest a more nuanced ...

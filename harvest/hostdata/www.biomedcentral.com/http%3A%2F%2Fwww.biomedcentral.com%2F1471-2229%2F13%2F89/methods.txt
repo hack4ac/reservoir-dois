@@ -1,0 +1,97 @@
+Methods
+   
+      Plant material
+      Picea abies L. Karst embryos and plants were grown as follows. Proliferating embryogenic cultures
+         from cell line 28:05 were cultivated on solidified medium supplemented with the plant
+         growth regulators (PGRs) auxin and cytokinin. To stimulate differentiation of early
+         embryos the cultures were transferred to medium lacking PGRs and for further development
+         of the embryos the cultures were transferred to medium supplemented with abscisic
+         acid (ABA) [27]. Somatic embryo plants regenerated from cell line 28:05 were grown under accelerated
+         growth conditions for seven growth periods in a phytotron [28]. Samples from the plants were collected at the end of the growth period during the
+         second week (out of nine) under autumn growth conditions. Seedlings were derived from
+         open pollinated seeds from a seed orchard germinated for two weeks in vermiculite
+         at 22°C in micro-greenhouses under daylight conditions (approx. 16&nbsp;h light).
+      
+      Samples from nine different stages or tissues were collected for RNA extraction. Samples
+         from embryogenic cultures were annotated as follows: proliferating Proembryogenic
+         masses (PEM) in the presence of PGRs; Early embryos (EE) one week after withdrawal
+         of PGRs; Late embryos (LE) two weeks after transfer to ABA containing medium; Mature
+         cotyledonary embryos (ME) five weeks after transfer to ABA containing medium. The
+         following tissues were collected from somatic embryo plants: shoot tips (ST), i.e.
+         the topmost 2–3&nbsp;mm of the elongating shoot; cambium (CM) dissected from branches where
+         the bark was first removed; young needles, from elongating shoots (YN) and two year
+         or older needles (ON). Root tips (RT) were collected from seedlings and the topmost
+         2–3&nbsp;mm were sampled. The sampling was performed mid-day and all tissues were frozen
+         in liquid nitrogen and stored at -80°C after collection.
+      
+      DNA and RNA isolation and cDNA synthesis
+      Genomic DNA was isolated from PEMs by DNeasy plant mini kit (Qiagen) or from needles
+         from somatic embryo plants using CTAB (adapted from [29]). Total RNA was extracted from the samples described above using spectrum plant total
+         RNA kit (Sigma) or RNeasy plant mini kit (Qiagen). DNase I (Sigma) was used to remove
+         any genomic contamination. The RNA quality was checked by agarose gel electrophoresis
+         and quantified by spectrophotometry. For each sample, 1&nbsp;μg of total RNA was reverse
+         transcribed with ReversAid H Minus First Strand cDNA Synthesis Kit (Fermentas) using
+         1:1 mixed random primer and oligo-dT primer (Fermentas) according to the manufacturer’s
+         instructions.
+      
+      Cloning of P. abies WOX genes
+      
+      P. abies WOX genes were identified by PCR using degenerate primers described in [30] as well as additional primers targeting the homeodomain in genomic DNA isolated from
+         embryogenic cultures (Primer sequences can be found in Additional file 5). PCR-fragments of expected size (approx. 160&nbsp;bp) were cloned using TOPO-kit from
+         invitrogen and sequenced.
+      
+      Additional file 5. Primer sequences used for isolation, cloning and quantitative real-time PCR of P. abies WOX genes.
+         	Format: XLSX 
+         	Size: 12KB Download file or  display content in a new window
+      Each unique WOX homeodomain was extended by genome walking (5’ and 3’) using either Thermal Asymmetric
+         Interlaced PCR (TAIL-PCR) [31] or Genome Walker Universal Kit (Clontech). Each gene was subsequently cloned using
+         gene specific primers and sequenced. The gene structure was determined from the corresponding
+         transcripts using gene specific primers or by 5’- and 3’ extension using 5’/3’ RACE
+         technology (GeneRacer kit, Invitrogen). All cDNAs were cloned from PEM with the exceptions
+         of PaWOX3, which was isolated from shoot tips (ST), and PaWOX5, which was isolated from root tips (RT). Gene predictions were performed with FGENESH
+         (http://linux1.softberry.com/berry.phtml webcite) trained with dicot plants (Arabidopsis thaliana). Primer sequences are listed in Additional file 5. Gene and cDNA accessions are listed in Additional file 6.
+      
+      Phylogenetic analysis
+      WOX gene sequences from Ceratopteris. richardii and Cyathea australis were the same as in [22] and Nymphaea jamesoniana, Gnetum gnemon, Ginkgo biloba and Pinus sylvestris were from [2]. Accession numbers for Ostreococcus tauri, Ostreococcus lucimarinus, Physcomitrella patens, Selaginella moellendorffii, Oryza sativa and Vitis vinifera can be found in Additional file 6.
+      
+      Sequences were aligned using the translation alignment tool and the MAFFT plug-in
+         in Geneious (Biomatters Ltd. Auckland, New Zealand) [32] and edited manually. For the large tree only the homeodomain was used, whereas additional
+         sequences outside the homeodomain was used for the intermediate clade and modern clade
+         sub-trees (alignments can be found in Additional file 4). Parts of the sequences that were difficult to align were excluded from the analyses
+         to reduce noise. Furthermore, only genes for which the full-length sequence was known
+         was used for the construction of the sub-trees.
+      
+      Phylogenetic analyses were performed using both Bayesian inference (BI) and maximum
+         likelihood (ML). For the BI analysis we used MrBayes (v. 3.1.2) [33]. The results were viewed using the MrBayes plug-in in Geneious. The nucleotide analyses
+         were performed using the GTR model with a 4 category discrete gamma-distribution of
+         rate variation among sites (GTR + G model). The data set was partitioned into three
+         sets corresponding to codon position and rates were allowed to differ across partitions.
+         The JTT model with gamma-distribution of rates among sites was chosen for the protein
+         analysis with the aid of ProtTest 2.4 [34-36]. For the large tree the analysis was run for 10.000.000 generations with a burn-in
+         of 1250. For the intermediate clade and modern clade sub-trees the analysis was run
+         for 3.000.000 generations with a burn-in of 600 and 1250 respectively. The results
+         from the intermediate clade runs were consistent despite the low burn-in (see Additional
+         file 2). The ML analyses were performed using raxmlGUI 1.0 [37,38]. For nucleotide data the GTR gammacat model was used and for protein data we used
+         the JTT + gamma model. Support was calculated using the rapid bootstrap method implemented
+         in RAxML with 1000 bootstrap replicates. For the large tree the green alga sequence
+         OtWOX was used as outgroup, whereas the fern sequence CrWOXA was used as outgroup for the intermediate clade and modern clade sub-trees.
+      
+      Expression analysis
+      The cDNA samples were amplified on an iQ5 Real-Time PCR Detection System (Bio-Rad).
+         The reaction volume was 20&nbsp;μl and Maxima SYBR green qPCR Master mix (Fermentas) was
+         used. The three step cycling program was as follows: 95°C for 10&nbsp;min, followed by
+         40&nbsp;cycles at 95°C for 15&nbsp;s, 58°C for 30s and 72°C for 30s. The melting curve analysis
+         was conducted between 55°C-95°C. Four genes, ELONGATION FACTOR-1 (EFα-1), ACTIN-2 (ACT2), UBIQUITIN and TUBULIN-9 were tested by geNorm (version 3.5, [39]) as candidate reference genes. PCR efficiencies of these reference candidates were
+         decided by the linear regression method using the software LinRegPCR [40] and standard curve. No significant difference was found between these two methods.
+         EFα-1 and ACT2 had the lowest stability M value. But as the efficiency of the PCR reaction of ACT2 was lower than 1.85, only EFα-1 was chosen as reference gene. PCR efficiencies of the eight target genes were decided
+         by the linear regression method. Each target gene was run in nine different tissues
+         with three technical replicates and two biological replicates. Wells showing strongly
+         deviating PCR efficiencies of either target or reference gene were excluded from further
+         analysis. Expression levels were calculated using the ΔΔCt method. Primer sequences
+         are listed in Additional file 5. Accessions for reference genes are listed in Additional file 6.
+      
+      Additional file 6. Accession numbers of WOX gene sequences isolated and used in this study.
+         	Format: DOCX 
+         	Size: 65KB Download file or  display content in a new window
+   
+

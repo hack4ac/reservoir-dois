@@ -1,0 +1,6 @@
+Abstract
+In this paper, we introduce a new iterative algorithm for finding a common element of the set of fixed points of a finite family of  
+    κ 
+    i 
+ 
+ -strictly pseudo-contractive mappings and the set of solutions of new variational inequalities problems in Hilbert space. By using our main results, we obtain an interesting theorem involving a finite family of  κ -strictly pseudo-contractive mappings and two sets of solutions of the variational inequalities problem.

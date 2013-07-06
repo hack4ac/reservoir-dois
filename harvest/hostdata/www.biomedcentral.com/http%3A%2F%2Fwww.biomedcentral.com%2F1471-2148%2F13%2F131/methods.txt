@@ -1,0 +1,129 @@
+Methods
+   
+      Strains
+      Achnanthes kuwaitensis (NIES-1349), Asterionella glacialis (NIES-417), Thalassionema nitzschioides (NIES-534), Goniomonas amphinema (NIES1371), Goniomonas truncata (NIES-1373), and Goniomonas sp. (NIES-1374) were purchased from the Microbial Culture Collection at the National
+         Institute for Environmental Study in Japan. Detonula confervacea (CCMP353) and Bolidomonas pacifica (CCMP1866) were purchased from the Provasoli-Guillard National Center for Marine
+         Algae and Microbiota. Goniomonas sp. (CCAP 980/1) was purchased from the Culture Collection of Algae and Protozoa.
+         Goniomonas sp. (ATCC PRA-68) and Goniomonas sp. (ATCC 50108) were purchased from American Type Culture Collection. Pythium apleroticum (MAFF425515), Py. conidiophorum (MAFF245320), Py. echinulatum (MAFF425510), Py. intermedium (MAFF306022), Py. porphyrae (MAFF239483), Py. spinosum (MAFF425453), Py. ultimum (MAFF425505), and Py. uncinulatum (MAFF240295) were purchased from the GeneBank (Microorganism Section) at the National
+         Institute of Agrobiological Sciences in Japan. Roombia sp. strain NY0200 was cultivated with bacterial prey in URO-YT medium (Moriya et
+         al. 2000). RNA was extracted from the harvested cells by using an RNeasy Plant Mini
+         kit (QIAGEN), and then subjected to oligo(dT)-primed reverse transcriptase (RT) reactions
+         by using the 3’ rapid amplification of cDNA ends kit (Invitrogen). Each of the two
+         procedures described above was conducted following the corresponding manufacturers’
+         instructions.
+      
+      PCR-based survey of EF-1α and EFL transcripts
+      We amplified EF-1α and/or EFL sequences of Roombia sp., diatoms, Bolidomonas pacifica, and goniomonads (see the previous section) by a two-step procedure: For the first
+         RT-PCR, the combination of one of three forward primers (5′-GGCCACGTGGAYTCNGGNAARTCNAC,
+         5′-GGCCACGTGGAYAGYGGNAARTCNAC, or 5′-GGCCACGTGGAYGCNGGNAARTCNAC) and a reverse primer
+         (5′-ACGAAATCTCTCTTRTGNCCNGGNGCRTC) were used. These primer sets can amplify the 5′
+         portions of the transcripts (~250 bp in length) for EF-1α and EFL, as well as other
+         EF-1α-related proteins in a single reaction. For each reaction, amplicons were cloned
+         into pGEMTEasy vector (Promega), and sequenced ≥12 clones to survey EF-1α/EFL sequences.
+         Secondly, the 3′ portions of Roombia, diatom, and goniomonad EF-1α/EFL transcripts were amplified by the 3′ rapid amplification
+         of cDNA ends (RACE) kit (Invitrogen) with exact-match primers based on the nucleotide
+         sequences of the initial amplicons. We amplified the 3′ portion of the EF-1α transcript
+         of B. pacifica by the combination of an exact-match primer (see above) and a degenerate primer,
+         which can anneal to the 3′ portion of EF-1α open reading frame (5′-CAGAATTGCGACAGCNACNGTYTG).
+         Amplicons were cloned and sequenced completely as described above.
+      
+      From all of the seven species belonging to the oomycete genus Pythium examined in this study, we obtained the amplicons covering most of the EFL-coding
+         region by RT-PCR with a set of primers 5′-AGCCGAGAAGGGTGGTTTCG and 5′-ACAGATAATCTGACCAACACC.
+         The details of cloning and sequencing of the EFL amplicons were same as described
+         above.
+      
+      We then screened the 5′ portion of EF-1α sequences in the seven Pythium spp. in two separate trials. Firstly, we applied the combinations of primers for
+         EF-1α sequences in phylogenetically diverse eukaryotes; two forward primers (5′-GTGGACGCCGGNAARTCNACNACNAC
+         and 5′-GTGGACGCCGGNAARAGYACNACNAC) and two reverse primers (5′-TCGGCCTGGGANGTNCCNGTNATCAT
+         and 5′-TCGGCCTGGGTNGTNCCNGTNATCAT). The RT-PCR with these ‘universal’ primers succeeded
+         in amplifying the partial EF-1α transcripts in Py. apleroticum. For the second trial, we prepared new degenerate primers, which were more specific
+         to oomycete EF-1α sequences than those used in the first trial: PytEF1aFA, PytEF1aFB,
+         and PytEF1aR (5′-TCGGCAAGACGTCGTWCAAGTAC, 5′-GGTCACCGCGATTTCATCAAGAAC, and 5′-GACNGGNACCGTGCCAATACC,
+         respectively). EF-1α transcripts in the Pythium spp. were surveyed by the hemi-nested RT-PCR, in which the combination of PytEF1aFA
+         and PytEF1aR, and that of PytEF1aFB and PytEF1aR were used for the first and second
+         reactions, respectively. The partial EF-1α transcript in Py. intermedium was amplified in the second trial with the ‘oomycete-oriented’ primers. We could
+         not detect any EF-1α transcripts in the Pythium species examined in this study, other than Py. apleroticum and Py. intermedium. The 3′ portions of Py. apleroticum and Py. intermedium EF-1α transcripts were amplified by the 3′ RACE, followed by cloning and sequencing.
+         The details of the 3′ RACE, and cloning and sequencing of the amplicons were same
+         as described above.
+      
+      Illumina transcriptomic analyses
+      We obtained transcriptomic data from the following organisms; two ancyromonads, Ancyromonas sigmides B70 (CCAP 1958/3) and Fabomonas tropica NYK3C, the breviates, Breviata-like biflagellate PCbi66 and Subulatomonas sp. PCMinv5, the mantamonad Mantamonas plastica Bass1 (CCAP 1946/1), the tubulinid amoebozoan Capromyxa protea CF08-5 (ATCC PRA-324), and the microaerophilic cercozoan strain DMV.
+      
+      A. sigmoides and ‘F. tropica’ were cultivated with bacterial prey (Enterobacter aerogenes) in a mixture of 50% ATCC 802 medium and 50% filtered sterile seawater, and in a
+         mixture of 50% seawater and 50% ddH2O, respectively. Strain PCbi66 was grown in ATCC 1525 medium with bacterial prey (Klebsiella pneumoniae ATCC 23432). Subulatomonas sp. was cultivated with bacterial prey in ATCC 1773 medium made with 50% seawater
+         and 50% ddH2O. M. plastica was grown with bacterial prey (K. pneumoniae ATCC 23432) in a mixture of 50% seawater and 50% ddH2O. C. protea was grown on weak malt yeast agar plates (0.02 g Yeast extract, 0.02 g Malt extract,
+         0.75 g K2HPO4, 1 L ddH2O, 15 g Agar) with streaks of Escherichia coli as food. Stain DMV was grown in ATCC 802 medium, with bacterial prey (K. pneumoniae ATCC 23432) killed at 65°C for 1 hour.
+      
+      Total RNA was isolated using Trizol (Tri-reagent) following the protocol supplied
+         by the manufacturer (Sigma). Construction of cDNA libraries and illumina RNAseq was
+         performed by Macrogen (South Korea) for strain PCbi66 and A. sigmoides, by GeneWiz (USA) for ‘F. tropica’, Subulatomonas sp., and M. plastica, and by the Institut de Recherche en Immunologie et Cancérologie (IRIC) of Universite
+         de Montreal (Canada) for C. protea and strain DMV.
+      
+      Raw sequence read data were filtered based on quality scores with the fastq_quality_filter
+         program of FASTXTOOLS (http://hannonlab.cshl.edu/fastx_toolkit/ webcite), using a cutoff filter (a minimum 70% of bases must have quality of 20 or greater).
+         Filtered sequences were then assembled into clusters using the Inchworm assembler
+         of the TRINITY r2001-5-13 package [23]. EF-1α/EFL sequences were identified using basic local alignment search tool (tblastn).
+      
+      Database search of EFL and EF-1α genes
+      By using T. pseudonana EFL and EF-1α amino acid sequences as the queries, we performed tblastn searches
+         with E-value cutoff &lt; 10-100. Putative EF-1α/EFL sequences identified by the initial tblastn search were then
+         confirmed by blastp searches with E-value cutoff &lt; 10-100. The reciprocal similarity searches identified both EFL and EF-1α genes in the genomes
+         of T. trahens and S. punctatus from the whole genome shotgun database in NCBI (http://www.ncbi.nlm.nih.gov/ webcite). Likewise, both EF-1α and EFL genes were detected in the genome databases of the diatom
+         F. cylindrus (http://genome.jgi-psf.org/Fracy1/Fracy1.home.html webcite) and the oomycete Py. ultimum (http://pythium.plantbiology.msu.edu/ webcite). For the Illumina RNAseq data of T. trahens, S. punctatus, and Py. ultimum we collected raw sequence data from the NCBI’s Short Reads Archive (SRA), accessions
+         SRR343042, SRR343043, and SRR059026, respectively. These raw data were assembled into
+         clusters using the Inchworm assembler of the TRINITY r2001-5-13 package, as above.
+         We then identified the contigs pertaining to EFL, EF-1α, and α-tubulin through tblastn,
+         and compared the k-mer frequency of each respective contig to compare the relative
+         transcriptional level between the co-occurring EFL and EF-1α genes (Table&nbsp;3). We provide the amino acid sequences mentioned here as Additional file 3.
+      
+      Additional file 3. EF-1α/EFL sequences identified in publicly available databases. The amino acid sequences of EF-1α/EFL homologues identified in publicly available
+         databases are listed here.
+         	Format: DOCX 
+         	Size: 17KB Download file or  display content in a new window
+      Phylogenetic analysis
+      EFL and EF-1α amino acid sequences were sampled from the broad spectrum of eukaryotes.
+         Datasets of the two elongation factor families were separately aligned, and then ambiguously
+         aligned positions were excluded before phylogenetic analyses. The final EFL and EF-1α
+         datasets contained 80 sequences with 407 amino acid positions and 79 sequences with
+         400 amino acid positions, respectively. The two datasets were analyzed using both
+         ML and Bayesian phylogenetic methods. ML analyses were performed using RAxML 7.2.1
+         [24] under the LG model [25] incorporating empirical amino acid frequencies and among-site rate variation approximated
+         by a discrete gamma distribution with four categories (LG + Γ + F model). The ML tree
+         was estimated by heuristic searches based on 300 distinct parsimony starting trees.
+         In RAxML bootstrap analyses (1000 replicates), the heuristic tree search was performed
+         from a single parsimony tree per replicate.
+      
+      The EFL and EF-1α datasets were also subjected to Bayesian analysis using PhyloBayes
+         v.3.3 [26] with the LG + Γ + F model. For the EF-1α analysis, two parallel Markov Chain Monte
+         Carlo (MCMC) runs were run for 63,799 and 63,885 generations, sampling log-likelihoods
+         and every 10 trees (maxdiff = 0.16254; ‘burn-in’ was set as 100 based on the log-likelihood
+         plots). The EFL dataset was analyzed as described above, except two MCMC runs were
+         run for 12,520 and 12,511 generations (maxdiff = 0.113078).
+      
+      Quantitative reverse transcriptase (qRT) PCR
+      To normalize the copy numbers of EFL and EF-1α transcripts, we amplified the α-tubulin
+         sequence of Goniomonas sp. ATCC 50108 by RT-PCR with the following degenerate primers: 5′-RGTNGGNAAYGCNTGYTGGGA
+         and 5′-CCATNCCYTCNCCNACRTACCA. To amplify the α-tubulin sequences of diatoms A. kuwaitensis, A. glacialis, and T. nitzschioides, we used a second set of degenerate primers: 5′-GARCTNTAYTGYCTNGARCAYGG and 5′-CGCGCCATNCCYTCNCCNACRTACCA.
+         The α-tubulin sequence of the diatom D. confervacea was amplified by using the following primers: 5′-CGCGCCATNCCYTCNCCNACRTACCA and 5′-CGTAGANAGCCTCGTTGTC.
+         The cloning and sequencing of the α-tubulin amplicons were carried out as described
+         above. Accession nos. for the sequences are AB766056 – AB766059.
+      
+      In Table&nbsp;4 we list the exact-match primers used for qRT-PCR assays designed based on the EF-1α,
+         EFL, and α-tubulin sequences in the four diatoms and Goniomonas sp. ATCC 50108. The plasmids carrying the EFL, EF-1α, and α-tubulin amplicons (see
+         above) were used as the standards for qRT-PCR. A mixture for qRT-PCR contained SYBR
+         Green I (TaKaRa), Premix ExTaq (TaKaRa), a set of exact-match primers (final concentration of 0.3 μM each), and
+         template solution: either cDNA, the corresponding RNA sample (the negative control),
+         or five differently diluted plasmid solutions including 10 to 107 copies of the target gene fragments (the standards). The qRT-PCR thermal cycling
+         conditions were 95°C for 30 sec followed by 50 cycles comprised of 95°C for 5 sec,
+         a gene-specific temperature for 10 sec (Table&nbsp;4), and 72°C for 10 sec. We confirmed that a single target product was amplified by
+         real-time PCR, based on melting curves (data not shown). In each assay, the target
+         amplification from the RNA sample was out of the quantifiable range. Smart Cycler
+         II (Cepheid) and Thermal Cycler Dice (TaKaRa) were used for the assays on the four
+         diatoms and that of Goniomonas sp., respectively.
+      
+      Table 4. Primers and annealing temperatures for qRT PCR
+      
+      Accession numbers
+      AB766030-AB766059, AB775895, and AB824019.
+   
+

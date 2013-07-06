@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Tumor dissemination to cervical lymph nodes via lymphatics represents the first step in the metastasis of head and neck squamous cell carcinoma (HNSCC) and is the most significant predictor of tumor recurrence decreasing survival by 50%. The lymphatic suppressing properties of mTOR inhibitors are not yet well understood.
+
+				
+				
+					
+						Methods
+
+					Lymphatic inhibiting effects of rapamycin were evaluated  in vitro  using two lymphatic endothelial cell (LEC) lines. An orthotopic mouse model of HNSCC (OSC-19 cells) was used to evaluate anti-lymphangiogenic effects of rapamycin  in vivo . The incidence of cervical lymph node metastases, numbers of tumor-free lymphatic vessels and those invaded by tumor cells in mouse lingual tissue, and expression of pro-lymphangiogenic markers were assessed.
+
+				
+				
+					
+						Results
+
+					Rapamycin significantly decreased lymphatic vascular density ( p  = 0.027), reduced the fraction of lymphatic vessels invaded by tumor cells in tongue tissue ( p  = 0.013) and decreased metastasis-positive lymph nodes ( p  = 0.04). Rapamycin also significantly attenuated the extent of metastatic tumor cell spread within lymph nodes ( p  < 0.0001). We found that rapamycin significantly reduced LEC proliferation and was correlated with decreased VEGFR-3 expression in both LEC, and in some HNSCC cell lines.
+
+				
+				
+					
+						Conclusions
+
+					The results of this study demonstrate anti-lymphangiogenic properties of mTOR inhibitors in HNSCC. mTOR inhibitors suppress autocrine and paracrine growth stimulation of tumor and lymphatic endothelial cells by impairing VEGF-C/VEGFR-3 axis and release of soluble VEGFR-2. In a murine HNSCC orthotopic model rapamycin significantly suppressed lymphovascular invasion, decreased cervical lymph node metastasis and delayed the spread of metastatic tumor cells within the lymph nodes.
+
+				
+			
+		

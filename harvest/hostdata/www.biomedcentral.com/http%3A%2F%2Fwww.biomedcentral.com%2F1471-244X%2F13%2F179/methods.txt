@@ -1,0 +1,112 @@
+Methods
+   
+      A cross sectional study was conducted between August 2011 and February 2012. The Palestinian
+         territories, where the study took place, comprise the West Bank, Gaza Strip and East
+         Jerusalem. This study was carried out at the 4 governmental primary psychiatric healthcare
+         centers located in Nablus, Tulkaram, Jenin and Qalqilia in northern West-Bank, Palestine.
+      
+      The centers included in the study were those in Nablus, Jenin, Tulkaram, and Qalqilia.
+         Patients who fulfilled the following criteria were invited to participate: 1) their
+         age was above 16 years old, 2) they were diagnosed with schizophrenia as defined by
+         Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), 3) they had not been
+         suffering from an acute attack of psychiatric illness during the past year, and 4)
+         their drug regimen had not been changed in the past 6 months as evident from their
+         medical files. Patients who had the following characteristics were excluded from the
+         study: 1) newly diagnosed patients and 2) patients who were not on any antipsychotic
+         medication.
+      
+      A convenience, non-probability sampling method was used. To collect the sample, the
+         researchers visited and stayed 4 weeks in each center and collected data from patients
+         who met the inclusion criteria. In order to estimate with sufficient precision the
+         prescribing pattern, particularly, antipsychotic combination, we hypothesized a worst-case
+         scenario level of antipsychotic combination of about 70%, to be estimated with a 95%
+         confidence interval of 15 percentage points. Therefore, we needed a sample size of
+         at least 134 patients. The final sample collected during the study period was 250
+         clients. We developed data collection forms to cover all data items needed. The form
+         covered the following areas: socio-demographic variables, psychiatric history, antipsychotic
+         medication currently being used, and history of psychiatric hospitalization. Before
+         commencing the study, the data collection form was modified by the researchers and
+         the modified version was reviewed by experts to ensure content and construct validity.
+         Data from the pre-test evaluation were not included in the final analysis. Focus group
+         discussions were continuously held between research team to identify any problems
+         in data collection or interpretation of definitions or application of study criteria.
+      
+      Approval to perform the study was obtained from the Palestinian ministry of health,
+         the college of Graduate Studies at An-Najah national University and the Institutional
+         Review Boards (IRB) committee at An-Najah National University. Written consent was
+         obtained from all participants.
+      
+      Tested variables
+      Chlorpromazine dose equivalencies (CPZeq)
+      The CPZeq is a measure of the relative antipsychotic potencies of neuroleptics. They
+         are generally expressed as a ratio, relative to the arbitrary value of 1, which corresponds
+         to the antipsychotic effects of chlorpromazine. The daily dose of antipsychotic medication
+         prescribed to each patient was converted to milligram equivalents of chlorpromazine
+         according to conversion factors derived from the literature [11,12]. Total CPZeq was constructed by calculating a total daily dose of each antipsychotic
+         listed in the medical file. Then each converted antipsychotic-specific CPZeq amount
+         is added to arrive at a total dose. A maintenance dose of total CPZeq in the range
+         of 300 – 600 mg is considered optimum.
+      
+      Antipsychotic combination
+      The operational definition of antipsychotic combination is the use of two or more
+         antipsychotic drugs while that of monotherapy is the use of one antipsychotic drug.
+         In this study, since no changes were made in the therapeutic regimen of all clients,
+         then no clients were in the transitional period of changing or switching from one
+         antipsychotic to another. Therefore, clients who were on combination therapy were
+         actually on 2 or more medications and were not in a transitional phase of discontinuation
+         of one drug and an initiation of another drug.
+      
+      Positive and negative syndrome scale (PANSS)
+      The Positive and Negative Syndrome Scale (PANSS) which was published in 1987 [13,14] is widely used in the study of antipsychotic therapy. The PANSS consists of three
+         sections: positive symptoms (7 items); negative symptoms (7 items); and general psychopathology
+         (14 items). Each item has a score from 1 – 7 with the highest scores representing
+         the highest severity. For each section, the total score was calculated by summing
+         the scores for all items in that section. The interview with the clients to assess
+         PANSS was carried out by the author. The author (mental health specialist) was trained
+         on PANSS before the start of the study. Each interview took 30 – 35 minutes.
+      
+      Conformance indicators
+      In order to construct the indicators of conformance, we reviewed several updated guidelines
+         regarding recommendations for maintenance pharmacological treatment of schizophrenia
+         [9,10]. We identified two major recommendations that could be evaluated using a cross-sectional
+         medical chart review, and for which the required information was available in the
+         medical records.
+      
+      I. The first conformance indicator recommends that monotherapy is the preferred and
+         evidence based choice while combination therapy lacks evidence and support. Our cross
+         sectional methodology could not be used to provide information on whether patients
+         were undergoing a trial of second alternative antipsychotic drug (switching) or not.
+         However, we assumed that all patients were not undergoing switching because their
+         medications have been constant since more than six months. Therefore, we drafted a
+         conformance indicator that examined whether patients were receiving one or combination.
+      
+      II. The second conformance indicator recommends that the maintenance dosage of antipsychotic
+         medication be in the range of 300 – 600 mg CPZeq per day. Since all patients in the
+         study sample had been ill for a long time and their medications had not been changed
+         since the past six months, we assumed that most patients were on maintenance doses
+         and created a conformance indicator that assessed whether the antipsychotic dosages
+         prescribed for patients were between 300–600 mg CPZeq/day.
+      
+      Cost of antipsychotic regimen
+      The total annual cost for antipsychotic treatment for each patient was calculated
+         in United State Dollar (1 USD = 3.7 New Israeli Shekel (NIS) at the time of the study).
+         The cost of each antipsychotic drug per dose per unit was obtained from the Ministry
+         of Health (personal communication).
+      
+      Data analysis
+      Descriptive statistics for all study variables were computed. These descriptive statistics
+         included frequencies and percentages for all categorical variables in addition to
+         means, standard deviations and ranges for all normally distributed continuous variables
+         while median and inter quartile range (Q1-Q3) for continuous variables that were not
+         normally distributed. Variables were tested for normality using the Kolmogorov– Smirnov
+         test. Non-parametric binomial t-test was used to test the difference in the prevalence of antipsychotic combination
+         obtained in this study with those published elsewhere. Statistical significance for
+         intergroup differences was assessed by the Student’s t-test for continuous variables. Univariate analysis and multiple logistic regression
+         was used to find significant factors associated with antipsychotic combination.
+      
+      All statistical analyses were conducted using Statistical Package for Social Sciences
+         SPSS (PASW version 18.0; IBM, Somers, NY) statistical packages for Windows. The conventional
+         5 percent significance level was used throughout the study.
+      
+   
+

@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Hypertension has been cited as the most common attributable risk factor for death worldwide, and in Canada more than one of every five adults had this diagnosis in 2007. In addition to different lifestyle modifications, such as diet and exercise, there exist many pharmaco-therapies from different drug classes which can be used to lower blood pressure, thereby reducing the risk of serious clinical outcomes. In moderate and severe cases, more than one agent may be used. The optimal mono- and combination therapies for mild hypertension and moderate/severe hypertension are unclear, and clinical guidelines provide different recommendations for first line therapy. The objective of this review is to explore the relative benefits and safety of different pharmacotherapies for management of non-diabetic patients with hypertension, whether of a mild or moderate to severe nature.
+
+				
+				
+					
+						Methods/Design
+
+					Searches involving MEDLINE and the Cochrane Database of Systematic Reviews will be used to identify related systematic reviews and relevant randomized trials. The outcomes of interest include myocardial infarction, stroke, incident diabetes, heart failure, overall and cardiovascular related death, and important side effects (cancers, depression, syncopal episodes/falls and sexual dysfunction). Randomized controlled trials will be sought. Two reviewers will independently screen relevant reviews, titles and abstracts resulting from the literature search, and also potentially relevant full-text articles in duplicate. Data will be abstracted and quality will be appraised by two team members independently. Conflicts at all levels of screening and abstraction will be resolved through team discussion. Random effect pairwise meta-analyses and network meta-analyses will be conducted where deemed appropriate. Analyses will be geared toward studying treatment of mild hypertension and moderate/severe hypertension separately.
+
+				
+				
+					
+						Discussion
+
+					Our systematic review results will assess the extent of currently available evidence for single agent and multi-agent pharmacotherapies in patients with mild, moderate and severe hypertension, and will provide a rigorous and updated synthesis of a range of important clinical outcomes for clinicians, decision makers and patients.
+
+				
+				
+					
+						Trial registration
+
+					PROSPERO Registration Number:  CRD42013004459 
+					
+
+				
+			
+		

@@ -1,0 +1,42 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Previous studies confirmed that the control of diabetes is related to family functioning, but the validity of the tools used to assess family functioning in these studies is questionable. Few studies have focused on family issues. In this study, we used a new assessment tool to evaluate family functioning and family issues of patients with type 2 diabetes.
+
+				
+				
+					
+						Methods
+
+					
+					A cross-sectional questionnaire was given to outpatients with type 2 diabetes at a community hospital in Aichi, Japan, between August 2001 and March 2002. First, the patients were asked to answer FACESKGIV-16, which measures cohesion and adaptability, questions regarding family issues, daily lifestyle, and HAD. Physical and serological data were measured. Family functioning, family issues, and relationships between each parameter and family functioning or family issues were analyzed.
+
+				
+				
+					
+						Results
+
+					
+					Of the 133 participants, 121 (33.3%) had some sort of family issue. Family issues included “Health problems of family members” (40.9%), “Family life cycle issues” (22.7%), and others.
+
+					The best fit multiple regression model (Adjusted R 2 : 0.494, p = 0.020) included Plasma Glucose as an independent variable, and the squared value of cohesion score, depression score of HAD, Total calorie intake, Exercise time, Housekeeping time, and BMI were dependent variables. The results show that extremes of family cohesion with either too many or too few issues related to family functioning are correlated with the plasma glucose level.
+
+				
+				
+					
+						Conclusions
+
+					
+					Family issues were common among patients with type 2 diabetes, and the extremes of family cohesion were associated with the glucose level, in contrast to the common wisdom that a well balanced family leads to good control of diabetes.
+
+				
+			
+		

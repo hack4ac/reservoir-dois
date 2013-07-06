@@ -1,0 +1,81 @@
+Methods
+   
+      Study design and subjects
+      The study population (n = 11,031) for this cross-sectional population-based study
+         was formed as follows: in 1989, a baseline postal enquiry was sent to all the 14,220
+         female residents born in 1932–41 of Kuopio Province, Finland (OSTPRE Study) [23,24]. The 10-year follow-up enquiry in 1999 was sent to 12,562 women alive and with known
+         address out of the 13,100 baseline respondents. This enquiry was returned by 11,537
+         women. Out of these 11,537 women, 11,031 women responded to the question determining
+         current medication usage in 1999. The study has been approved by the ethics committee
+         of Kuopio University Hospital. Informed consent of the study subjects was obtained
+         by postal enquiry.
+      
+      Questionnaire data
+      The study questionnaire included questions on marital status, residency (rural/city),
+         height, weight, number of chronic health disorders, number of prescribed medications,
+         use of hormone therapy (HT) (no/yes), life satisfaction (LS), physical activity (hours
+         per week), smoking (no/yes) and consumption of beer, wine and distilled alcoholic
+         beverages. The total use of alcohol was computed as grams (12 g/drink) per month and
+         categorized (none/&lt;360 g/≥360 g). Body mass index (BMI) was calculated as weight (kg)/height
+         (m) squared and categorized (&lt;25/25-29/≥30 kg/m2). LS was measured with a 4-item scale (range 4–20) [25-29]. It was used as a 3-category variable: 4–6 (satisfied), 7–11 (intermediate) and 12–20
+         (dissatisfied) based on the standard deviation of the mean [27]. Education (4-category) was asked on a subsample (n = 3,222) who underwent bone densitometry.
+         All these factors were tested as covariates in multivariate analyses.
+      
+      Participants were asked current medication usage: “Are you at the moment under medication
+         prescribed by a doctor? Specify the names of the medications.” The reported medications
+         were coded according to the Anatomical Therapeutic Chemical (ATC) code [30]. The ATC-categories investigated in the present study were: any psychoactive medications
+         (N05, N06), antidepressants (N06A, N06CA) (with or without using other psychoactive
+         medications) and other psychoactive medications (N05, N06B, N06CB, N06D) (without
+         using antidepressants). In addition, “sole use of antidepressants” was also investigated.
+         Purchasing of anti-dementia drugs (ATC: N06D) or psychostimulants/nootropics (N06B)
+         during 2000–2005 according to National prescription register was used as memory variable
+         (no/yes). Diuretics (C03), which are an independent, usual and regularly used medication
+         group, were chosen to serve as a reference for psychoactive medications. Diuretics
+         were used as follows: 1) any use (in tables), 2) together with psychoactive medication
+         and 3) without psychoactive medication.
+      
+      Register data
+      The study questionnaire data was linked with the National prescription register and
+         the National Register for Work Disability Pensions by personal identification codes.
+         The prescription register from the Social Insurance Institution of Finland (KELA)
+         contains data regarding all reimbursed prescription medicines purchased in any pharmacy
+         in Finland. It does not include information on 1) medication use in hospitals or community
+         nursing homes, where medicines are included in the services; 2) medications which
+         are not reimbursable such as small packages costing under a fixed deductible share
+         (i.e. 8.41 € in 1999) unless being a specially refunded medicine due to the selected
+         chronic diseases including psychosis [31]. The defined daily doses (DDD) for medical products have been obtained from the Finnish
+         Medicines Agency (FIMEA).
+      
+      History of work disability pension up to the year 1996 (no/due to somatic cause/due
+         to psychiatric cause) and medications purchased from a pharmacy within four or within
+         12 months before response to the enquiry in 1999 as DDD tertiles were used in the
+         analysis. In Finland, only 3 months’ refunded medication can be purchased from pharmacy
+         at a time. Thus, a 4-month time window preceding the date of response to enquiry was
+         chosen for prescription register data to ensure that a person would purchase a medication
+         at least once (if used continuously) [19]. In order to explore the agreement of self-report, also a 12-month time window preceding
+         the enquiry and a 4-month time window after the enquiry were applied. For loss analysis,
+         the index date for women who did not return the questionnaire was the date the questionnaire
+         was sent.
+      
+      Statistical analyses
+      Statistical analyses were performed using the SPSS statistical package 17.0 for Windows
+         (SPSS Inc., Chicago, IL, USA). Differences between study groups were examined with
+         the Chi-squared test and the t-test for independent groups, or, in the case of variables
+         not following a normal distribution, the non-parametric Mann–Whitney U-test. Agreement
+         between the self-reported use and the National prescription register data as the golden
+         standard were analyzed with sensitivity (i.e. recall rate or accuracy), specificity
+         and Kappa-values (overall agreement).
+      
+      To study factors affecting agreement of self-report and register data, logistic regression
+         models were used. Only those women who according to the prescription register had
+         purchased antidepressants or psychoactive medications were selected. Self-report (no/yes)
+         was the outcome measure (i.e. dependent variable). Multivariate analysis was used
+         to assess the independent effect of certain personal and health-related factors. Covariates
+         were chosen into models if they were significantly associated with outcome. In the
+         multivariate model 1, age, marital status, BMI, alcohol consumption and LS were covariates.
+         In model 2, additional covariates included history of work disability pension up to
+         the year 1996 and number of self-reported prescribed medications as well as amount
+         of purchased psychoactive medications from the prescription register.
+      
+   
+

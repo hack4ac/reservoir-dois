@@ -1,0 +1,4 @@
+Abstract
+In this paper, we study the convergence of paths for continuous pseudocontractions in a real Banach space. As an application, we consider the problem of finding zeros of  m -accretive operators based on an iterative algorithm with errors. Strong convergence theorems for zeros of  m -accretive operators are established in a real Banach space.
+MSC: 
+47H05, 47H09, 47J25, 65J15.

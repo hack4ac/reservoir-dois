@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Apoptosis is a major target and treatment effect of multiple chemotherapeutical agents in cancer. A soybean isoflavone, genistein, is a well-studied chemopreventive agent and has been reported to potentiate the anticancer effect of some chemotherapeutics. However, its mechanistic basis of chemo-enhancement effect remains to be fully elucidated.
+
+				
+				
+					
+						Methods
+
+					Apoptotic features of low concentration stressed cancer cells were studied by microscopic method, western blot, immunostaining and annexin V/PI assay. Genistein’s effects on unstressed cells and recovering cells were investigated using MTT cell viability assay and LDH cytotoxicity assay. Quantitative real-time PCR was employed to analyze the possible gene targets involved in the recovery and genistein’s effect.
+
+				
+				
+					
+						Results
+
+					Low-concentration ethanol stressed cancer cells showed apoptotic features and could recover after stress removal. In stressed cells, genistein at sub-toxic dosage promoted the cell death. Quantitative real-time PCR revealed the up-regulation of anti-apoptotic genes  MDM2  and  XIAP  during the recovery process in HeLa cells, and genistein treatment suppressed their expression. The application of genistein, MDM2 inhibitor and XIAP inhibitor to the recovering HeLa cells caused persistent caspase activity and enhanced cell death. Flow cytometry study indicated that genistein treatment could lead to persistent phosphatidylserine (PS) externalization and necrotic events in the recovering HeLa cells. Caspase activity inhibition shifted the major effect of genistein to necrosis.
+
+				
+				
+					
+						Conclusions
+
+					These results suggested two possible mechanisms through which genistein promoted cell death in stressed cancer cells. Genistein could maintain the existing apoptotic signal to enhance apoptotic cell death. It could also disrupt the recovering process in caspase-independent manner, which lead to necrotic events. These effects may be related to the enhanced antitumor effect of chemotherapeutic drugs when they were combined with genistein.
+
+				
+			
+		

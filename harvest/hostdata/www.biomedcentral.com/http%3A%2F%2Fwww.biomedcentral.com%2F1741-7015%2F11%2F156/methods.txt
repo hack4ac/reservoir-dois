@@ -1,0 +1,126 @@
+Methods
+   
+      Definition
+      According to the Chinese Ministry of Health (MOHC) [24], “patient delay” is defined as a time interval of more than two weeks between the
+         onset of TB symptoms and the patient’s first presentation to a health facility. The
+         Ministry also defines “diagnostic delay” as a time interval of more than two weeks
+         between a patient’s first visit to a health facility and the receipt of TB diagnosis.
+      
+      Search strategy
+      The review was prepared following standard procedures of the Cochrane Collaboration
+         [25] and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+         statement and checklist [26] (see Additional file 1). To identify eligible studies on factors associated with TB patient and diagnostic
+         delays published up to November 2012, three major databases, Medline/PubMed, EMBASE
+         and CNKI (China National Knowledge Infrastructure), were searched. We used a mixture
+         of free text and index terms to maximize retrieval of potentially relevant studies.
+         The following terms were used for the PubMed search: “pulmonary tuberculosis and diagnostic
+         delay in China”, “pulmonary tuberculosis and health system delay in China”, “pulmonary
+         tuberculosis and detection delay in China”, “pulmonary tuberculosis and patient delay
+         in China”, “pulmonary tuberculosis and health provider delay in China”, “pulmonary
+         tuberculosis and doctor delay in China”, “pulmonary tuberculosis and identification
+         delay in China”. Medline subject search terms included: “tuberculosis, pulmonary”[Mesh])
+         AND “diagnosis”[Mesh]) AND “China”[Mesh] or “tuberculosis, pulmonary”[Mesh]) AND “patient
+         acceptance of health care”[Mesh]) AND “China”[Mesh]. Searches in Medline/Pubmed were
+         limited to full-text, humans, and English. The search terms used in EMBASE were ‘lung
+         tuberculosis’/exp AND ‘early diagnosis’/exp AND ‘risk factor’/exp, ‘lung tuberculosis’/exp
+         AND ‘patient’/exp AND ‘delayed diagnosis’/exp, ‘lung tuberculosis’/exp AND ‘delayed
+         diagnosis’/exp AND ‘risk factor’/exp, ‘lung tuberculosis’/exp AND ‘patient’/exp AND
+         ‘patient referral’/exp AND ‘risk factor’/exp, ‘lung tuberculosis’/exp AND ‘health
+         care facility’/exp AND ‘patient referral’/exp AND ‘risk factor’/exp. CNKI is a key
+         national e-publishing project that can be used for searching articles published in
+         8,200 Chinese journals. It was utilized to search for articles in Chinese. The terms
+         and concepts searched included “patient delay”, “diagnostic delay”, “risk factors
+         for patient delay” and “risk factors for diagnostic delay”. We sought unpublished
+         data from the gray literature through Google and Google Scholar searches. We also
+         hand-searched reference lists of identified articles. Two reviewers (JE and YL) conducted
+         the literature searches.
+      
+      Additional file 1. PRISMA checklist.
+         	Format: DOC 
+         	Size: 61KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      Inclusion/exclusion criteria
+      (1) Types of studies: Case-control, cross-sectional and cohort studies were included.
+      (2) Participants: Patients with pulmonary tuberculosis (including smear positive or
+         negative patients, newly diagnosed cases and those undergoing retreatment).
+      
+      (3) Exposure variables: We collected data on the following:
+      (i) Demographic characteristics: marital status (classified as married or living with
+         partner, single, widowed, divorced), age (grouped into 60 years and older, and less
+         than 60 years old), education level (categorized into primary school and below, middle
+         school and above), residence (categorized into rural and urban).
+      
+      (i) Risk behavior/lifestyle: smoking and alcohol consumption (categorized into smoker,
+         non-smoker, alcohol drinker and non-drinker).
+      
+      (i) Health systems factors: health facilities (categorized into non-TB health facilities
+         and TB health facilities), health resource related to TB diagnosis, ability of health
+         providers and traffic or geographical barriers.
+      
+      (4) Outcomes measures: TB patient delay and TB diagnosis delay.
+      When there was evidence of multiple publications of the same study over time, only
+         the article with a full report was included. Reports on TB suspects, extra-pulmonary
+         TB, HIV infected TB patients, qualitative studies (data collected by qualitative research
+         methods) and studies that focus on PTB patients in Hong Kong, Macao and Taiwan were
+         excluded.
+      
+      Study selection
+      Application of inclusion and exclusion criteria to identified studies was done by
+         two reviewers (DL and YB). Both reviewers independently screened titles and abstracts
+         of identified studies to assess their eligibility for inclusion in the review, using
+         an eligibility form based on the inclusion criteria. Where there were disagreements
+         regarding eligibility of studies, all reviewers participated in the decision about
+         inclusion by discussion and consensus.
+      
+      Quality assessment
+      We assessed the quality of case-control and cohort studies using the Newcastle-Ottawa
+         Scale [27]. For case-control studies, we assessed the adequacy of case and control definition,
+         representativeness of the cases, whether controls were derived from the same population
+         as cases, comparability of cases and controls on the basis of design and analyses,
+         ascertainment of exposure and non-response rates. For cohort studies, we assessed
+         representativeness of the exposed cohort in the study setting, selection of non-exposed
+         cohort, ascertainment of exposure, evidence that participants do not have outcome
+         of interest at recruitment into the study, comparability of cohorts on the basis of
+         design and analyses, outcome assessment and adequacy of follow-up [27]. After assessing the quality of each included study on the basis of these criteria,
+         we assigned a composite quality score ranging from 0 (low) to 8 (high).
+      
+      For cross-sectional studies, we used the guideline for critical appraisal of cross-sectional
+         studies developed by the National Collaborating Center for Environmental Health [28], which was adapted from a combination of items from the Newcastle-Ottawa Scale [27], the Critical Appraisal Skills Program [29], Critical Appraisals by Elwood [30], and Aschengrau and Seage III [31]. Specifically, we assessed representativeness of the study participants, methods
+         for ascertaining exposure; comparability of exposure groups (including unexposed)
+         in terms of age, sex, socioeconomic status and response bias; determination and validation
+         of outcomes; internal validity; and how confounding factors were assessed and addressed.
+         After reviewing the quality of each included study on the basis of these criteria,
+         we assigned a composite quality score that ranged from 0 (low) to 4 (high). Two reviewers
+         (YL and JE) assessed study quality and reached a consensus grade for each included
+         study.
+      
+      Data abstraction
+      Data from eligible studies were independently abstracted by two reviewers (BY and
+         KL). Differences were resolved by consensus among all reviewers. Data extracted from
+         each study included name of first author, year of publication, type of study design,
+         place of study, type of participants (newly diagnosed/retreatment and smear positive/negative
+         pulmonary TB patients), residence of participants (rural/urban), sampling size, outcome
+         (patient delay/diagnostic delay), information used for comparing analyses (numbers
+         of participants with/without exposure variables) and the main results were extracted
+         for all included studies.
+      
+      Assessment of heterogeneity
+      Heterogeneity was evaluated using the Q test [32] and the I-squared statistic (I2 = 100% × (Q-df)/Q) [33]. For the Q test, a P-value of 0.10 or less was considered statistically significant, indicating marked
+         heterogeneity among studies. Where the P-value was ≤0.10, we calculated I2, and studies with heterogeneity levels of ≤50% were deemed acceptable. Where heterogeneity
+         was more than 50%, we conducted subgroup analysis to explore possible reasons for
+         the heterogeneity. For subgroup analyses, the heterogeneity within groups was also
+         tested, using the same statistical methods.
+      
+      Data synthesis
+      The first step of the data analysis involved a qualitative synthesis aimed at summarizing,
+         comparing and contrasting the extracted data. Meta-analyses were then conducted to
+         assess the association among patient delay, diagnostic delay, and gender, age, education,
+         residence, healthcare seeking behaviors (TB health facility for first consultation
+         or seeking care from Traditional Chinese Medicine (TMC) providers) and lifestyle factors
+         (smoking and alcohol use). Only studies that adopted the definitions of patient and
+         diagnostic delays proposed by the Office of TB Control in the MOHC [24] were included in the quantitative meta-analysis. We calculated pooled odds ratio
+         (OR) separately for each factor, using RevMan 5.2 [25]. As noted earlier, we used the fixed effect model where the level of heterogeneity
+         was acceptable (that is, P = &gt;0.10, or P = ≤0.10, but I2 = ≤50%), and the random effects model was used where there was significant heterogeneity
+         (that is, P = ≤0.10, but I2 = &gt;50%). We assessed sources of heterogeneity by conducting sub-group analyses.
+      
+   
+

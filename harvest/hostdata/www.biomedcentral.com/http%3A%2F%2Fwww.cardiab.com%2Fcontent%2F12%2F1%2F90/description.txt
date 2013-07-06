@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Glucagon-like peptide-1 (GLP-1) is a member of the proglucagon incretin family implicated in the control of appetite and satiety. GLP-1 has insulinotropic, insulinomimetic, and glucagonostatic effects, thereby exerting multiple complementary actions to lower blood glucose in subjects with type 2 diabetes mellitus. A major advantage over conventional insulin is the fact that the insulinotropic actions of GLP-1 are dependent upon ambient glucose concentration, mitigating the risks of hypoglycemia. Recently, the crucial role of GLP-1 in cardiovascular disease has been suggested in both preclinical and clinical studies. The experimental data indicate GLP-1 and its analogs to have direct effects on the cardiovascular system, in addition to their classic glucoregulatory actions. Clinically, beneficial effects of GLP-1 have also been demonstrated in patients with myocardial ischemia and heart failure. GLP-1 has recently been demonstrated to be a more effective alternative in treating myocardial injury. This paper provides a review on the current evidence supporting the use of GLP-1 in experimental animal models and human trials with the ischemic and non-ischemic heart and discusses their molecular mechanisms and potential as a new therapeutic approach.
+
+			
+		

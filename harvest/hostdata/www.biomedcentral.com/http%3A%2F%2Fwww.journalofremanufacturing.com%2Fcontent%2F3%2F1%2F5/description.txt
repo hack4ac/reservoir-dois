@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				The consideration of external costs is becoming more important in supply network design, as companies are under increasing pressure to reduce the environmental and social impacts of their operations. This paper presents a single time period, single-product mixed integer linear programming formulation, which considers such external costs, as well as the impact of waste disposal. The model presented considers a network of suppliers, manufacturing facilities, customers, scrap recyclers, general recycling facilities and landfill sites and makes facility location and allocation decisions so as to minimise both the economic and external costs of all network operations. The model was formulated using the What’s Best Excel add-in and tested on a commercial case study concerning the supply network operations of Hydram, a leading sheet metal fabrication company, considering three different scenarios. Details of how the external and economic costs were determined are included, with reference to the literature. By analysis of the experimental results, commercial recommendations for facility location are made, and the managerial uses of the model for socio-environmentally responsible decision-making are discussed. The benefits and limitations of the proposed model are also discussed.
+
+			
+		

@@ -1,0 +1,13 @@
+
+
+
+
+Abstract
+
+
+
+
+In this paper, we introduce and study a new class of generalized nonlinear vector mixed quasi-variational-like inequalities governed by a multi-valued map in Hausdorff topological vector spaces which includes generalized vector mixed general quasi-variational-like inequalities, generalized nonlinear mixed variational-like inequalities, and so on. By using the fixed point theorem, we prove some existence theorems for the proposed inequality.
+
+
+

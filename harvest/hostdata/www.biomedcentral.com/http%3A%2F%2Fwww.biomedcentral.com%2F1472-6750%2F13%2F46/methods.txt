@@ -1,0 +1,153 @@
+Methods
+   
+      Plasmid, bacterial strain and culture media
+      The plasmid pET303/CT-His and the Escherichia coli strain BL21(DE3) were purchased from Invitrogen (Carlsbad, CA, USA). The bacterial
+         cells were cultivated in LB medium (10&nbsp;g/L peptone, 5&nbsp;g/L yeast extract, 5&nbsp;g/L NaCl,
+         pH&nbsp;7.0). The effect of Terrific broth (TB; 12&nbsp;g/L tryptone, 24&nbsp;g/L yeast extract,
+         4&nbsp;mL/L glycerol, 2.31&nbsp;g/L KH2PO4 and 12.54&nbsp;g/L K2HPO4) on the level of recombinant protein expression was also verified.
+      
+      Sequence analysis
+      Searches for homologous proteins on public sequence databases were performed using
+         BLASTp [65]. Signal peptide and signal peptidase cleavage sites were predicted using SignalP
+         version 3.0 [66]. The theoretical isoelectric point (pI) and molecular weight (Mw) were predicted
+         using Compute pI/Mw on the ExPASy Proteomics Server [67]. The presence and delimitation of protein domains was accomplished using the Conserved
+         Domain Database (CDD) [68]. Multiple amino acid sequence alignments were generated using ClustalW [69]. The identity between a pair of aligned sequences was calculated as the number of
+         identical residues divided by the number of aligned positions, excluding the sites
+         with gaps, and expressed as a percentage. Structural alignments based on comparisons
+         of 3D structures deposited in the Protein Data Bank (PDB) were obtained from the Dali
+         database [70]. The functional domains were named following the nomenclature adopted by the Carbohydrate-Active
+         enZymes (CAZy) database [71].
+      
+      Amplification and cloning
+      Genomic DNA from C. violaceum ATCC 12472 was isolated using a CTAB-based protocol as described previously [72]. The complete DNA sequence of the CV2935 ORF was amplified by PCR using the bacterial
+         genomic DNA as a template. The design of the PCR primers was based on the coding sequence
+         of the corresponding ORF, which spans the C. violaceum chromosome from position 3,211,716 to 3,213,035 [GenBank accession number: NC_005085].
+         The primer sequences were 5’-CCGTCTAGAATGCGCAGAACGACAGGCAGG-3’ (forward) and 5’-CCGCTCGAGCCAGGCCGTCCGCGTCGCGCG-3’ (reverse). Restriction endonuclease sites (underlined) were
+         incorporated in the forward (XbaI) and reverse (XhoI) primers, respectively, to allow for further manipulation of the PCR products. Amplifications
+         were carried out in a final volume of 20&nbsp;μL containing 50&nbsp;ng genomic DNA, 1X Buffer
+         Phusion GC (Finnzymes, Vantaa, Finland), 1.5&nbsp;mM MgCl2, 200&nbsp;μM of each dNTP, 0.5&nbsp;μM of each primer, and 0.4 U Phusion Hot Start High-Fidelity
+         DNA Polymerase (Finnzymes). Amplification reactions were performed in a Mastercycler
+         Gradient Thermo Cycler (Eppendorf, Hamburg, Germany) using the following cycling parameters:
+         an initial denaturation step (3&nbsp;min at 98°C) followed by 35&nbsp;cycles of 10&nbsp;s at 98°C,
+         30&nbsp;s at 65°C, and 2.5&nbsp;min at 72°C. After the last cycle, the reactions were further
+         incubated for 5&nbsp;min at 72°C. The amplified product was verified by analyzing a 5-μL
+         aliquot of the PCR reactions by 1.0% agarose gel electrophoresis [73]. PCR products were purified from the remaining solution using the illustra GFX PCR
+         DNA and Gel Band Purification Kit (GE Healthcare, Buckinghamshire, UK), digested with
+         XbaI and XhoI (Fermentas Life Sciences, Ontario, Canada) and purified again using the same kit.
+         The PCR products were then ligated into the pET303/CT-His vector, which was previously
+         digested with the same restriction enzymes, using T4 DNA Ligase (Promega, Madison,
+         WI, USA). The ligation products were introduced into E. coli BL21(DE3) cells by electroporation, and the transformants were selected on LB agar
+         containing 100&nbsp;μg/mL carbenicillin. Plasmid DNA was isolated from antibiotic-resistant
+         colonies using the alkaline lysis method [73], and the presence of the insert was confirmed by PCR and restriction digestion with
+         the appropriate endonucleases. In the recombinant plasmid, designated pET-CV2935,
+         the chitinase coding sequence was cloned in frame with a C-terminal polyhistidine
+         (6xHis) tag and its expression was under the control of the T7lac promoter.
+      
+      Protein expression and purification
+      A single isolated colony of E. coli BL21(DE3) cells harboring the recombinant plasmid pET-CV2935, which were grown on
+         LB agar supplemented with 100&nbsp;μg/mL carbenicillin, was selected and inoculated in
+         5&nbsp;mL LB containing the same antibiotic. The culture was incubated with vigorous shaking
+         (180&nbsp;rpm) at 37°C for 16&nbsp;h. An aliquot (500&nbsp;μL) of this culture was then inoculated
+         into 50&nbsp;mL LB (in a 500&nbsp;mL Erlenmeyer flask) supplemented with 100&nbsp;μg/mL carbenicillin
+         and further incubated as before until the OD600 reached 0.4-0.5. Isopropyl-β-D-thiogalactopyranoside (IPTG) was added to a final
+         concentration of 0.5&nbsp;mM to induce the expression of the recombinant protein. After
+         24&nbsp;h at 37°C, the culture was centrifuged (6,000 g, 10&nbsp;min, 4°C), the cell pellet was saved for further analysis and the supernatant
+         (i.e., the medium free of cells) was dialyzed against distilled water. To the dialyzed
+         supernatant, solid ammonium sulfate was added to 95% saturation, and the mixture was
+         incubated at room temperature for approximately 20&nbsp;h. The precipitated proteins (F0/95)
+         were collected by centrifugation (15,000 g, 20&nbsp;min, 4°C) and resuspended in 50&nbsp;mM sodium acetate (NaAc) buffer (pH&nbsp;5.2) containing
+         1&nbsp;M NaCl. The mixture was incubated for 3&nbsp;h at 4°C, and the insoluble materials were
+         then removed by centrifugation (15,000 g, 20&nbsp;min, 4°C). The clear supernatant was loaded onto a chitin column (1.5 × 16&nbsp;cm),
+         which was prepared from practical grade chitin from crab shells (Sigma-Aldrich, St.
+         Louis, MO, USA). The chitin was equilibrated with 50&nbsp;mM NaAc buffer (pH&nbsp;5.2) containing
+         1&nbsp;M NaCl, and the protein sample was loaded onto the matrix and incubated for 16&nbsp;h
+         at 4°C. Unbound proteins were eluted by washing the column with the equilibration
+         buffer, and the adsorbed proteins were recovered by elution with 0.1&nbsp;M acetic acid.
+         Fractions with an A280 greater than 0.050 were pooled and dialyzed against distilled water. The dialyzed
+         material was centrifuged (12,000 g, 10&nbsp;min, 4°C) and concentrated by ultrafiltration using a 30-kDa cut-off membrane
+         (Vivaspin 20, GE Healthcare).
+      
+      Osmotic shock and cell lysis
+      Periplasmic proteins expressed in E. coli cells harboring the plasmid pET-CV2935 were obtained by the osmotic shock (OS) protocol
+         described by Koshland and Botstein [74], with minor modifications. Briefly, the cells were resuspended in OS solution 1 [20&nbsp;mM
+         Tris-HCl (pH&nbsp;8.0), 2.5&nbsp;mM EDTA, 20% (w/v) sucrose] to an OD550 = 5.0, and the mixture was incubated on ice for 10&nbsp;min and centrifuged (6,000 g, 10&nbsp;min, 4°C). The buffer was decanted, and the cells were resuspended in OS solution
+         2 [20&nbsp;mM Tris-HCl (pH&nbsp;8.0), 2.5&nbsp;mM EDTA] using the same volume as before. The cell
+         suspension was again incubated on ice for 10&nbsp;min and centrifuged (6,000 g, 10&nbsp;min, 4°C), and the supernatant (shock fluid fraction) was transferred to a clean
+         tube and stored at −20°C. The remaining cells were lysed by resuspending them in lysis
+         buffer (50&nbsp;mM Tris-HCl, pH&nbsp;8.0, 2&nbsp;mM EDTA, 0.15&nbsp;M NaCl) containing 100&nbsp;μg/mL lysozyme
+         and 0.1% Triton X-100 (v/v). The suspension was incubated at 30°C for 30&nbsp;min in a
+         water bath, and the bacterial genomic DNA was then digested at 30°C for 30&nbsp;min using
+         DNase I (Promega) in the presence of 8&nbsp;mM MgCl2 and 10&nbsp;mM CaCl2. The lysate was centrifuged (12,000 g for 30&nbsp;min at 4°C) and the supernatant, which was saved as the soluble intracellular
+         extract, was kept at −20°C until use.
+      
+      Chitinolytic activity assays
+      Chitinolytic activity was determined by the colorimetric method described by Boller
+         [75] using colloidal chitin as a substrate. Colloidal chitin was prepared according to
+         Molano et al. [76] using non-radioactive acetic anhydride. In this assay, the hydrolytic activity of
+         the chitinase releases water-soluble oligomers from colloidal chitin, and in a second
+         reaction, these oligosaccharides are cleaved to GlcNAc by a β-glucuronidase [77]. The protein sample [250&nbsp;μL, diluted in 50&nbsp;mM NaAc buffer (pH&nbsp;5.2)] was added to
+         250&nbsp;μL of 10&nbsp;g/L colloidal chitin, and the mixture was incubated at 37°C for 1&nbsp;h.
+         The reaction was quenched by boiling for 5&nbsp;min in a water bath and then centrifuged
+         (10,000 g, 25°C, 15&nbsp;min), and 300&nbsp;μL of the supernatant was transferred to a clean microcentrifuge
+         tube containing 10&nbsp;μL assay buffer [50&nbsp;mM NaAc buffer (pH&nbsp;5.2)] or 10&nbsp;μL of 10 U/mL
+         β-glucuronidase (EC 3.2.1.31) type HP-2 (Sigma-Aldrich). Reactions were further incubated
+         at 37°C for 1&nbsp;h, boiled for 5&nbsp;min and cooled on ice. Assay buffer (190&nbsp;μL) and 100&nbsp;μL
+         0.6&nbsp;M potassium tetraborate were added, and the reaction mixture boiled again for
+         5&nbsp;min and cooled on ice for 3&nbsp;min. Next, 1.0&nbsp;mL of 5% (w/v) p-dimethylaminobenzaldehyde (DMAB, Sigma-Aldrich) prepared in 0.7&nbsp;M HCl (diluted in
+         100% acetic acid) was added, and the absorbance at 585&nbsp;nm was determined. The amount
+         of GlcNAc released was estimated from a standard curve prepared with varying concentrations
+         (100-600 μM) of GlcNAc [78]. Chitinase activity was expressed in units (U), and 1 U was defined as the amount
+         of enzyme that released 1&nbsp;nmol of GlcNAc/mL/h at 37°C. Substrate specificity was also
+         investigated using chromogenic analogues of N-acetyl chitooligossacharides as substrates. The following synthetic p-nitrophenyl-labeled oligomers of GlcNAc were used: p-nitrophenyl-N-acetyl-β-D-glucosamine (pNP-GlcNAc), p-nitrophenyl-β-D-N,N’-diacetylchitobiose [pNP-(GlcNAc)2] and p-nitrophenyl-β-D-N,N’-,N”-triacetylchitotriose [pNP-(GlcNAc)3] (Sigma-Aldrich). Hydrolytic activity was determined by measuring the release of
+         pNP from the substrates [79] according to the procedure supplied by the compounds’ manufacturer. The purified
+         chitinase (10&nbsp;μL; 150&nbsp;ng protein/μL distilled water) was mixed with 90&nbsp;μL of 1&nbsp;mg/mL
+         substrate solution, and the mixture was incubated at 37°C for 30&nbsp;min. The reaction
+         was quenched by adding 200&nbsp;μL of 0.4&nbsp;M sodium carbonate, and the A405 of the p-nitrophenylate ion was measured. One unit of hydrolytic activity was defined as the
+         amount of enzyme releasing 1&nbsp;nmol of p-nitrophenol/mL/h at 37°C.
+      
+      Soluble protein content
+      The concentration of soluble protein in the bacterial culture samples and the fractions
+         obtained during protein purification was determined using the Bradford method [80] with bovine serum albumin as a standard.
+      
+      SDS-polyacrylamide gel electrophoresis and Western blotting
+      Polyacrylamide gel electrophoresis in the presence of sodium dodecyl sulfate (SDS)
+         and β-mercaptoethanol (SDS-PAGE) was performed as described by Laemmli [81] using 15% slab gels. Samples were prepared in 0.0625&nbsp;M Tris-HCl (pH&nbsp;6.8) containing
+         2% (w/v) SDS, 5% (v/v) β-mercaptoethanol, 10% (v/v) glycerol and 0.001% (w/v) bromophenol
+         blue. Protein bands were stained with 0.2% (w/v) Coomassie Brilliant Blue R250 in
+         50% methanol/10% acetic acid for 16&nbsp;h. Destaining was carried out with 12.5% isopropanol/10%
+         acetic acid. Alternatively, staining of the protein bands was performed using Simply
+         Blue Safe Stain (Invitrogen) following the supplied protocol. Western blotting was
+         performed according to the method of Towbin et al. [82]. Proteins were resolved by SDS-PAGE, transferred to a nitrocellulose membrane (Hybond-C
+         Extra, GE Healthcare) and submitted to immunodetection using mouse IgG anti-His6 (Roche
+         Applied Science, Germany) and goat anti-mouse IgG conjugated with horseradish peroxidase
+         (Santa Cruz Biotechnolgy, Dallas, USA).
+      
+      N-terminal amino acid sequencing
+      N-terminal amino acid sequencing was carried out on a Shimadzu PPSQ-10 Automated Protein
+         Sequencer (Kyoto, Japan). Protein samples were blotted onto a polyvinylidene fluoride
+         (PVDF) membrane after SDS-PAGE and submitted to Edman degradation [83]. The phenylthiohydantoin (PTH) amino acids were detected at 269&nbsp;nm after separation
+         on a reversed phase C18 column (4.6&nbsp;mm × 2.5&nbsp;mm) under isocratic conditions, according
+         to the manufacturer’s instructions.
+      
+      Effects of pH, temperature and metal ions on enzyme activity
+      To determine the effect of pH on enzyme stability, a solution of chitinase (150&nbsp;ng/μL
+         distilled water) was dialyzed for 1&nbsp;h with continuous stirring against five buffer
+         systems (each at 50&nbsp;mM): glycine-HCl (pH&nbsp;2.0 and 3.0), sodium acetate (pH&nbsp;4.0 and
+         5.0), sodium phosphate (pH&nbsp;6.0 and 7.0), Tris-HCl (pH&nbsp;8.0) and glycine-NaOH (pH&nbsp;9.0
+         and 10.0). The dialyzed samples were diluted 1:20 (v/v) with the respective buffers,
+         and the residual chitinase activity was determined under standard assay conditions.
+         The effect of temperature on enzyme stability was assessed by incubating the protein
+         (150&nbsp;ng/μL distilled water) at different temperatures (30, 40, 50, 60, 70, 80, 90
+         and 100°C) for 30&nbsp;min in a water bath. After the heat treatment, the samples were
+         stored at −20°C until the remaining chitinase activity was measured using standard
+         assay conditions. For both factors, the relative activity was expressed as a percentage
+         of the highest activity recorded at a certain pH or temperature, respectively. The
+         effect of ions [Ba2+ (BaCl4), Ca2+ (CaCl2), Cu2+ (CuSO4), Fe2+ (FeSO4), K+ (KCl), Mg2+ (MgCl2), Mn2+ (MnCl2), NH4+ (NH4Cl), Ni2+ (NiCl) and Zn2+ (ZnSO4)], enzyme inhibitors (EDTA and β-mercaptoethanol) and a protein denaturant (SDS)
+         on the enzymatic activity was investigated using pNP-(GlcNAc)2 and pNP-(GlcNAc)3 as substrates. The assay was carried out under standard conditions, including the
+         ion (5&nbsp;mM), or the inhibitor [EDTA (5&nbsp;mM) or β-mercaptoethanol (5%&nbsp;v/v) or SDS (0.5,
+         1.0 and 2.0%&nbsp;w/v)] to be tested in the reaction mixture. The residual hydrolytic activity
+         was determined and expressed as a percentage of the activity recorded in the absence
+         of ions or enzyme inhibitors.
+      
+   
+

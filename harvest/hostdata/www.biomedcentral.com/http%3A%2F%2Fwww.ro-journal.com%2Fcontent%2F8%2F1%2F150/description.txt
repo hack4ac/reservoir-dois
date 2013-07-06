@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					To investigate the feasibility and dosimetric improvements of a novel technique to temporarily displace critical structures in the pelvis and abdomen from tumor during high-dose radiotherapy.
+
+				
+				
+					
+						Methods
+
+					Between 2010 and 2012, 11 patients received high-dose image-guided intensity-modulated radiotherapy with temporary organ displacement (TOD) at our institution. In all cases, imaging revealed tumor abutting critical structures. An all-purpose drainage catheter was introduced between the gross tumor volume (GTV) and critical organs at risk (OAR) and infused with normal saline (NS) containing 5-10% iohexol. Radiation planning was performed with the displaced OARs and positional reproducibility was confirmed with cone-beam CT (CBCT). Patients were treated within 36 hours of catheter placement. Radiation plans were re-optimized using pre-TOD OARs to the same prescription and dosimetrically compared with post-TOD plans. A two-tailed permutation test was performed on each dosimetric measure.
+
+				
+				
+					
+						Results
+
+					The bowel/rectum was displaced in six patients and kidney in four patients. One patient was excluded due to poor visualization of the OAR; thus 10 patients were analyzed. A mean of 229 ml (range, 80–1000) of NS 5-10% iohexol infusion resulted in OAR mean displacement of 17.5 mm (range, 7–32). The median dose prescribed was 2400 cGy in one fraction (range, 2100–3000 in 3 fractions). The mean GTV D min  and PTV D min  pre- and post-bowel TOD IG-IMRT dosimetry significantly increased from 1473 cGy to 2086 cGy (p=0.015) and 714 cGy to 1214 cGy (p=0.021), respectively. TOD increased mean PTV D95 by 27.14% of prescription (p=0.014) while the PTV D05 decreased by 9.2% (p=0.011). TOD of the bowel resulted in a 39% decrease in mean bowel D max  (p=0.008) confirmed by CBCT. TOD of the kidney significantly decreased mean kidney dose and D max  by 25% (0.022).
+
+				
+				
+					
+						Conclusions
+
+					TOD was well tolerated, reproducible, and facilitated dose escalation to previously radioresistant tumors abutting critical structures while minimizing dose to OARs.
+
+				
+			
+		

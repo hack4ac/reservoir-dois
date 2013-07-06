@@ -1,0 +1,4 @@
+Abstract
+In this paper, a monotone inclusion problem and a fixed point problem of nonexpansive mappings are investigated based on a Mann-type iterative algorithm with mixed errors. Strong convergence theorems of common elements are established in the framework of Hilbert spaces.
+MSC: 
+47H05, 47H09, 47J25.

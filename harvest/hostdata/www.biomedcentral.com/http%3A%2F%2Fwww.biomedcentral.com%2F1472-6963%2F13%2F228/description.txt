@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Patient safety culture is an important measure in assessing the quality of health care. There is a growing recognition of the need to establish a culture of hospital focused on patient safety. This study explores the attitudes and perceptions of patient safety culture for health care workers in China by using a Hospital Survey on Patient Safety Culture (HSPSC) questionnaire and comparing it with the psychometric properties of an adapted translation of the HSPSC in Chinese hospitals with that of the US.
+
+				
+				
+					
+						Method
+
+					We used the modified HSPSC questionnaire to measure 10 dimensions of patient safety culture from 32 hospitals in 15 cities all across China. The questionnaire included 1160 Chinese health-care workers who consisted of predominately internal physicians and nurses. We used SPSS 17.0 and Microsoft Excel 2007 to conduct the statistical analysis on survey data including descriptive statistics and validity and reliability of survey. All data was input and checked by two investigators independently.
+
+				
+				
+					
+						Result
+
+					A total of 1500 questionnaires were distributed of which 1160 were responded validly (response rate 77%). The positive response rate for each item ranged from 36% to 89%. The positive response rate on 5 dimensions ( Teamwork Within Units, Organization Learning-Continuous Improvement, Communication Openness, Non-punitive Response and Teamwork Across Units ) was higher than that of AHRQ data (P < 0.05). There was a statistical difference on the perception of patient safety culture in groups of different work units, positions and qualification levels. The internal consistency of the total survey was comparatively satisfied (Cronbach’s α = 0.84).
+
+				
+				
+					
+						Conclusion
+
+					The results show that amongst the health care workers surveyed in China there was a positive attitude towards the patient safety culture within their organizations. The differences between China and the US in patient safety culture suggests that cultural uniqueness should be taken into consideration whenever safety culture measurement tools are applied in different culture settings.
+
+				
+			
+		

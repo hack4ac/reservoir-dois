@@ -1,0 +1,109 @@
+Methods
+   
+      Animals
+      All experiment protocols were approved by the Animal Ethics Board of Maastricht University
+         according to Dutch governmental regulations.
+      
+      Adult Sprague–Dawley rats (body weight 250-320&nbsp;g), obtained from Charles River (France),
+         were kept under standard laboratory conditions with food and water given ad libitum,
+         21 ± 2°C environment temperature, a 12&nbsp;h light/dark schedule (lights on at 07:00&nbsp;h)
+         and background noise provided by radio. Breeding was carried out in our own animal
+         facility to prevent stress resulting from transportation during pregnancy. To facilitate
+         mating a female was housed together with a male for 1 night in a breeding cage. The
+         duration of gestation was determined by the observation of a mucus plug. Exclusively
+         male offspring were used in this study, because both morphological and behavioral
+         evidence show a differential vulnerability to a birth insult in males versus females.
+         A greater impact is seen in the male gender, possibly due to the difference in circulating
+         sex hormones compared to females [38].
+      
+      Animal model
+      Dams were anesthetized by isoflurane (4% induction and 1.5% maintenance) on E17 and
+         subjected to a midline laparotomy. Next, FA preconditioning was induced by completely
+         clamping both uterine and both ovarian arteries with removable clamps for 30&nbsp;minutes.
+         Thereafter, dams were sutured up to recover in their home-cage. These procedures were
+         performed inside a closed incubator to maintain normothermia and 75% air humidity.
+         Wild-type dams were used as control mothers.
+      
+      Tissue preparation
+      FA and control pups were delivered on E21 by Caesarean section and immediately decapitated.
+         Control animals have not undergone any intervention prior to birth (see Figure&nbsp;4). To prevent litter effects only one pup per dam was used for micro-array analysis,
+         with a total of five males per condition. After removing the cerebellum left hemispheres
+         were dissected and submerged in RNA stabilizing reagent (Qiagen, Benelux BV, Venlo,
+         The Netherlands). Samples were kept at 4°C for four days, before being snap frozen
+         in liquid nitrogen, and ultimately stored at −80°C. For RT-qPCR analysis a maximum
+         of two pups per litter were used, with a total of five pups per condition. Right hemispheres
+         were dissected, then snap frozen in liquid nitrogen, and ultimately stored at −80°C.
+         Additionally, in six males per condition we dissected three different brain regions:
+         prefrontal cortex (PFC), caudate-putamen (CPU), and hippocampus for analysis of regional
+         expression by RT-qPCR. Dissection of these brain regions was performed in situ under
+         4x magnification immediately after sacrificing the pups.
+      
+      Figure 4. Experimental design. Two experimental groups were used: Control (C) and Fetal Asphyctic (FA) preconditioning.
+         On embryonic day 17 (E17) FA animals were subjected to a 30-minute preconditioning
+         stimulus by clamping the uterine circulation, and 96&nbsp;hours later both experimental
+         groups were sacrificed. Control animals are wild-type.
+      
+      RNA-isolation
+      For micro-array analysis total RNA extraction and purification were performed on mini
+         RNeasy columns (Qiagen Benelux BV, Venlo, The Netherlands), according to the manufacturer’s
+         instructions. Quantity and purity of total RNA was determined by spectrophotometer
+         analysis using the Nanodrop ND-1000 (Thermo Fisher Scientific Inc., Waltham, USA).
+         Only samples with a 260/280 ratio between 1.8 and 2.1, and a 260/230 ratio between
+         1.5 and 2.0 were selected for micro-array analysis. Additionally, RNA quality measurements
+         were performed with Bioanalyzer 2100 (Agilent Technologies Netherlands B.V.). Samples
+         with an RNA integrity number (RIN) below 8 were excluded.
+      
+      For RT-qPCR total RNA was extracted with Trizol® reagent (Invitrogen, Paisley Scotland,
+         UK) according to manufacturer’s instructions. Next, cDNA was generated with RevertAid
+         First Strand cDNA synthesis kit (Fermentas GMBH, St. Leon-Rot, Germany).
+      
+      RT-qPCR
+      RT-qPCR reactions were carried out using SYBR green PCR master mix and the LightCycler
+         480 (Roche Diagnostics, Almere, The Netherlands). To evaluate relative expression
+         we used Gapdh, Hprt, and ß-actin as internal controls. Sequences of primers used can be found in Table&nbsp;1.
+      
+      Table 1. Primer design for RT-qPCR
+      Micro-array analysis
+      Using the Ambion WT Expression Kit, per sample, an amount of 100&nbsp;ng of total RNA spiked
+         with bacterial poly-A RNA positive controls (Affymetrix Inc., Santa Clara, USA) was
+         converted to double stranded cDNA in a reverse transcription reaction. Next the sample
+         was converted and amplified to antisense cRNA in an in vitro transcription reaction which was subsequently converted to single stranded sense
+         cDNA. Finally, samples were fragmented and labeled with biotin in a terminal labeling
+         reaction according to the Affymetrix WT Terminal Labeling Kit. A mixture of fragmented
+         biotinylated cDNA and hybridization controls (Affymetrix Inc., Santa Clara, USA) was
+         hybridized on Affymetrix GeneChip Rat Gene 1.0 ST Arrays followed by staining and
+         washing in a GeneChip® fluidics station 450 (Affymetrix Inc., Santa Clara, USA) according
+         to the manufacturer’s procedures. To assess the raw probe signal intensities, chips
+         were scanned using a GeneChip® scanner 3000 (Affymetrix Inc., Santa Clara, USA). According
+         to MIAME requirements data were submitted the NCBI GEO database, and are available
+         under accession number: GSE42676.
+      
+      Gene Set enrichment analysis (GSEA)
+      For GSEA, a total of 737 rattus norvegicus gene sets were assembled, including 196
+         KEGG pathways (release 59.0), 81 Biocarta pathways (accessed August 18th 2011), 184 Gene Ontology terms (AmiGO version 1.8), and 276 Pfam protein families
+         database (Pfam 25.0). Each gene-set contained a minimum of 15 genes and a maximum
+         of 500 genes in accordance with GSEA recommendations. The analysis was conducted using
+         the GSEA software v2.07, provided by the Broad Institute (Cambridge, MA, USA) [13].
+      
+      Statistics
+      For RT-qPCR all data were distributed normally as tested with Kolmogorov-Smirnov test.
+         Statistical significance was tested with the unpaired, two-tailed Student’s t-test.
+         Results are presented as means + SEM, normalized to control and p-values &lt;0.05 were
+         considered statistically significant.
+      
+      Analysis of the micro-array data was performed in the R programming environment (version
+         2.12.0), with the packages developed within the Bioconductor project [39]. The analysis was based on the RMA expression levels of the probe sets. Differential
+         expression was assessed with the Limma package using moderated t-statistics [40]. Results are presented as fold changes and p-values &lt; 0.01 were considered statistically
+         significant.
+      
+      For GSEA the micro-array dataset was pre-ranked using moderated t-statistics [40]. A gene set enrichment score (ES) was calculated based on the Kolmogorov-Smirnov
+         statistic and for each gene set the ES was normalized to account for difference in
+         gene set size. Finally, a false discovery rate (FDR) was calculated relative to the
+         normalized enrichment score (NES) values to determine the probability of type I errors.
+         To control for multiple testing we used the false discovery rate (FDR) as described
+         by Benjamin and Hochberg [41]. Enriched gene-sets with an FDR q-value &lt;0.05 were selected. Ultimately we performed
+         a ‘Leading Edge Analysis’ in GSEA on significantly enriched gene-sets, to identify
+         the genes that contribute most to the enrichment signal.
+      
+   
+

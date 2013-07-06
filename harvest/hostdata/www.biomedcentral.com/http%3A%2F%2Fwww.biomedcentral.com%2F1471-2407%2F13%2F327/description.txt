@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Although advanced-stage cervical cancer can benefit from current treatments, approximately 30% patients may fail after definitive treatment eventually. Therefore, exploring alternative molecular therapeutic approaches is imperatively needed for this disease. We have recently shown that activation of AMP-activated protein kinase (AMPK), a metabolic sensor, hampers cervical cancer cell growth through blocking the Wnt/β-catenin signaling activity. Here, we report that activated AMPK (p-AMPK) also inhibits cervical cancer cell growth by counteracting FOXM1 function.
+
+				
+				
+					
+						Methods
+
+					Effect of the activation of AMPK on FOXM1 expression was examined by hypoxia and glucose deprivation, as well as pharmacological AMPK activators such as A23187, AICAR and metformin. RT Q-PCR and Western blot analysis were employed to investigate the activities of AMPK, FOXM1 and AKT/FOXO3a signaling.
+
+				
+				
+					
+						Results
+
+					Consistent with our previous findings, the activation of AMPK by either AMPK activators such as AICAR, A23187, metformin, glucose deprivation or hypoxia significantly inhibited the cervical cancer cell growth. Importantly, we found that activated AMPK activity was concomitantly associated with the reduction of both the mRNA and protein levels of FOXM1. Mechanistically, we showed that activated AMPK was able to reduce AKT mediated phosphorylation of p-FOXO3a (Ser253). Interestingly, activated AMPK could not cause any significant changes in FOXM1 in cervical cancer cells in which endogenous FOXO3a levels were knocked down using siRNAs, suggesting that FOXO3a is involved in the suppression of FOXM1.
+
+				
+				
+					
+						Conclusion
+
+					Taken together, our results suggest the activated AMPK impedes cervical cancer cell growth through reducing the expression of FOXM1.
+
+				
+			
+		

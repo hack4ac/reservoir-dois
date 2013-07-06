@@ -1,0 +1,53 @@
+Methods
+   
+      Study area
+      The study was conducted at the Dubai Desert Conservation Reserve, United Arab Emirates.
+         The site is made-up of two sections, where camel are freely grazing (referred to as
+         DDCR) and a core area where strict conservation measures are in place, camel grazing
+         is excluded, off-roading controlled and wildlife is abundant (referred to as Al-Maha
+         area or AMR). Unfortunately, the larger Dubai Desert Conservation Reserve (DDCR) was
+         suffering heavy grazing pressure by free ranging Camels, but off-road driving was
+         relatively minimized while violations are still being recorded. These differences
+         are being present for about 7–8 years since the site has been setup. Three soil types
+         or substrates are present at both sections: sand dunes, sand flats and gravel plains.
+      
+      Approach
+      Field sampling procedure involved using random sampling points selected over the 3
+         main habitats; namely gravel plains, sand flats and sand dunes. A total of 126 plots
+         (86 from Al-Maha and 40 from DDCR) were selected: 36 were on sand dunes (21 in the
+         AMR and 15 in the DDCR), 28 were on sand flats (16 in the AMR and 12 in the DDCR)
+         and 62 were on gravel plains (49 in the AMR and 13 in the DDCR) [25]. For the sand flats and sand dunes, plots were selected using a 500 m grid selected
+         over the whole area. Circular plots were used for the sampling. Each circular plot
+         involved sampling an area of 50m diameter. This way each plot is equivalent to 7000
+         m2. The percent cover for each species was measured within each sampling quadrat.
+      
+      Procedure
+      Close range photography was used to take picture of each plot from breast height of
+         about 1.5 meters above ground using a Canon Power Shot camera with a 5-megapixel resolution.
+         Images were within the center of the sampled area. Images taken at close range were
+         pixel-analyzed using ERDAS imagine [33]. The procedure involved pixel analysis to quantify percent cover for each species
+         within each of the plots. We used a supervised classification where a training group
+         of pixels was hand-selected and applied for each species. A total of 114 images were
+         analyzed (Sand Dunes 36, Sand flats 27 and Gravel Plains 50 images). Data from the
+         images were compared to species cover data collected in the field. All distorted and/or
+         off-center images were not included in the analysis. A sample field image is included
+         in Figure 1.
+      
+      Figure 1. Sample vertical image for a plot assessing floral cover in the UAE desert ecosystem.
+      Another step of the analysis involved agreements on each species’ ranking using both
+         field-based and image-based techniques. A Pearson correlation analysis was performed
+         to assess compatibility between the two methodologies (Table 1). Furthermore, separate Kruskal-Wallis tests were performed using SPSS [34]. One involved comparing field and photo analyses techniques as affected by grazing
+         intensities (Al-Maha and DDCR; Table 2), while the second dealt with the effects of soil substrate (Sande dunes, Sand flats
+         and Gravel plains) using the two sampling techniques (Table 3). A third Kruskal-Wallis test was performed for every plant species’ ranking, averaged
+         over grazing intensities and soil substrates (Table 4). The hypothesis for the formers was that the median score of field ranking, within
+         each grazing intensity or soil substrate, is not significantly different than the
+         median score of image ranking. The hypothesis for the latter was that the median score
+         of field ranking, for each species, is not significantly different than the median
+         score of image ranking.
+      
+      Table 3. Kruskal-Wallis test results of level of agreements between field and digital imaging
+            and the effects of grazing intensities on estimating plant cover in a desert ecosystem
+      Table 4. Kruskal-Wallis test results of level of agreements between field and digital imaging
+            and the effects of soil substrates on estimating plant cover in a desert ecosystem
+   
+

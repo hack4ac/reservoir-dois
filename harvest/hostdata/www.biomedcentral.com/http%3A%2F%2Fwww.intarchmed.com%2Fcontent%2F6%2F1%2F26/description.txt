@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					We aimed to verify the association of risk behavior aggregation in different categories of physical activity (PA) with the presence of cardiovascular risk factors (RF) employees at a public university.
+
+				
+				
+					
+						Method
+
+					We analyzed data of 376 employees, which were visited in their workplace for measurement of weight, height and questionnaires to identify the risk behaviors and risk factors. Chi-square test was used to analyze the association between the dependent and independent variables and binary logistic regression was used to construct a multivariate model for the observed associations.
+
+				
+				
+					
+						Results
+
+					Associations were found between the aggregation of following risk behaviors: smoking, alcohol consumption and physical inactivity, considered in different categories of PA, and the increase in RF, except for the presence of hypertriglyceridemia. Individuals with two or more risk behaviors in occupational PA category are more likely to be hypertensive (3.04 times) and diabetes (3.44 times). For the free time PA category, these individuals were 3.18 times more likely to have hypercholesterolemia and for locomotion PA, more likely to be hypertensive (2.42 times) and obese (2.51 times).
+
+				
+				
+					
+						Conclusion
+
+					There are association between the aggregation of two or more risk behaviors and the presence of cardiovascular RF.
+
+				
+			
+		

@@ -1,0 +1,25 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Eukaryotic mitogen-activated protein kinase (MAPK/MPK) signaling cascades transduce and amplify environmental signals via three types of reversibly phosphorylated kinases to activate defense gene expression. Canola (oilseed rape,  Brassica napus ) is a major crop in temperate regions. Identification and characterization of MAPK and MAPK kinases (MAPKK/MKK) of canola will help to elucidate their role in responses to abiotic and biotic stresses.
+
+				
+				
+					
+						Results
+
+					We describe the identification and analysis of seven  MKK  ( BnaMKK ) and 12  MPK  ( BnaMPK ) members from canola. Sequence alignments and phylogenetic analyses of the predicted amino acid sequences of BnaMKKs and BnaMPKs classified them into four different groups. We also examined the subcellular localization of four and two members of BnaMKK and BnaMPK gene families, respectively, using green fluorescent protein (GFP) and, found GFP signals in both nuclei and cytoplasm. Furthermore, we identified several interesting interaction pairs through yeast two-hybrid (Y2H) analysis of interactions between BnaMKKs and BnaMPKs, as well as BnaMPK and BnaWRKYs. We defined contiguous signaling modules including BnaMKK9-BnaMPK1/2-BnaWRKY53, BnaMKK2/4/5-BnaMPK3/6-BnaWRKY20/26 and BnaMKK9-BnaMPK5/9/19/20. Of these, several interactions had not been previously described in any species. Selected interactions were validated  in vivo  by a bimolecular fluorescence complementation (BiFC) assay. Transcriptional responses of a subset of canola MKK and MPK genes to stimuli including fungal pathogens, hormones and abiotic stress treatments were analyzed through real-time RT-PCR and we identified a few of  BnaMKKs  and  BnaMPKs  responding to salicylic acid (SA), oxalic acid (OA),  Sclerotinia sclerotiorum  or other stress conditions. Comparisons of expression patterns of putative orthologs in canola and Arabidopsis showed that transcript expression patterns were generally conserved, with some differences suggestive of sub-functionalization.
+
+				
+				
+					
+						Conclusions
+
+					We identified seven  MKK  and 12  MPK  genes from canola and examined their phylogenetic relationships, transcript expression patterns, subcellular localization, and protein-protein interactions. Not all expression patterns and interactions were conserved between canola and Arabidopsis, highlighting the limitations of drawing inferences about crops from model species. The data presented here provide the first systematic description of MKK-MPK-WRKY signaling modules in canola and will further improve our understanding of defense ...

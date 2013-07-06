@@ -1,0 +1,90 @@
+Methods
+   
+      Evaluation of the anti-lymphangiogenic effects of rapamycin in a regional metastasis
+         model
+      
+      All animal studies were carried out according to the protocol approved by the Louisiana
+         State University Health Sciences Center Institutional Animal Care and Use Committee,
+         in compliance with the Committee guidelines. Severe combined immunodeficient (SCID)
+         male mice, 4 to 6 weeks of age (Charles River Laboratories, Wilmington, Massachusetts),
+         were housed in a barrier facility and maintained on a normal diet ad libitum.
+      
+      2 × 105 OSC-19 cells, a highly invasive and metastasis-prone oral squamous carcinoma cell
+         line, were injected into the basolateral region of the tongues of SCID mice. The mice
+         were randomized into two groups (28 control mice and 25 rapamycin-treated mice ).
+         5 days after cell injections mice were given daily IP injections of vehicle (4% DMSO,
+         5.2% Tween 80, and 5.2% polyethylene glycol 400) or rapamycin at a dose of 5 mg/kg.
+         21 days after injection of OSC-19 cells mice were sacrificed. Lingual tissue and cervical
+         lymph node samples were harvested. Mouse tongues were bisected and consecutive samples
+         of lingual tissue and cervical lymph nodes were fixed in 10% neutral buffered formalin
+         for 24 hours, processed and embedded in paraffin. Lingual tissue sections were stained
+         with hematoxylin and eosin (H&amp;E) and cross-sectional area of xenograft tumors was
+         measured using Image-J software (NIH; Windows version). Cervical lymph node samples
+         were examined microscopically by a pathologist using H&amp;E and cytokeratin staining
+         to determine the cervical lymph node metastasis incidence. The number of tumor-free
+         lymphatic vessels and those invaded by tumor cells in mouse tongues was assessed by
+         our pathologist using LYVE-1 (a lymphatic-specific biomarker) immunohistochemical
+         staining (R&amp;D Systems, Minneapolis, MN). Lymphatic vessels invaded by tumor cells
+         were defined as those with the presence of tumor cells in the endothelium-lined space
+         (i.e lymphovascular invasion). Blood microvascular density was assessed after immunohistochemical
+         staining with CD31 (PECAM-1; Santa Cruz Biotechnology, Santa Cruz, CA). Individual
+         microvessels were counted using a × 400 field (× 40 objective lens and × 10 ocular
+         lens). At least three random fields within the tumor area were viewed and counted
+         at × 400 magnification. Results were expressed as the average number of microvessels
+         per field. Unpaired t test with Welch correction was used to evaluate the differences
+         between treatment groups.
+      
+      Cell Lines
+      HMEC-1A cells are a human lymphatic endothelial cell line that was subcloned [21] from HMEC-1 cells – an immortalized cell culture, which is a combination of lymphatic
+         and blood vascular endothelial cells [22]. HMEC-1A cells were maintained in MCDB 131 medium (Sigma-Aldrich), supplemented with
+         20mM HEPES, 1 ug/ml hydrocortisone, 10 ng/ml EGF and 10% fetal bovine serum (FBS).
+      
+      SV-LEC cells, a stable mouse lymphatic endothelial cell line, was isolated from mesenteric
+         adventitial tissue and shown to express specific lymphatic markers Prox-1, LYVE-1
+         and VEGFR-3 [23]. SV-LEC cells were cultured in DMEM/F12 medium supplemented with 10% FBS.
+      
+      HNSCC cell line SCC40 (tongue cancer) was kindly provided by Dr. Susanne Gollin and
+         PCI-15a (pyriform sinus cancer) was provided by Dr. Theresa L. Whiteside (both from
+         the University of Pittsburgh Graduate School of Public Health). FaDu cells, established
+         from hypopharyngeal SCC, were procured from ATCC. SCC40, PCI-15a and FaDu cultures
+         were maintained in MEM media supplemented with 10% FBS and non-essential amino acids.
+         2 × 105 OSC-19 cells, a gift from Dr. Eben L. Rosenthal (University of Alabama at Birmingham),
+         were cultured in DMEM/F12 medium supplemented with 10% FBS.
+      
+      Cell Proliferation Assay
+      The effects of rapamycin (LC Laboratories, Woburn, MA) on proliferation of SV-LEC
+         or HMEC-1A cells were determined by plating exponentially growing cells in 96-well
+         plates (2,000 per well) with 200 μl of medium. The cells were incubated at 37°C for
+         3.5 hours for adherence and then treated with vehicle (DMSO) or various concentrations
+         of rapamycin (1-1000 ng/ml) for time points ranging from 0 to 72 h. Cell proliferation
+         was measured using a modified MTT (3-(4-5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium
+         salt/phenazine methosulfate) system according to the manufacturer's instructions (CellTiter
+         96 AQueous cell proliferation assay; Promega Corp., Madison, WI).
+      
+      Detection of apoptosis in lymphatic endothelial cells by DAPI staining
+      SV-LEC (10,000 cells) or HMEC-1A (20,000 cells) were seeded on 12 mm circular glass
+         cover slips in 24-well plates and allowed to attach for 4 h. Cells were then treated
+         with 100 ng/ml of rapamycin or vehicle control (DMSO) for 72 h, washed with phosphate-buffered
+         saline (PBS) and fixed in cold 2% paraformaldehyde for 15 min. Cells were then washed
+         with PBS, fixed with cold 70% ethanol at -20°C for 1 h and stained with 1 mg/ml DAPI
+         for 30 min in the dark. The coverslips were washed 2× with PBS, and mounted using
+         DAKO fluorescent mounting fluid onto microscope slides. Cells were viewed and counted
+         using a fluorescent Olympus Bx50 microscope using a 40× objective. The number of total
+         and apoptotic cells were counted at least in four fields of each slide.
+      
+      Western Blot Analysis
+      Soluble proteins were extracted as previously described [24]. 30 ug of protein was loaded per well and the expression of tumor and lymphatic biomarkers
+         evaluated by western blotting using the following antibodies: 4EBP1 (1:300 dilution),
+         phospho-4EBP1 (serine 37/46; 1:300 dilution), total and phospho-S6 ribosomal protein
+         (serine 235/236, 1:100), actin (1:3,000; – all above - Cell Signaling, Beverly, MA).
+         VEGFR-3/Flt-4 antibody was used at a 1:100 dilution (R&amp;D Systems, Minneapolis, MN).
+         The expression levels of each marker were quantified after normalizing to actin scan
+         density by immunoblotting.
+      
+      Vascular endothelial growth factor receptor-2 ELISA assay
+      The effects of rapamycin treatment on serum levels of soluble VEGFR-2 in mouse serum
+         samples were determined using a mouse VEGFR-2 ELISA kit (R&amp;D Systems, Minneapolis,
+         MN) according to manufacturer's instructions.
+      
+   
+

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The optimization of metabolic pathways is critical for efficient and economical production of biofuels and specialty chemicals. One such significant pathway is the cellobiose utilization pathway, identified as a promising route in biomass utilization. Here we describe the optimization of cellobiose consumption and ethanol productivity by simultaneously engineering both proteins of the pathway, the β-glucosidase (gh1-1) and the cellodextrin transporter (cdt-1), in an example of pathway engineering through directed evolution.
+
+				
+				
+					
+						Results
+
+					The improved pathway was assessed based on the strain specific growth rate on cellobiose, with the final mutant exhibiting a 47% increase over the wild-type pathway. Metabolite analysis of the engineered pathway identified a 49% increase in cellobiose consumption (1.78 to 2.65 g cellobiose/(L · h)) and a 64% increase in ethanol productivity (0.611 to 1.00 g ethanol/(L · h)).
+
+				
+				
+					
+						Conclusions
+
+					By simultaneously engineering multiple proteins in the pathway, cellobiose utilization in  S. cerevisiae  was improved. This optimization can be generally applied to other metabolic pathways, provided a selection/screening method is available for the desired phenotype. The improved  in vivo  cellobiose utilization demonstrated here could help to decrease the  in vitro  enzyme load in biomass pretreatment, ultimately contributing to a reduction in the high cost of biofuel production.
+
+				
+			
+		

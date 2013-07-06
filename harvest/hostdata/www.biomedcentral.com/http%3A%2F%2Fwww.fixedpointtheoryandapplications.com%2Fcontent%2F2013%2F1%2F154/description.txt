@@ -1,0 +1,4 @@
+Abstract
+Very recently, Samet  et al.  (Int. J. Anal. 2013:917158, 2013) and Jleli-Samet (Fixed Point Theory Appl. 2012:210, 2012) noticed that some fixed point theorems in the context of a  G -metric space can be deduced by some well-known results in the literature in the setting of a usual (quasi) metric space. In this paper, we note that the approach of Samet  et al.  (Int. J. Anal. 2013:917158, 2013) and Jleli-Samet (Fixed Point Theory Appl. 2012:210, 2012) is inapplicable unless the contraction condition in the statement of the theorem can be reduced into two variables. For this purpose, we modify some existing results to suggest new fixed point theorems that fit with the nature of a  G -metric space. The expressions in our result, the contraction condition, cannot be expressed in two variables, therefore the techniques used in (Int. J. Anal. 2013:917158, 2013; Fixed Point Theory Appl. 2012:210, 2012) are not applicable.
+MSC: 
+47H10, 54H25.

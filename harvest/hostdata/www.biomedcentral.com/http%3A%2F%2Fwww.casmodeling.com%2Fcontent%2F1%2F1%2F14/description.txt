@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Purpose
+
+					Online social networks (OSNs) are now among the most popular applications on the web offering platforms for people to interact, communicate and collaborate with others. The rapid development of OSNs provides opportunities for people’s daily communication, but also brings problems such as burst network traffic and overload of servers. Studying the population growth pattern in online social networks helps service providers to understand the people communication manners in OSNs and facilitate the management of network resources. In this paper, we propose a population growth model for OSNs based on the study of population distribution and growth in spatiotemporal scale-space.
+
+				
+				
+					
+						Methods
+
+					We investigate the population growth in three data sets which are randomly sampled from the popular OSN web sites including Renren, Twitter and Gowalla. We find out that the number of population follows the power-law distribution over different geographic locations, and the population growth of a location fits a power function of time. An aggregated population growth model is conducted by integrating the population growth over geographic locations and time.
+
+				
+				
+					
+						Results
+
+					We use the data sets to validate our population growth model. Extensive experiments also show that the proposed model fits the population growth of Facebook and Sina Weibo well. As an application, we use the model to predict the monthly population in three data sets. By comparing the predicted population with ground-truth values, the results show that our model can achieve a prediction accuracy between 86.14 %  and 99.89 % .
+
+				
+				
+					
+						Conclusions
+
+					With our proposed population growth model, people can estimate the population size of an online social network in a certain time period and it can also be used for population prediction for a future time.
+
+				
+			
+		

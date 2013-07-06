@@ -1,0 +1,13 @@
+
+
+
+
+Abstract
+
+
+
+
+We study the effect of thermophoresis on boundary layer magneto-nanofluid flow over a stretching sheet. The model includes the effects of Brownian motion and cross-diffusion effects. The governing partial differential equations are transformed to a system of ordinary differential equations and solved numerically using a spectral linearisation method. The effects of the magnetic influence number, the Prandtl number, Lewis number, the Brownian motion parameter, thermophoresis parameter, the modified Dufour parameter and the Dufour-solutal Lewis number on the fluid properties as well as on the heat, regular and nano mass transfer coefficients are determined and shown graphically.
+
+
+

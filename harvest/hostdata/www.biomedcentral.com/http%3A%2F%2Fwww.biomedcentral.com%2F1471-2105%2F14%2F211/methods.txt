@@ -1,0 +1,134 @@
+Methods
+   
+      Data collection and generation
+      Proteomes of all bacteria were downloaded from NCBI ftp (http://ftp.ncbi.nih.gov/genomes/Bacteria/all.faa.tar.gz webcite). The proteomes of S. pneumoniae strain 70585 and Escherichia coli uropathogenic strain CFT073 were collected from above proteomes. Human proteome sequences
+         were downloaded from the EBI ftp site (http://ftp.ebi.ac.uk/pub/databases/integr8/fasta/proteomes webcite) for prediction of human homologs in PVCs. For the development of web server, standalone
+         version of four softwares (Additional file 
+         					2: Figure S1), NCBI BLAST (http://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ webcite), PSORTb 3.0 (http://www.psort.org/psortb/ webcite), HMMTOP 2.0 (http://www.enzim.hu/hmmtop/ webcite) and HMMER 3.0 (http://hmmer.janelia.org/ webcite) were downloaded from their respective websites. PSORTb 3.0 predicts subcellular
+         localization of a given protein sequence based on its amino acid composition, similarity
+         to proteins of known localization, and presence of different motifs and signal peptides
+         
+         					[40]. HMMTOP software uses hidden Markov model (HMM) to predict transmembrane helices
+         based on the difference in the amino acid distributions in various structural parts
+         of proteins 
+         					[41]. For prediction of domains in protein sequences, Perl program, pfam_scan.pl and Pfam
+         library of HMMs for protein families were downloaded from Pfam website (http://pfam.janelia.org/ webcite).
+      
+      For prediction of immunogenic regions in PVCs, experimentally known immunogenic epitope
+         sequences of all T-cell epitope (TCE) and B-cell epitope (BCE) assays were downloaded
+         from IEDB (http://www.iedb.org/ webcite) in CSV format. Peptide epitope with literature reference, epitope ID, GI of source
+         protein, and source and host organism’s information were extracted from these TCEs
+         and BCEs assays. In case of TCEs, MHCs allele names were also extracted. All epitope
+         sequences were stored in ‘fasta’ format for comparison against PVCs. For discontinuous
+         BCEs, corresponding protein sequences were downloaded from database, and stretch of
+         continuous sub-part protein sequences containing all the residues of discontinuous
+         epitope positions was extracted. These subsequences (epitopes) were also stored in
+         ‘fasta’ format for comparison against predicted PVCs.
+      
+      Collection of data for web server validation
+      Experimentally known protective antigens were collected from four diverse sources
+         to evaluate the performance of Jenner-Predict server against existing methods. Known
+         non-cytosolic protective PVCs from the two pathogenic bacteria, S. pneumoniae (gram-positive) and E. coli (gram-negative) were collected from literature. Different experiments had identified
+         18 and 28 non-cytosolic proteins to be protective antigens for S. pneumoniae and E. coli, respectively (Additional file 
+         					1: Table S1 and Additional file 
+         					5: Table S2). To demonstrate effectiveness of the web server in predicting vaccine
+         candidates across bacteria, non-cytosolic protective antigens sequences reported in
+         ‘Protegen’ database 
+         					[46] were retrieved for evaluation as well. Out of the 257 reported bacterial protective
+         PVCs in Protegen database, 211 were predicted to be non-cytosolic by PSORTb 3.0. After
+         removing 11 antigens having more than 2 trans-membrane helices and sequences which
+         are 90 percent identical among themselves by using CD-HIT (http://weizhong-lab.ucsd.edu/cd-hit/ref.php webcite), 177 bacterial protective PVCs were selected for evaluation. In addition to above,
+         non-cytosolic proteins from datasets used for VaxiJen 
+         					[16] server development were also taken for evaluation. Positive and negative training
+         and test datasets containing 100 sequences of each in the form of Swiss-Prot IDs were
+         collected and then their sequences were retrieved. PSORTb was used to predict their
+         localization and only non-cytosolic proteins were retained. Finally, 83 and 33 non-cytosolic
+         positive (protective antigen) and negative (non-antigen) sequences were selected for
+         comparison of performances. The sequences used for validation in both Protegen and
+         VaxiJen datasets are highly diverse (more than 90% sequences are less than 40% identical).
+      
+      Server architecture
+      The web server comprised of a client interface and a main application program. The
+         client interface was developed using HTML language which takes input either in the
+         form of protein sequence(s) in fasta format or a proteome of listed bacteria. The
+         submitted fasta sequence(s)/proteome are processed by the in-house backend Perl-CGI
+         script which posts information provided by the user to the main application program
+         in a queue. This Perl-CGI script generates an URL link where the status information
+         or output of a given job will be available. The self developed programs and other
+         available standalone software (Figure&nbsp;
+         					1) are used by ‘main application’ program for the analysis of protein sequences one
+         after another to predict PVCs. The main application program also provides the output
+         table as prioritized PVCs.
+      
+      Pfam domain identification
+      Domains are basic building blocks of proteins. Searching of a protein sequence against
+         Pfam library of HMMs enables to find domain architecture present in that protein 
+         					[42]. The Pfam has been used in several genome projects including human for large scale
+         functional annotation of genomic data 
+         					[55]. A list called, ‘Master list’, was prepared which contains Pfam IDs (domain) from
+         the functional classes of proteins involved in host-pathogen interactions and pathogenesis
+         
+         					[19-28]. For preparing the list, Pfam database was subjected to text search with individual
+         key words ‘adhesin’, ‘choline binding protein’, ‘bacterial extracellular solute-binding
+         protein’, ‘porin’, ‘invasin’, ‘fibronectin-binding protein’, ‘transferrin-binding
+         protein’, ‘virulence’, ‘penicillin-binding protein’, ‘flagellin’, ‘colonization’,
+         ‘host-pathogen interaction’ and ‘toxin’ to identify domains from each classes of proteins.
+         Then all hits of domains from each keyword were manually checked for their possible
+         role in host-pathogen interactions. Only those families/domains were included in the
+         ‘Master list’ which have significant functional role in host-pathogen interactions
+         and/or pathogenesis (Table&nbsp;
+         					2). This ‘Master list’ of domains was used for the prediction of PVCs from non-cytosolic
+         proteins.
+      
+      Figure 2. Sample output of Jenner-Predict server.
+      Implementation
+      The server, Jenner-Predict, has two major components: PVCs prediction and analysis
+         of their vaccine potential (Figure&nbsp;
+         					1 and Additional file 
+         					1: Figure S1). In first component, software PSORTb 3.0 
+         					[40] and HMMTOP 2.0 
+         					[41] are used to predict subcellular localization and number of transmembrane helices,
+         respectively. The former discards cytoplasmic proteins whereas the latter rejects
+         proteins having more than two transmembrane helices 
+         					[5]. Proteins passing through the above two filters are then subjected to Pfam domain/family
+         search to determine their domains. Finally, role of identified domains in host pathogen
+         interaction and pathogenesis is checked according to its presence in ‘Master list’
+         (described in ‘Pfam Domain Identification’ subsection and Table&nbsp;
+         					2). Proteins having domains/families matching with Pfam domains/families listed in
+         the ‘Master list’ are selected as PVCs.
+      
+      Table 2. Key words used and selection of Pfam domains for protein vaccine candidate prediction
+      In second component, vaccine potential of the predicted PVCs’ is performed by taking
+         three different measures into account (Figure&nbsp;
+         					1): immunogenicity, autoimmunity and conservation. Immunogenic potential (putative
+         immunogenic regions in terms of BCEs and TCEs) of PVCs is predicted by exactly matching
+         of IEDB epitopes (Refer ‘data collection and generation’ subsection) against the PVCs
+         by using standalone BLAST with minimum matching length of 9 
+         					[56] and 80% identity cut-off. For autoimmunity prediction, the BLAST is used to find
+         similarity between PVCs and human proteins by two different methods: i) cut-off of
+         35% identity in at least 80 amino acids length of PVC 
+         					[57], and ii) continuous identical matching of 9 or more positions in the alignment 
+         					[56]. BLAST is also used to identify conservation of PVCs in different pathogenic strains
+         of a given organism. The PVC is compared against different strains of the same organism
+         with a cut-off greater than 85 percent sequence identity with minimum of 90% query
+         coverage. To determine conservation of PVC in pathogenic and non-pathogenic strains
+         separately, names of pathogenic and non-pathogenic strains of each organism are stored
+         in two separate flat files under each category. Information on pathogenic or non-pathogenic
+         strains of each individual organism is extracted from the respective files.
+      
+      Output
+      The server, Jenner-Predict, has been designed for easy submission of a job as well
+         as user-friendly interpretation of results. Just after job submission, an URL link
+         is generated which the user may bookmark for tracking the jobs status which is processed
+         in a queue. Once a job has been completed, the output is provided in a tabular format
+         and a sample output is represented in Figure&nbsp;
+         					2. The information provided in different columns are as follows: 1. Sr. No.; 2. Gene
+         Id; 3. Localization; 4. No. of transmembrane helices; 5. Pfam domain ID; 6. No. of
+         IEDB TCE(s) match(s); 7. No. of IEDB BCE(s) match(s) (Hyperlinks on 6 and 7 showing
+         details of matching epitopes); 8. and 9. Autoimmunity information through 35% identical
+         matches in 80 AA lengths, and No. of continuous 9-mer identical match in an alignment,
+         respectively; and 10. Conservation in number of strains of an organism in the form
+         of x/y/z: x. all (pathogenic and non-pathogenic)/, y. pathogenic/, z. non-pathogenic.
+      
+   
+

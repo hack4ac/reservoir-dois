@@ -1,0 +1,36 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Introduction
+
+
+               Of the nearly 1.4 million new cases of breast cancer diagnosed each year, a large proportion is characterized as hormone receptor negative, lacking estrogen receptors (ER) and/or progesterone receptors (PR). Patients with receptor-negative tumors do not respond to current steroid hormone-based therapies and generally have significantly higher risk of recurrence and mortality compared with patients with tumors that are ER- and/or PR-positive. Previous  in vitro studies had shown that the progesterone metabolites, 5α-dihydroprogesterone (5αP) and 3α-dihydroprogesterone (3αHP), respectively, exhibit procancer and anticancer effects on receptor-negative human breast cell lines. Here  in vivo studies were conducted to investigate the ability of 5αP and 3αHP to control initiation, growth, and regression of ER/PR-negative human breast cell tumors.
+
+
+            
+               
+                  Methods
+
+
+               ER/PR-negative human breast cells (MDA-MB-231) were implanted into mammary fat pads of immunosuppressed mice, and the effects of 5αP and 3αHP treatments on tumor initiation, growth, suppression/regression, and histopathology were assessed in five separate experiments. Specific radioimmunoassays and gas chromatography-mass spectrometry were used to measure 5αP, 3αHP, and progesterone in mouse serum and tumors.
+
+
+            
+               
+                  Results
+
+
+               Onset and growth of ER/PR-negative human breast cell tumors were significantly stimulated by 5αP and inhibited by 3αHP. When both hormones were applied simultaneously, the stimulatory effects of 5αP were abrogated by the inhibitory effects of 3αHP and vice versa. Treatment with 3αHP subsequent to 5αP-induced tumor initiation resulted in suppression of further tumorigenesis and regression of existing tumors. The levels of 5αP in tumors, regardless of treatment, were about 10-fold higher than the levels of 3αHP, and the 5αP:3αHP ratios were about fivefold higher than in serum, indicating significant changes in endogenous synthesis of these hormones in tumorous breast tissues.
+
+
+            
+               
+                  Conclusions
+
+
+               The studies showed that estrogen/progesterone-insensitive breast tumors are sensitive to, and controlled by, the progesterone metabolites 5αP and 3αHP. Tumorigenesis of ER/PR-negative breast cells is significantly enhanced by 5αP and suppressed by 3αHP, the outcome depending on the relative concentrations of these two hormones in the ...

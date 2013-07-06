@@ -1,0 +1,73 @@
+Methods
+   
+      This study was approved by the Ethics Committee of the School of Veterinary Medicine
+         and Animal Science –UNESP Botucatu (n° 175/2011-CEUA). Permission to use the cats
+         in the study was obtained from the owners.
+      
+      Thirty clinically healthy cats recruited from client-owned or shelter-owned were used.
+         The cats were judged to be healthy from complete physical, and orthopaedic examinations
+         based on described by Voss and Steffen [6]. Although the cats did not have any signs of orthopaedic disease, digital radiographs
+         only of the hip joints and stifle joints were obtained to complement clinical examination.
+         One experienced radiologist reviewed the radiographs. Before the data collection,
+         the cats were acclimatised to the room and stimulated to walk across the walkway for
+         1&nbsp;hour or more. Each cat was weighed on the same electronic scale immediately before
+         data collection.
+      
+      Data collection
+      The kinetic and temporospatial parameters of gait were measured with a 1951&nbsp;mm × 447&nbsp;mm
+         pressure-sensitive walkway (Walkway High Resolution HRV4; Tekscan, South Boston, Massachusetts,
+         USA) containing 33,408 pressure-sensitive cells. The sensors of the pressure-sensing
+         walkway were equilibrated and calibrated using a phantom as reported previously [26] and according to the manufacturer’s specifications. During each trial, the cats were
+         stimulated to walk in a straight line over the pressure-sensitive walkway; toys, food,
+         and occasionally the presence of the owner were necessary to accomplish this task.
+         In general, the stimulus was done with the materials positioned at the opposite end
+         of the walkway. Boards measuring 2 X 0.8&nbsp;m were placed on both sides of the walkway
+         when deemed necessary.
+      
+      For each animal, an average of 20 trials was obtained. The data from the first five
+         valid trials were selected for each cat and analysed using designated software (Walkway
+         7.0; Tekscan, Boston, USA). A trial was considered valid if the cat walked at velocity
+         within a previously determined range (0.54-0.74&nbsp;m/s) and acceleration (-0.20 to 0.20&nbsp;m/s2) parameters and if the 4 limbs had contacted with the surface of the walkway during
+         each walk cycle.
+      
+      For each limb, the gait cycle time (s), stance time (s) swing time (s) and stride
+         length (m) were the determined temporospatial parameters. The stance time percentage
+         was calculated as follows: (stance time/gait cycle time) × 100. The swing time percentage
+         was calculated as follows: (swing time/gait cycle time) × 100. The stride corresponded
+         to the distance between two consecutive ground contacts of the same limb.
+      
+      The PVF and the VI were the kinetic parameters determined. The PVF and VI were normalised
+         to the cat’s body weight and represented as a percentage of body weight, %BW and %BW*t,
+         respectively. The percentage of body distribution among the four limbs was calculated
+         as follows: (PVF of the limb/total PVF of the 4 limbs) × 100.
+      
+      The duty factor in the hind limbs was calculated by dividing stance time by gait cycle
+         time.
+      
+      Limb lengths
+      With the animal standing, the lengths of each forelimb and each hind limb were measured
+         (cm), respectively, by the distance from the ground to the dorsal scapular rim and
+         from the ground to the iliac crest using a generic plastic tape (metric).
+      
+      Symmetry ratio and maximum percentage of asymmetry
+      Since the side of asymmetry can vary, the symmetry ratio was calculated by dividing
+         the highest value by the lowest value of each variable [30]. A mean (SD) of the 5 measurements of every animal was used. The maximum percentage
+         of asymmetry was calculated by the formula: (Symmetry index – 1) × 100.
+      
+      Statistical method
+      To compare the temporospatial parameters and the kinetic data was used general linear
+         model with sides (left and right) and sex (male and female) as fixed factors. An independent
+         sample T-test was used to compare lengths of the forelimbs and hind limbs between
+         groups. The values were expressed as the means ± standard deviation, and the coefficients of variation (CV) were calculated with the comparison data between
+         the groups. Differences were considered significant at P &lt; 0.05.
+      
+      The symmetry index was expressed as mean ± standard deviation. The maximum percentage
+         of asymmetry was determined by the upper percentage of the confidence interval calculated
+         at 95% including all cats.
+      
+      Pearson’s correlation coefficients (r) were used to evaluate the linear relationships
+         between the limb lengths and the temporospatial parameters and kinetic parameters.
+         The correlations were deemed significant at the 5% probability level.
+      
+   
+

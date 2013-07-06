@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Although literature has associated geodemographic factors with healthcare service utilization, little is known about how these factors — such as population size, age profile, service accessibility, and educational profile — interact to influence service utilization. This study fills this gap in the literature by examining both the direct and the moderating effects of geodemographic profiles on the utilization of cardiac surgery services.
+
+				
+				
+					
+						Methods
+
+					We aggregated secondary data obtained from Statistics Canada and Cardiac Care Network of Ontario to derive the geodemographic profiles of Ontario and the corresponding cardiac surgery service utilization in the years between 2004 and 2007. We conducted a two-step test using Partial Least Squares-based structural equation modeling to investigate the relationships between geodemographic profiles and healthcare service utilization.
+
+				
+				
+					
+						Results
+
+					
+						 Population size  and  age profile  have direct positive effects on  service utilization  ( β =0.737,  p <0.01;  β =0.284,  p <0.01, respectively), whereas  service accessibility  is negatively associated with  service utilization  ( β =−0.210,  p <0.01).  Service accessibility  decreases the effect of  population size  on  service utilization  ( β =−0.606,  p <0.01), and  educational profile  weakens the effects of  population size  and  age profile  on  service utilization  ( β =−0.595,  p <0.01;  β =−0.286,  p <0.01, respectively).
+
+				
+				
+					
+						Conclusions
+
+					In this study, we found that (1)  service accessibility  has a moderating effect on the relationship between  population size  and  service utilization , and (2)  educational profile  has moderating effects on both the relationship between  population size  and  service utilization , and the relationship between  age profile  and  service utilization . Our findings suggest that reducing regional disparities in healthcare service utilization should take into account the interaction of geodemographic factors such as service accessibility and education. In addition, the allocation of resources for a particular healthcare service in one area should consider the geographic distribution of the same services in neighboring areas, as patients may be willing to utilize these services in areas not far from where they reside.
+
+				
+			
+		

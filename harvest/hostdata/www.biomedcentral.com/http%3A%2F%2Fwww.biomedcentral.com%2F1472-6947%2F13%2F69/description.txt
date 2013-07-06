@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Electronic Patient Medication Record (ePMR) systems have important safety features embedded to alert users about potential clinical hazards and errors. To date, there is no synthesis of evidence about the effectiveness of these safety features and alerts at the point of pharmacy order entry. This review aims to systematically explore the literature and synthesise published evidence about the effectiveness of safety features and alerts in ePMR systems at the point of pharmacy order entry, in primary and secondary care.
+
+				
+				
+					
+						Methods
+
+					We searched MEDLINE, EMBASE, Inspec, International Pharmaceutical Abstracts, PsycINFO, CINHAL (earliest entry to March 2012) and reference lists of articles. Two reviewers examined the titles and abstracts, and used a hierarchical template to identify comparative design studies evaluating the effectiveness of safety features and alerts at the point of pharmacy order entry. The two reviewers independently assessed the quality of the included studies using Cochrane Collaboration’s risk of bias tool.
+
+				
+				
+					
+						Results
+
+					Three randomised trials and two before-after studies met our criteria. Four studies involved integrated care facilities and one was hospital-based. The studies were all from the United States (US). The five studies demonstrated statistically significant reduction in medication errors in patients with renal insufficiency, pregnant women dispensed US Food Drug and Administration (FDA) risk category D (evidence of fetal risk but therapeutic benefits can outweigh the risk) or X (evidence suggests that risk to the fetus outweighs therapeutic benefits) medication, first dispensing of inappropriate medications in patients aged 65 and above, co-dispensing of interacting drugs, and adverse drug events related to hyperkalaemia.
+
+				
+				
+					
+						Conclusions
+
+					This systematic review shows that the safety features of ePMR systems are effective in alerting users about potential clinical hazards and errors during pharmacy order entry. There are however, problems such as false alerts and inconsistencies in alert management. More studies are needed from other countries and pharmacy practice settings to assess the effectiveness of electronic safety features and alerts in preventing error and reducing harm to patients.
+
+				
+			
+		

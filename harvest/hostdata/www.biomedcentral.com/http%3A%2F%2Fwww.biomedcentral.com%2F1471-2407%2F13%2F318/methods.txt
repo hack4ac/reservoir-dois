@@ -1,0 +1,73 @@
+Methods
+   
+      Patients and pretreatment criteria
+      After institutional review board (IRB) approval, retrospective data of sixty- eight
+         consecutive patients with histologically proven, non-metastatic NPC treated at our
+         department from April 2006 to December 2011 was collected. Pretreatment evaluation
+         consisted of complete history and physical examination, rigid nasendoscopy, magnetic
+         resonance imaging (MRI), computed tomography (CT) imaging of head and neck, CT chest,
+         complete blood count, liver function tests, renal profile, dental and audiological
+         assessment prior to the treatment. After May 2008, all the patients were tested for
+         Epstein-Barr virus (EBV) on histological specimens. Positron emission tomography (PET)
+         imaging, CT abdomen and bone scan were optional and were performed when clinically
+         indicated. Patients who had evidence of distant metastasis were not eligible for this
+         treatment protocol. All patients were treated after taking informed consent. AJCC
+         2002 cancer staging classification was used to stage tumors.
+      
+      Radiation therapy techniques
+      CT simulation was done for all patients in supine position with thermoplastic masks
+         (S-frame) for immobilization. Images were acquired with and without contrast using
+         3mm slices for planning purpose. Pre-chemotherapy MRI and CT imaging were fused with
+         CT simulation data using co-registration software where deemed appropriate to delineate
+         the tumor. The gross tumor volume (GTV) included all primary and nodal disease seen
+         on MRI and/or CT scan. CTV denoted the subclinical regions at risk for involvement.
+         The high-risk clinical tumor volume (CTV-1) included GTV plus 5–10 mm margin. CTV-2
+         as designed for potentially involved regions included the nasopharyngeal cavity (limited
+         only to the posterior part of nasal cavity), maxillary sinus (limited to 5-mm anterior
+         to the posterior nasal aperture and maxillary mucosa), pterygopalatine fossa, posterior
+         ethmoid sinus, parapharyngeal space, skull base, anterior third of clivus and cervical
+         vertebra, inferior sphenoid sinus and cavernous sinus, and included the retropharyngeal
+         lymph nodal regions from the base of skull to cranial edge of the second cervical
+         vertebra. The CTV of the neck nodal regions included level II, III, IV, V, which was
+         outlined according to the recommendation by the RTOG/EORTC CTV delineation protocol
+         for head and neck malignancies. The planning target volume (PTV) was created based
+         on each volume with an additional 3-mm margin, allowing for setup variability. Critical
+         normal structures including the brainstem, spinal cord, parotid glands, optic nerves,
+         chiasm, lens, eyeballs, larynx, esophagus, temporomandibular joints, mandible and
+         cochlea were contoured and set as organs at risk (OARs) during optimization. RT was
+         delivered by using a simultaneous-integrated IMRT boost technique. The radiation dose
+         delivered was 66-70 Gy in 33–35 fractions (2 Gy per day) to gross tumor (prechemotherapy
+         volume), 63 Gy in 35 fractions (1.8 Gy per day) to high risk volume and 50.4 Gy in
+         28 fractions (1.8 Gy per day) to low risk volume (Figure&nbsp;1).
+      
+      Figure 1. High, intermediate and low dose areas in IMRT – SMART plan for nasopharyngeal carcinoma.
+      Chemotherapy
+      Fifty six patients (82.4%) with bulky tumors (T4 or N+) received neoadjuvant chemotherapy
+         2–4 cycles. Regimen used were as; (a) Cisplatin and Docetaxel in 30 patients, (b)
+         Cisplatin and Epirubicin in 16 patients and (c) Cisplatin and 5-Flourouracil in 10
+         patients. Sixty four patients (91.2%) received concurrent chemoradiation. Chemotherapy
+         used was either weekly Cisplatin 40 mg/m2 (40 patients) or 3 weekly Cisplatin 100 mg/m2 (24 patients).
+      
+      Follow-up
+      All patients were evaluated weekly during radiation therapy. First follow up was at
+         6 weeks after the completion of their treatment, then every 2–3 months in the first
+         2 years, every 6 months from year 2 through year 5, and annually thereafter. Each
+         follow-up included a complete history, physical examination and rigid nasendoscopy.
+         CT scan of the head and neck was performed at 2–3 months post treatment and afterwards
+         as needed. Acute toxicity profile during treatment and first three months was assessed
+         by Common Toxicity Criteria CTC version 3.0 and late toxicities were scored according
+         to the RTOG radiation morbidity scoring criteria at each follow-up.
+      
+      Statistical analyses
+      The actuarial local/regional control, response rates and disease-free survival were
+         calculated by life test method. The duration of time to locoregional failure and distant
+         metastasis was measured from the date of the completion of radiation therapy until
+         documented treatment failure. The duration of DFS was calculated from diagnosis until
+         development of documented pathologic or radiologic recurrence. Log-rank test and chi-square
+         were used to detect the significant difference in survivals between different prognostic
+         groups. Multivariate analysis using the Cox proportional hazard model was performed
+         for the aforementioned endpoints to define independent predictors among various potential
+         prognostic factors.
+      
+   
+

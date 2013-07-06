@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Patients undergoing surgery or chemotherapy often experience nausea and vomiting. To increase their quality of life and treatment satisfaction, antiemetic medication, such as serotonin receptor antagonists, is often prescribed for patients experiencing these symptoms. However, early warning signs suggest that serotonin receptor antagonists can cause harm, including arrhythmia. Our objective is to identify the most effective interventions that mitigate the risk of adverse cardiac events associated with serotonin receptor antagonists in patients undergoing surgery and chemotherapy through a systematic review and network meta-analysis.
+
+				
+				
+					
+						Methods/design
+
+					We will search electronic databases (for example, MEDLINE, Embase) from inception onwards, as well as dissertations and governmental reports, to identify interventions (for example, telemetry, electrocardiography, electrolyte monitoring) that decrease the cardiac risk associated with serotonin receptor antagonists among surgery and chemotherapy patients. Eligible comparators include placebo or supportive care; eligible study designs are experimental studies (randomized controlled trials (RCTs), quasi-RCTs, non-RCTs), non-experimental studies (interrupted time series, controlled before-and-after studies), and cohort studies. Outcomes of interest include arrhythmia, sudden cardiac death, QT prolongation, PR prolongation, and all-cause mortality. We will include unpublished studies and studies published in languages other than English.
+Draft inclusion and exclusion criteria will be established and pilot tested amongst the team. Subsequently, two team members will screen the results in duplicate and resolve conflicts through discussion. The same process will be followed to screen full-text articles, data abstraction, and appraise quality or risk of bias. To determine validity of results, experimental and quasi-experimental studies will be assessed using the Cochrane Effective Practice and Organisation of Care (EPOC) Risk of Bias tool, while cohort studies will be appraised using the Newcastle-Ottawa Scale. We anticipate sufficient data and homogeneity to conduct random effects meta-analysis and network or mixed treatment comparisons meta-analysis, if appropriate.
+
+				
+				
+					
+						Discussion
+
+					Our results will provide information regarding the utility of different strategies that can be used to mitigate cardiac risk amongst patients taking serotonin antagonist receptors. Such results are likely to be of use to clinicians prescribing these agents, as well as policy makers responsible for making decisions about antiemetic medications.
+
+				
+				
+					
+						Trial registration
+
+					PROSPERO registry number:  CRD42013003565 
+					
+
+				
+			
+		

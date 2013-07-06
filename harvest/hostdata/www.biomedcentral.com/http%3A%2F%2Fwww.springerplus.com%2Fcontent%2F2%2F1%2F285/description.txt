@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				We examined health insurance mediation of the Mexican American (MA) non-Hispanic white (NHW) disparity on early breast cancer diagnosis. Based on social capital and barrio advantage theories, we hypothesized a 3-way ethnicity by poverty by health insurance interaction, that is, that 2-way poverty by health insurance interaction effects would differ between ethnic groups. We secondarily analyzed registry data for 303 MA and 3,611 NHW women diagnosed with breast cancer between 1996 and 2000 who were originally followed until 2011. Predictors of early, node negative (NN) disease at diagnosis were analyzed. Socioeconomic data were obtained from the 2000 census to categorize neighborhood poverty: high (30% or more of the census tract households were poor), middle (5% to 29% poor) and low (less than 5% poor). Barrios were neighborhoods where 50% or more of the residents were MA. Primary health insurers were Medicaid, Medicare, private or none. MA women were 13% less likely to be diagnosed early with NN disease (RR = 0.87), but this MA-NHW disparity was completely mediated by the main and interacting effects of health insurance. Advantages of health insurance were largest in low poverty neighborhoods among NHW women (RR = 1.20) while among MA women they were, paradoxically, largest in high poverty, MA barrios (RR = 1.45). Advantages of being privately insured were observed for all. Medicare seemed additionally instrumental for NHW women and Medicaid for MA women. These findings are consistent with the theory that more facilitative social and economic capital is available to MA women in barrios and to NHW women in more affluent neighborhoods. It is there that each respective group of women is probably best able to absorb the indirect and direct, but uncovered, costs of breast cancer screening and diagnosis.
+
+			
+		

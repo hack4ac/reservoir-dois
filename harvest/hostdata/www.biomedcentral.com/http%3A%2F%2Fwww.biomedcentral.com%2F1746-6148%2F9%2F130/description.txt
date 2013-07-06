@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Hairy and enhancer of split 1 (HES1), a basic helix-loop-helix transcriptional repressor, is a downstream target of Notch signaling. Notch signaling and HES1 expression have been linked to growth and survival in a variety of human cancer types and have been associated with increased metastasis and invasiveness in human osteosarcoma cell lines. Osteosarcoma (OSA) is an aggressive cancer demonstrating both high metastatic rate and chemotherapeutic resistance. The current study examined expression of Notch signaling mediators in primary canine OSA tumors and canine and human osteosarcoma cell lines to assess their role in OSA development and progression.
+
+				
+				
+					
+						Results
+
+					Reverse transcriptase - quantitative PCR (RT-qPCR) was utilized to quantify  HES1, HEY1, NOTCH1 and NOTCH2  gene expression in matched tumor and normal metaphyseal bone samples taken from dogs treated for appendicular OSA at the Colorado State University Veterinary Teaching Hospital. Gene expression was also assessed in tumors from dogs with a disease free interval (DFI) of <100 days compared to those with a DFI > 300 days following treatment with surgical amputation followed by standard chemotherapy. Immunohistochemistry was performed to confirm expression of HES1. Data from RT-qPCR and immunohistochemical (IHC) experiments were analyzed using REST2009 software and survival analysis based on IHC expression employed the Kaplan-Meier method and log rank analysis. Unbiased clustered images were generated from gene array analysis data for Notch/HES1 associated genes.
+Gene array analysis of Notch/HES1 associated genes suggested alterations in the Notch signaling pathway may contribute to the development of canine OSA.  HES1  mRNA expression was elevated in tumor samples relative to normal bone, but decreased in tumor samples from dogs with a DFI < 100 days relative to those with a DFI > 300 days.  NOTCH2 and HEY1  mRNA expression was also elevated in tumors relative to normal bone, but was not differentially expressed between the DFI tumor groups. Survival analysis confirmed an association between decreased HES1 immunosignal and shorter DFI.
+
+				
+				
+					
+						Conclusions
+
+					Our findings suggest that activation of Notch signaling occurs and may contribute to the development of canine OSA. However, association of low HES1 expression and shorter DFI suggests that mechanisms that do not alter HES1 expression may drive the most aggressive tumors.
+
+				
+			
+		

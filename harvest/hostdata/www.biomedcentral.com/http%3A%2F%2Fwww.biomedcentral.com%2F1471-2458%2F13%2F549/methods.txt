@@ -1,0 +1,73 @@
+Methods
+   
+      All cases included in this study were identified between January 2005 and August 2011
+         and confirmed as positive for the H5N1 virus using the polymerase chain reaction (PCR)
+         test by the laboratories of the Institut Pasteur, in either Phnom Penh or Ho Chi Minh.
+         These cases had then been reported to the Centre for Communicable Diseases in the
+         Cambodian Ministry of Health (MOH), Phnom Penh. Data for these patients was collected,
+         with permission from the MOH, through review of medical records and interviews with
+         staff at the admitting hospitals during a field visit in December 2011. A general
+         study consent form was utilised for in-depth interviews. Verbal assent was used in
+         place of written consent for information gathered in the hospital setting from shorter,
+         less formal interactions.
+      
+      This study takes a societal perspective regarding the cost-of-illness for HPAI, meaning
+         indirect costs to patients and their families are included in addition to medical
+         provider costs [17]. This approach was taken in order to determine the full economic cost of illness.
+         Data collection utilised an ingredients approach with micro-costing of key elements
+         [17]. Costs were gathered in or converted, where necessary, to US dollars [18]. Whilst all reported patients originated in Cambodia and were reported to the Cambodian
+         MOH, two patients were hospitalised in Vietnam. These cases were excluded from the
+         cost-of-illness analysis since data, regarding some aspects of care and the associated
+         costs, was not available. Adjustments were made by inflation or deflation to 2011
+         parity using inflation rates cited by the International Monetary Fund and the Cambodian
+         National Institute of Statistics [19,20]. The medical provider cost centres used in analysis were outpatient consultations,
+         inpatient facility costs including capital and personnel costs, pharmaceuticals, diagnostic
+         tests and oxygen administration. Diagnostic tests included viral PCR, anti-viral phenotypic
+         testing, full blood counts, renal function tests (urea, creatinine, and other electrolytes),
+         liver function tests, acute phase proteins as well as urine dipstick tests. The costs
+         of full genomic sequencing of the viral strain and tests to detect antigenic drift
+         were not included as these were assumed to be research related. The pharmaceuticals
+         utilised were categorised as antivirals, antibiotics, antipyretics, corticosteroids
+         or other medication. The costs centres attributed to the patient or family included
+         travel expenses to the hospital of admission, food whilst hospitalised and the indirect
+         cost of loss of income for the patient or caregiver due to hospitalisation. Information
+         on treatment costs recovered from patients or organisations paying user fees on behalf
+         of the patients was not available.
+      
+      WHO country specific unit costs, adjusted for inflation, were utilised in accounting
+         for outpatient consultations at rural health services, public health centres, physicians’
+         clinics and nurse visits [21]. Other costs were determined from data gathered in April-June 2012 from the Institut
+         Pasteur, Ministry of Health, retail pharmacies and interviews with physicians and
+         staff at hospitals in Kampot and Angkor Chey. In general, outpatient consultations
+         and hospitalisation are represented by actual costs where as charges are utilised
+         for pharmaceuticals and diagnostic tests due to the lack of cost data at the time
+         of writing. Retail pharmacy pricing was utilised when data was unavailable from hospital
+         visits. A recent study, commissioned by University Research Company assessing hospital
+         costing and financial management, provided hospitalisation costs per bed day, excluding
+         in kind drugs [22]. The values reported for bed per day are very similar to those cited by WHO data
+         (adjusted for inflation) with a hospitalisation cost per day of $8 to $10 [22] compared to $7 to $9 [21]. Travel costs to the admitting hospital were derived using the University Research
+         Co. model which takes into account not only distance travelled but also the quality
+         of the roads [T Jordanwood, University Research Co., LLC, Cambodia, personal communication].
+         With regard to lost income, this was calculated using a human-capital approach as
+         a combination of both patient and caregiver earnings. It was assumed, based on employment
+         statistics from the Cambodian National Institute of Statistics (NIS), that 74% of
+         all caregivers and patients over the age of 18 years would be employed but only 20%
+         of those aged between 6–18 years and no children under the age of six years [20]. It was also assumed that all children under the age of 6 years required the presence
+         of a full-time caregiver; 50% of those aged 6–18 years had a caregiver present; and
+         that no caregiver was present for those over the age of 18 years. Average income was
+         based on NIS data and adjusted for inflation to US$237 per month, for a six day working
+         week [20].
+      
+      A multi-variate sensitivity analysis was performed using the average cost of the case
+         series as the baseline cost-of-illness. Upper and lower scenarios were developed for
+         the patient care in order to determine the impact on the COI cost centres. The minimal
+         care comparator was outpatient care only, including a single consultation and the
+         average cost of outpatient medication whilst the maximum utilised the full battery
+         of diagnostics and treatment, including a complete adult course of oseltamivir and
+         higher cost hospitalisation in an intensive care unit [22].
+      
+      Ethics approval was obtained from the Cambodian National Ethics Committee for Health
+         Research and London School of Hygiene and Tropical Medicine.
+      
+   
+

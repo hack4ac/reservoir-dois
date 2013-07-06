@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Transcranial direct current stimulation (tDCS) is a non-invasive technique that modulates the excitability of neurons within the primary motor cortex (M1). Research shows that anodal-tDCS applied over the non-dominant M1 (i.e. unilateral stimulation) improves motor function of the non-dominant hand. Similarly, previous studies also show that applying cathodal tDCS over the dominant M1 improves motor function of the non-dominant hand, presumably by reducing interhemispheric inhibition. In the present study, one condition involved anodal-tDCS over the non-dominant M1 (unilateral stimulation) whilst a second condition involved applying cathodal-tDCS over the dominant M1 and anodal-tDCS over non-dominant M1 (bilateral stimulation) to determine if unilateral or bilateral stimulation differentially modulates motor function of the non-dominant hand. Using a randomized, cross-over design, 11 right-handed participants underwent three stimulation conditions: 1) unilateral stimulation, that involved anodal-tDCS applied over the non-dominant M1, 2) bilateral stimulation, whereby anodal-tDCS was applied over the non-dominant M1, and cathodal-tDCS over the dominant M1, and 3) sham stimulation. Transcranial magnetic stimulation (TMS) was performed before, immediately after, 30 and 60 minutes after stimulation to elucidate the neural mechanisms underlying any potential after-effects on motor performance. Motor function was evaluated by the Purdue pegboard test.
+
+				
+				
+					
+						Results
+
+					There were significant improvements in motor function following unilateral and bilateral stimulation when compared to sham stimulation at all-time points (all P < 0.05); however there was no difference across time points between unilateral and bilateral stimulation. There was also a similar significant increase in corticomotor excitability with both unilateral and bilateral stimulation immediately post, 30 minutes and 60 minutes compared to sham stimulation (all P < 0.05). Unilateral and bilateral stimulation reduced short-interval intracortical inhibition (SICI) immediately post and at 30 minutes (all P < 0.05), but returned to baseline in both conditions at 60 minutes. There was no difference between unilateral and bilateral stimulation for SICI (P > 0.05). Furthermore, changes in corticomotor plasticity were not related to changes in motor performance.
+
+				
+				
+					
+						Conclusion
+
+					These results indicate that tDCS induced behavioural changes in the non-dominant hand as a consequence of mechanisms associated with use-dependant cortical plasticity that is independent of the electrode arrangement.
+
+				
+			
+		

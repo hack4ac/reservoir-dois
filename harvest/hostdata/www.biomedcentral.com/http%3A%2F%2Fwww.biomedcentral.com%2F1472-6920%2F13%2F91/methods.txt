@@ -1,0 +1,141 @@
+Methods
+   
+      During the 2011–12 academic year there were 33 Colombian dental schools, operating
+         in 18 Universities and 4 geographic regions, with a total of 13,944 enrolled students.
+         In Colombia the majority students enroll in dental school right after high school
+         and admissions are based primarily upon competitive national exams and school-conducted
+         interviews. Most schools are private and have tuition rates that vary, but are generally
+         considered high. Dental studies are structured around a traditional, mostly lecture-based
+         5-year curriculum. The first two years are focused on didactic activities on biomedical
+         and dental introductory courses. During the 2nd but mainly the 3rd year students undergo laboratory and pre-clinical training. Years 4 and 5 entail
+         clinical training. Empirical observations indicate that only a small proportion of
+         dental students complete their studies within the 10 semesters of the regular curriculum;
+         most require 1–3 extra semesters to graduate, whereas considerable proportions drop
+         out.
+      
+      The investigators initially contacted 22 schools from 13 Universities to participate
+         in the study, and 17 (77%) schools agreed to do so. Although the resulting sampling
+         frame of 8530 students does not constitute a probability sample of Colombian dental
+         students, it represents 61% of the country’s entire dental student population.
+      
+      After obtaining ethical approval, investigators contacted and sought to enroll all
+         students officially registered and attending classes or clinics in each school between
+         January and April 2012. Of 8530 eligible individuals 5700 agreed to participate, an
+         overall response rate of 67%. Response rates varied and ranged from approximately
+         40% in UNAL - Bogotá and 42% in UAM - Manizales to 100% in UCC - Pasto, CURN - Cartagena
+         and UMET -Barranquilla (Table&nbsp;1). These differences were not strongly influenced by school characteristics. Nevertheless,
+         we noted a statistically non-significant trend of lower response rate with increasing
+         class (and school) size: “small schools”: 78%, “moderate size schools”: 75%, “large
+         schools”: 67%; P = 0.5”.
+      
+      Table 1. Description of the study sample frame and response rates, by geographical area, city
+            and school
+      Study instruments and procedures
+      The survey instrument contained an array of five questionnaires that covered the following
+         domains: socio-demography (6 items), first career choice (1 item), school and study-level
+         information (6 items), psychological distress [Spanish version of the Symptoms Checklist
+         90-Revised (SCL-90-R) [23] – 90 items], perceived sources of stress (Spanish version of the modified Dental
+         Environment Stress (DES) questionnaire [24,25] - 36 items), self-efficacy (Spanish version of the General Self-Efficacy Scale [26] – 10 items) and burnout (Spanish adaptation of the Maslach Burnout Inventory-Student
+         Survey [27] – 15 items). The present manuscript contains results of analyses that were focused
+         on symptoms of psychological distress (SCL-90-R); another report [28] presents findings regarding the perceived academic stressors (DES) among this sample
+         of students.
+      
+      Students were approached during scheduled class or seminar times. Investigators explained
+         the purpose, anonymous nature and voluntary character of the study. The survey was
+         administered in paper and pencil form which required approximately 25&nbsp;minutes for
+         completion.
+      
+      Measures and variables
+      The main analytical endpoint (dependent variable) of the present report was psychological
+         distress, as measured by the SCL-90-R. The SCL-90-R was introduced by Derogatis [29], and represents an evolution of earlier instruments measuring mental health, the
+         SCL-90 [30] and the Hopkins Symptom Checklist [31]. The SCL-90-R is essentially a psychiatric self-report inventory, containing 90 items
+         pertaining to various symptoms of psychological distress, such as “trouble remembering
+         things” and “feeling nervous when you are left alone”. Participants were instructed
+         to indicate how much distress each item has caused during the “last 7&nbsp;days including
+         today” on a 5-point scale ranging from 0: not at all to 4: extremely.
+      
+      The instrument has been used among diverse populations, and was shown to perform well
+         in terms of reliability and internal consistency. The SCL-90-R was originally reported
+         to be capturing nine symptom dimensions, namely somatization, obsessive-compulsive,
+         interpersonal sensitivity, depression, anxiety, hostility, phobic anxiety, paranoid
+         ideation, and psychoticism. However, this factorial structure was not subsequently
+         confirmed [32]. Instead, the Global Severity Index (GSI), the mean score of all items, is considered
+         to be the best representation of an overall psychological distress dimension. Other
+         indices of distress that can be derived from the inventory are the Positive Symptom
+         Distress Index (PSDI), representing the average score of items scoring above zero
+         and the Positive Symptoms Total (PST), representing the number of items scoring above
+         zero [29]. The PSDI can be interpreted as a symptoms “intensity” measure and the PST as a symptoms
+         “extent” measure. For clinical and consultation purposes, normative scores and thresholds
+         were initially suggested for adolescent and adult psychiatric patients and non-patients
+         [23], however, classifications derived from these standard scores have been of limited
+         utility across populations and settings [33,34]. In fact, because the structure and properties of the instrument tend to vary between
+         populations, it has been recommended to empirically establish them in each new study
+         sample [35]. Nevertheless, there is agreement regarding differences in reporting of psychological
+         disturbance with the SCL-90-R between males and females, and therefore, as most previous
+         investigations we obtained and reported sex-stratified estimates.
+      
+      We collected additional information regarding participants’ age [measured in years
+         and coded as a categorical variable (under 18, 18- &lt; 21, 21- &lt; 24, and 24 and over)
+         for descriptive and as a continuous variable for analytical purposes]; sex; study
+         year (1–5); sources of funding for studies (own sources only, own sources and loans,
+         loans only); working while studying (yes/no) and socio-economic level (1–6, where
+         1 is the lowest and 6 is the highest socio-economic stratum in Colombia). We also
+         obtained information about the students’ first career choice (dentistry vs. other).
+         With regard to school-level variables, we recorded its private or public character
+         and the average class size [coded arbitrarily as small (&lt;30), moderate (30–60) and
+         large (&gt;60 students)].
+      
+      Analytical approach
+      For initial data presentation and exploration we used descriptive statistics [simple
+         proportions, means, standard deviations (SD), medians and ranges], overall and stratified by sex. We used X2 tests and a p &lt; 0.05 criterion to assess the distribution of covariates between male
+         and female participants, and a t test for the ‘age’ variable. The use of a t test for non-normally distributed data was supported by the central limit theorem applied
+         to a large sample [36].
+      
+      Factor analysis
+      We explored the factor structure of SCL-90-R in the context of our study using iterated
+         principal factor analysis with varimax rotation [37]. We empirically determined the factor structure by inspecting the corresponding Scree
+         plot [38] and the proportion of ‘variance explained’. The inspection of the scree plot has
+         been shown to perform better than Kaiser’s factor-retention criterion of eigenvalue ≥ 1,
+         particularly in analyses with large number of items, where it consistently overestimates
+         the number of factors to be retained [39]. Although we only used the GSI for analytical purposes, we generated and present
+         internal consistencies (Cronbach’s alphas), mean scores, SD and 95% confidence intervals (CI) for all other SCL-90-R derived
+         indices to offer an opportunity for comparisons with other samples and studies that
+         employ these other metrics.
+      
+      Modeling of the psychological disturbance index (SCL-90-R)
+      The sample’s clustered nature of observations (respondents were “nested” in dental
+         schools and these “nested” within cities and geographic regions) dictated the use
+         of analytical methods based on multilevel modeling [40]. To determine the impact of student- and school-level factors on psychological disturbance
+         throughout the 5-year curriculum we used multilevel mixed-effects multivariate linear
+         regression of the GSI. We accounted for the clustering of observations and study sample
+         design by specifying three nested random-effect terms, one for each sample “level”,
+         geographic region, University/city, and school, confirming their inclusion by a Likelihood
+         Ratio (LR) “chunk” test [41] and a p-value criterion of &lt;0.2. In all models we entered a priori terms for age, sex, socio-economic status and study year. Inclusion of additional
+         covariates was based on forward selection and LR tests with a p-value criterion of
+         &lt;0.2. To allow for non-homogeneous effects of age, socio-economic status and first
+         career choice between males and females and across study years, we included a five-way
+         interaction term between these variables. We based our inference on crude and adjusted
+         beta coefficients and corresponding p-values using a p &lt;0.05 criterion, as well as
+         inspection of predictive marginal effects [42].
+      
+      Modeling of psychological morbidity “high scorers”
+      To quantify the impact of student and school-level factors on the prevalence of high
+         psychological morbidity we used a second series of multivariate models based on log-binomial
+         regression. First, we generated normalized GSI (T) scores centered at 50 separately
+         for males and females and, as in previous studies [29,43-45], used a T score ≥63 definition for a psychological morbidity “high scorer”. This
+         cut-off score resulted in classifying 8% of students of both sexes as “high scorers”.
+         Subsequently, we fitted two log-binomial regression models separately for male and
+         female “high scorer” and obtained adjusted prevalence ratios (PR) and 95% CI. Our
+         choice of log-binomial versus the more common logistic regression was based on the
+         fact that odds ratios obtained from logistic regression tend to overestimate the true
+         effect size when the outcome under study is common (&gt;20%) and because prevalence ratios
+         are more readily interpretable compared to odds ratios in cross-sectional studies
+         [46,47]. We used Stata version 12.1 (StataCorp LP, College Station, TX, United States) for
+         all data analyses.
+      
+      Ethical approval
+      The study was approved by the Health Sciences Ethics Committee of Universidad Cooperativa
+         de Colombia- Pasto (No. CECS02-12).
+      
+   
+

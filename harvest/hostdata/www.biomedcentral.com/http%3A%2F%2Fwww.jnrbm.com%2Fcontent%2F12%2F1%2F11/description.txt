@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The aim of the present study was to explore serological biomarkers which predict the outcome of tonsillectomy for chronic tonsillitis.
+
+				
+				
+					
+						Methods
+
+					A case study in a University ENT department of 24 adult patients with chronic tonsillitis (CHT) in comparison to 24 patients with acute peritonsillar abscess (PTA) was performed. Blood samples for clinical routine hematological and serological parameters were assessed prior to surgery (T-1) and five days (T5) after tonsillectomy. Outcome 6 months later (T180) was documented using the Glasgow Benefit Inventory (GBI) and the Specific Benefits from Tonsillectomy Inventory (SBTI). Correlation analyses between CHT and PTA group as well as between the different time points within each group concerning the serological parameters and the outcome parameters were performed.
+
+				
+				
+					
+						Results
+
+					At T-1, patients in the CHT group presented with significantly higher lymphocytes counts (relative and absolute), basophils (relative and absolute) and eosinophils but less white-cells, monocytes, neutrophils (absolute and relative), alpha-1, alpha-2, beta globulins, immunoglobulin and lower C-reactive protein and procalcitonin values than patients in the PTA group (all p < 0.05, respectively). Within each group, different significant changes of the serum parameters (often in opposite direction) were observed between T-1 and T5. SBTI scores at T-1 were significantly lower in the CHT group. In contrast, most GBI scores at T180 were significantly higher in the CHT group. Between T-1 and T180 the SBTI scores improved in three quarters of the CHT patients but only in three fifths of the PTA patients. Higher eosinophil counts and immunoglobulin E levels at T-1 predicted higher GBI scores at T180 in the CHT group.
+
+				
+				
+					
+						Conclusions
+
+					This pilot study showed a specific serological pattern for patients with chronic tonsillitis with a specific pattern of changes after tonsillectomy. But there is no established role for biomarkers currently used in clinical practice to predict the outcome of tonsillectomy for chronic tonsillitis.
+
+				
+			
+		

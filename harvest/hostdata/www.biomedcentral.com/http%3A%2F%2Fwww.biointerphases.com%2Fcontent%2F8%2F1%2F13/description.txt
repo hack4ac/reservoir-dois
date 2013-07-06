@@ -1,0 +1,22 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					Using density functional theory we look at the quantum mechanics of charge transport along water wires both with free ends and donor/acceptor terminated. With the intermediate geometries in the DFT iterations we can follow the charge transfer mechanism and also construct the energy landscape explicitly. It shows activation barriers when a proton is transferred from one water molecule to the next. This, together with snapshots of intermediate geometries, leads to a justification and further elucidation of the Grotthuss mechanism and the Bjerrum effect. The charge transfer times and the conductivity of the proton wire are obtained in agreement with experimental results.
+
+				
+				
+				
+					Pacs
+
+				82.39 Jn, 31.15 E
+
+				
+			
+		

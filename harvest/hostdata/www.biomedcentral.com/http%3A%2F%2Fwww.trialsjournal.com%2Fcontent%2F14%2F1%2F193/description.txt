@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Patients with atrial fibrillation (AF) are at increased risk for stroke. Antithrombotic treatment reduces this risk. Antithrombotic treatment consists of either administration of oral anticoagulants (OAC) or the provision of an antiplatelet drug. International guidelines provide advice on the preferred treatment, thereby balancing the risks and benefits of OAC. However, adherence to these guidelines is reported to be as low as 50%. There is paucity in research on why adherence rates are low. Recent studies have shown decision support systems can improve guideline adherence. We investigate the use of a clinical decision support system to improve guideline adherence among general practitioners (GPs) treating patients with AF and study reasons for guideline non-adherence.
+
+				
+				
+					
+						Methods/Design
+
+					The study is a randomized controlled trial, which is performed among Dutch general practitioners. Initially, GPs in the vicinity of the Academic Medical Center (AMC) in Amsterdam will be included, after which other practices will be recruited. We have developed a novel decision support system that displays a list with pending messages for the on-screen medical record in real time. Messages are generated on a server that evaluates a decision rule based on the atrial fibrillation guideline of the Dutch College of General Practitioners. By interacting with the list, messages can be opened for a description and explanation, or be ignored. GPs are allocated into three groups: 1) control group; 2) intervention group A, in which messages can be ignored without justification; and 3) intervention group B, in which messages can only be ignored with justification.
+Our main outcome measure is the between-group difference in the proportion of patients receiving antithrombotic prescriptions in adherence to the Dutch GP guideline for atrial fibrillation. Secondary outcomes are reasons GPs state for deviating from the guideline and the effect on guideline adherence of requiring justification when ignoring a message.
+
+				
+				
+					
+						Discussion
+
+					This paper describes the protocol for a cluster randomized trial to study the effects of a clinical decision support system in patients with atrial fibrillation. The system is characterized by a non-interruptive presentation and real-time messages that are updated after each relevant action the GP performs.
+
+				
+				
+					
+						Trial registration
+
+					This trial is registered with the Dutch Trial Register under registration number  3570 .
+
+				
+			
+		

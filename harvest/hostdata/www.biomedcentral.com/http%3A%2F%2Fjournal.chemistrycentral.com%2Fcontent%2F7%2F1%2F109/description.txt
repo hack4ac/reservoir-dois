@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Hydrochloric acid is used in oil-well acidizing commonly for improving the crude oil production of the low-permeable reservoirs, while it is a great challenge for the metal instruments involved in the acidification. Developing natural products as oilfield chemicals is a straight way to find less expensive, green and eco-friendly materials. The great plant resources in Qin-ling and Ba-shan Mountain Area of Shannxi Province enable the investigating of new green oil field chemicals.  Diospyros  Kaki L.f (persimmon), a famous fruit tree is widely planted in Qin-ling and Ba-shan Mountain Area of Shaanxi Province. It has been found that the crude persimmon extracts are complex mixtures containing vitamins,  p -coumaric acid, gallic acid, catechin, flavonoids, carotenoids and condensed tannin and so on, which indicates the extracts of persimmon husk suitable to be used as green and eco-friendly corrosion inhibitors.
+
+				
+				
+					
+						Findings
+
+					Extracts of persimmon husk were investigated, by using weight loss and potentiodynamic polarisation techniques, as green and eco-friendly corrosion inhibitors of Q235A steel in 1M HCl. The inhibition efficiency of the extracts varied with extract concentration from 10 to 1,000 mg/L. There are some synergistic effects between the extracts and KI, KSCN and HMTA. Potentiodynamic polarization studies indicate that extracts are mixed-type inhibitors. Besides, the extracts were screened for antibacterial activity against oil field microorganisms, and they showed good to moderate activity against SRB, IB and TGB.
+
+				
+				
+					
+						Conclusions
+
+					The inhibition efficiency of the extracts varied with extract concentration from 10 to 1,000 mg/L, and the highest reaches to 65.1% with the con concentration of 1,000 mg/L WE. KI, KSCN and HMTA they can enhance the IE of WE effectively to 97.3% at most, but not effective for KI and KSCN to AE. Tafel polarisation measurements indicate the extracts behave as mixed type inhibitor. Investigation of the antibacterial activity against oil field microorganism showed the extracts can inhibit SRB, IB and TGB with moderate to highly efficiency under 1,000 mg/L, which makes extracts potential to be used as bifunctional oil field chemicals.
+
+				
+			
+		

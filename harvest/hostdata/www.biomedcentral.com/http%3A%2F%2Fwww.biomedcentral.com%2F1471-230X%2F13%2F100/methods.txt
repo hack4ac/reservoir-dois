@@ -1,0 +1,121 @@
+Methods
+   
+      Preparation of L. acidophilus CRL 1014 cells
+      
+      At weekly intervals, a pure culture of L. acidophilus CRL 1014 (CERELA, San Miguel de Tucumán, Argentina) was inoculated into De Man, Rogosa
+         and Sharpe (MRS) broth (Acumedia, Baltimore, USA). Cultures were harvested during
+         the exponential growth, after, they were centrifuged (4000 × g, 10&nbsp;min, 4°C) and washed
+         with sterile peptone water. The L. acidophilus CRL1014 cells were kept at the concentration of 108&nbsp;CFU/mL in sterile peptone water until use [17].
+      
+      Long-term SHIME® run
+      
+      The SHIME® is a simulator of the human intestinal microbial ecosystem [18,19] in which environmental conditions (pH, residence time, inoculum, and temperature)
+         are controlled to resemble those found in vivo. A SHIME® system consists of five double-jacketed vessels, simulating the stomach, the small
+         intestine, and the ascending, transverse and descending colon, with a total retention
+         time of 72&nbsp;h (Additional file 1: Figure S1). The reactor setup and the composition of the liquid feed (Table&nbsp;1), which entered the system three times per day, were previously described by Possemiers
+         et al. [14].
+      
+      Additional file 1: Figure S1. Schematic representation of the Simulator of the Human Intestinal Microbial Ecosystem
+         (SHIME®). Possemiers et al. [31]. Vessel 1: stomach; vessel 2: small intestine; vessel 3: ascending colon; vessel
+         4: transverse colon; vessel 5: descending colon.
+         	Format: DOCX 
+         	Size: 211KB Download file or  display content in a new window
+      Table 1. Ingredients (g) employed for each liter of the basal feed used in the Shime reactor
+      The three colon vessels of the SHIME® reactor were inoculated with bacteria from a fecal sample of a healthy 22-year-old
+         adult female with no history of antibiotic treatment 6&nbsp;months prior to the study.
+         Aliquots (10&nbsp;g) of fresh fecal samples were diluted and homogenized with 100&nbsp;mL of
+         sterilized phosphate buffer (0.1&nbsp;mol/L, pH&nbsp;7), containing 1&nbsp;g/L sodium thioglycolate
+         as the reducing agent.
+      
+      The microbial inoculum was stabilized over a period of 2-wk on a carbohydrate-based
+         medium and allowed to adapt to the specific environmental conditions of the ascending,
+         transverse and descending colon, in terms of pH range, retention time and available
+         carbon sources [14,15]. Upon stabilization, the SHIME® run included 2- wk of basal period (to quantify all steady-state bacterial parameters
+         which were used as starting point to evaluate the effect of a specific treatment),
+         and a 4-wk of treatment period, in which 5&nbsp;mL of 108&nbsp;CFU/mL of L. acidophilus CRL 1014 were added once per day to the stomach compartment. Finally, a 2-week washout
+         period without the addition of L. acidophilus CRL 1014 was observed.
+      
+      Microbiological analysis
+      At weekly intervals, throughout the entire experimental period, (basal, treatment
+         and washout), 5&nbsp;mL samples were collected from the reactors for microbiological examinations.
+         The analysis of the intestinal microbiota composition was based on the enumeration
+         of total aerobic and anaerobic bacteria, Enterococcus spp., Lactobacillus spp., Bifidobacterium spp., enterobacteria, and Clostridium spp. One mL of a sample taken from each reactor was suspended in 99&nbsp;mL of peptone
+         water. Serial dilutions were prepared and inoculated into selective culture media,
+         as follows: total aerobic and anaerobic counts: Standard Methods agar (Acumedia, Baltimore,
+         USA; 37°C/48&nbsp;h); Enterococcus spp.: KF Streptococcus agar (Acumedia, Baltimore, USA; 37°C/48&nbsp;h) [16]; Lactobacillus spp.: MRS agar (Merck, Germany; 37°C/48&nbsp;h, under anaerobiosis). For Bifidobacterium spp. counts was used the Bifidobacterium formulated medium BIM-25 (Difco, France;
+         37°C/72&nbsp;h, Anaerobic System, Probac, Brazil) according Munoa &amp; Pares [20], Enterobacteria: MacConkey agar (Acumedia, Baltimore, USA; 37°C/48&nbsp;h) and Clostridium spp.: RCA Agar (Difco, France; 37°C/48&nbsp;h, Anaerobic System, Probac, Brazil) [21].
+      
+      Analysis of short-chain fatty acids and ammonium
+      Once a week, throughout the entire experimental period (basal, treatment and washout),
+         samples were collected from the reactors for analysis SCFA and ammonium. The analysis
+         was carried out in triplicates.
+      
+      Every week, the levels of short-chain fatty acids (SCFA) were determined from samples
+         collected from the reactors and frozen to -20°C. The SCFA were extracted with diethyl
+         ether and determined using a gas chromatograph equipped with a flame-ionization gas
+         detector, a capillary split/splitless injector and an HP-INNOWAX column with a 30&nbsp;m
+         × 0.25&nbsp;mm × 0.25&nbsp;μm inlet (Shimadzu GC2010), using hydrogen as the carrier gas at
+         a flow rate of 1.56&nbsp;mL/min. The temperatures of the column, injector and detector
+         were 170, 250 and 280°C, respectively [22].
+      
+      The ammonia content was determined using a selective ion meter (710A model, Orion)
+         coupled to an ammonia selective-ion electrode (Orion 95–12). The apparatus was calibrated
+         using 0.1&nbsp;M standard ammonium chloride solutions, at the concentrations of 10, 100,
+         and 1000&nbsp;mg/L of ammonia. To every 25&nbsp;mL of sample, 0.5&nbsp;mL of ISA solution (Ionic
+         Strength Adjuster, Orion – a pH-adjusting and ionic force solution) was added. All
+         measurements were carried out at 25°C [23].
+      
+      Composition of the Lactobacillus community
+      
+      DNA was extracted from 2&nbsp;mL of sample using the QIAamp DNA Stool Mini Kit (Qiagen,
+         Hilden, Germany), according to the manufacturer’s protocol. DNA yield was quantified
+         using a NanoDrop ND-1000 spectrophotometer (NanoDrop Technologies, Willmington, USA).
+      
+      DGGE analysis
+      The diversity of the Lactobacillus community in samples taken throughout model operation was assessed by DGGE. To prevent
+         a low amplicon yield a nested PCR approach was used as previously described [24]. This involved a first round of PCR with primers Bact27f (5′-GTTTGATCCTGGCTCAG-3′)
+         [25] and 1492R (5′- CGG CTA CCT TGT TAC GAC-3′) [26], followed by a second PCR with primers Lab159f (5′-GGAAACAGATGCTAATACCG-3′) and Lab677-GCr
+         (5′-GCCCGGGGCGCGCCCCGGGCGGGGCGGGGGCACGGGGGGGCACCGCTACACATGGAG-3′) [24].
+      
+      PCR was performed using the GoTaq® Green Master Mix kit (Promega, USA). Samples were amplified in a Veriti® 96-Well Thermal Cycler (Applied Biosystems, USA) by using the following program:
+         initial denaturation at 94°C for 2&nbsp;min; 35&nbsp;cycles of denaturation at 94°C for 30&nbsp;s,
+         annealing at primer-specific temperature for 40&nbsp;s, elongation at 72°C for primer-specific
+         time, and extension at 72°C for 5&nbsp;min, followed by a final cooling to 4°C. The annealing
+         temperature and elongation time was set at 52°C/1.30&nbsp;min with primers Bact27f and
+         1492r and 60°C/1&nbsp;min with primers Lab159f and Lab677-GCr. The PCR products that were
+         used as templates in nested PCR were purified with the QIAquick PCR Purification Kit
+         (Qiagen, USA).
+      
+      DGGE analysis of PCR amplicons was based on the protocol described by Muyzer et al.
+         [27] by using the DCode System (Bio-Rad Laboratories, Hercμles, CA, USA). Electrophoresis
+         was done as described previously [24] in an 8% polyacrylamide gel with a denaturant gradient of 30–50% (100% was defined
+         as 40% formamide and 7&nbsp;M urea) for 16&nbsp;h at 85&nbsp;V in a 0.5× TAE buffer at a constant
+         temperature of 60°C. Gels were stained with silver nitrate by the method of Sanguinetti
+         et al. [28], scanned at 400 d.p.i., and further analyzed by the BioNumerics 6.0 software (Applied
+         Maths). The distance matrices of each DGGE based on the Pearson correlation similarity
+         coefficient to cluster the samples was analyzed using the BioNumerics software (Applied
+         Maths).
+      
+      Bands of interest in the lactobacilli community fingerprint were excised from the
+         gel and transferred into 25&nbsp;μl of TE buffer, and incubated overnight at 37°C to allow
+         diffusion of the DNA. Two microliters of the eluted DNA were used for reamplification
+         with the GC-clamped primer by using the conditions described above and the PCR products
+         generated were checked by DGGE. Only PCR products which yielded a single band and
+         comigrated with the original band were purified by the QIAprep spin miniprep kit (Qiagen,
+         USA) and were subjected to DNA sequence analysis at the genomic facilities of The
+         Human Genome Research Center (HGRC), at the University of São Paulo. BLAST searches
+         were performed to determine the closest known relatives of the partial rRNA gene sequence
+         obtained in GenBank.
+      
+      Nucleotide sequence accession numbers
+      The sequences of the 16S rDNA fragments were deposited in the GenBank database. The
+         accession numbers of the 4 sequences are as follows (band code in parentheses): KF054352
+         (lac1), KF054351 (lac2), KF054353 (lac3) and KF054350 (lac4).
+      
+      Statistical analysis
+      The significance of all results was investigated with one-way ANOVA, and individual
+         means were compared using the Tukey’s test (p &lt; 0.01), using the statistical software
+         Sigma Stat 5.0.
+      
+   
+

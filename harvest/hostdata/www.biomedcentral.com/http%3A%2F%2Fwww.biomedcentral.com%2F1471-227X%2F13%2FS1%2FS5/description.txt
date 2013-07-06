@@ -1,0 +1,39 @@
+
+         
+            
+               
+
+
+            
+               
+                  Background
+
+
+               To evaluate the efficacy of combined treatment with bone marrow mesenchymal stem cell (BMSC) transplantation and methylprednisolone (MP) to treat paraquat (PQ)-induced acute lung injury.
+
+
+            
+               
+                  Materials and methods
+
+
+               A total of 102 female rats were randomly divided into five groups: PQ, BMSC, MP, BMSC + MP and normal control. After 14 days of PQ poisoning, the survival of rats, wet/dry weight ratio of lung tissue, serum levels of tumor necrosis factor (TNF)-α, interleukin (IL)-1β, IL-6, IL-10, malondialdehyde (MDA) and superoxidase dismutase (SOD), and the expression of nuclear factor (NF)-кB p65 in lung tissue were determined.
+
+
+            
+               
+                  Results
+
+
+               Rats in BMSC and BMSC + MP groups survived. BMSC transplantation significantly decreased the wet/dry weight ratio of lung tissue, down-regulated NF-кB p65 expression in lung tissue, lowered serum levels of TNF-α, IL-1β, IL-6 and MDA, and increased serum levels of IL-10 and SOD. These changes were particularly significant on days 7–14 after PQ poisoning. The above changes were more significant in the MP group on days 1–3 after PQ poisoning, compared with those of the BMSC group. However, the BMSC + MP group showed more significant changes on days 1–14 after PQ poisoning than those of both BMSC and MP groups.
+
+
+            
+               
+                  Conclusions
+
+
+               MP inhibits the inflammatory response, reduces the products of lipid peroxidation and promotes survival of transplanted BMSC, thus improving the intermediate and longer term efficacy of BMSC transplantation for treatment of PQ-induced lung injury.
+
+
+

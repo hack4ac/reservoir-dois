@@ -1,0 +1,1 @@
+Qualitative analysis on a predator-prey model with Ivlev functional response

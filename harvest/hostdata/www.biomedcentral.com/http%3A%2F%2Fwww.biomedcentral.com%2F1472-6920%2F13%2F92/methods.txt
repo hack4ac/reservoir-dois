@@ -1,0 +1,101 @@
+Methods
+   
+      Design
+      A cross-sectional study using a customised questionnaire was conducted with a single
+         cohort of SLP university students.
+      
+      Participants and setting
+      Participants were a convenience sample of students completing an entry level SLP degree
+         recruited from a single university site. The students were either undergraduate students
+         or graduate entry masters students. Students in these two SLP entry level degrees
+         complete comparable coursework. The graduate entry master’s program requires students
+         to complete pre-requisite subjects comparable to 1st year undergraduate SLP subjects
+         prior to enrolment in the graduate entry masters program. The graduate entry masters
+         program then utilizes a ‘summer semester’ to enable three semesters of coursework
+         to be completed within each calendar year (whereas undergraduate students complete
+         two semesters and then have a long summer break). So while students’ from the undergraduate
+         and postgraduate entry level programs were included in the sample, they were all at
+         a comparable stage in their entry level training; which covers the same SLP related
+         coursework.
+      
+      Students from these entry level programs that were enrolled in the acquired adult
+         neurogenic language disorders subject were invited to participate. A total of 126
+         students were enrolled in the subject, and all students were invited to complete the
+         voluntary survey; 49 (38.9%) students consented to participate in this investigation.
+         This subject contained a compulsory aphasia coursework component, which was attended
+         by all students. The aphasia component of the subject consisted of 12 × 2&nbsp;hour lectures
+         (24&nbsp;hours in total) focusing on theory including the assessment, differential diagnosis,
+         clinical management (including goal setting, acute management and the World Health
+         Organisation’s International Classification of Functioning, Disability and Health
+         model (WHO) [23]; rather than practical interactions with individuals with acquired language disorders.
+         As part of this coursework, the students received a single lecture by an individual
+         with chronic mild aphasia. Therefore, participating students had attended lectures
+         about aphasia as part of their routine academic coursework, but had not participated
+         in clinical education placements with PWA. Students were selected from this point
+         in their entry level education program to ensure they had appropriate theoretical
+         understanding of aphasia, but not real life clinical practice experience. There were
+         no other inclusion or exclusion criteria. At the Australian university setting for
+         this investigation, students do receive clinical exposure as part of their academic
+         coursework. However, the students participating in this investigation had not yet
+         completed clinical placements in the clinical situations that expose students to PWA.
+      
+      Questionnaire
+      A self-report questionnaire with three short sections was developed for the purposes
+         of the study based on information from Connect – The Communication Disability Network
+         in the United Kingdom. The first section recorded demographic and background information
+         (gender, age, degree enrolment and prior contact with PWA). The second section asked
+         participants to rate their confidence in communicating with PWA by marking (drawing)
+         a vertical line on a horizontal 100&nbsp;mm visual analogue rating scale (Figure&nbsp;1) with anchors of Not at all confident (0) through to Very confident (100). The third section was an open ended question that asked participants to: Please describe specific strategies that could be used in clinical settings to assist
+            communication between health professional and PWA.
+      Figure 1. The 100&nbsp;mm visual analogue scale for rating confidence in communicating with people
+            with aphasia; scale anchors were “Not confident at all (0)” and “Very confident (100)”.
+      Procedure
+      Ethical approval for the study was obtained from the Metro South Health Service District
+         Human Research Ethics Committee and The University of Queensland Medical Research
+         Ethics Committee. The students were recruited during a brief presentation about the
+         study by one member of the research team at the end of one of their aphasia lectures
+         (to minimise any potential conflict of interest the member of the research team was
+         not involved in the coordination or teaching of the subject). The students were informed
+         that participation in the study was voluntary, that it would have no influence upon
+         their subject grade, and did not contribute towards course credit. Any student who
+         was interested in participating in the study was given the questionnaire, study information
+         sheet and consent form by the research team member. Written informed consent was obtained
+         from all participants prior to their participation. Consenting students completed
+         the self-report questionnaire and returned the questionnaire to a member of the research
+         team.
+      
+      Analysis
+      Quantitative analysis was undertaken using Stata IC and SPSS software packages. Demographic
+         information was described using conventional descriptive statistics. To investigate
+         whether enrolment in the undergraduate versus graduate entry masters program was associated
+         with confidence ratings, a logistic regression was undertaken. Similarly, a linear
+         regression was undertaken to investigate whether an association between the age of
+         participants and their confidence rating existed. Confidence rating visual analogue
+         scale data were described using median and inter-quartile range (IQR). Additionally
+         a frequency histogram was used to examine the distribution of the confidence rating
+         scale responses (Figure&nbsp;2). Thematic analysis was used to describe the nature of qualitative written responses
+         for potential strategies that could be used when communicating with PWA [24-28]. For the thematic analysis, two members of the research team independently coded
+         each phrase listed by the students under emerging response categories (e.g., “slow
+         down rate” and ”reduce rate” were both coded into the response category “reduced rate
+         of speech”). These response categories were then aligned under emerging themes (e.g.,
+         “reduced rate of speech” was aligned under “verbal communication strategies’). A third
+         independent researcher was available to arbitrate any unresolved disagreement between
+         the two primary coders, but was not required (as no unresolved discrepancy between
+         the first two coders occurred). The number of potential strategies identified by each
+         respondent was also recorded. Additionally, the number of coded phrases in each response
+         category was summed as a gross indicator of the most prominent strategies or resources
+         reported by the students. In addition to describing the nature of the listed strategies,
+         two experienced SLP members of the research team classified each strategy into one
+         of two suitability categories (Table&nbsp;1 and Table&nbsp;2). Strategies considered likely to be suitable based on previous literature [25,29-33] and the coders’ professional experience are displayed in Table&nbsp;1. The remaining response strategies were judged to be of uncertain benefit or insufficiently
+         described to determine potential suitability by the experienced SLP team members and
+         were listed separately (Table&nbsp;2). For example, a listed strategy of “technology” was not considered a clear strategy
+         description and was therefore assigned to Table&nbsp;2. However, a description of using “images via an ipad” would have been considered
+         to be a potentially suitable strategy and would have been allocated to Table&nbsp;1.
+      
+      Figure 2. Frequency histogram of student (n = 49) visual analogue scale confidence ratings.
+      Table 1. Thematic analysis of potential strategies suggested by the students for communicating
+            with PWA, and the number of times (n) strategies were coded to each response category
+      Table 2. Strategies of uncertain benefit or insufficiently described to determine potential
+            suitability
+   
+

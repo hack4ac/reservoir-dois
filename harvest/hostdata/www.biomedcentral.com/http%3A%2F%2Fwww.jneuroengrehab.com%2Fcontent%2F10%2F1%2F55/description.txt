@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Sensory disturbance is common following stroke and can exacerbate functional deficits, even in patients with relatively good motor function. In particular, loss of appropriate sensory feedback in severe sensory loss impairs manipulation capability. We hypothesized that task-oriented training with sensory feedback assistance would improve manipulation capability even without sensory pathway recovery.
+
+				
+				
+					
+						Methods
+
+					We developed a system that provides sensory feedback by transcutaneous electrical nerve stimulation (SENS) for patients with sensory loss, and investigated the feasibility of the system in a stroke patient with severe sensory impairment and mild motor deficit. The electrical current was modulated by the force exerted by the fingertips so as to allow the patient to identify the intensity. The patient had severe sensory loss due to a right thalamic hemorrhage suffered 27 months prior to participation in the study. The patient first practiced a cylindrical grasp task with SENS for 1 hour daily over 29 days. Pressure information from the affected thumb was fed back to the unaffected shoulder. The same patient practiced a tip pinch task with SENS for 1 hour daily over 4 days. Pressure information from the affected thumb and index finger was fed back to the unaffected and affected shoulders, respectively. We assessed the feasibility of SENS and examined the improvement of manipulation capability after training with SENS.
+
+				
+				
+					
+						Results
+
+					The fluctuation in fingertip force during the cylindrical grasp task gradually decreased as the training progressed. The patient was able to maintain a stable grip force after training, even without SENS. Pressure exerted by the tip pinch of the affected hand was unstable before intervention with SENS compared with that of the unaffected hand. However, they were similar to each other immediately after SENS was initiated, suggesting that the somatosensory information improved tip pinch performance. The patient’s manipulation capability assessed by the Box and Block Test score improved through SENS intervention and was partly maintained after SENS was removed, until at least 7 months after the intervention. The sensory test score, however, showed no recovery after intervention.
+
+				
+				
+					
+						Conclusions
+
+					We conclude that the proposed system would be useful in the rehabilitation of patients with sensory loss.
+
+				
+			
+		

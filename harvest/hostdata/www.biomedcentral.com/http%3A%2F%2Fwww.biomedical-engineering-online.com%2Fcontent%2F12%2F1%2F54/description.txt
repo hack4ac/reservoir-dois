@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					One of the main factors affecting propagation of electrical waves and contraction in ventricles of the heart is anisotropy of cardiac tissue. Anisotropy is determined by orientation of myocardial fibres. Determining fibre orientation field and shape of the heart is important for anatomically accurate modelling of electrical and mechanical function of the heart. The aim of this paper is to introduce a theoretical rule-based model for anatomy and fibre orientation of the left ventricle (LV) of the heart and to compare it with experimental data. We suggest explicit analytical formulae that allow us to obtain the left ventricle form and its fibre direction field. The ventricle band concept of cardiac architecture given by Torrent-Guasp is chosen as the model postulate.
+
+				
+				
+					
+						Methods
+
+					In our approach, anisotropy of the heart is derived from some general principles. The LV is considered as a set of identical spiral surfaces, each of which can be produced from the other by rotation around one vertical axis. Each spiral surface is filled with non-intersecting curves which represent myocardial fibres.
+For model verification, we use experimental data on fibre orientation in human and canine hearts.
+
+				
+				
+					
+						Results
+
+					LV shape and anisotropy are represented by explicit analytical expressions in a curvilinear 3-D coordinate system. The derived fibre orientation field shows good qualitative agreement with experimental data. The model reveals the most thorough quantitative simulation of fibre angles at the LV middle zone.
+
+				
+				
+					
+						Conclusions
+
+					Our analysis shows that the band concept can generate realistic anisotropy of the LV. Our model shows good qualitative agreement between the simulated fibre orientation field and the experimental data on LV anisotropy, and the model can be used for various numerical simulations to study the effects of anisotropy on cardiac excitation and mechanical function.
+
+				
+			
+		

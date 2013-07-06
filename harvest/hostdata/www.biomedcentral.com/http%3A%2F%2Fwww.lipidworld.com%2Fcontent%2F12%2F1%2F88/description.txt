@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The absorption of dietary long chain fatty acids (LCFA) largely occurs in the jejunum. LCFA are activated via conjugation with Coenzyme A (CoA), a reaction catalyzed by Acyl-CoA synthetases (ACS). Acyl-CoA sythesis is critical for dietary LCFA absorption; yet, the jejunal ACS enzymes that catalyze the reaction are largely unknown.
+
+				
+				
+					
+						Findings
+
+					High throughput mRNA sequencing of the mouse jejunum revealed that the expression of acyl-CoA synthetase 5 (Acsl5) and fatty-acid transport protein 4 (Fatp4) largely exceeded all other annotated ACS genes that activate LCFA. Interestingly, Acsl5 knockout (KO) mice displayed a decrease of 60% in jejunal total long chain acyl-CoA synthesis rate. Nevertheless, and despite of this decrease, dietary LCFA absorption and body-weight gain in response to high fat diet remained unaffected.
+
+				
+				
+					
+						Conclusion
+
+					Acsl5 is a major activator of dietary LCFA, yet in Acsl5 KO mice residual ACS activity is sufficient for maintaining a normal LCFA absorption. Our findings provide further evidence for a robust small intestine LCFA absorption capacity.
+
+				
+			
+		

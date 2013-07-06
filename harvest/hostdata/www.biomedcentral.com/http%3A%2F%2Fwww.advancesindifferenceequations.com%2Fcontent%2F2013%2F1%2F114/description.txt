@@ -1,0 +1,122 @@
+Abstract
+In this paper, we study the uniqueness of a positive solution for the singular nonlinear fractional differential equation boundary value problem  
+    D 
+    
+       0 
+       + 
+ 
+    α 
+ 
+ u 
+ ( 
+ t 
+ ) 
+ + 
+ f 
+ ( 
+ t 
+ , 
+ u 
+ ( 
+ t 
+ ) 
+ ) 
+ = 
+ 0 
+ ,  0 
+ < 
+ t 
+ < 
+ 1 
+ ,  u 
+ ( 
+ 0 
+ ) 
+ = 
+ 0 
+ ,  u 
+ ( 
+ 1 
+ ) 
+ = 
+ a 
+ 
+    D 
+    
+       
+          α 
+          − 
+          1 
+ 
+       2 
+ 
+ 
+ u 
+ ( 
+ t 
+ ) 
+ 
+    | 
+    
+       t 
+       = 
+       ξ 
+ 
+ 
+ , where  1 
+ < 
+ α 
+ ≤ 
+ 2 
+  is a real number,  
+    D 
+    
+       0 
+       + 
+ 
+    α 
+ 
+  is the standard Riemann-Liouville differentiation and  f 
+ : 
+ ( 
+ 0 
+ , 
+ 1 
+ ] 
+ × 
+ [ 
+ 0 
+ , 
+ + 
+ ∞ 
+ ) 
+ → 
+ [ 
+ 0 
+ , 
+ + 
+ ∞ 
+ ) 
+ , with  
+    lim 
+    
+       t 
+       → 
+       
+          0 
+          + 
+ 
+ 
+ 
+ f 
+ ( 
+ t 
+ , 
+ ⋅ 
+ ) 
+ = 
+ + 
+ ∞ 
+ . Our analysis relies on a fixed-point theorem in partially ordered set. As an application, an example is presented to illustrate the main result.
+MSC: 
+26A33, 34B15, 34K37.

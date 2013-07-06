@@ -1,0 +1,214 @@
+Methods
+   
+      Identification of human protein-protein interfaces
+      To obtain a set of human protein-protein interfaces, we searched for all the x-ray
+         PDB structures containing two or more human protein chains, thus obtaining a set of
+         6637 PDB structures. We retained only those chains that could be unambiguously assigned
+         to UniProt entries according to SIFTS [46] (about 93% of the total). The SIFTS resource was also used to obtain a residue-level
+         mapping between PDB and UniProt sequences. We employed the HotPOINT [47] algorithm to fetch interface residues; some of these residues were classified as
+         hot spots by the program, however, since the program has been trained on a set composed
+         of only heterodimers, we rely only on the hot spots predicted for this kind of interaction.
+         The distance threshold for the identification of the interacting residues was set
+         to the default value (two residues belonging to different chains are assumed to interact
+         if there is at least one atom from one residue that is at a distance from any atom
+         of the second residue at most equal to the sum of Van der Waals radii of the two atoms
+         + 0.5Å). To avoid crystallographic artifacts, the search for protein-protein interaction
+         interfaces was conducted only on those pairs of protein chains of the Asymmetric Unit
+         that were present with the same relative orientation in at least one of the Biological
+         Units assigned by the authors of the structure. Among these pairs, 13136 interact
+         with at least one pair of residues mapped on the UniProt sequence. We took only the
+         interfaces in which both chains interact with at least five residues, thus obtaining
+         a set of 11555 dimers. Moreover, we filtered out all the dimers in which the sequence
+         of one or both chains does not cover at least 30% of the corresponding UniProt sequence.
+      
+      Alternative splicing data retrieval
+      The genes coding for the interacting proteins were found using Biomart [48] to mine Ensembl cross-references. Out of 1167 distinct proteins, 1113 were unambiguously
+         assigned to an ENSG (i.e. an Ensembl gene). Each of them was aligned with all the
+         transcripts associated to the corresponding gene using the Needleman-Wunsch algorithm
+         [49]. For 1057 proteins it was possible to find one or more ENSTs (i.e. the Ensembl transcripts)
+         with identical coding sequence. The remaining proteins were associated to the most
+         similar transcripts, provided that there were up to five non-contiguous gaps or substitutions
+         (28 proteins did not satisfy this condition). For each of the 1085 proteins that were
+         assigned to a transcripts, we took all the other full-length protein-coding ENSTs
+         belonging to the same ENSG as alternative splicing isoforms; those transcript that
+         are subject to nonsense-mediated decay according to Ensembl were not took into consideration.
+         This way we obtained a set of 804 proteins whose genes encode for one or more alternative
+         splicing isoforms distinct from the reference protein sequence.
+      
+      Redundancy reduction
+      To perform a clustering of the interfaces and to select one representative for each
+         interface, we first grouped together similar proteins using the BLASTClust software
+         [50], which is based on BLAST [51]; two proteins were clustered together if they had &gt;= 30% sequence identity over an
+         area covering at least 90% of each sequence. The 804 proteins whose genes undergo
+         alternative splicing resulted divided into 723 similarity groups. For each group of
+         similar sequences, a multiple sequence alignment was performed using T-coffee [52]. These alignments allowed us to compare interfaces from proteins belonging to the
+         same similarity group, since each interface residue could be mapped to the multiple
+         alignment and identified with its alignment column number. All the heterodimeric semi-interfaces
+         of proteins within the same cluster were clustered using a hierarchical complete linkage
+         algorithm with distance measure 1 – O, where O is an overlap value defined as the
+         number of identical residue identifiers between two semi-interfaces divided by the
+         number of residues of the smallest semi-interface. To obtain the clusters, the clustering
+         tree was cut at a height equal to 0.5: this way we grouped together semi-interfaces
+         with O &gt;= 0.5. This clustering procedure was inspired by a work from Bordner and Gorin
+         [53]. A similar method was used to cluster homodimeric interfaces. In this case, O is
+         defined as the number of identical residue identifiers between two interfaces divided
+         the number of residues of the smallest interface. The numerator can have two different
+         values, because one of the two semi-interfaces from one dimer can be compared with
+         both the semi-interfaces from the other dimer; for each pairs of interfaces we have
+         chosen the combination that maximizes the numerator.
+      
+      For each cluster we elected a representative (semi-)interface by applying these criteria:
+      – Choose the interface associated to the chain that most covers the UniProt sequence
+         (in the case of homodimers we use the product of the coverage of the two interacting
+         chains);
+      
+      – If multiple interfaces meet the above criterion, choose among them the interface
+         found in the PDB entry with the best resolution;
+      
+      – If multiple interfaces meet the above criterion, choose among them the interface
+         that has the largest number of residues;
+      
+      – If multiple interfaces remain, choose among them randomly.
+      Statistical tests
+      In all the employed variants of the statistical analysis of AS-mediated interface
+         removal, each isoform was described as a two-bit string, in which to each residue
+         of the interacting protein we assigned value 0 if it is found in that isoform, or
+         1 if it is missing. We define as “missing stretch” every stretch of contiguous 1 characters,
+         which is a contiguous protein region removed by splicing events. A region between
+         two missing stretches will be called “non-missing stretch”, while the region that
+         spans from the first missing stretch to the last one (or that coincides with the only
+         missing stretch) will be referred to as “variable region”. The alignment between the
+         transcript coding for the interacting protein and each isoform was done using the
+         genomic coordinates of the coding sequences provided by Ensembl.
+      
+      In the single-isoform test, each control represents a decoy isoform. These controls
+         were created by giving each missing or non-missing stretch a new size (number of residues)
+         obtained by picking a random value from a Poisson distribution with parameter λ equal
+         to the real size of that stretch and choosing randomly the starting position of the
+         newly formed variable region (the order of the stretches in the variable region remains
+         the same). This way of creating decoys by pulsing missing and non-missing stretches
+         allows us to generate a large set of different controls for each isoform without radically
+         changing the number, the dimension and the relative position of the alternatively
+         spliced regions, and as a consequence the manner in which they can act on the interface.
+         Figure&nbsp;4 shows an example of control creation from an isoform with one (a) or two (b) missing
+         stretches. After creating 1000 controls for each isoform, we compared the frequency
+         at which they lack the binding site with the real frequency of AS-mediated interface
+         removal using a CMH test. In this test, for each (semi-)interface/isoform pair, a
+         2×2 contingency table is compiled, which describes the variables “isoform” (real or
+         decoy) and “interface removal” (interface is removed or not, at a given interface-removal
+         threshold). Table&nbsp;1 is an example of contingency table. For each table, the absolute value of the difference
+         between the observed and the expected value of one cell, and the deviation between
+         observed and expected values are computed. These values, obtained from all the tables,
+         are then combined to determine whether the two variables are dependent or not. We
+         employed this approach instead of using a chi-square test with a single contingency
+         table because in this way controls are compared only with the isoform from which they
+         were derived.
+      
+      Figure 4. Toy examples of control creation for a single-isoform test (A and B) and for an all-isoforms
+            test (C). (A) The isoform of an interacting protein for which controls are created is represented
+         as a two-bit string, in which 0 describes a conserved position (i.e. not removed by
+         a splicing event) and 1 a non-conserved position. A stretch of 1s is called “missing
+         stretch” (M.S.) and is coloured in red. In this example the isoform has one missing
+         stretch. Controls are created by randomly changing the number of residues (size) of
+         the missing stretch according to a Poisson distribution with mean equal to the real
+         size of that stretch and randomly selecting the starting point of the stretch. (B) The isoform has two missing stretches and the region between them is called “non-missing
+         stretch” and is coloured in blue. The region that encompasses all the missing and
+         non-missing stretches is called variable region. Again, controls are created changing
+         the size of the missing stretches, but also of the non-missing stretches (N-M.S.)
+         and by randomly selecting the starting point of the variable region. (C) A set of isoforms forming an overlap group, i.e. a group in which, for each isoform,
+         the missing stretches partially or totally overlap with those of one or more isoforms
+         from the same group. All the variable regions in the overlap group are fused into
+         an “overlapping variable region” divided into segments by the junctions between missing
+         stretches and non-missing stretches or regions outside variable regions, represented
+         as pipes in the figure. Each segment's size is randomly changed according to a Poisson
+         distribution with mean equal to the segment's size, then the starting point of the
+         newly formed overlapping variable region is randomly selected.
+      
+      Table 1. Example of a 2×2 contingency table computed for an interface/isoform pair in the single-isoform
+            test
+      In the all-isoforms test, each control consists in a group of decoy isoforms of the
+         interacting protein, each one made from one of the real alternative transcripts. In
+         this case the overlap between missing stretches of different isoforms has to be maintained:
+         this way the extension of the regions of the interacting protein that are alternatively
+         spliced does not vary much, the only source of variation being the pulsation of the
+         missing stretch. To create a control for a given protein, we first divided the set
+         of isoforms of that protein in subgroups called “overlap groups”, such that every
+         isoform in an overlap group had at least one missing stretch totally or partially
+         overlapping with the missing stretches of one or more isoforms belonging to the same
+         group, but not to other groups; each isoform with no overlapping partners was assigned
+         to its own single-member overlap group. For each overlap group, an “overlapping variable
+         region”, ranging from the minimum starting position to the maximum ending position
+         among all the variable regions of the isoforms from that group, was identified. All
+         the junctions between a missing and a non missing stretch or between a missing stretch
+         and a region outside the overlap group were used to split the corresponding overlapping
+         variable region into segments: each segment is a partial or entire missing or non-missing
+         stretch that is shared among a specific sub-group of isoforms belonging to the overlap
+         group. For each overlap group, the starting position and the size of every segment
+         was changed by sampling from a Poisson distribution as previously described for the
+         single-isoform test. This process is illustrated in Figure&nbsp;4C. All the newly formed overlapping variable regions were used to create the control
+         decoy isoforms, assigning each varied segment to the isoforms from which it derives,
+         provided that:
+      
+      – no pair of overlapping variable regions shows an overlap between segments derived
+         from a missing stretch;
+      
+      – since the previous condition favors the shortening of the missing stretches (shorter
+         segments are less likely to overlap), if there are multiple overlap groups, the total
+         number of residues in the varied missing exons must not be less than 90% of the total
+         size of the real missing exons.
+      
+      1000 controls were created for each interface. Again, we performed a CMH test, compiling
+         for each (semi-)interface a contingency table with variables “alternative splicing”
+         (real or control) and “interface removal” (more than a certain fraction of the isoform
+         is removed in at least one isoform or not).
+      
+      To test whether hot spots are more removed or protected than other interface residues,
+         a CMH test was performed, assigning to each (semi-)interface/isoform pair a contingency
+         table in which the number of hot spot and non-hot spot residues that are removed or
+         not were reported.
+      
+      All the statistical tests were performed using R version 2.14.2 [54].
+      
+      Assessment of the GO terms enrichment
+      For each interface-removal threshold value, we assigned each spliced interface/isoform
+         pair a score equal to the fraction of the single-isoform test controls that remove
+         the interface, representing how much that interface is exposed to splicing in that
+         particular isoform. We then selected all the proteins associated to a score lower
+         than 0.5 (i.e. those in which the interface is selectively removed with respect to
+         a background of splicing in at least one isoform). The interfaces that are not spliced
+         in any isoform were assigned a score equal to the fraction of the all-isoforms test
+         controls that remove the interface, and those having a score higher than 0.5 (i.e.
+         those proteins whose alternative splicing selectively avoids the binding site) were
+         selected. We employed Gorilla [55,56] to evaluate the GO terms enrichment for both lists of proteins (those having selectively
+         spliced or selectively protected interfaces) against the proteins data set used in
+         the test (heterodimeric or homodimeric). The evaluation of the GO terms enrichment
+         was repeated for each value of the interface-removal threshold. Only the GO terms
+         for which a False Discovery Rate q-value &lt; 0.05 was obtained were considered as significantly
+         enriched. Different cutoff values other than 0.5 were also tested, obtaining similar
+         results.
+      
+      Evaluation of the expression of alternative transcripts
+      The tissue-specific expression of the CUL4A transcript variants was retrieved from
+         DBATE (Bianchi et al., submitted; URL: http://bioinformatica.uniroma2.it/DBATE/ webcite), an online database of alternative transcripts expression that was developed in
+         our laboratory. This database was created processing thirteen RNA-seq panels from
+         human tissues gathered from the Gene Expression Omnibus (GEO) service [57] using the Tuxedo suite, which employs Bowtie [58], Cufflinks [59] and TopHat [60], to map the sequence reads to the human genome (hg19 assembly) and to evaluate the
+         normalized expression of the Ensembl splicing variants reported in Fragments Per Kilobase
+         of transcript per Million mapped reads (FPKM).
+      
+      Description of additional data files
+      The following additional data files are available with the online version of this
+         paper. Additional files 1 and 2 are tables listing, respectively, all the heterodimeric semi-interfaces and the homodimeric
+         interfaces we analyzed, along with the alternative isoforms and the number of interface
+         residues they lack. The Additional file 3 is a set of tables summarizing the results for single-isoform and all-isoforms tests
+         performed on both heterodimeric and homodimeric entire binding sites. The Additional
+         file 4 is a set of tables summarizing the results of single-isoform and all-isoforms tests
+         performed on the hot spot residues of heterodimeric binding sites. Additional files
+         5 and 6 are tables listing all the transcripts that selectively lack heterodimeric and homodimeric
+         binding sites, respectively.
+      
+      Additional file 6. Selectively spliced homodimeric interfaces. This table lists the ENSTs of all the transcripts that selectively remove a homodimeric
+         interface.
+         	Format: XLS 
+         	Size: 34KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Excel Viewer
+   
+

@@ -1,0 +1,126 @@
+Methods
+   
+      Isle of Wight study
+      Study population and characteristics
+      A whole population birth cohort was established on the Isle of Wight, UK, in 1989
+         to prospectively study the natural history of allergic diseases from birth to 18&nbsp;years
+         of age. The island is close to the British mainland, semi-rural, and without heavy
+         industry. Both the Isle of Wight and the study population are 99% Caucasian. Ethics
+         approvals were obtained from the Isle of Wight Local Research Ethics Committee (now
+         named the National Research Ethics Service, NRES Committee South Central – Southampton
+         B) at recruitment and for the 1, 2, 4, 10 and 18&nbsp;years follow-up (06/Q1701/34). Of
+         the 1,536 children born between January 1, 1989, and February 28, 1990, written informed
+         consent was obtained from parents to enrol 1,456 newborns. Children were followed
+         up at the ages of 1 (n = 1,167), 2 (n = 1,174), 4 (n = 1,218), 10 (n = 1,373), and
+         18&nbsp;years (n = 1,313). Detailed questionnaires were completed for each child at each
+         follow-up. When a visit was not possible, a telephone questionnaire was completed
+         or a postal questionnaire sent for completion and return.
+      
+      In all assessments of the Isle of Wight birth cohort, eczema was defined as chronic
+         or chronically relapsing, itchy dermatitis lasting more than 6&nbsp;weeks with characteristic
+         morphology and distribution [23], following Hanifin and Rajka criteria [24]. Since the 1-year and 2-year follow-up data on eczema were collected in a relatively
+         small time window, we combined them for analytic purposes (reported as 1-or-2&nbsp;years).
+      
+      Genotyping
+      DNA was extracted from blood or saliva samples from IOW cohort subjects (n = 1,211).
+         Seven SNPs in the IL13 gene were selected for genotyping using a tagging strategy implemented in Haploview
+         using HapMap Caucasian data (Hapmap Data PhaseIII/Rel#2, Feb09, on NCBI B36 assembly,
+         dbSNP b126) [25]. One SNP in STAT6 was selected for replication purposes. DNA samples were interrogated using GoldenGate
+         Genotyping Assays (Illumina, Inc, SanDiego, CA) on the BeadXpress Veracode bead platform
+         (Illumina, Inc, SanDiego, CA) per Illumina’s protocol. Data were analyzed using the
+         genotyping module of the GenomeStudio Software package (Illumina, Inc, SanDiego, CA).
+         DNA from each subject plus 37 replicate samples, genotyped for control purposes, were
+         analyzed for a total of 1,248 samples (trios were not available). The quality threshold
+         for allele determination across samples was set at a GenCall score &gt;0.25 with n = 1,227
+         samples retained for further analysis. Analysis of each locus included reclustering
+         of genotyping data using our project data to define genotype cluster positions with
+         additional manual reclustering to maximize both cluster separation and the 50th percentile
+         of the distribution of the GenCall scores across all genotypes (50% GC score). GenCall
+         score is a quality metric of the Illumina GenomeStudio software that indicates the
+         reliability of the genotypes called on SNP arrays, with scores ranging from 0.0 to
+         1.0. The proprietary algorithm for converting raw allele intensities into genotypes
+         considers angle of the clusters, dispersion of clusters, overlap between clusters,
+         and intensity. Genotypes with lower GenCall scores are located furthest from the center
+         of the cluster. For the analyzed STAT6 and IL13 SNPs the sample call rates were over 95.5%. GenCall scores and other quality metrics
+         for SNPs rs20541 and rs1059513 are reported in Additional file 1: Table S1.
+      
+      Additional file 1: Table S1. Quality control indices for genotyping IL13 rs20541 and STAT6 rs1059513 in the Isle of Wight population and PAPA study population.
+         	Format: PDF 
+         	Size: 68KB Download file or  display content in a new windowThis file can be viewed with: Adobe Acrobat Reader
+      Swansea PAPA study
+      Study population and characteristics
+      PAPA (Poblogaeth Asthma Prifysgol Abertawe, Swansea University Asthma Population) is a cross-sectional population-based study.
+         The study group comprised 1,445 unselected Caucasian volunteers (aged 18–30) from
+         students and staff at Swansea University and Singleton Hospital, Swansea, United Kingdom.
+         Eczema was defined by a positive response to ‘Have you ever had eczema?’ and further
+         defined by whether participants currently had symptoms using a validated questionnaire
+         [26].
+      
+      Genotyping
+      DNA was extracted from blood samples provided by the PAPA population subjects (n = 1445).
+         Eight and seven variants in IL13 and STAT6 genes, respectively, that were reported to be common in populations of European ancestry
+         and/or showed potential association with allergic phenotypes were selected for genotyping.
+         In order to ensure sufficient heterozygosity in our population, variant selection
+         was refined by genotyping a small sample of our population for the selected SNPs of
+         interest by automated DNA sequencing (ABI PRISMTM 310 Gene Analyser). Following SNP
+         selection, genotyping of selected SNPs was performed by KBioscience (http://www.kbioscience.co.uk webcite) using a fluorescence-based competitive allele-specific PCR system (KASPar). This
+         proprietary system has been developed from the Ampliflour system. SNP Call rates were
+         over 98% for all variants (Additional file 1: Table S1). A random sample of the population (n = 30) underwent in-house automated
+         DNA sequencing (ABI PRISM 310 Gene Analyzer) with results validated against the overall
+         genotyping results for the population and results were concordant (trios were not
+         available). Randomly selected samples were also analyzed in duplicate by KBioscience
+         to provide further validation. Blank cells were included on each 96-well plate (sterile
+         water) providing negative controls.
+      
+      Statistical analysis
+      Period prevalence of eczema in the IOW study was determined for each follow-up (1-or-2,
+         4, 10, and 18&nbsp;years) by dividing the number of participants with eczema by the total
+         number of individuals who participated in the respective follow-up. Similarly, the
+         proportion of participants with eczema in the PAPA study was determined. In both studies,
+         proportion of individuals with eczema was further stratified by IL13 (rs20541) and STAT6 (rs1059513) SNP genotypes. In this report we limited our analysis to a single SNP
+         in each gene due to their known relevance to characteristics of the outcome under-investigation
+         (eczema) and their availability in both studies. The STAT6 tagging SNP rs1059513 is the only common SNP in STAT6 that had been genotyped in both studies. In regard to IL13, four SNPs were in common between the two studies, namely rs20541, rs1800925, rs1295685,
+         and rs1881457. In both the IOW and PAPA studies the four SNPs are in medium to high
+         linkage disequilibrium (D′ values: IOW: 52 – 99; PAPA: 53 – 99; r2 values: IOW: 26 – 97; PAPA: 26 – 99). This observation of elevated linkage disequilibrium
+         between SNPs in IL13 gene had been reported previously [17,27]. Due to the moderate to high linkage disequilibrium between the four SNPs we restricted
+         our analysis to the functional (non-synonymous) SNP rs20541, which in turn is also
+         a proxy of other SNPs in the region. Deviation from Hardy-Weinberg Equilibrium (HWE)
+         was tested by conducting χ2 goodness-of-fit test for genotype frequencies in both study populations. A p-value &lt; 0.05
+         was used as an indicator for possible violation of HWE.
+      
+      Odds ratios are likely to overestimate the risk ratios due to the fact that the prevalence
+         of eczema is common (&gt; 10%) in most of the strata used in our analysis [28]. To evaluate associations between SNP genotypes and eczema, log-binomial regression
+         was applied to estimate risk ratios (RRs) and 95% confidence intervals (CIs). Exponentiating
+         coefficients associated with explanatory variables (i.e., SNP genotypes) estimated
+         by log-binomial regression with a log link function allowed us to directly estimate
+         RRs [28]. To estimate the overall effect of SNP genotypes on eczema, which was repeatedly
+         measured at 1-or-2, 4, 10, and 18&nbsp;years in the IOW study, we applied generalized estimating
+         equation (GEE) method [29]. The GEE approach accounts for the correlated observations and the within-child effect
+         by employing a covariance matrix solved through an iterative estimating process based
+         on a working correlation matrix [29]. Log-binomial models were estimated using the GENMOD procedure in SAS 9.2 (SAS, Gary,
+         NC, USA). In all statistical models age and sex were included as potential covariates
+         and a p-value &lt; 0.05 was used to indicate statistical significance.
+      
+      In a first exploratory step, the associations between genotypes of the two SNPs and
+         eczema were explored using co-dominant, dominant, recessive, and additive genetic
+         models. We applied log-binomial regression models to obtain RRs for eczema relative
+         to SNPs in IL13 and STAT6 separately. Although, results of this step are not the focus of this article, controlling
+         for false-positive findings was performed using the false discovery rate (FDR) method
+         [30]. However, the aim of this study is to test the statistical interaction of the two
+         SNPs for the risk of eczema. Therefore, in the discovery study using the IOW cohort,
+         log-binomial regression models {RR = exp(β1 × IL13 + β2 × STAT6 + β3 × [IL13 × STAT6])} were conducted to evaluate the statistical interaction between the SNPs of the
+         two genes under four genetic models (co-dominant, dominant, recessive, and additive).
+         To control for false-positive interactions, the FDR method was applied to obtain adjusted
+         p-values associated with the interaction terms. In the replication study, i.e. the
+         PAPA study, we only tested the statistical interaction between the two SNPs under
+         the genetic model that gained statistical significance in the discovery study. Following
+         the concept of replication, no correction for multiple testing was needed in the replication
+         study (one model was tested for interaction). The interaction term (β3 × [IL13 × STAT6]) was used to estimate the additional effect of two co-occurring risk factors on
+         the health outcome above and beyond their individual effects. The term “combined effect”
+         was used to describe the joint impact of two individual risk factors plus their interaction
+         on the occurrence of the outcome (eczema). We also applied an alternate approach to
+         estimate the combined effect of both risk factors; we compared the risk of eczema
+         in individuals who have both risk factors (IL13 and STAT6 risk genotypes) to the risk of individuals who have neither (IL13 and STAT6 wild genotypes). This approach was referred to as the “combined effect – stratification”.
+      
+   
+

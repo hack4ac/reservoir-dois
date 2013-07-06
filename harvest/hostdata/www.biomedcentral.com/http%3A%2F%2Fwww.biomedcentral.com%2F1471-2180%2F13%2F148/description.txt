@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Burkholderia cenocepacia  employs both N-Acyl homoserine lactone (AHL) and  cis -2-dodecenoic acid (BDSF) quorum sensing (QS) systems in regulation of bacterial virulence. It was shown recently that disruption of BDSF synthase RpfF Bc  caused a reduction of AHL signal production in  B. cenocepacia . However, how BDSF system influences AHL system is still not clear.
+
+				
+				
+					
+						Results
+
+					We show here that BDSF system controls AHL system through a novel signaling mechanism. Null mutation of either the BDSF synthase, RpfF Bc , or the BDSF receptor, RpfR, caused a substantial down-regulation of AHL signal production in  B. cenocepacia  strain H111. Genetic and biochemical analyses showed that BDSF system controls AHL signal production through the transcriptional regulation of the AHL synthase gene  cepI  by modulating the intracellular level of second messenger cyclic di-GMP (c-di-GMP). Furthermore, we show that BDSF and AHL systems have a cumulative role in the regulation of various biological functions, including swarming motility, biofilm formation and virulence factor production, and exogenous addition of either BDSF or AHL signal molecules could only partially rescue the changed phenotypes of the double deletion mutant defective in BDSF and AHL signal production.
+
+				
+				
+					
+						Conclusions
+
+					These results, together with our previous findings, thus depict a molecular mechanism with which BDSF regulates AHL signal production and bacterial virulence through modulating the phosphodiesterase activity of its receptor RpfR to influence the intracellular level of c-di-GMP.
+
+				
+			
+		

@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Our purpose was to develop and test a predictive model of the acute glucose response to exercise in individuals with type 2 diabetes.
+
+				
+				
+					
+						Design and methods
+
+					Data from three previous exercise studies (56 subjects, 488 exercise sessions) were combined and used as a development dataset. A mixed-effects Least Absolute Shrinkage Selection Operator (LASSO) was used to select predictors among 12 potential predictors. Tests of the relative importance of each predictor were conducted using the Lindemann Merenda and Gold (LMG) algorithm. Model structure was tested using likelihood ratio tests. Model accuracy in the development dataset was assessed by leave-one-out cross-validation.
+Prospectively captured data (47 individuals, 436 sessions) was used as a test dataset. Model accuracy was calculated as the percentage of predictions within measurement error. Overall model utility was assessed as the number of subjects with ≤1 model error after the third exercise session. Model accuracy across individuals was assessed graphically. In a post-hoc analysis, a mixed-effects logistic regression tested the association of individuals’ attributes with model error.
+
+				
+				
+					
+						Results
+
+					Minutes since eating, a non-linear transformation of minutes since eating, post-prandial state, hemoglobin A1c, sulfonylurea status, age, and exercise session number were identified as novel predictors. Minutes since eating, its transformations, and hemoglobin A1c combined to account for 19.6% of the variance in glucose response. Sulfonylurea status, age, and exercise session each accounted for <1.0% of the variance. In the development dataset, a model with random slopes for pre-exercise glucose improved fit over a model with random intercepts only (likelihood ratio 34.5, p < 0.001). Cross-validated model accuracy was 83.3%.
+In the test dataset, overall accuracy was 80.2%. The model was more accurate in pre-prandial than postprandial exercise (83.6% vs. 74.5% accuracy respectively). 31/47 subjects had ≤1 model error after the third exercise session. Model error varied across individuals and was weakly associated with within-subject variability in pre-exercise glucose (Odds ratio 1.49, 95% Confidence interval 1.23-1.75).
+
+				
+				
+					
+						Conclusions
+
+					The preliminary development and test of a predictive model of acute glucose response to exercise is presented. Further work to improve this model is discussed.
+
+				
+			
+		

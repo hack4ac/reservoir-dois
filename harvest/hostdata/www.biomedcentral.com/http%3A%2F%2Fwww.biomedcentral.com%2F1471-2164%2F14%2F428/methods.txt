@@ -1,0 +1,404 @@
+Methods
+   
+      Data sets
+      The reference genome of mouse (masked and unmasked, mm9) and DHS peaks in 55 samples
+         from ENCODE project [47] are obtained from University of California Santa Cruz Genome Bioinformatics website
+         (http://genome.ucsc.edu/ webcite) [48,49]. The data of GR ChIP-seq peaks, DHS peaks and expression array data in mouse 3134
+         mammary cells and pituitary cell line AtT-20 is from previous study [21] deposited at NCBI with SRA number of SRP004871 and GEO number of GSE26189. The data
+         of c-Jun ChIP-seq peaks and GR ChIP-seq peaks upon A-FOS is from the study [22] deposited at NCBI with SRA number of SRP007111. The data of Hoxa2 ChIP-seq peaks
+         is downloaded from supplementary data of Donaldson et. al’s study [23] deposited at NAR Online. The canonical motifs for GR, AP-1 and Pbx are selected based
+         on the enrichment of GR-like 8-mers, 7-mers, 8-mers in GR, c-Jun and Hoxa2 ChIP-seq
+         peaks. Custom Perl scripts are used to search GR, AP-1 and Pbx motifs base by base
+         across the whole masked mouse genome of mm9, and to extract the sequences with 750-bps
+         upstream and downstream to the center of each peak and motif from the unmasked genome
+         of mm9.
+      
+      Enrichment of GR-like 8-mers and AP-1 like 8-mers in ChIP-seq peaks
+      To calculate the enrichment of different 8-mers, we first generated the unique 32,896
+         8-mers by ignoring the complementary reverse 8-mers. Then we extracted the sequences
+         with 750-bps upstream and downstream to the center of each ChIP-seq peak from the
+         unmasked genome of mm9. For each sequence, we defined the DNA fragment of ±150-bps
+         to the center of peak as Peak region, and ±750-bps to ±150-bps to the center of peak
+         as Background region. For each 8-mer, we count the occurrence of the 8-mer in Peak
+         region as #PK, and occurrence of the 8-mer in Background region as #BG. The enrichment
+         for each 8-mer (E8-mer) is then calculated as: 
+            
+               
+                  
+                     E
+                     
+                        8
+                        −
+                        mer
+                     
+                  
+                  =
+                  
+                     
+                        #
+                        PK
+                     
+                     
+                        #
+                        BG
+                     
+                  
+                  
+                  ×
+                  
+                  
+                     
+                        
+                           1500
+                           −
+                           300
+                        
+                        300
+                     
+                  
+               
+            .
+      
+      Intrinsic nucleosome occupancy calculation
+      Two models for calculation of intrinsic nucleosome occupancy are used in our analysis.
+         One is intrinsic nucleosome occupancy score (INOS) based on Lasso algorithm from Hughes’
+         group [5,37] and the second model to predict nucleosome occupancy probability (PNOP) uses Segal’s
+         model [4]. For each 1,500-bps sequence, we calculated the INOSs and PNOPs for each 147-bps
+         slide window and moved the window one base-pair at a time to get the profile of INOSs
+         and PNOPs. The control set is 100,000 sequences random selected from mm9. The Peak
+         value of INOS is calculated from the middle 147-bps of each peak or motif. The Background
+         value of INOS is the average INOSs of regions from ±750 to ±150-bps to the peak or
+         motif. The Relative Peak value of INOS is calculated as Peak value minus Background
+         value. The INOS for excluding a specific motif (G-ACA---TGT-C or TGAC/GTCA) is calculated from the sequence whose motif is replaced by random bases but with
+         GC content of 42% as in the mouse genome.
+      
+      Modeling GR and c-Jun binding by a logistic regression
+      To analyze the GR and c-Jun binding to the canonical motifs, we performed a logistic
+         regression using the generalized linear model (GLM) with the R statistical language.
+         GLMs were formulated by John Nelder and Robert Wedderburn as a way of unifying various
+         other statistical models, including linear regression, logistic regression and Poisson
+         regression [50]. GLM is a standard package in R language for computation and modeling. For each motif
+         Mi, the binding value (BVi) for Mi is 1 if motif Mi occurs in the ChIP-seq peaks, otherwise BVi is 0. Three INOSs for each Mi are used for evaluated parameters: INOS of the Peak denoted as INOSp, INOS of the Backgroud denoted as INOSb, INOS of the Relative Peaks denoted as INOSrp. For the parameters of overlap with CGIs (CGI), with in clusters (CLT), co-occurrence
+         with the second motifs (CO), and located in DHSs (DHS), if it is true, the value is
+         1, otherwise is 0. The formula for calculated the GLM in R is: BV~ INOSp + INOSb + INOSrp + CGI + CLT + CO + DHS, with the binomial distribution. Let PBV be the conditional probability of motif Mi being bound, which is generated from the independent variables of INOSp, INOSb,INOSrp, CGI, CLT,CO, and DHS: PBV = P{BV=1| INOSp, INOSb, INOSrp, CGI, CLT, CO, DHS}, then the logistic regression is:
+      
+      
+         
+               
+                  
+                     
+                        P
+                        BV
+                     
+                     =
+                     
+                        
+                           
+                           exp
+                           
+                           
+                              
+                                 
+                                    β
+                                    0
+                                 
+                                 +
+                                 
+                                    β
+                                    1
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    p
+                                 
+                                 +
+                                 
+                                    β
+                                    2
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    b
+                                 
+                                 +
+                                 
+                                    β
+                                    3
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    rp
+                                 
+                                 +
+                                 
+                                    β
+                                    4
+                                 
+                                 ×
+                                 CGI
+                                 +
+                                 
+                                    β
+                                    5
+                                 
+                                 ×
+                                 CLT
+                                 +
+                                 
+                                    β
+                                    6
+                                 
+                                 ×
+                                 CO
+                                 +
+                                 
+                                    β
+                                    7
+                                 
+                                 ×
+                                 DHS
+                              
+                           
+                        
+                        
+                           1
+                           +
+                           
+                           exp
+                           
+                           
+                              
+                                 
+                                    β
+                                    0
+                                 
+                                 +
+                                 
+                                    β
+                                    1
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    p
+                                 
+                                 +
+                                 
+                                    β
+                                    2
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    b
+                                 
+                                 +
+                                 
+                                    β
+                                    3
+                                 
+                                 ×
+                                 
+                                    INOS
+                                    rp
+                                 
+                                 +
+                                 
+                                    β
+                                    4
+                                 
+                                 ×
+                                 CGI
+                                 +
+                                 
+                                    β
+                                    5
+                                 
+                                 ×
+                                 CLT
+                                 +
+                                 
+                                    β
+                                    6
+                                 
+                                 ×
+                                 CO
+                                 +
+                                 
+                                    β
+                                    7
+                                 
+                                 ×
+                                 DHS
+                              
+                           
+                        
+                     
+                  
+               (1)
+      
+      Where β0 is constant, and β1, β2, β3, β4, β5, β6, and β7 are the coefficients for INOSp, INOSb, INOSrp, CGI, CLT, CO, and DHS respectively. By logit transformation (link function), a linear
+         regression is generalized from formula (1), as follows:
+      
+      
+         
+               
+                  
+                     
+                        
+                           logit
+                           
+                              
+                                 P
+                                 BV
+                              
+                           
+                           =
+                           ln
+                           
+                              
+                                 
+                                    P
+                                    BV
+                                 
+                                 /
+                                 
+                                    
+                                       1
+                                       −
+                                       
+                                          P
+                                          BV
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                           =
+                           
+                              β
+                              0
+                           
+                           
+                              
+                                 +
+                                 β
+                              
+                              1
+                           
+                           ×
+                           
+                              INOS
+                              p
+                           
+                           +
+                           
+                              β
+                              2
+                           
+                           ×
+                           
+                              INOS
+                              b
+                           
+                           +
+                           
+                              β
+                              3
+                           
+                        
+                     
+                     
+                        
+                           
+                           ×
+                           
+                              INOS
+                              rp
+                           
+                           +
+                           
+                              β
+                              4
+                           
+                           ×
+                           CGI
+                           +
+                           
+                              β
+                              5
+                           
+                           ×
+                           CLT
+                        
+                     
+                     
+                        
+                           
+                           +
+                           
+                              β
+                              6
+                           
+                           ×
+                           CO
+                           +
+                           
+                              β
+                              7
+                           
+                           ×
+                           DHS
+                        
+                     
+                  
+               (2)
+      
+      The percent of variance explained (PVE) is calculated as: PVE = (1-(deviance/null.deviance))
+         × 100. For each parameter, the PVE denotes the significance for predicting GR or c-Jun
+         binding: the higher value of PVE means the parameter is more predictive. We also estimated
+         area under the ROC curve (AUC) using 11-fold cross-validation to measure the predictive
+         ability of the logistic regression model for comparison between TFs.
+      
+      Calculation of INOS for GR-like 8-mers and AP-1-like 8-mers
+      To calculate the INOS for each 8-mer, either GR-like (N-NNN---NNN-N) or AP-1-like
+         (NNNNNNNN), we first simulated a 150-bps DNA sequence using Markov model with the
+         8-mer fixed in the center and with the same GC content (42%) as mouse genome. We used
+         the seventh-order Markov model to produce the simulated 150 bps. The DNA sequences
+         were generated by using the 8-mer frequencies observed in mouse genome. To populate
+         each 150-bps DNA sequence, initially an 8-mer was chosen at random. To determine each
+         next base, the preceding 7-mer was identified. The frequency of the four 8-mers starting
+         with this 7-mer was determined, and the next base-pair was chosen by chance maintaining
+         this frequency. This process was continued until the entire 150-bps sequence was determined.
+         Then we calculated the INOS for the 150-bps DNA sequence. For each 8-mer, we repeat
+         the simulation for 1,000 times and the average value of the 1,000 INOSs is treated
+         as the INOS for the 8-mer. A random control set of DNA sequences are also calculated
+         with all 150-bps are simulated using Markov model with GC content of 42%. For each
+         control 8-mer, 1,000 sequences 150-bps long are simulated, and 32,896 times are repeated
+         to get the whole random control set.
+      
+      Simulation of co-occurrence of GR and AP-1 canonical motifs
+      To simulate the co-occurrence of GR and AP-1 canonical motifs in the genome, we used
+         uniform location model: the same occurrences of GR and AP-1 canonical motifs are generated
+         in each masked chromosome, but each location of the motif is selected uniformly at
+         random from each masked chromosome. For each chromosome with length N, we first generated
+         the locations where bases are not Ns (A|C|T|G), as {X+1, X+2, X+n}, X∈1,…N. If the
+         canonical motif occurs in the chromosome M times, then we random selected M positions
+         from {X+1, X+2, … , X+n} as the simulated occurrence. Then we simulated for all the
+         22 chromosomes to get the whole genome simulation. After generating the simulated
+         occurrence of GR and AP-1 canonical motifs, we calculated the distance between the
+         two motifs. 1,000 same simulations are repeated to generate the distribution of co-occurrence
+         of simulated GR and AP-1 motifs with 150-bps and from 150-bps to 900-bps. Similarly,
+         we simulated co-occurrence of the GR and AP-1 motifs in the DHS regions (~10% genome),
+         where all the simulated GR and AP-1 motifs occurred only in the DHS regions.
+      
+   
+

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Photosynthetic microorganisms that directly channel solar energy to the production of molecular hydrogen are a potential future biofuel system. Building such a system requires installation of a hydrogenase in the photosynthetic organism that is both tolerant to oxygen and capable of hydrogen production. Toward this end, we have identified the [NiFe] hydrogenase from the marine bacterium  Alteromonas macleodii  “Deep ecotype” that is able to be heterologously expressed in cyanobacteria and has tolerance to partial oxygen. The  A. macleodii  enzyme shares sequence similarity with the uptake hydrogenases that favor hydrogen uptake activity over hydrogen evolution. To improve hydrogen evolution from the  A. macleodii  hydrogenase, we examined the three Fe-S clusters found in the small subunit of many [NiFe] uptake hydrogenases that presumably act as a molecular wire to guide electrons to or from the active site of the enzyme. Studies by others altering the medial cluster of a  Desulfovibrio fructosovorans  hydrogenase from 3Fe-4S to 4Fe-4S resulted in two-fold improved hydrogen evolution activity.
+
+				
+				
+					
+						Results
+
+					We adopted a strategy of screening for improved hydrogenase constructs using an  Escherichia coli  expression system before testing in slower growing cyanobacteria. From the  A. macleodii  enzyme, we created a mutation in the gene encoding the hydrogenase small subunit that in other systems is known to convert the 3Fe-4S medial cluster to 4Fe-4S. The medial cluster substitution did not improve the hydrogen evolution activity of our hydrogenase. However, modifying both the medial cluster and the ligation of the distal Fe-S cluster improved  in vitro  hydrogen evolution activity relative to the wild type hydrogenase by three- to four-fold. Other properties of the enzyme including thermostability and tolerance to partial oxygen did not appear to be affected by the substitutions.
+
+				
+				
+					
+						Conclusions
+
+					Our results show that substitution of amino acids altering the ligation of Fe-S clusters in the  A. macleodii  [NiFe] uptake hydrogenase resulted in increased hydrogen evolution activity. This activity can be recapitulated in multiple host systems and with purified protein. These results validate the approach of using an  E. coli -cyanobacteria shuttle system for enzyme expression and improvement.
+
+				
+			
+		

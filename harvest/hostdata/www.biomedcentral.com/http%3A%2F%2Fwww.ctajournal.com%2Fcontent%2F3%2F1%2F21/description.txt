@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Our aim was to investigate the factors that affect health related quality of life (HRQL) in adult Swedish food allergic patients objectively diagnosed with allergy to at least one of the staple foods cow’s milk, hen’s egg or wheat. The number of foods involved, the type and severity of symptoms, as well as concomitant allergic disorders were assessed.
+
+				
+				
+					
+						Methods
+
+					The disease-specific food allergy quality of life questionnaire (FAQLQ-AF), developed within EuroPrevall, was utilized. The questionnaire had four domains: Allergen Avoidance and Dietary Restrictions (AADR), Emotional Impact (EI), Risk of Accidental Exposure (RAE) and Food Allergy related Health (FAH). Comparisons were made with the outcome of the generic questionnaire EuroQol Health Questionnaire, 5 Dimensions (EQ-5D). The patients were recruited at an outpatient allergy clinic, based on a convincing history of food allergy supplemented by analysis of specific IgE to the foods in question. Seventy-nine patients participated (28 males, 51 females, mean-age 41 years).
+
+				
+				
+					
+						Results
+
+					The domain with the most negative impact on HRQL was AADR, assessing the patients’ experience of dietary restrictions. The domain with the least negative impact on HRQL was FAH, relating to health concerns due to the food allergy. One third of the patients had four concomitant allergic disorders, which had a negative impact on HRQL. Furthermore, asthma in combination with food allergy had a strong impact. Anaphylaxis, and particularly prescription of an epinephrine auto-injector, was associated with low HRQL. These effects were not seen using EQ-5D. Analyses of the symptoms revealed that oral allergy syndrome and cardiovascular symptoms had the greatest impact on HRQL. In contrast, no significant effect on HRQL was seen by the number of food allergies.
+
+				
+				
+					
+						Conclusions
+
+					The FAQLQ-AF is a valid instrument, and more accurate among patients with allergy to staple foods in comparison to the commonly used generic EQ-5D. It adds important information on HRQL in food allergic adults. We found that the restrictions imposed on the patients due to the diet had the largest negative impact on HRQL. Both severity of the food allergy and the presence of concomitant allergic disorders had a profound impact on HRQL.
+
+				
+			
+		

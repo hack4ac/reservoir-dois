@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Although capecitabine has theoretical advantages in the pharmacokinetics, such as higher intratumoral and lower systemic concentration, relative to bolus 5-fluorouracil (5-FU), outcomes of chemoradiotherapy (CRT) with capecitabine or bolus 5-FU have not been directly compared in patients with locally advanced pancreatic cancer. Therefore, we retrospectively compared the outcomes, including toxicity, tumor response, and overall survival, of oral capecitabine plus radiotherapy (RT) with bolus 5-FU plus RT, in patients with locally advanced pancreatic cancer.
+
+				
+				
+					
+						Methods
+
+					Between August 2006 and January 2012, 98 patients with locally advanced pancreatic cancer received CRT, with 52 receiving concurrent oral capecitabine and 46 receiving bolus injection of 5-FU. Primary tumor and overall response after CRT were evaluated radiologically, and toxicity, tumor response, and overall survival (OS) were compared in the two groups.
+
+				
+				
+					
+						Results
+
+					Baseline clinical parameters of the two groups were similar. The rates of ≥ Grade 3 hematologic (0% vs. 8.7%,  p  = 0.045) and non-hematologic (0% vs. 8.7%,  p  = 0.045) toxicities were significantly lower in the capecitabine group than in the 5-FU group. Primary tumor (30.7% vs. 28.2%,  p  = 0.658) and overall (13.7% vs. 15.2%,  p  = 0.273) response rates and median OS time (12.5 months vs. 11.6 months,  p  = 0.655) were similar in the two groups.
+
+				
+				
+					
+						Conclusions
+
+					Capecitabine plus RT may be a safe and feasible regimen for patients with locally advanced pancreatic cancer, with similar efficacy and low rates of toxicities compared with bolus 5-FU plus RT.
+
+				
+			
+		

@@ -1,0 +1,57 @@
+Methods
+   
+      Setting
+      This is a cross-sectional study of patients registered with the primary health care
+         clinic at Salak in Sepang, Selangor, Malaysia. This clinic is run by a family medicine
+         specialist and 10 medical officers.
+      
+      Inclusion criteria
+      All registered diabetics more than age 18 and above and a minimum follow-up of three
+         months at Klinik Kesihatan Salak, Sepang, were eligible for the study. The sample
+         size was calculated by using Epi Info 6.0, based on the prevalence in local studies,
+         which ranged from 50–56 percent [15,16]. The estimated sample size was 185 with 90 percent power, 95 percent confidence interval
+         (CI), and statistical significant level (α) at 5 percent. The total number of respondents
+         needed was 240, after taking into account a non-respondent rate of 30 percent. Patients
+         were selected using a random sampling method. The estimated number of diabetic patients
+         that visit the clinic per day and in three weeks’ time were 32 patients and 480 patients.
+         Since the number of required test subjects was 240, the sampling interval of two was
+         used as the constant difference between subjects. The first starting number of 2 was
+         picked randomly from the registration counter.
+      
+      Data collection
+      A face-to-face interview was conducted using a structured questionnaire. A written
+         informed consent for participation in the study was obtained from participants. The
+         questionnaire was designed to capture patients’ socio-demographic data, co-morbidities,
+         types of CAM used, resources consulted, and the total expenditure on CAM. The attitudes,
+         beliefs, and perceptions towards CAM were explored. Documented most-recent results
+         of glycosylated hemoglobin (HbA1C) and blood pressure (BP) tests from the preceding
+         year were captured from the patients’ medical records. A pilot study involving 42
+         patients was done to pretest the questionnaire and estimate the likely response rate.
+         The main survey was administered during the first three weeks of May 2011 by three
+         medical students.
+      
+      Practical definition
+      A DM patient was defined as someone who was clinically diagnosed with diabetes or
+         was taking diabetic medications. Patients with hypertension were those whose BP ≥
+         140/90 mmHg or were on antihypertensive agents.
+      
+      CAM use in this study is defined as consumption in one of the five categories therapy:
+         biological-based therapies like herbal and dietary supplement; alternative medical
+         systems, like acupuncture or Ayurveda; energy therapies like Reiki; manipulative and
+         body-based systems like chiropractic or massage; and mind-body interventions like
+         tai chi or yoga [3].
+      
+      Data analysis
+      Statistical Package for Social Sciences (SPSS) v. 19.0 was used to analyze the data
+         collected from the study. The findings were described in terms of frequencies, percentages,
+         means, and standard deviations. The association between socio-demographic factors
+         (gender, age, race, religion, educational, occupation, family household income, and
+         duration and control of diabetes) and the CAM usage was determined by using Chi-square
+         test. Multivariate logistic regressions were used to identify predictors of CAM usage.
+      
+      Ethical approval
+      Ethical approval was obtained from the Ethics Committee of National Malaysia Research
+         Registry (NMRR-12-430-11052).
+      
+   
+

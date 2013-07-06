@@ -1,0 +1,1 @@
+A hybrid approach to the simultaneous eliminating of power-line interference and associated ringing artifacts in electrocardiograms

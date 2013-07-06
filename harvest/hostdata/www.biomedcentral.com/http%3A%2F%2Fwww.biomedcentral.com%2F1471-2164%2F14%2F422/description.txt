@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Mycobacterium tuberculosis  Beijing strains are characterized by a large number of IS 6110  copies, suggesting the potential implication of this element in the virulence and capacity for rapid dissemination characteristic of this family. This work studies the insetion points of IS 6110  in high-copy clinical isolates specifically focusing on the Beijing genotype.
+
+				
+				
+					
+						Results
+
+					In the present work we mapped the insertion points of IS 6110  in all the Beijing strains available in the literature and in the DNA sequence databases. We generated a representative primer collection of the IS 6110  locations, which was used to analyse 61 high-copy clinical isolates. A total of 440 points of insertion were identified and analysis of their flanking regions determined the exact location, the direct repeats (DRs), the orientation and the distance to neighboring genes of each copy of IS 6110 . We identified specific points of insertion in Beijing strains that enabled us to obtain a dendrogram that groups the Beijing genotype.
+
+				
+				
+					
+						Conclusions
+
+					This work presents a detailed analysis of locations of IS 6110  in high-copy clinical isolates, showing points of insertion present with high frequency in the Beijing family and absent in other strains.
+
+				
+			
+		

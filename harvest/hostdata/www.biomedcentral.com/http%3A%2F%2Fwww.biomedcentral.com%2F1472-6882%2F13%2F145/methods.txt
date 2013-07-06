@@ -1,0 +1,169 @@
+Methods
+   
+      Reagents and chemicals
+      Fluoroisothiocyanate (FITC)- labeled CD16, CD3, perforin, granzyme B, and phycoerytherin
+         (PE)-labeled CD56 and IL-2 neutralizing MQ1-17H12 monoclonal antibodies, GolgiStop™
+         solution and Perm/Wash™ solution were purchased from BD, USA; isotype control mouse
+         IgG1 and FITC goat anti-rabbit Ig were purchased from Abcam, USA; Enzyme Link Immunosorbent
+         Assay (ELISA) kit for IFN-γ, TNF-α and Granzyme B cytokines from Bender MedSystems,
+         Austria; NK cell and T cell isolation kits from Milteny Biotech, Germany; human recombinant
+         human Interleukin 2 (rhIL-2), trypan blue solution, DMEM were brought from Sigma,
+         USA.
+      
+      Preparation of the methanol extract of R. korthalsii
+      R. korthalsii methanol extract was prepared using the same extraction method as stated in our earlier
+         study [9]. R. korthalsii leaves (voucher no: FRIM 33687) were collected from Georgetown Herbal Farm, Penang,
+         Malaysia and was authenticated by Mr. Lim Chung Lu from the Forestry Division of the
+         Forest Research Institute of Malaysia (Kepong, Selangor). The leaves were then air-dried
+         and extracted using 250 mL of methanol (J.T. Baker, USA) for 72 hours. The extract
+         was filtered with Whatman filter paper no 1 and evaporated to dryness under reduced
+         pressure using Aspirator A-3S (EYELA, Japan) at &lt; 40°C. This process was repeated
+         three times (yield 27.3%, w/w) respectively. The methanol extract was dissolved in
+         DMSO (Sigma, USA) at a concentration of 10 mg/mL.
+      
+      Cell line and cell preparation
+      PBMC was isolated from five different blood donors using Ficoll-Plaque Plus (Amersham
+         Biosciences, USA) according to the manufacturer’s protocol. Informed consent was acquired
+         from all donors and this work was carried out in compliance with the Helsinki Declaration
+         for ethical approaches of conducting scientific research. This study was approved
+         by the ethical committee of University Putra Malaysia. In brief, one ratio of diluted
+         blood (1:1 ratio in PBS) sample was layered on 2 ratio of Ficoll-Plaque Plus (Amersham
+         Biosciences, USA), pelleted (400 g, 40 minutes at 18-20°C) and the buffy coat was collected, washed twice with PBS and
+         cultured in DMEM (Sigma, USA) (100 IU/mL of penicillin, 100 μg/mL of streptomycin
+         [Flowlab, Australia] and 10% v/v Fetal Bovine Serum [FBS] [PAA, Austria]). PBMC with
+         viability higher than 90% was subjected to the following assays.
+      
+      T cell and NK cell immunophenotyping for human PBMC
+      The T cell and NK population in the control and extract treated PBMC were identified
+         using flow cytometry surface antigen immunophenotyping. In brief, PBMC (5 × 105 cells/mL) was exposed to various concentrations of R. korthalsii methanol extract (50 μg/mL, 25 μg/mL or 1 μg/mL) for 24, 48 and 72 hours. Con-A (1
+         μg/mL) and LPS (1 μg/mL) treated PBMC and untreated PBMC were used as positive and
+         negative controls respectively. All samples were then washed, double stained with
+         10 μg/10 μL of conjugated anti-CD3 FITC (isotype control: Mouse IgG2a κ) and 12.5
+         μg/10 μL of conjugated anti-CD56 PE antibodies (isotype control: Mouse IgG1 κ) and
+         the population of CD3+ T cell and CD56+ NK cell were analyzed using BD FACSCalibur™ flow cytometer with BD CellQuest™ software
+         (BD Biosciences, USA).
+      
+      NK cell Granzyme B and perforin expressions
+      PBMC was treated with R. korthalsii extract at 25 μg/mL or rhIL-2 at 200 U/mL for 72 hours in 6 well plate (BD Biosciences,
+         USA). 2 hours before the end of the incubation period, the production of perforin
+         and granzyme B were inhibited by adding and mixing with 2 μL of BD GolgiStop™ into
+         each experimental well. Then, 1 × 106 cells were harvested, washed with 1 mL of PBS and stained with 12.5 μg/10 μL of conjugated
+         anti-CD 56-PE antibody in a final volume of 100 μL PBS for 30 minutes at 4°C. After
+         that, the cells were washed and incubated with 250 μL of Fixation/Permeabilization
+         solution (BD Biosciences, USA) for 20 minutes at 4°C. Subsequently, the cells were
+         then washed twice with BD Perm/Wash™ buffer, incubated with 5 μL of either 10 μg/10
+         μL of mouse anti-human Granzyme B-FITC (Isotype control: Mouse IgG1, κ) (BD Biosciences,
+         USA) or 10 μg/10 μL of mouse anti-human Perforin-FITC antibody (Isotype control: Mouse
+         IgG2b, κ) (BD Biosciences, USA), stained with second antibodies and analyzed using
+         BD FACSCalibur™ flow cytometer with BD CellQuest™ software (BD Biosciences, USA).
+      
+      NK cell Isolation
+      The PBMC was subjected to activation and treatment as stated below and summarised
+         in Figure&nbsp;1.
+      
+      Group 1: non-treated PBMC was cultured for 72 hours and subjected to NK cell magnetic
+         isolation
+      
+      Group 2: PBMC was treated with 200 IU/mL of human rIL-2 treated for 72 hours before
+         subjected to NK cell isolation
+      
+      Group 3: Direct NK cells activation whereby freshly isolated PBMC was subjected to
+         NK cell isolation and was further cultured in 25 μg/mL of R. korthalsii methanol extract for 72 hours.
+      
+      Group 4: Indirect NK cell activation whereby PBMC was treated with 25 μg/mL of R. korthalsii methanol extract for 72 hours before subjected to NK cell magnetic isolation.
+      
+      Figure 1. Brief description of NK cells treatment. G1 to G4 are the groups of treatment. Direct and indirect activations of R. korthalsii against NK cells were studied through isolation of NK cells before and after 72-hour
+         incubation with the extract.
+      
+      NK cell isolation kit by immunomagnetic negative selection (Milteny Biotech, Germany)
+         was used to isolate primary NK cells from isolated PBMC. In brief, either the freshly
+         isolated PBMC (for direct R. korthalsii methanol extract treatment) or the PBMC cultured 3 days with different treatment
+         was magnetically labeled with a cocktail of NK cell Biotin-Antibody Cocktail followed
+         by NK cell MicroBead Cocktail. The magnetically labeled cells were then separated
+         using MS column in the magnetic field of the MACS separator. Purity of NK cells was
+         quantified by using flow cytometry where the entire isolated NK cell was labeled with
+         anti-CD16-FITC (isotype control: Mouse IgG1 κ), anti-CD-56-PE (isotype control: Mouse
+         IgG1 κ) and analyzed by flow cytometer (BD Biosciences, USA). Isolated NK cell with
+         purity more than 95% were used for further studies.
+      
+      ELISA for determination of extra-cellular Granzyme B, IFN-γ and TNF-α
+      Expressions of Granzyme B, IFN-γ and TNF-α were performed using Cytokine Enzyme Link
+         Immunosorbent Assay (ELISA) kit (Bender MedSystems, Austria). In brief, the extracted
+         human NK cells after 72 hours of different treatments were cultured for another 24
+         hours without treatment. Another group of direct and indirect extract treated NK cells
+         were treated with 15 μg/mL of MQ1-17H12 antibody (BD, USA) to neutralize the activity
+         of IL-2 contributed mainly by the surrounding cell especially in the indirect extract
+         treated NK cell. Similarly, CD3 T cells were isolated using CD3 T cell isolation kit
+         by immunomagnetic positive selection based on the same grouping for the NK cell in
+         Figure&nbsp;1. The supernatant of these different control and treatment groups of T cell were subjected
+         to ELISA determination of extra-cellular Granzyme B, IFN-γ and TNF-α levels and compared
+         their effects with the treatments on the NK cell. The supernatant from each group
+         was collected, added into the pre-coated plate of the kit and incubated for 3 hours.
+         After that, these samples were washed and immediately added with 3,3′,5,5″-tetramethylbenzidine
+         (TMB) Peroxidase substrate followed by 1 M Phosphoric acid stop solution. The ELISA
+         plate was read at absorbance OD of 450 and 620 nm wavelengths using a μQuant ELISA
+         Reader (Bio-Tek Instruments, USA). The results were expressed in pg/mL. Each experimental
+         and control sample was assayed in three biological replicates. Data were expressed
+         as pg/mL.
+      
+      In vitro cytotoxicity of NK cell on NK cell sensitive K562 cell line
+      
+      The cytotoxicity of effector NK cell towards target K562 cell in the ratio of 2:1
+         and 10:1 for 24 hours was determined using CytoTox 96 nonradioactive cytotoxicity
+         assay kit (Promega, USA) according to the manufacturer’s protocol. The percentage
+         of cytotoxicity was calculated using the formula below
+      
+      
+         
+               
+                  
+                     %
+                     
+                     Cytotoxicity
+                     =
+                     
+                        
+                           OD
+                           
+                           sample
+                           -
+                           OD
+                           
+                           target
+                           
+                           spontaneous
+                           -
+                           OD
+                           
+                           effector
+                           
+                           spontaneous
+                        
+                        
+                           OD
+                           
+                           target
+                           
+                           spontaneous
+                           -
+                           OD
+                           
+                           effector
+                           
+                           spontaneous
+                        
+                     
+                     ×
+                     100
+                  
+               
+         
+      
+      Statistical analysis
+      All tests were carried out with 3 independent experiments and each of the experiment
+         consisted of 3 technical replicates. All results are expressed as Mean ± Standard
+         Error (S.E.M.). Significant levels (p &lt; 0.05) were evaluated using ANOVA test (one
+         way) followed by post hoc Duncan test.
+      
+   
+

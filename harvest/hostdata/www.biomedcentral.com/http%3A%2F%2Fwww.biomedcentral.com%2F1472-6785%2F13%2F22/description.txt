@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Developing a quick and reliable technique to estimate floral cover in deserts will assist in monitoring and management. The present attempt was to estimate plant cover in the UAE desert using both digital photography and field sampling. Digital photographs were correlated with field data to estimate floral cover in moderately (Al-Maha) and heavily (DDCR) grazed areas. The Kruskal-Wallis test was also used to assess compatibility between the two techniques within and across grazing intensities and soil substrates.
+
+				
+				
+					
+						Results
+
+					Results showed that photographs could be a reliable technique within the sand dune substrate under moderate grazing (r = 0.69). The results were very poorly correlated (r =−0.24) or even inversely proportional (r =−0.48) when performed within DDCR. Overall, Chi-square values for Al-Maha and DDCR were not significant at P > 0.05, indicating similarities between the two methods. At the soil type level, the Kruskal-Wallis analysis was not significant (P > 0.05), except for gravel plains (P < 0.05). Across grazing intensities and soil substrates, the two techniques were in agreement in ranking most plant species, except for  Lycium shawii .
+
+				
+				
+					
+						Conclusions
+
+					Consequently, the present study has proven that digital photography could not be used reliably to asses floral cover, while further testing is required to support such claim. An image-based sampling approach of plant cover at the species level, across different grazing and substrate variations in desert ecosystems, has its uses, but results are to be cautiously interpreted.
+
+				
+			
+		

@@ -1,0 +1,6 @@
+
+Abstract
+
+Despite the same manufacturer, the same drotrecogin alfa activated dose, and the same placebo-controlled design, the negative result from the PROWESS-SHOCK trial contradicted the survival benefit observed in the PROWESS trial. We hypothesize that the different results were due to factors other than the experimental therapy and performed an analysis of the clinical heterogeneity (differences related to the trials' clinical aspects) and the statistical heterogeneity (differences related to the trials' statistical aspects) between these trials. Baseline characteristics and co-interventions were analyzed by chi-square testing and mortality was analyzed by random-effects modeling and I 2 . Our findings show that clinical variables presented significant heterogeneity, and that up to 90% of the mortality differences between both trials were not due to chance. These results demonstrate that PROWESS and PROWESS-SHOCK are not comparable trials due to the highly significant clinical and statistical heterogeneity. We propose a new and pragmatic solution.
+
+

@@ -1,0 +1,42 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Large numbers of patients with psychosis have regular meetings with key clinicians in the community. There is little evidence on how these meetings should be conducted to be therapeutically effective. DIALOG, a computer mediated procedure, was shown to improve outcomes in a European multi-centre trial. DIALOG structures the patient-clinician communication and makes it patient-centred, but does not guide clinicians as to how to respond to patients’ concerns. DIALOG has been further developed into DIALOG+, which uses advanced software and, additionally, provides a four step approach - based on a solution focused model - for addressing patients’ concerns. We designed a cluster randomised controlled trial to test the effectiveness of DIALOG+ in improving treatment outcomes of patients with psychosis in the community.
+
+				
+				
+					
+						Methods/design
+
+					
+					Key workers are recruited from community mental health teams in East London and randomly allocated to either the intervention or control group. Out of their case loads, we identify patients with schizophrenia (F 20–29) and a moderate or lower level of subjective quality of life (MANSA score <5), who are treated according to the allocation of their key workers. Key workers in the intervention group are trained in using DIALOG+ and use it with each patient over a six-month period. Control patients rate their satisfaction with life and treatment on a tablet to control for the effect of regular ratings and the use of modern technology. We are recruiting up to 42 key workers to reach a total sample size of 180 patients. Clinical and social outcomes including costs are assessed after 3, 6 and 12 months. Primary outcome is subjective quality-of-life at 6 months.
+
+				
+				
+					
+						Discussion
+
+					
+					The trial aims to evaluate the effectiveness of a novel intervention (DIALOG+) which uses modern technology to support routine patient-clinician meetings in community care, makes the communication patient centred and guides patients and clinicians to address concerns. DIALOG+ is a generic and widely applicable intervention. If shown as effective, it can be used to improve outcomes of community care on a large scale, ensuring that routine encounters are therapeutically effective. DIALOG+ can also be implemented across services at relatively low additional costs.
+
+				
+				
+					
+						Trial registration
+
+					
+					Current Controlled Trials 
+						 ISRCTN34757603 
+					
+
+				
+			
+		

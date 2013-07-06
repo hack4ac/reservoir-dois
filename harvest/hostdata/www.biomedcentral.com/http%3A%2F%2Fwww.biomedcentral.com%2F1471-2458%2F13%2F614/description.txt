@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Several studies have simultaneously examined physical activity (PA) and cardiorespiratory fitness (CRF) with metabolic syndrome (MS). However, the independent roles of both PA and CRF with MS are less firmly established. The combined contributions of PA and CRF with MS are less studied, particularly among Chinese women. There is uncertainty over the extent to which metabolically healthy but overweight/obese individuals have a higher CRF level.
+
+				
+				
+					
+						Methods
+
+					The sample included 184 Chinese women aged 55 to 69 years with available metabolic data and lifestyle factors. PA was assessed by self-reported questionnaire; CRF was assessed by maximal oxygen consumption (VO 2max ) during a symptom-limited maximal exercise test on a cycle ergometer. Metabolically healthy/abnormal was defined on the basis of absence or presence of MS. Overweight was defined as a body mass index (BMI) of ≥ 23 kg/m 2  and obese was defined as a BMI of ≥ 25 kg/m 2 .
+
+				
+				
+					
+						Results
+
+					The prevalence of MS was 21.7%. PA was inversely associated with the prevalence of MS after adjustment for age, BMI, and dietary total calories intake, but the association was eliminated after further adjustment for CRF. CRF was inversely associated with the prevalence of MS independent of age, BMI, and dietary total calories intake, and the association remained significant after further adjustment for PA. In the PA and CRF combined analysis, compared with those in the lowest tertile of PA (inactive) and lowest tertile of CRF (unfit), the OR (95%CI) of having MS was 0.31 (0.09–1.06) for subjects in the higher tertiles (2 nd –3 rd ) of PA (active) but were unfit, 0.23 (0.06–0.88) for subjects who were inactive but in the higher tertiles (2 nd –3 rd ) of CRF (fit), and 0.14 (0.04–0.45) for subjects who were active and fit. Metabolically healthy but overweight/obese subjects had a higher CRF level than their metabolically abnormal and overweight/obese peers. However, the difference did not reach statistically significance.
+
+				
+				
+					
+						Conclusions
+
+					CRF has greater association with the prevalence of MS compared with PA in Chinese midlife women. The interrelationships between CRF, obesity, and MS needs further study.
+
+				
+			
+		

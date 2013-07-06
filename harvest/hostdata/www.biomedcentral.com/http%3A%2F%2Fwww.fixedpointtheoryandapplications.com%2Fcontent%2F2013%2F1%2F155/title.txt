@@ -1,0 +1,1 @@
+On weak convergence of an iterative algorithm for common solutions of inclusion problems and fixed point problems in Hilbert spaces

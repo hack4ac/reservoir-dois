@@ -1,0 +1,1 @@
+NOAA, ECMWF, GPS, Aves, Doppler-shift, Scaling, Measurement error, Flight direction, Flight speed

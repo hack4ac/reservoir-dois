@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Bluetongue (BT) can cause severe livestock losses and large direct and indirect costs for farmers. To propose targeted control strategies as alternative to massive vaccination, there is a need to better understand how BT virus spread in space and time according to local characteristics of host and vector populations. Our objective was to assess, using a modelling approach, how spatiotemporal heterogeneities in abundance and distribution of hosts and vectors impact the occurrence and amplitude of local and regional BT epidemics. We built a reaction–diffusion model accounting for the seasonality in vector abundance and the active dispersal of vectors. Because of the scale chosen, and movement restrictions imposed during epidemics, host movements and wind-induced passive vector movements were neglected. Four levels of complexity were addressed using a theoretical approach, from a homogeneous to a heterogeneous environment in abundance and distribution of hosts and vectors. These scenarios were illustrated using data on abundance and distribution of hosts and vectors in a real geographical area. We have shown that local epidemics can occur earlier and be larger in scale far from the primary case rather than close to it. Moreover, spatial heterogeneities in hosts and vectors delay the epidemic peak and decrease the infection prevalence. The results obtained on a real area confirmed those obtained on a theoretical domain. Although developed to represent BTV spatiotemporal spread, our model can be used to study other vector-borne diseases of animals with a local to regional spread by vector diffusion.
+
+			
+		

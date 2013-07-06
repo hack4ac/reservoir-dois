@@ -1,0 +1,25 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The movement of animals is strongly influenced by external factors in their surrounding environment such as weather, habitat types, and human land use. With advances in positioning and sensor technologies, it is now possible to capture animal locations at high spatial and temporal granularities. Likewise, scientists have an increasing access to large volumes of environmental data. Environmental data are heterogeneous in source and format, and are usually obtained at different spatiotemporal scales than movement data. Indeed, there remain scientific and technical challenges in developing linkages between the growing collections of animal movement data and the large repositories of heterogeneous remote sensing observations, as well as in the developments of new statistical and computational methods for the analysis of movement in its environmental context. These challenges include retrieval, indexing, efficient storage, data integration, and analytical techniques.
+
+				
+				
+					
+						Results
+
+					This paper contributes to movement ecology research by presenting a new publicly available system, Environmental-Data Automated Track Annotation ( Env - DATA ), that automates annotation of movement trajectories with ambient atmospheric observations and underlying landscape information.  Env - DATA  provides a free and easy-to-use platform that eliminates technical difficulties of the annotation processes and relieves end users of a ton of tedious and time-consuming tasks associated with annotation, including data acquisition, data transformation and integration, resampling, and interpolation. The system is illustrated with a case study of Galapagos Albatross ( Phoebastria irrorata ) tracks and their relationship to wind, ocean productivity and chlorophyll concentration. Our case study illustrates why adult albatrosses make long-range trips to preferred, productive areas and how wind assistance facilitates their return flights while their outbound flights are hampered by head winds.
+
+				
+				
+					
+						Conclusions
+
+					The new  Env - DATA  system enhances Movebank, an open portal of animal tracking data, by automating access to environmental variables from global remote sensing, weather, and ecosystem products from open web resources. The system provides several interpolation methods from the native grid resolution and structure to a global regular grid linked with the movement tracks in space and time. The aim is to facilitate new understanding and predictive capabilities of spatiotemporal patterns of animal movement in response to dynamic and changing environments from local to global ...

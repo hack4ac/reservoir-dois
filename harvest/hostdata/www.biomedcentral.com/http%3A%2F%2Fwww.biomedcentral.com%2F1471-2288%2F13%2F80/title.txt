@@ -1,0 +1,1 @@
+Multi-state model for studying an intermediate event using time-dependent covariates: application to breast cancer

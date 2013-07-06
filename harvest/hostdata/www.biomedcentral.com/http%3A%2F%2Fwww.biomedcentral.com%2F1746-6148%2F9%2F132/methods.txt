@@ -1,0 +1,24 @@
+Methods
+   
+      Sample collection and genotyping
+      Blood samples were collected randomly from 590 client-owned Shiba Inu-breed dogs with
+         the cooperation of their owners and veterinarians from different animal hospitals
+         in Japan. These dogs were clinically unaffected for GM1 gangliosidosis. The dogs were
+         native to the Japanese districts shown in Table&nbsp;1 and Figure&nbsp;1. The genotypes of the dogs were determined using real-time PCR as previously reported
+         [4].
+      
+      Retrospective survey and pedigree analysis
+      The number and the native district of the affected dogs were surveyed retrospectively
+         based on the records in our laboratory, which has been exclusively supporting the
+         diagnosis of this disease in Japan. Pedigree analysis was performed to elucidate the
+         genetic relationships among the affected dogs and carriers identified previously and
+         in the present study, as well as to deduce the pathway of transmission and distribution
+         of the mutant allele. The genetic relationships among the affected dogs and carriers
+         were analyzed using the pedigree records issued by the Nihon-ken Hozon-kai (http://www.nihonken-hozonkai.or.jp/ webcite) and the Japan Kennel Club (http://www.jkc.or.jp/ webcite), a kennel club certified by the Federation Cynologique Internationale (http://www.fci.be/ webcite).
+      
+      All the experimental procedures using animals and their specimens were performed in
+         accordance with the guidelines regulating animal use and ethics issued by the Experimental
+         Animals Committee at Kagoshima University.
+      
+   
+

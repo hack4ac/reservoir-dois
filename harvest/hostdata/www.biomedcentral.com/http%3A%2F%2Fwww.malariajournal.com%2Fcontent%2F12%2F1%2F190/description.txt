@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The objective of these analyses is to document the relationship between biomarker-based indicators of health and socioeconomic status (SES) in a low-income African population where the cumulative effects of exposure to multiple stressors on physiological functions and health in general are expected to be highly detrimental for the well-being of individuals.
+
+				
+				
+					
+						Methods
+
+					Biomarkers were collected subsequent to the 2008 round of the Malawi Longitudinal Study of Families and Health (MLSFH), a population-based study in rural Malawi, including blood lipids (total cholesterol, LDL, HDL, ratio of total cholesterol to HDL), biomarkers of renal and liver organ function (albumin and creatinine) and wide-range C-reactive protein (CRP) as a non-specific biomarker for inflammation. These biomarkers represent widely used indicators of health that are individually or cumulatively recognized as risk factors for age-related diseases among prime-aged and elderly individuals. Quantile regressions are used to estimate the age-gradient and the within-day variation of each biomarker distribution. Differences in biomarker levels by socioeconomic status are investigated using descriptive and multivariate statistics.
+
+				
+				
+					
+						Results
+
+					Overall, the number of significant associations between the biomarkers and socioeconomic measures is very modest. None of the biomarkers significantly varies with schooling. Except for CRP where being married is weakly associated with lower risk of having an elevated CRP level, marriage is not associated with the biomarkers measured in the MLSFH. Similarly, being Muslim is associated with a lower risk of having elevated CRP but otherwise religion does not predict being in the high-risk quartiles of any of the MLSFH biomarkers. Wealth does not predict being in the high-risk quartile of any of the MLSFH biomarkers, with the exception of a weak effect on creatinine. Being overweight or obese is associated with increased likelihood of being in the high-risk quartile for cholesterol, Chol/HDL ratio, and LDL.
+
+				
+				
+					
+						Conclusions
+
+					The results provide only weak evidence for variation of the biomarkers by socioeconomic indicators in a poor Malawian context. Our findings underscore the need for further research to understand the determinants of health outcomes in a poor low-income context such as rural Malawi.
+
+				
+			
+		

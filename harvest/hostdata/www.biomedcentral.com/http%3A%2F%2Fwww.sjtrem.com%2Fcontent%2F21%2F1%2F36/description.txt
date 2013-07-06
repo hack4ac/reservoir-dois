@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cardiopulmonary resuscitation (CPR) improves outcomes after cardiac arrest. Much of the lay public is untrained in CPR skills. We evaluated the effectiveness of a compression-only CPR video self-instruction (VSI) with a personal manikin in the lay public.
+
+				
+				
+					
+						Methods
+
+					Adults without prior CPR training in the past year or responsibility to provide medical care were randomized into one of three groups: 1) Untrained before testing, 2) 10-minute VSI in compressions-only CPR (CPR Anytime, American Heart Association, Dallas, TX), or 3) 22-minute VSI in compressions and ventilations (CPR Anytime). CPR proficiency was assessed using a sensored manikin. The primary outcome was composite skill competence of 90% during five minutes of skill demonstration. Evaluated were alternative cut-points for skill competence and individual components of CPR. 488 subjects (143 in untrained group, 202 in compressions-only group and 143 in compressions and ventilation group) were required to detect 21% competency with compressions-only versus 7% with untrained and 34% with compressions and ventilations.
+
+				
+				
+					
+						Results
+
+					Analyzable data were available for the untrained group (n = 135), compressions-only group (n = 185) and the compressions and ventilation group (n = 119). Four (3%) achieved competency in the untrained group (p-value = 0.57 versus compressions-only), nine (4.9%) in the compressions-only group, and 12 (10.1%) in the compressions and ventilations group (p-value 0.13 vs. compressions-only). The compressions-only group had a greater proportion of correct compressions (p-value = 0.028) and compressions with correct hand placement (p-value = 0.0004) compared to the untrained group.
+
+				
+				
+					
+						Conclusions
+
+					VSI in compressions-only CPR did not achieve greater overall competency but did achieve some CPR skills better than without training.
+
+				
+			
+		

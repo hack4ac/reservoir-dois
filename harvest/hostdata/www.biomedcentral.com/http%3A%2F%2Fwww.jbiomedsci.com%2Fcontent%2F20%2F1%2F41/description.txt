@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In non-excitable cells, one major route for calcium entry is through store-operated calcium (SOC) channels in the plasma membrane. These channels are activated by the emptying of intracellular Ca 2+  store. STIM1 and Orai1 are major regulators of SOC channels. In this study, we explored the functions of STIM1 and Orai1 in epidermal growth factor (EGF)-induced cell proliferation and migration in retinal pigment epithelial cells (ARPE-19 cell line).
+
+				
+				
+					
+						Results
+
+					EGF triggers cell proliferation and migration in ARPE-19 cells. Cell proliferation and migration involve STIM1 and Orai1, as well as phosphorylation of extracellular signal-regulated protein kinase (ERK) 1/2, and Akt. Pharmacological inhibitors of SOC channels and siRNA of Orai1 and STIM1 suppress cell proliferation and migration. Pre-treatment of mitogen-activated protein kinase kinase (MEK) inhibitors and a phosphatidylinositol 3 kinases (PI3K) inhibitor attenuated cell proliferation and migration. However, inhibition of the SOC channels failed to prevent EGF-mediated ERK 1/2 and Akt phosphorylation.
+
+				
+				
+					
+						Conclusions
+
+					Our results showed that STIM1, Orai1, ERK 1/2, and Akt are key determinants of EGF-mediated cell growth in ARPE-19 cells. EGF is a potent growth molecule that has been linked to the development of PVR, and therefore, STIM1, Orai1, as well as the MEK/ERK 1/2 and PI3K/Akt pathways, might be potential therapeutic targets for drugs aimed at treating such disorders.
+
+				
+			
+		

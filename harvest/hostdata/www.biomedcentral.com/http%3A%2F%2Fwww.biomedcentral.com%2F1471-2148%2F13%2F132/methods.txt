@@ -1,0 +1,209 @@
+Methods
+   
+      Study areas and sampling
+      The four lakes are situated in northeast Germany; about 100&nbsp;km north of Berlin (see
+         Table&nbsp;3 for more details). All lakes are small and shallow, and characterized as either clear,
+         structurally complex lakes with some coverage by submerged macrophytes (Schulzensee
+         and Döllnsee) or turbid, phytoplankton-dominated lakes without submerged macrophytes
+         (Gollinsee and Globsowsee). Geographical distances between the lakes range from 4–35&nbsp;km.
+         They are not connected by waterways and the small size of their inlets and outlets
+         allows dispersal only in years with extremely high water levels.
+      
+      Table 3. Characteristics of the four lakes included in the study
+      Fish were caught using Nordic multi-mesh gill nets (length 30&nbsp;m, height 1.5&nbsp;m; 12
+         mesh sizes from 5–55&nbsp;mm; Lundgrens Fiskredskapsfrabrik AB) or electrofishing with
+         200–400&nbsp;V&nbsp;DC current (4–8 electrofishing aggregates EFG 4000, EFGI 4000; Bretschneider
+         Spezialelektronik, Breitenbrunn, Germany) with anodic handnets (4–4.5&nbsp;m long, 40&nbsp;cm
+         diameter, 6&nbsp;mm mesh size) during summer and early autumn 2010. After capture, fish
+         were measured (mm total length, TL) and weighed (g wet mass, wm) and subsequently
+         stored on ice. In total, 185 roach (69 from Gollinsee, 70 from Schulzensee, 25 from
+         Globsowsee and 21 from Döllnsee) were processed. Due to methodological problems with
+         some individuals, the number of fish per analysis was slightly lower.
+      
+      Morphometric analysis
+      Body morphology of individual roach was examined using a landmark-based geometric
+         morphometric method [64]. Fish were photographed from the left side in a standardized way using a Nikon DX40
+         and a 28&nbsp;mm lens, which represents a normal lens when considering the sensor size
+         of the camera. Optical distortions were minimized by using a normal lens, a moderate
+         distance to the specimen, and an aperture close to the critical aperture. Individuals
+         were placed in a bowl of fine white gravel to obtain a straight position and the fins
+         were stretched out to make the fin base visible. A few specimens with injuries on
+         the left side were photographed from the right side and then the photographs were
+         digitally flipped horizontally prior to analysis. After taking the photo, individuals
+         were cut open to determine the sex. The shape data of the two sexes did not differ
+         significantly (Mahalanobis D = 1.0761; P = 0.53), therefore sexes were pooled for further analyses. All roach were at least
+         two summers old, an age where roach in lakes at this latitude are sexually mature
+         [65].
+      
+      Digital photographs were transferred to TPSdig2 (all TPS- programs http://life.bio.sunysb.edu/morph webcite) and 14 landmarks were digitized. To diminish measurement error, digitizing was always
+         performed by the same person. Haphazardly chosen individuals were repeated and results
+         were compared to determine reliability of the results. We checked for outliers with
+         the “Find outliers” function of the software MorphoJ. TPSSmall was used to determine
+         whether the amount of variation in shape in our data set was small enough to permit
+         statistical analyses in the linear tangent space approximated to the non-linear Kendall's
+         shape space. For all further analyses, MorphoJ was used. Landmark configurations were
+         aligned by Procrustes Superimposition [66] to minimize effects of translation, rotation and scaling. Shape data were size-corrected
+         using a regression of shape (i.e. Procrustes coordinates) on size (i.e. log centroid
+         size) for each lake separately. Residuals obtained from this regression were used
+         for all further analyses. A Discriminant Function analysis (DFA) and a Canonical Variate
+         analysis (CVA) were used to assess significance of shape differences between groups.
+         A pairwise comparison between all four lakes was conducted (Globsowsee vs. Döllnses
+         vs. Gollinsee vs. Schulzensee).
+      
+      Genetic (AFLP) analysis
+      AFLP analysis followed Vos et al. [67] with some exceptions noted below. Total genomic DNA was extracted from dorsal fin
+         tissue using DNeasy Tissue Kits (Qiagen, Hilden, Germany) following the manufacturer’s
+         protocol. DNA quality and concentration were inspected using a spectrophotometer (Nano
+         Drop 1000, Thermo scientific, Wilmington, USA). DNA (250&nbsp;ng per sample) was digested
+         for 6&nbsp;h at 37°C using 2&nbsp;U MseI and 10&nbsp;U EcoRI (all enzymes from New England Biolabs,
+         Ipswich, USA), 2&nbsp;μg BSA, 2&nbsp;μL EcoRI buffer, and 16&nbsp;μL sterilized dH20. Ligation was then performed by adding 2&nbsp;U T4 DNA-Ligase, 1&nbsp;μL MseI adapter, 1&nbsp;μL
+         EcoRI adapter, 4&nbsp;μL&nbsp;T4 DNA ligase buffer (10×), 4&nbsp;μL ATP and 7.5&nbsp;μL sterilized dH20 at 16°C overnight. Preselective amplification was carried out using one additional
+         base on each primer (MseI + C and EcoRI + A, oligonucleotides from Metabion International
+         AG, Martiensried, Germany) and a thermocycler (VWR DuoCycler, VWR International GmbH,
+         Darmstadt, Germany) programmed with a denaturation at 92°C for 20&nbsp;seconds, an annealing
+         at 56°C for 30&nbsp;seconds, and an elongation at 72°C for two minutes for a total of 20&nbsp;cycles,
+         followed by a final extension for 30&nbsp;minutes at 60°C. Selective amplification was
+         conducted under the same thermal protocol using four primer pairs where three additional
+         bases were added at 3’-end of each primer. On EcoRI-primers, four different fluorescent
+         dye labels were attached (6FAM™-labeled primers from Metabion; VIC®-, NED™- and PET®-labeled
+         ones from Applied Biosystems, Life Technologies, Darmstadt, Germany). Initially, 20
+         different primer-pair combinations were tested, and four gave best results (Table&nbsp;4). Fragments of selective amplification were denatured at 95°C for 5&nbsp;min and then
+         cooled on ice for 10&nbsp;min, before they were separated on an ABI 3500xl capillary sequencer
+         (Applied Biosystems) with an internal size standard (GeneScan-600 LIZ®; Applied Biosystems).
+         Correct fit of the size standard was visually inspected for all electropherograms.
+      
+      Table 4. Primer combinations of selective amplification
+      Signal processing and binning was conducted using Genemapper™ V.4.1 (Applied Biosystems).
+         Presence (1) or absence (0) of fragments were scored between 50 and 450&nbsp;bp using a
+         peak intensity threshold &gt; 100 relative florescent units. A bin width of 1&nbsp;bp and
+         a max peak of 1.5&nbsp;bp yielded optimization and fragments were scored between 50 to
+         450&nbsp;bp. A complete repetition of a random 17.4% of the samples yielded 97.8% reproducibility.
+      
+      The input data files for statistical analyses were prepared by AFLPDAT [68]. AFLP-SURV [69] was used to calculate the frequency of polymorphic fragments. To obtain information
+         on genetic structure within and among all four populations, genetic differentiation
+         was calculated by using a Bayesian approach (θ) as implemented in HICKORY [70], using 20,000 burn-in iterations and 100,000 final iterations. AFLP loci potentially
+         under selection (outlier loci) were identified using the BAYESCAN software [71] by assuming that loci influenced by directional selection show larger genetic differentiation
+         than neutral loci, and loci that have been subjected to balancing selection show a
+         lower genetic differentiation. This software uses a Bayesian likelihood method by
+         reversible jump Monte Carlo Markov Chains. From FST calculations, posterior probabilities of two models are estimated: one model including
+         selection on a certain locus (the locus-specific component of FST, α, is different from zero), the other one not. The Posterior Odds (ratio between
+         these probabilities) provides a detection level for a locus to be under selection.
+         We retained loci with P &gt; 0.97 (Posterior Odds &gt; 32) as outliers presumably under directional selection.
+         These calculations were run only with the 331 polymorphic AFLP loci. We further used
+         ARLEQUIN 3.5 to test for pairwise linkage disequilibrium (LD) of the outlier loci,
+         using 1000 steps in the Markov chain and a dememorization of 1000 steps.
+      
+      Predation pressure
+      To approximate the predation pressure by piscivores on roach for each lake, lake-specific
+         abundances of piscivorous fish were multiplied with the individual, size-dependent
+         predation risk of roach from that lake. For Globsowsee, Schulzensee and Gollinsee,
+         relative abundances of piscivorous fish were obtained from standardized gill net catches
+         (6–8 benthic multimesh gill nets set over night in autumn). We included perch (&gt;15&nbsp;cm
+         TL) (see [72] for a definition of piscivory in perch) and pike as piscivorous fish species. In
+         the fourth lake (Döllnsee), destructive gill-net fishing could not be conducted because
+         the lake is equipped with a 3D-telemetry system for in-situ studies of fish behavior. Therefore, we used information on fish assemblage composition
+         from gill-net samplings conducted in previous years [73,74]. The proportion of piscivores in Döllnsee calculated from earlier samplings is conservative
+         because the lake has been heavily stocked with pike during the last years, and hence
+         roach presumably experience an even greater predation pressure. The lake-specific
+         relative abundances of piscivorous fish were ranked from highest (predator abundance = 4)
+         to lowest (predator abundance = 1) (Figure&nbsp;2). Predation risk of prey fish is size-dependent due to gape limitation of piscivores
+         [21]. Therefore, predation risk of individual roach was ranked according to total length,
+         with TL ≥ 25&nbsp;cm: predation risk = 0; TL ≥ 20-25&nbsp;cm: predation risk = 1; TL ≥ 15-20&nbsp;cm:
+         predation risk = 2; TL ≥ 10-15&nbsp;cm: predation risk = 3; TL &lt; 10&nbsp;cm: predation risk = 4
+         (Figure&nbsp;2). The individual predation risk was ultimately multiplied with the rank among lakes
+         with respect to relative abundances of piscivores. Therefore, the smallest roach in
+         Döllnsee had the highest relative risk (4 × 4 = 16), whereas all roach &gt; 25&nbsp;cm TL
+         had a risk of zero, independent of lake of origin. For all subsequent analyses, the
+         obtained product for predation risk ranging from 0 to 16 was log2(x + 1)-transformed to achieve a near-linear distribution.
+      
+      Gut content and stable isotope analysis
+      Detailed data on roach diet composition was obtained from roach in Gollinsee (N = 42) and Schulzensee (N = 42). In the laboratory, roach guts were removed and stored in 5% formaldehyde for
+         subsequent GC. Individuals with empty stomachs were removed and the anterior third
+         of the gut was examined under a stereo microscope and the volume proportion (equivalent
+         to area proportion at uniform width) of each prey category observed in the sample
+         was estimated to the nearest 10%, adapted from Windell [75]. The observed prey items were grouped into two categories, namely benthic prey (trichoptera,
+         gastropods, isopods, chironomid larvae, bryozoans, algae and detritus) and pelagic
+         prey (cladocerans, copepods, water mites, ostracods, rotifers, and chaoborid larvae).
+         Eleven fish with empty guts were removed prior to analysis. A non-parametric Mann–Whitney
+         U test was conducted to compare the percentage of benthic and pelagic prey between
+         the two lakes.
+      
+      For SIA of carbon (13C/ 12C) and nitrogen (15 N/ 14 N) from roach (N = 46 from Schulzensee and N = 47 from Gollinsee, including fish with empty guts), a small sample of dorsal muscle
+         tissue was excised from each fish. To obtain baseline values of potential diet groups
+         for the omnivorous roach, macroinvertebrate samples for SIA were collected in April
+         and June from various sites in the littoral zone using a sweep net. Zooplankton samples
+         for SIA were taken by hauling zooplankton nets (55&nbsp;μm and 100&nbsp;μm) vertically through
+         the entire water column several times during summer. Samples were taken to the laboratory
+         and transferred to clean tap water to allow the animals to void their guts overnight.
+         Macroinvertebrates were then sorted into taxon groups and zooplankton samples were
+         filtered (100&nbsp;μm filters). All samples were dried at 60°C for 48&nbsp;hours, then ground
+         to a fine powder using a mortar and pestle and material of about 0.5&nbsp;mg dry mass was
+         loaded into tin cups. Carbon (%C) and nitrogen (%N) content and stable isotope ratios
+         of C (δ13C) and N (δ15N) were analyzed on a FlashEA 1112 elemental analyzer coupled to a Thermo Finnigan
+         DELTA Plus Advantage mass spectrometer (Thermo Electron Corporation, Waltham, MA, USA) at the
+         University of Jyväskylä, Finland. Stable isotope data are expressed in the conventional
+         delta notation as the relative difference between ratios of samples and international
+         standards (PeeDee Belemnite for δ13C, atmospheric N for δ15N). Analytical precision (mean SD from in-house standard) for each run was always
+         better than 0.3‰ for δ13C and δ15N.
+      
+      To calculate relative contribution of benthic and pelagic food sources to the diet
+         of roach in both lakes, the Bayesian isotope mixing model package SIAR (Stable Isotope
+         analysis in R) [76] was used in R version 2.12.0 [77]. Fractionation factors were set to 0.4 ± 1.3‰ for δ13C and 3.4 ± 1.0‰ for δ15N, as suggested in a previous study [78]. The mean isotopic value of the zooplankton samples of each lake was taken as an
+         end point for pelagic δ13C and δ15N values. Littoral δ13C and δ15N end points were calculated from the mean value of the macroinvertebrates, containing
+         trichoptera, isopoda, chironomidae and gastropoda. These taxa represent the most abundant
+         littoral macroinvertebrates consumed by roach.
+      
+      Association of shape data with genetic data and ecological variables
+      To reduce the dimensionality of the genotype information from 331 polymorphic AFLP
+         loci, we performed Principal Coordinate analysis (PCoA) by applying the standardized
+         covariance method. Genetic distance between two individuals was calculated as the
+         sum of loci with different character states, a method that automatically discards
+         monomorphic loci. These analyses were conducted in GenAlEx 6.5 [79,80]. To examine association of shape with genotype, general linear models (GLM) between
+         the dominant canonical variate (CV1) of shape data as dependent variable and lake
+         as group variable were calculated. We used contrasts between Döllnsee (the lake with
+         the most deviating shape) and the other three lakes. The first two axes of PCoA on
+         AFLP-data and their potential interactions with lake origin were then used as continuous
+         predictors. Using these GLMs, we tested whether the shape of roach differed among
+         the four lakes, and whether the aggregated lake-specific genotype contributed to this
+         differentiation. In a second step, we used only the three outlier loci and their interactions
+         with lake origin as binary predictors of shape. With these GLMs, we tested whether
+         the genotype outliers were directly associated with the differences in shape between
+         the lakes. GLM analyses were conducted in R version 2.15.1. [77].
+      
+      A two-block partial least square analysis (PLS), as implemented in MorphoJ, was used
+         to study the association of shape and ecological variables at the level of individual
+         roach. In all calculations, only those individuals for which all the respective variables
+         were available to facilitate paired comparisons were included. All variables used
+         in the second blocks were adjusted to standard deviate 
+            
+               
+                  b
+                  =
+                  
+                     
+                        
+                           x
+                           ij
+                        
+                        −
+                        
+                           x
+                           ¯
+                        
+                     
+                  
+                  /
+                  
+                     s
+                     i
+                  
+               
+            ; where si is the standard deviation of row or column i. To study correlation with predation
+         pressure, shape was used as a first block and relative predation pressure as second
+         block. To correlate shape with diet composition, PLS were calculated using percentage
+         of ingested diet items obtained from GC or isotope ratios. A permutation test against
+         the null hypothesis of independence (1000 randomization runs) was used for all PLS,
+         as implemented in the software MorphoJ.
+      
+   
+

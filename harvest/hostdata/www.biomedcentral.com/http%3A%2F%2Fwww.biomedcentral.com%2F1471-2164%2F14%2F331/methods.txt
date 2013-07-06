@@ -1,0 +1,132 @@
+Methods
+   
+      Bioinformatics
+      Bioinformatic analyses relied heavily on custom python scripts and the use of publically
+         available tools such as SAMtools [76] and BEDtools [77], as well as general data handling in R [78]. Python scripts critical for the analyses are available as supplementary material
+         (Additional file 14). Data were visualized in the Integrative Genomics viewer [79].
+      
+      Additional file 14. Different scripts used in the analyses.
+         	Format: ZIP 
+         	Size: 7KB Download file
+      RNA-seq mapping and transcriptome assembly
+      Embryo collection and RNA sequencing was performed as previously described [5]. Raw data files are available from NCBI’s short read archive (GSE22830). Reads were
+         mapped using Bioscope 1.3 (with default settings) and TopHat 1.3.1 (with default options
+         except: -a = 5, -I = 50, -F = 0). The resulting SAM-files were merged and a python
+         script (best_alignment.py) used to ensure that a read were only present once. We performed
+         transcriptome assembly using Cufflinks (version 1.2.1), with Ensembl annotation as
+         guide (Zv9, annotation version 64), using default settings except; F = 0.0, -j = 0.05,
+         -A = 0.08, --3-overhang-tolerance = 100. Additional programs in the Cufflinks pipeline
+         were used to merge files, compare transcripts to known annotation and detect differences
+         between the stages [80]. We created additional datasets using scripts; FPKM &gt; 3 using extract_gtf.py, TSS’s
+         using get_tss_bed.py and TTS using get_tts.py.
+      
+      Sequence analysis
+      We extracted transcript sequences using gffread in Cufflinks. These were subjected
+         to ORF prediction using getORF (with settings: -minsize 150, -sreverse_sequence No,
+         -find 1) from the EMBOSS suite [81]. The resulting protein sequences were processed by scripts and R handling to retrieve
+         the longest predicted ORF. We used Pfam to identify functional domains (Pfam A) [31] and domains considered significant by Pfam were used. A script (‘domain_compare.py’)
+         was used to identify if domains were retained, lost or gained relative to the closest
+         matching transcript. Detection of motifs in the 3’UTR was performed using UTRScan
+         [82].
+      
+      Alternative splicing
+      We used ASTALAVISTA version 2.2 [51] to quantify alternative splicing events. This program takes as input a GTF file (FPKM &gt; 3)
+         and outputs all splicing events in the annotation together with a code representing
+         type of event (exon skipping, intron retention, alternative acceptor site, alternative
+         donor site). We used python scripts to extract and count events from the ASTALAVISTA
+         output (summary.py and events.py).
+      
+      Detection of length changes in last exon
+      We designed a database of non-redundant last exons (get_last_exon.py) and after initial
+         filtering (exons &gt; 400&nbsp;bp, FPKM &gt; 3 in both samples, n = 10,349 last exons) we used
+         a script (find_extended_utrs.py) to idenitfy exons with a length change between pre-
+         and post-ZGA. This was achieved by counting the number of reads in the first and latter
+         part of the exon. A score was calculated as follows:
+      
+      
+         
+               
+                  
+                     Q
+                     =
+                     
+                        
+                           p
+                           2
+                           –
+                           p
+                           1
+                        
+                     
+                     *
+                     log
+                     
+                        
+                           
+                              FPKM
+                              pre
+                           
+                           +
+                           
+                              FPKM
+                              
+                                 post
+                                 )
+                              
+                           
+                           /
+                           2
+                        
+                     
+                  
+               
+         
+      
+      where p1 and p2 are the proportions of reads in the last part of the exon relative
+         to the first part pre- and post-ZGA, respectively. Exons with a shift towards more
+         reads in the last part post-ZGA will have a positive value. We weighted this value
+         using the log-transformed average of the exons FPKM values pre- and post-ZGA, assuming
+         that higher coverage gives a more robust estimate of change.
+      
+      Analysis of ChIP-seq data
+      Embryos for ChIP-seq were collected at 5.3 hpf and chromatin prepared as described
+         [83]. In accordance with institutional, national and international guidelines for early
+         stage (0–5.3 hpf) zebrafish embryos no ethics committee approval was needed for any
+         of the experiments performed in this study. Immunoprecipitation was performed using
+         H3K36me3 (Diagenode 058–050, Denville, NJ) and ChIP enriched DNA and input samples
+         prepared for sequencing according to Illumina standard protocol (#11257047 Rev.A).
+         ChIP-seq reads were mapped using BWA [84] and peaks detected using CCAT 3.0 (Settings: fragment size = 200, sliding window
+         size = 500, minimum score = 3.0) [85]. Intron and exons from single exon skipping events identified by ASTALAVISTA were
+         extracted with a script (extract_skipped_exon.py) and BEDtools used to count the number
+         of reads supporting each event. Events with &gt;5 reads post-ZGA were considered further.
+         We created databases of all introns and exons using the ‘all’ annotation. The number
+         of overlapping peaks and skipped exons (&gt;1&nbsp;bp overlap between peak and exon skipping
+         event: from start upstream intron to stop downstream intron) were calculated using
+         BEDtools and the random control using a script (bootstr_rand.py). We utilized Repitools
+         to construct metagens [86]. H3K4me3 and H3K27me3 peak data were from a recently published paper (Pauli et al.,
+         2012). We identified potential bidirectional promoters using ChIPpeakAnno [87] with the H3K4me3 data [13] and the ‘all’ gene annotation file. The TSS of either gene in the pair had to be
+         within 1000&nbsp;bp of the middle of the H3K4me3 peak.
+      
+      PCR and cloning
+      Newly assembled and annotated isoforms were validated by RT-(q)PCR. RNA from pools
+         of embryos at different stages was isolated using TRIzol reagent followed by RNA cleanup
+         using Qiagen RNeasy MiniKit (Hilden, Germany) as previously described [88]. Control RNA of kanamycin (Promega #C1381, Madison, Wisconsin) was added prior to
+         the RNA extraction and used as the reference control by qPCR. RNA was reverse transcribed
+         using iScript Select cDNA synthesis Kit (BioRad #170-8896, Hercules, CA) according
+         to the manufactures instructions. Primers were designed to cover specific sequences
+         resulting from alternative splicing (f11r), alternative TSS (dazl), and alternative last exon usage (magi1) (for details see Supplementary Table 1 in Additional file 15). The dynamics of the isoforms was confirmed by RT-qPCR. qPCR was performed with
+         the iCycler MyiQ real time PCR detection system and SYBR Green (BioRad, Hercules,
+         CA). Primers pairs gave no signal in PCRs lacking template (data not shown). Relative
+         expression was determined by the ∆∆-CT method. For pou5f1, both primers were designed in the sequence common for the predicted isoforms (Supplementary
+         Table 1 in Additional file 15). Presence of the isoforms at 3.5 hpf was confirmed by TOPO TA cloning (Invitrogen
+         K45-0001, Carlsberg, CA) and subsequent sequencing of randomly selected clones.
+      
+      Additional file 15. A list with description of the primers.
+         	Format: XLS 
+         	Size: 34KB Download fileThis file can be viewed with: Microsoft Excel Viewer
+      Data access
+      ChIP-seq data for H3K36me3 and input are available under [NCBI GEO GSE40629]. Our
+         RNA-seq data are available under [NCBI GEO GSE22830].
+      
+   
+

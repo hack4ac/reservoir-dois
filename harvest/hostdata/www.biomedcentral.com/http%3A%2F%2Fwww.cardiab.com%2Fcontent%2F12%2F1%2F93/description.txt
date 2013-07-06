@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Increased arterial stiffness is a cardiovascular outcome of metabolic syndrome (MetS). The chromosome 9p21 locus has been identified as a major locus for risk of coronary artery disease (CAD). The single nucleotide polymorphism (SNP), rs1333049 on chromosome 9p21.3 has been strongly associated with CAD and myocardial infarction. Increased arterial stiffness could be the link between the 9p21 polymorphism and increased cardiovascular risk. Since the impact of a genetic polymorphism on arterial stiffness especially in Asian populations has not been well defined, we aimed to investigate the association of arterial stiffness with rs 1333049 variant on chromosome 9p21.3 in Thai subjects with and without MetS risk factors.
+
+				
+				
+					
+						Methods
+
+					A total of 208 Thai subjects, aged 35–75 years, 135 with and 73 without MetS, according to IDF and NCEP-ATPIII criteria, were included in this study. Aortic-femoral pulse wave velocity (afPWV), brachial-ankle pulse wave velocity (baPWV) and aortic ankle pulse wave velocity (aaPWV) were measured and used as markers of arterial stiffness. The chromosome 9p21.3 locus, represented by the rs 1333049 variant and blood biochemistry were evaluated.
+
+				
+				
+					
+						Results
+
+					Arterial stiffness was elevated in subjects with MetS when compared with nonMetS subjects. PWV, especially afPWV increased progressively with increasing number of MetS risk factors (r = 0.322, P <0.001). We also found that the frequency distribution of the rs1333049 genotypes is significantly associated with the afPWV (P <0.05). In multivariate analyses, there was an association between homozygous C allele and afPWV (Odds ratio (OR), 8.16; 95% confidence interval (CI), 1.91 to 34.90; P = 0.005), while the GC genotype was not related to afPWV (OR, 1.79; 95% CI, 0.84 to 3.77; P = 0.129) when compared with the GG genotype.
+
+				
+				
+					
+						Conclusions
+
+					Our findings demonstrate for the first time that arterial stiffness is associated with genetic polymorphism in 9p21 and metabolic risk factors in a Thai population.
+
+				
+			
+		

@@ -1,0 +1,4 @@
+Abstract
+This paper is concerned with a class of high-order cellular neural networks (HCNNs) model with time-varying delays in the leakage terms. By using the Lyapunov functional method and differential inequality techniques, we establish sufficient conditions on the existence and exponential stability of anti-periodic solutions for the model. Our results complement some recent ones.
+MSC: 
+34C25, 34D40.

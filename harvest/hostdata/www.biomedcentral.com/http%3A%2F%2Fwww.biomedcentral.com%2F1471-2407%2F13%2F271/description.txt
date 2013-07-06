@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cancer–testis antigens (CTA) comprise a family of proteins, which are physiologically expressed in adult human tissues solely in testicular germ cells and occasionally placenta. However, CTA expression has been reported in various malignancies. CTAs have been identified by their ability to elicit autologous cellular and or serological immune responses, and are considered potential targets for cancer immunotherapy. The breast differentiation antigen NY-BR-1, expressed specifically in normal and malignant breast tissue, has also immunogenic properties. Here we evaluated the expression patterns of CTAs and NY-BR-1 in breast cancer in correlation to clinico-pathological parameters in order to determine their possible impact as prognostic factors.
+
+				
+				
+					
+						Methods
+
+					The reactivity pattern of various mAbs (6C1, MA454, M3H67, 57B, E978, GAGE #26 and NY-BR-1 #5) were assessed by immunohistochemistry in a tissue micro array series of 210 randomly selected primary invasive breast cancers in order to study the diversity of different CTAs (e.g. MAGE-A, NY-ESO-1, GAGE) and NY-BR-1. These expression data were correlated to clinico-pathological parameters and outcome data including disease-free and overall survival.
+
+				
+				
+					
+						Results
+
+					Expression of at least one CTA was detectable in the cytoplasm of tumor cells in 37.2% of the cases. NY-BR-1 expression was found in 46.6% of tumors, respectively. Overall, CTA expression seemed to be linked to adverse prognosis and M3H67 immunoreactivity specifically was significantly correlated to shorter overall and disease-free survival (p=0.000 and 0.024, respectively).
+
+				
+				
+					
+						Conclusions
+
+					Our findings suggest that M3H67 immunoreactivity could serve as potential prognostic marker in primary breast cancer patients. The exclusive expression of CTAs in tumor tissues as well as the frequent expression of NY-BR-1 could define new targets for specific breast cancer therapies.
+
+				
+			
+		

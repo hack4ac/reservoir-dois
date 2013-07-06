@@ -1,0 +1,26 @@
+Methods
+   
+      Genome database searches
+      Putative vkr sequences were searched using tBLASTn on genomic sequences available in the following
+         databases: GenBank (http://www.ncbi.nlm.nih.gov/blast/Blast.cgi), FlyBase (http://flybase.org/), VectorBase (http://www.vectorbase.org), Wellcome Trust Sanger institute databases (http://www.sanger.ac.uk/resources/databases/) and the JGI genome portal (http://genome.jgi-psf.org/). Additionally, we also searched for vkr sequences in Hydra magnipapillata (hydrazome), Schmidtea mediterranea (SmedDB) and Schistosoma japonicum(schistoDB) genome databases.
+      
+      Selected genomic sequences were analysed by GenScan (http://genes.mit.edu/GENSCAN.html) and Augustus (http://bioinf.uni-greifswald.de/augustus/) gene prediction servers, and putative VKR proteins were then determined. The presence
+         of VFT, TM and TK domains was verified, and their delimitation defined using the SMART
+         software (http://smart.embl-heidelberg.de/). Finally, TM regions were confirmed with the TMHMM server (http://www.cbs.dtu.dk/services/TMHMM).
+      
+      Phylogenetic analyses
+      Protein sequences (listed in Additional file 1) were aligned using ClustalW algorithm in the BioEdit v7.1 software, and manually
+         corrected. Maximum likelihood trees were built using MEGA5 [25] under the JTT+I+G model, with 100 bootstrap repetitions.
+      
+      Additional file 1. FastA text file containing the full length sequences of the 40 VKR proteins aligned
+            using the Clustal W algorithm. For VKR abbreviations, see Table&nbsp;1.
+         	Format: FAS 
+         	Size: 95KB Download file or  display content in a new window
+      Comparative modeling
+      Comparative modeling was performed on the VFT sequence domain of VKRs using the comparative
+         modeling web-server Modweb (https://modbase.compbio.ucsf.edu/scgi/modweb.cgi) of the ModBase databases. Calculation and evaluation of models were performed with
+         ModPipe software using sequence-sequence, sequence-profile and profile-sequence methods
+         for fold assignment and target-template alignment.
+      
+   
+

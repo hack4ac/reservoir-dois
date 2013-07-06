@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Using covariance or mean estimates from previous data introduces randomness into each power value in a power curve. Creating confidence intervals about the power estimates improves study planning by allowing scientists to account for the uncertainty in the power estimates. Driving examples arise in many imaging applications.
+
+				
+				
+					
+						Methods
+
+					We use both analytical and Monte Carlo simulation methods. Our analytical derivations apply to power for tests with the univariate approach to repeated measures (UNIREP). Approximate confidence intervals and regions for power based on an estimated covariance matrix and fixed means are described. Extensive simulations are used to examine the properties of the approximations.
+
+				
+				
+					
+						Results
+
+					Closed-form expressions are given for approximate power and confidence intervals and regions. Monte Carlo simulations support the accuracy of the approximations for practical ranges of sample size, rank of the design matrix, error degrees of freedom, and the amount of deviation from sphericity. The new methods provide accurate coverage probabilities for all four UNIREP tests, even for small sample sizes. Accuracy is higher for higher power values than for lower power values, making the methods especially useful in practical research conditions. The new techniques allow the plotting of power confidence regions around an estimated power curve, an approach that has been well received by researchers. Free software makes the new methods readily available.
+
+				
+				
+					
+						Conclusions
+
+					The new techniques allow a convenient way to account for the uncertainty of using an estimated covariance matrix in choosing a sample size for a repeated measures ANOVA design. Medical imaging and many other types of healthcare research often use repeated measures ANOVA.
+
+				
+			
+		

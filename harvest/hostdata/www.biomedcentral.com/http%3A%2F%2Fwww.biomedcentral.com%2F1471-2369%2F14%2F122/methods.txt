@@ -1,0 +1,98 @@
+Methods
+   
+      Patients
+      Eighty one adult patients (52 male, mean age 59.8 years, range 22–86 years) on chronic
+         maintenance HD for at least three months (mean HD duration 66 months, range 3–274
+         months) were included in the study. All patients were from the Dialysis Unit of the
+         University Department of Nephrology at “Hippokration” General Hospital who consented
+         to the protocol and entered the study consecutively. Chronic renal failure was attributed
+         to glomerulonephritis in 21 cases (25.9%), diabetes mellitus in 17 (21%), tubulointerstitial
+         nephritis in 10 (12.3%), polycystic kidney disease in 8 (10.0%), renovascular hypertension
+         in 7 (8.6%), and was undetermined in 18 cases (22.2%). Patients were clinically stable
+         without active malignancy, infection, or liver disease. None of the patients was receiving
+         antibiotics or immunosuppressive agents and none had a history of parathyroidectomy
+         at the time of the study. All patients were receiving conventional 3.5 to 4.5-h HD,
+         three times weekly, with synthetic (polysulphone or helixone) dialyzers, bicarbonate
+         dialysate and tinzaparin as standard anticoagulation. Dialysis prescription was guided
+         by a goal of achieving a value of Kt/V ≥1.2, as calculated by the second-generation
+         Daugirdas equation. The achieved Kt/V was 1.46 ±0.21 (range 0.92 – 2.0).
+      
+      The protocol conformed to the ethical guidelines of our institution and it was approved
+         by the Institutional Review Board of “Hippokration” General Hospital. All patients
+         signed an informed consent prior to the study entry.
+      
+      Laboratory methods
+      Blood samples were drawn from a peripheral vein under fasting conditions in the morning
+         of a midweek routine dialysis session. Serum samples were separated from clotted blood
+         by immediate centrifugation (1500g for 10 min), aliquoted and stored at −70°C until
+         assay. Serum levels of fetuin-A and OPG were measured by an enzyme-linked immunosorbent
+         assay (ELISA) using commercially available standard kits (human fetuin-A and human
+         osteoprotegerin, BioVendor GmbH Heidelberg, Germany, detection limit 0.35 ng/ml and
+         0.10 pmol/L respectively). Serum albumin, total cholesterol, triglycerides, HDL cholesterol,
+         LDL cholesterol, calcium, phosphorus and alkaline phosphatase were determined by routine
+         techniques using an automated analyser (Olympus AU560, Hamburg, Germany). Levels of
+         albumin were time averaged for the last six months before inclusion in the study.
+         Intact parathormone (iPTH) levels were measured by radioimmunoassay (RIA). Serum CRP
+         levels were measured by nephelometry. The detection limit was 3.75 mg/L and in the
+         statistical evaluation all values &lt;3.75 mg/L were treated as 3 mg/L.
+      
+      PWV measurements
+      cfPWV measurements were performed with the SphygmoCor® (AtCor® Medical, Sydney, Australia),
+         by a trained operator unaware of the patient’s clinical and laboratory parameters.
+         The device uses a high-fidelity applanation tonometer for transdermal pulse wave recording.
+         Each subject was examined in the supine position during a mid-week non-dialysis day
+         and within one month from blood sampling. cfPWV measurements were done in two steps.
+         The first step involved recording the carotid pulse wave, and the second recording
+         the femoral pulse wave, both with simultaneous ECG, for synchronization of carotid
+         and femoral pulse wave times. Transit time between carotid and femoral pressure waves
+         was calculated using the foot-to-foot method. Wave “foots” were identified using the
+         intersecting tangents algorithm. Two distances on the body surface were measured,
+         that is, from sternal notch to the femoral location and from sternal notch to the
+         carotid location of the respective pulse wave recording sites. On entering the data
+         into the computer, travelled distance was calculated automatically as the difference
+         between the two distances, that is, femoral location-sternal notch minus sternal notch-carotid
+         location. cfPWV results were expressed in meters per second (m/s) ± SD [13]. Measurements were considered reliable if the SD was ≤ 15% of the velocity value.
+         The mean of three such measurements was considered in the analysis. In two cases cfPWV
+         could not be reliably measured due to atrial fibrillation and impalpable femoral pulse.
+      
+      IMT measurements
+      Ultrasonographic studies were performed with an Aloka® Prosound A6 instrument (Aloka®,
+         Tokyo, Japan), using a 10 MHz high-resolution probe. Each subject was examined in
+         the supine position in a semi-dark room during a mid-week non-dialysis day within
+         one month from blood sampling. The common carotid artery was investigated bilaterally
+         by the same trained operator, who was unaware of the patients’ clinical and laboratory
+         parameters. Longitudinal 2D images of the vessel were acquired, frozen in diastole
+         and analysed offline. ccIMT was calculated as the distance between the leading edge
+         of the lumen–intima interface and the media–adventitia interface on the far wall of
+         the artery [14]. Measurements were performed 0.5, 1 and 2 cm below the carotid bifurcation (six measurements,
+         three on each side) in a plaque-free arterial segment. The average measurement of
+         the obtained values was taken as ccIMT and it was considered in the analysis.
+      
+      Blood pressure measurements
+      Blood pressure was recorded with an upper arm mercury sphygmomanometer according to
+         the recommendations of the American Heart Association [15], before the cfPWV measurement. The mean value in mmHg of three measurements of systolic
+         arterial pressure (SAP) and diastolic arterial pressure (DAP) was entered in the analysis.
+         Pulse pressure (PP) was calculated as the difference between SAP and DAP, and mean
+         arterial pressure (MAP) was calculated as [SAP + (2 × DAP)] / 3. Hypertension was
+         defined as systolic blood pressure &gt;140mmHg and/or diastolic &gt;90mmHg or the current
+         use of anti-hypertensive medication.
+      
+      Statistical analysis
+      Data are expressed as mean ± SD, median with range, or number of patients with percentage
+         as appropriate. The associations between fetuin-A, OPG, cfPWV, ccIMT, and demographic,
+         clinical and laboratory parameters were assessed. Normality of distribution of continuous
+         variables was tested by the one sample Kolmogorov-Smirnov test. Non-normally distributed
+         variables were log-transformed before entering the analysis. The significance of differences
+         between groups was assessed by the independent samples t-test. Associations between
+         continuous variables were tested by Pearson’s bivariate and partial correlation analyses.
+         Multiple linear regression analysis, with simultaneous inclusion of values into the
+         model, was used to assess the adjusted combined influence of variables on the dependent
+         variables (cfPWV or ccIMT). Variables with p &lt; 0.1 on bivariate analyses or the independent samples t-test were entered into the
+         multiple regression models. Despite the significant bivariate correlation of SAP and
+         PP with cfPWV, and DP and MAP with ccIMT, only PP and MAP respectively were entered
+         in the relevant multiple regression models, in order to avoid co-linearity. The calculations
+         were performed using SPSS for Windows® version 13.0 statistical software (SPSS®, Chicago,
+         IL, USA). A two-tailed p value &lt;0.05 was considered statistically significant.
+      
+   
+

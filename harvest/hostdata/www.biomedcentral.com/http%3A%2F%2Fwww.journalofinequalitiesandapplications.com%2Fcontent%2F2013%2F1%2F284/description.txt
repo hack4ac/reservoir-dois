@@ -1,0 +1,20 @@
+Abstract
+In this paper, we introduce new concepts of  ( 
+ α 
+ , 
+ β 
+ , 
+ γ 
+ ) 
+ -exceptional family of elements and  ( 
+ α 
+ , 
+ γ 
+ ) 
+ -exceptional family of elements for the set-valued implicit complementarity problems in  
+    R 
+    n 
+ 
+  and infinite-dimensional Hilbert spaces, respectively. By utilizing these notions and the Leray-Schauder type fixed point theorem, we study the feasibility and strict feasibility of the set-valued implicit complementarity problems. Our results generalize some corresponding previously known results in the literature.
+MSC: 
+49J40, 90C31.

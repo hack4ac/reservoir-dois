@@ -1,0 +1,51 @@
+Abstract
+Suppose  p 
+ ( 
+ z 
+ ) 
+  is a holomorphic function, the multiplicity of its zeros is at most  d ,  P 
+ ( 
+ z 
+ ) 
+  is a nonconstant polynomial. Let ℱ be a family of meromorphic functions in a domain  D , all of whose zeros and poles have multiplicity at least  max 
+ { 
+ 
+    k 
+    2 
+ 
+ + 
+ d 
+ + 
+ 1 
+ , 
+ k 
+ + 
+ d 
+ } 
+ . If for each pair of functions  f  and  g  in ℱ,  P 
+ ( 
+ f 
+ ) 
+ 
+    f 
+    
+       ( 
+       k 
+       ) 
+ 
+ 
+  and  P 
+ ( 
+ g 
+ ) 
+ 
+    g 
+    
+       ( 
+       k 
+       ) 
+ 
+ 
+  share a holomorphic function  p  (  z  ) , then ℱ is normal in  D . It generalizes and extends the results of Jiang, Gao and Wu, Xu.
+MSC: 
+30D35, 30D45.

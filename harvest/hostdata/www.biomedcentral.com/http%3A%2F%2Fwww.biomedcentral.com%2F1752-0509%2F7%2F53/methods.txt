@@ -1,0 +1,541 @@
+Methods
+   
+      Problem formulation
+      In this paper, we focus on biochemical reaction networks modeled by nonlinear ODEs.
+         Typical models of these networks that are considered high dimensional, at the present
+         time, consist of 10–100 ODEs defined in terms of ∼100 (or more) rate constants and
+         other numerical parameters. The models are developed in light of and the parameters
+         are constrained on the basis of large collections of experimental data, which characterize
+         the behavior of cells under a wide variety of experimental conditions. The data are
+         rarely replicate measurements of time courses of biochemical variables; the sort of
+         ideal data assumed in many optimization methods. Rather, the data are often a disparate
+         collection of quantitative measurements and qualitative observations on a number of
+         different mutant strains under a wide variety of conditions. In this context, a data-fitting
+         algorithm must be able to search a high-dimensional parameter space for parameter
+         vectors that are consistent with as much of the data as possible. In our case, we
+         characterize the data as a set of n constraints. For a specific parameter vector, the model either satisfies the ith constraint (oi=1) or not (oi=0), and the total objective function that we seek to maximize is 
+            
+               O
+               =
+               
+                  
+                     ∑
+                  
+                  
+                     i
+                     =
+                     1
+                  
+                  
+                     n
+                  
+               
+               
+                  
+                     o
+                  
+                  
+                     i
+                  
+               
+            . The discontinuous, stepwise nature of this objective function prohibits the use
+         of any gradient-based optimization method, even if multiple starting points are used.
+         Therefore, in looking for optimal behavior of the model, we search a region of parameter
+         space stochastically and keep track of all parameter vectors encountered during this
+         search.
+      
+      Using this collection of optimal (or near optimal) parameter vectors, our second aim
+         is to characterize the roles of specific parameters and specific experiments in the
+         data-fitting exercise. Looking at the sensitivity of experimental constraints with
+         respect to parameter variations, we distinguish “critical” parameters, which have
+         strong effects on the total objective function, from “dispensable” parameters, which
+         have little or no effect on the total objective function. We also distinguish “fragile”
+         phenotypes, which are most often broken (i.e., incorrectly simulated) under parameter
+         variations, from “robust” phenotypes, which are correctly simulated even when parameter
+         values are widely perturbed. These distinctions provide insights into the relationships
+         between the model and the data, and they also allow us to reduce the complexity of
+         the model (by eliminating dispensable parts) and the computational demands of the
+         algorithm. Finally, we look at competition (negative correlations) between experimental
+         constraints (phenotypes). If two phenotypes compete with each other, then it is difficult
+         for the model to account simultaneously for both. The list of most competitive phenotypes
+         suggests places where the structure of the model may be incorrect or the experimental
+         observations may be suspect.
+      
+      A mathematical model of the budding yeast cell cycle
+      The cell cycle is the sequence of events by which a growing cell replicates all its
+         components and divides them more-or-less equally between two daughter cells, so that
+         the daughters inherit all the machinery and information necessary to repeat the process
+         [15,24]. The most important components that need to be accurately replicated in the mother
+         cell and precisely partitioned to the progeny cells are the DNA molecules of the cell’s
+         genome. New DNA molecules are synthesized during S phase and distributed to progeny
+         nuclei during M phase (mitosis). S and M phases are separated by two gaps: G1 (DNA
+         unreplicated) and G2 (DNA replicated). The ordered sequence of cell cycle phases,
+         G1-S-G2-M, is governed by the periodic activation of CDKs. Activity of CDKs depend
+         on cyclins, which are regulatory proteins that are needed to form active cyclin-CDK
+         complexes. In budding yeast, the earliest CDKs to be activated are Cln1- and Cln2-dependent
+         kinases, which promote the appearance of later cyclins as well as initiating bud emergence.
+         Clb5- and Clb6-dependent kinases are essential for timely DNA synthesis, and somewhat
+         later, Clb1- and Clb2-dependent kinases arise to drive the cell into mitosis. To exit
+         from mitosis and return to G1, all the Clb-cyclins must be cleared from the cell,
+         which is the job of the APC (anaphase promoting complex) in conjunction with its partners,
+         Cdc20 and Cdh1. Some other important components of the control system are: Sic1 (a
+         stoichiometric inhibitor of Clb-dependent kinases), Cdc14 (a phosphatase that opposes
+         the action of CDKs), Net1 (a stoichiometric inhibitor of Cdc14), SBF (a transcription
+         factor for Cln1,2 and Clb5,6), Mcm1 (a transcription factor for Clb2, Swi5 and Cdc20),
+         and Swi5 (a transcription factor for Sic1). All these molecules (and some others we
+         have not mentioned) are involved in a complex biochemical reaction network that controls
+         the periodic activation and inactivation of the CDKs (which drive the cell from G1
+         phase into and through S-G2-M) and Cdc14-Cdc20-Cdh1-Sic1 (which drive the cell out
+         of mitosis and back to G1).
+      
+      A mathematical model of this reaction network was developed by Chen et al. [16]. This model consists of 36 ordinary differential equations (with 135 kinetic parameters)
+         and reproduces the biological properties of ∼125 mutant strains of budding yeast.
+         The “properties” include not only viability-inviability of the strains but also average
+         size of cells at division, relative timing of bud emergence, DNA synthesis and mitosis,
+         and the precise phase of arrest of inviable mutants. The Chen-2004 model evolved over
+         the course of about 10 years, as the experimental basis of the model was being discovered
+         by molecular geneticists and as the molecular interactions were translated into differential
+         equations by the mathematical modelers. The parameter values “evolved” along with
+         the model, so that at no time were the modelers faced with the daunting task of fitting
+         a 135-parameter model to a 125-component objective function. In this study, we focus
+         on a new formulation of the Chen-2004 model. This model (a detailed description can
+         be found in [25]) uses a simpler mathematical framework, requiring fewer ODEs (26) and kinetic parameters
+         (126), while improving on the model’s representation of the G1/S transition and exit
+         from mitosis. The starting set of parameter values for the optimization, produced
+         by manual tuning, captured the basic cell cycle characteristics of wild type cells
+         as well as the phenotypes (viable or inviable) of ∼60% (72 out of 119) of the genetic
+         strains. Our goal was to develop an automatic method for finding parameter values
+         that capture nearly all the mutant phenotypes when starting from an educated “initial
+         guess” of parameter values.
+      
+      We provide descriptions of the 126 model parameters and 26 model variables (Additional
+         file 1: Tables S1 and S2) along with the numerical values of these parameters from the “initial
+         guess” (Additional file 1: Tables S3 and S4). We also provide a C++ subroutine that implements the model along
+         with a Matlab script (Additional file 2), taking as input values the 126 parameters and 26 initial conditions for the model,
+         and giving as output the phenotypes (viable or inviable) of 119 budding yeast strains:
+         WT growing in glucose + WT growing in galactose + 117 cell-cycle mutants growing in
+         glucose or galactose. All 119 strains are listed in Additional file 1: Table S5 along with the parameter changes for each strain with respect to WT conditions.
+         The C code solves the ODEs using Euler’s method with a fixed step size of 0.05 minutes.
+         While there are certainly more sophisticated ODE solvers, this solver was chosen because
+         it easily handles both deterministic and stochastic cases, and also allows direct
+         comparison with previous work on this model [25]. The code first simulates WT cells growing in glucose, using the 26 initial conditions
+         provided on input (“input-ICs”), for a total of 2000 min. If at any time during this
+         simulation cell size (mass) exceeds 25 units, the cell is considered inviable. Otherwise,
+         the program asks: is cell size at the last division is within 5% of the cell sizes
+         at the two previous divisions? If “yes”, then the cell is considered as“viable”. (Note:
+         sometimes, after a period-doubling bifurcation, the model generates periodic cell
+         divisions with size at division oscillating between two values that differ by more
+         than 5%. These cases are considered neither viable nor inviable.) If the WT cell (growing
+         in glucose) is viable, then we record the initial values of all variables just after
+         the last division of the WT cell. These values (the “newborn-ICs”, which bear no relation
+         to the input-ICs) are used for the simulations of all other 118 strains. Each strain
+         simulation is classified as viable or inviable by the same rules applied to the WT
+         simulation. To calculate the value of the objective function for the given set of
+         parameter values and input-ICs, we then sum up 119 values of an indicator function
+         that is 1 if the phenotype (viability or inviability) of the simulated strain is the
+         same as the observed phenotype, and is 0 if the phenotypes are different. The objective
+         function is an integer-valued function that varies from 0 to 119. (When the WT cell
+         growing on glucose is inviable, we use default-ICs to simulate the mutant strains.)
+         Finally, we introduce here the nomenclature of budding yeast genes and mutant alleles.
+         Proteins, such as Cln2, Cdc20 and Sic1, are encoded by wild type genes: CLN2, CDC20 and SIC1. Mutant alleles are indicated by lower case, italicized names: cln2, cdc20, sic1. The notation sic1 Δ means the wild type SIC1 gene has been deleted from the genome, and the notation GAL-SIC1 means that the WT SIC1 gene is being expressed continuously at high level from a galactose-inducible promoter.
+         The meaning of other gene notations used later in this paper can be found in Chen
+         et al. [16] or on our budding yeast web page [26].
+      
+      Additional file 1. Supplementary Tables. This pdf file includes the supplementary tables referred to in the main text.
+         	Format: PDF 
+         	Size: 195KB Download file or  display content in a new windowThis file can be viewed with: Adobe Acrobat Reader
+      Additional file 2. viarray.txt, integrate.cpp, runOPTIMAL.m, runTL.m, integrate.mexw64, OPTIMAL.txt and
+            TLset.txt. “viarray.txt” holds the viability array of the 119 strains (array values of 1 for
+         viable strains and 2 for inviable strains), “integrate.cpp” is the C subroutine for
+         the ODEs and, integrate.mexw64 is the mex file that allows Matlab to use the C subroutine
+         for solving the ODEs. Altogether, these files reproduce the number of hits with the
+         parameter values from the best performing DE run (OPTIMAL.txt from Additional file
+         2: Table S4, 111 hits) and the initial parameter values (“initial guess”) before the
+         optimization (TLset.txt from Additional file 2: Table S4, with 72 hits). In order to reproduce these results, Matlab files “runOPTIMAL.m”
+         and “runTL.m” need to be executed, respectively.
+         	Format: ZIP 
+         	Size: 19KB Download file or  display content in a new window
+      The parameter estimation algorithm
+      We start our search of parameter space from a point supplied by the modeler (initial
+         guess). We assume that the starting point is a reasonable (but not particularly good)
+         estimate of the parameters. That is, the starting parameter values are consistent
+         with some but not all experimental constraints, and we expect that a much better parameter
+         vector is in the neighborhood. In our case, the initial guess is consistent with 60%
+         of the mutant phenotypes, and we plan to search in a hypercube (e.g. ±40% or ±90%)
+         around the starting point. First, we explore this domain by Latin Hypercube (LH) sampling,
+         as described in detail in the Additional file 3. (LH sampling is commonly used to generate multidimensional samples from a multidimensional
+         distribution [17]). To obtain a “population” of prospective parameter vectors for the next phase of
+         the search, we select from the LH samples only parameter vectors that are consistent
+         with viability of WT cells growing on glucose.
+      
+      Additional file 3. Supplementary Text. This pdf file includes a detailed description of Latin Hypercube sampling.
+         	Format: PDF 
+         	Size: 88KB Download file or  display content in a new windowThis file can be viewed with: Adobe Acrobat Reader
+      For the second phase of the search, we use differential evolution (DE) to improve
+         the performance of the LH-derived population of parameter vectors [8]. The basic idea behind DE is to allow a population of parameter vectors to evolve
+         over many generations of reproduction and selection. During the reproduction step,
+         each “parental” parameter vector generates an “offspring” parameter vector, which
+         differs from the parent by a process of “diversification”. Then, the parent and its
+         offspring compete with each other: the better vector (the one with the higher value
+         of the objective function) goes on to the next generation, the less good vector is
+         set aside.
+      
+      To be precise, let x be a vector of parameter values, with components xi, i = 1,2,…,D, where D is the dimension of the parameter space. (Note that the vector x includes both the 126 kinetic constants in the model and the 26 ODE initial conditions
+         described above; hence, D=152. This is another conservative choice on our part; later we will show that the
+         26 input-ICs have little or no bearing on the ultimate success of the model). As described
+         in the previous section, the objective function O(x) is an integer-valued function that counts the number of phenotypes that are correctly
+         captured by the model given the parameter values in the vector x. (Notice that we sometimes refer to a particular parameter vector as a “set of parameter
+         values”).
+      
+      During DE, parameter vectors are propagated from generation to generation by processes
+         of diversification and selection. Each generation (indexed by t = 0,1,…) consists of N parameter vectors xj(t), j = 1,…,N. Hence, the real number xi,j(t) is the value of the ith parameter in the jth parent in the tth generation. Let uj(t) be the parameter vector for the single offspring of the jth parent in the tth generation. The components of this vector, ui,j(t) for i=1,…,D are constructed in two steps (called “mutation” and “crossover”). Then, given the
+         two parameter vectors xj(t) and uj(t), a decision is made as to which one is propagated to generation t+1.
+      
+      The specific rules are: 
+      1. Mutation: First, we create a “mutant” vector vj(t) by perturbing a parental parameter vector xj(t): 
+      
+      
+         
+               
+                  
+                     
+                        
+                           v
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     =
+                     
+                        
+                           x
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     +
+                     F
+                     ·
+                     
+                        
+                           d
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     .
+                  
+               
+         
+      
+      By analogy to biological evolution, we might let the components of dj(t) be random perturbations of the parental parameter values. However, we use the strategy
+         of DE, letting the perturbation vector be the difference between the parameter vectors
+         of two additional parents, j′ and j′′, chosen at random from the t-th generation of parents. (All three parents must be different). In this case, the
+         “mutant vector” is defined by 
+      
+      
+         
+               
+                  
+                     
+                        
+                           v
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     =
+                     
+                        
+                           x
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     +
+                     F
+                     ·
+                     (
+                     
+                        
+                           x
+                        
+                        
+                           
+                              
+                                 j
+                              
+                              
+                                 ′
+                              
+                           
+                        
+                     
+                     (
+                     t
+                     )
+                     −
+                     
+                        
+                           x
+                        
+                        
+                           j′′
+                        
+                     
+                     (
+                     t
+                     )
+                     )
+                     ,
+                  
+               
+         
+      
+       where 0 &lt; F &lt;1. (We are conservative in our choice of F = 0.1). With this definition, perturbations can be large at first, when the population
+         of parental parameter vectors is diverse in terms of individual parameter values,
+         but the size of perturbations will decrease in later generations as the population
+         converges on a nearly common set of parameter values.
+      
+      2. Crossover: Next we allow for crossover between the parental parameter vector xj(t) and the mutant parameter vector vj(t). Component-wise, the offspring vector uj(t) receives a parameter value from the mutant vector with probability C (the “crossover” probability) or from the parent vector with probability 1−C: 
+      
+      
+         
+               
+                  
+                     
+                        
+                           u
+                        
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     (
+                     t
+                     )
+                     =
+                     
+                        
+                           
+                              
+                                 
+                                    
+                                       
+                                          v
+                                       
+                                       
+                                          i
+                                          ,
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    
+                                    if rand(0,1)
+                                    
+                                    ≤
+                                    C
+                                 
+                              
+                              
+                                 
+                                    
+                                       
+                                          x
+                                       
+                                       
+                                          i
+                                          ,
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    
+                                    otherwise
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+         
+      
+      
+         
+               
+                  
+                     i
+                     =
+                     1
+                     ,
+                     2
+                     ,
+                     …
+                     ,
+                     D
+                     
+                     and
+                     
+                     j
+                     =
+                     1
+                     ,
+                     2
+                     ,
+                     …
+                     ,
+                     N
+                     ,
+                  
+               
+         
+      
+       where rand (0,1) is a random number chosen uniformly from the interval [0,1]. We
+         choose C=0.5 so that neither parental values nor mutant values are given an advantage during
+         the crossover step.
+      
+      3. Selection: The objective function determines whether, xj(t) or uj(t), passes on to the next generation. There are two possibilities here. The “greedy”
+         algorithm says that the offspring replaces its parent if it is superior: 
+      
+      
+         
+               
+                  
+                     
+                        
+                           x
+                        
+                        
+                           j
+                        
+                     
+                     (
+                     t
+                     +
+                     1
+                     )
+                     =
+                     
+                        
+                           
+                              
+                                 
+                                    
+                                       
+                                          u
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    
+                                    if
+                                    
+                                    
+                                    O
+                                    (
+                                    
+                                       
+                                          u
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    )
+                                    &gt;
+                                    O
+                                    (
+                                    
+                                       
+                                          x
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    )
+                                    ,
+                                 
+                              
+                              
+                                 
+                                    
+                                       
+                                          x
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    (
+                                    t
+                                    )
+                                    
+                                    otherwise.
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+         
+      
+      With the “non-greedy” version, the selection condition is O(uj(t)) ≥ O(xj(t)).
+      
+      In a few hundred generations, DE produces an elite set of parameter vectors that reproduce
+         the behavior of nearly all the experimental constraints despite the suboptimal performance
+         of the starting point of the optimization.
+      
+      All computations were performed in the Advanced Research Computing lab at Virginia
+         Tech. The computational time was ∼4 minutes for a single generation of DE (19 parameter
+         vectors and 119 simulations per vector) and ∼20 minutes for 100 LH samples (12 seconds
+         per sample). Computation time could be significantly reduced by parallel computing,
+         e.g., 500 generations of DE, which took ∼33 hours in our code, could be completed
+         in ∼1 hour by using 33 processors in parallel. Such a reduction may be important in
+         the future when we impose additional constraints on the model.
+      
+      In concluding this section we note that, in addition to varying the values of C and F, there are other diversification and selection strategies that could be implemented
+         in DE [27]. In this study we are served well by the most basic mutation and crossover strategies,
+         with conservative values of C and F. Investigation of the effects of varying C, F, and mutation and crossover strategies is beyond the scope of this paper.
+      
+   
+

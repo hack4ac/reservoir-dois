@@ -1,0 +1,112 @@
+Methods
+   
+      Design
+      We used in-depth interviews and grounded theory dimensional analysis to collect and
+         analyze the data [21-23]. This inductive method was chosen so as to obtain a theoretical explanation by analyzing
+         participants’ conceptualizations of quality of care. In the grounded theory paradigm,
+         the theory is conceived as a collection of well-developed concepts linked by linking
+         sentences which together constitute an integrated framework that can be used to explain
+         or predict phenomena [22].
+      
+      Participants
+      Data of this study come from a broader research project (Qualitative analysis of formal
+         care in public nursing homes) that analyzes the phenomenon of institutionalization
+         of older persons. The participants and methods have been described extensively elsewhere
+         [24]. In brief, in-depth interviews were conducted using a theoretical sample of 20 persons
+         living at a public nursing home in Talavera de la Reina (Spain), aged 65&nbsp;years and
+         over, with no cognitive impairment; eight relatives of residents with cognitive impairment
+         were also interviewed. Spain has 5393 nursing homes, classified by type of funding
+         in public, private, or concerted. Currently, 26.6% of them are public funding facilities.
+         These nursing homes provides supervision or assistance with activities of daily living,
+         services of junior nursing staff, nurses, doctor, occupational therapist, speech therapist,
+         social worker and recreational assistance. The study sample comes from a nursing home
+         where 180 assisted and unassisted older people live. The residents pay 75% of their
+         net income for their accommodation, and the allocation of staff and equipment is regulated
+         by current Spanish legislation. In Spain, these types of institutions are generally
+         standardized in terms of amenities and staff [25]. We used theoretical sampling during the process of data analysis, so that each new
+         case was selected because he/she was particularly appropriate for clarifying relationships
+         and logic among constructs. Sampling continued until the saturation of information
+         had been reached, the point at which enlarging a sample ceases to furnish new analytical
+         concepts [23,26]. Informants of both sexes, different age groups and sociodemographic characteristics
+         were included (Tables&nbsp;1 and 2), in an effort to maximize opportunities to discover dissimilarities among concepts,
+         and to make denser categories in terms of its properties and dimensions [22,27].
+      
+      Table 1. Sociodemographic characteristics of the sample: residents without cognitive impairment
+            (n = 20)
+      Table 2. Sociodemographic characteristics of the sample: residents with cognitive impairment
+            (n=8)
+      Inclusion criteria for informants were persons aged 65&nbsp;years and over, living at the
+         nursing home for at least three months, the minimal estimated time to get an accurate
+         picture of facilities, services and staff. Residents admitted on a temporary-stay
+         basis were not considered eligible because short-term residents may have different
+         needs and characteristics [1]. In the case of residents whose degree of cognitive impairment prevented them from
+         directly participating in an interview (score higher than two on Pfeiffer’s Short
+         Portable Mental Status Questionnaire) [28], the closest family member to the resident (proxy) was interviewed instead of him.
+         Since such relatives were well acquainted with the personal history of the resident’s
+         life, his/her habits and preferences, they were deemed more appropriate than professional
+         caregivers in terms of understanding the resident’s views on quality.
+      
+      Data collection
+      Interviews were held by appointment and were conducted into the nursing home in a
+         peaceful and quiet place. Each interview started out with an open-ended question about
+         the personal experience of care at nursing home, which elicited subjective responses
+         about their perceptions. The interviewer, the main researcher, had a topic list that
+         could emerge openly throughout the interviews, but not necessarily at each interview
+         (Table&nbsp;3). This topic list was refined and concretized guided by theoretical sampling [23]. Interviews were conducted in 2010 and lasted 50 to 120&nbsp;minutes. All interviews were
+         recorded using a digital recorder, rendered anonymous, and literally transcribed.
+      
+      Table 3. Interview topics list
+      Ethical considerations
+      The study was approved by the Clinical Research Ethics Committee of Nuestra Señora
+         del Prado Hospital, in Talavera de la Reina, Spain, and by the management of the nursing
+         home where the study was undertaken. After a full explanation adapted to the research
+         project, all participants were asked to give their informed consent to a sound recording
+         of the interview and its subsequent analysis. In the case of residents with cognitive
+         impairment, the consent of the proxy or, where applicable, the legal guardian was
+         obtained.
+      
+      Data analysis
+      After transcribing the in-depth interviews, the texts were collated and sorted. Using
+         grounded theory methods, three qualitative methodology research experts drawn from
+         different disciplines (Anthropology, Sociology and Nursing) analyzed the transcriptions,
+         with the aim of ascertaining participants’ perception of overall health care quality
+         and obtaining a theoretical explanation for this.
+      
+      Data-collection, analysis and interpretation were simultaneously undertaken in an
+         interactive process, thus the results of the first data analysis informed subsequent
+         data-collections, thereby enabling key topics to be studied in depth [23]. This implied constantly going back and forth among the interview transcriptions,
+         the analytical memoranda (theoretical ideas about the codes and their relationships)
+         and a review of the literature [27,29].
+      
+      According to grounded theory principles, our analysis identified specific concepts
+         that explained how informants perceived overall quality of nursing home care. These
+         concepts were labeled and classified into categories using open, axial and selective
+         coding processes [29]. Firstly, each of the three persons in the analysis team separately performed an
+         open coding process, labeling the concepts that emerged from the interviews and sorting
+         these into categories. Once this individual coding had been completed, the process
+         was then repeated on a joint basis and the previously identified categories reorganized.
+         The analysis team shared their research notes and hypotheses, which helped them reach
+         a consensus on new categories and hypotheses, and improve their comprehension of the
+         texts. Finally, an axial and selective coding process was performed jointly. Thus,
+         while open coding fractured the data in short units of significance, axial coding
+         connected them into categories and subcategories in a hierarchical order, and finally
+         selective coding integrated the categories to build a substantive theory. This theory
+         described the relationship among a set of categories that emerged from the data through
+         the constant comparative method [23].
+      
+      We used of the Atlas-Ti 5.0 software program as a technical aid in the coding stage,
+         enabling to code large amounts of text and share the data among the research team.
+      
+      Rigour
+      The validity and reliability of the conclusions of the analysis were ensured by the
+         following: literal transcription of all interviews, analysis of the data in the full
+         context of the interview during which they had surfaced, constant comparative method
+         and triangulation methods [27,29]. We use triangulation methods to increase the validity and to mitigate biases in
+         the study [30,31]. Thus, data were analyzed by three researchers from different disciplines who examined
+         the phenomena from multiple lenses and possible theories. In addition, we performed
+         data source triangulation conducting in-depth interviews with a theoretical sampling
+         of residents and proxies of different ages, sex and sociodemographic characteristics
+         [30,31].
+      
+   
+

@@ -1,0 +1,339 @@
+Methods
+   
+      Data sources and search strategy
+      We conducted a systematic review of the prevalence and incidence of HCV in the different
+         population groups in Egypt following the PRISMA guidelines [8]. The PRISMA checklist can be found in Table S1, see Additional file 1. The main data sources for this investigation were: PubMed (Medline) and Embase databases.
+         The above data sources were searched with no time or language restrictions. PubMed
+         and Embase were searched using both MeSH/Emtree terms, respectively, and text terms. MeSH/Emtree terms were exploded to cover all subheadings. Details of the search criteria for
+         each of these databases can be found below:
+      
+      Additional file 1: Table S1. PRISMA Checklist. Table S2. Prevalence of hepatitis C virus among populations at indirect or intermediate risk
+         of exposure in Egypt. Table S3. Prevalence of hepatitis C virus among special clinical populations in Egypt. Table S4. Hepatitis C virus time trend analysis for each general population subgroup. Figure S5. Hepatitis C virus time trend analysis among populations at direct or high risk of
+         exposure.
+         	Format: DOCX 
+         	Size: 289KB Download file or  display content in a new window
+      PubMed: ((“Hepatitis C”[Mesh] OR “Hepatitis C Antibodies”[Mesh] OR “Hepatitis C Antigens”[Mesh]
+         OR “Hepacivirus”[Mesh] OR “Hepatitis C, chronic/epidemiology”[Mesh] OR “Hepatitis
+         C, chronic/etiology”[Mesh] OR “Hepatitis C, chronic/transmission”[Mesh] OR “Hepatitis
+         C, chronic/virology”[Mesh] OR “Hepatitis C”[Text] OR “HCV”[Text]) AND (“Egypt”[Mesh]
+         or Egypt[Text])).
+      
+      Embase: (egypt.mp. or exp Egypt/) and (exp hepatitis C/ or exp Hepatitis C virus/
+         or hepatitis C.mp. or HCV.mp. or hepacivirus.mp.).
+      
+      Ethics statement
+      Our study did not need an ethics committee approval or written informed consent because
+         it relies entirely on published data.
+      
+      Study selection
+      The results of the searches were imported to a reference manager, Endnote, where duplicate
+         publications were identified and excluded. The remaining unique and potentially relevant
+         records were then imported into Microsoft Excel where screening for relevance and
+         eligibility took place. The titles and abstracts of all records retrieved were screened
+         for relevance independently by two of the authors (YM and SR). Screening for relevance
+         was conducted in two stages: 1) Stage 1 involved screening all titles and abstracts
+         to exclude all non-relevant articles; 2) Stage 2 involved retrieving and screening
+         the full-text of all articles deemed relevant after the initial abstract screening,
+         to further exclude any remaining non-eligible articles. Inconsistencies between reviewers
+         were discussed and sorted out by consensus.
+      
+      A publication was considered eligible for inclusion in the review if it had data on
+         at least one of the following outcomes of interest: 1) prevalence of HCV as detected
+         by HCV antibodies; and 2) incidence of HCV as detected by HCV antibodies. Only studies
+         reporting primary data were included. Reviews of literature were excluded, but all
+         data reported were checked and compared to the results of our search. Any additional
+         study identified in the excluded review and not retrieved by our search was identified
+         and added to our review. Case reports and case series were excluded. All other study
+         designs were eligible for inclusion. Distinction was made between the number of “reports”
+         (actual publications i.e. papers, conference abstracts etc.) and the number of “studies”
+         (actual study and research project). Multiple reports of the same study were identified
+         as duplicates and counted as one study.
+      
+      Eligible studies were then categorized into two types: prevalence studies and incidence
+         studies. Any article reporting both the prevalence and incidence of HCV was counted
+         as two studies, one for incidence and one for prevalence. Results were then pooled
+         into one list containing all eligible and unique studies.
+      
+      Data extraction and population classification
+      The following data were then extracted from each eligible study included in the review:
+         author, year of data collection, year of publication, city, study site, study design,
+         sampling technique, population (blood donors, barbers, health care workers, injecting
+         drug users (IDUs) etc.), socio-demographic characteristics of the population (sex,
+         age, rural vs. urban etc.), sample size, and prevalence and/or incidence of HCV. Although
+         our search criteria did not specifically target publications reporting HCV RNA prevalence
+         or risk factors in Egypt, we extracted this information from eligible publications
+         when available. Risk factors were extracted only if they were statistically significant
+         in a multivariate regression analysis within a study that was found relevant according
+         to our search criteria.
+      
+      Data on the above mentioned indicators were extracted from included records and entered
+         into a computerized database on Microsoft Excel. Extracted data were then classified
+         and analyzed on the basis of the study population’s risk of acquiring HCV. The four
+         defined major population risk groups are:
+      
+      1) Populations at direct or high risk: this group includes IDUs, multi-transfused
+         patients such as hemophiliacs and thalassemics, dialysis patients, and viral hepatitis
+         patients, among others.
+      
+      2) Populations at indirect or intermediate risk: this group includes familial contacts of HCV patients i.e. their children, spouses, and other household contacts; select
+         practitioners of professions at risk of HCV such as dentists, healthcare workers and barbers; populations with potential IDU exposures including: prisoners and HIV patients; and populations with health facility/injecting exposures such as diabetic patients and hospitalized populations.
+      
+      3) General population groups (populations which are not at an elevated risk of HCV
+         exposure): pregnant women, blood donors, children, rural populations, army recruits
+         or fire brigade personnel, outpatient clinic attendees, populations defined in case–control
+         studies as healthy populations (controls), among other groups categorized together
+         as “other general population” groups.
+      
+      4) Special clinical population groups such as Hodgkin’s lymphoma (HL) patients, lichen
+         planus (LP), and liver disease patients, among others. This category includes patients
+         with specific diseases that require clinical care, and thus can be exposed to HCV
+         in medical care facilities, though at variable levels of risk that is difficult to
+         categorize among any of the above mentioned population groups.
+      
+      Within any specific category of the above population groups, considerable heterogeneity
+         and different subgroup trends may exist.
+      
+      In order to create prevalence figures, HCV prevalence measures within each of the
+         population groups above were stratified into two strata: pre-2001 and post-2001, based
+         on the year in which the study was conducted. The year 2001 was chosen as the cut-off
+         year, as this was the year in which the Egyptian Ministry of Health initiated broad
+         infection control programs in the country [9].
+      
+      Time trend analysis
+      We conducted a time trend analysis investigating the change in HCV prevalence among
+         the general population and high risk population in Egypt with respect to time. We
+         started by conducting univariate linear regression analyses examining the change in
+         HCV prevalence over time in each of the general population subgroups separately. A
+         similar analysis was conducted in each of the high risk population subgroups. To avoid
+         systematic biases in any one subgroup and to increase the statistical power of the
+         time trend analysis, we also used a multivariate linear regression model estimating
+         the temporal trend in HCV prevalence, while adjusting for the different subgroups
+         in each population grouping. Two such models were performed: one for the general population
+         and the other for the high-risk population. Mean HCV prevalence was modeled using
+         a model that includes as predictors: time (in years) and the different general population
+         subgroups (or high risk population subgroups).
+      
+      The general population regression model stipulates that:
+      
+         
+               
+                  
+                     
+                        
+                           Mean
+                        
+                        
+                           HCV
+                           
+                           Prevalence
+                           =
+                           
+                              β
+                              0
+                           
+                           +
+                           
+                              β
+                              1
+                           
+                           ∗
+                           Time
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              2
+                           
+                           ∗
+                           Antenatal
+                           
+                           clinic
+                           
+                           attendees
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              3
+                           
+                           ∗
+                           Blood
+                           
+                           donors
+                           
+                           +
+                           
+                              β
+                              4
+                           
+                           ∗
+                           Rural
+                           
+                           village
+                           
+                           residents
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              5
+                           
+                           ∗
+                           Children
+                           +
+                           
+                              β
+                              6
+                           
+                           ∗
+                           Healthy
+                           
+                           populations
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              7
+                           
+                           ∗
+                           Army
+                           
+                           recruits
+                           +
+                           
+                              β
+                              8
+                           
+                           ∗
+                           Other
+                        
+                     
+                  
+               
+         
+      
+      Similarly, the high risk population regression model stipulates that:
+      
+         
+               
+                  
+                     
+                        
+                           Mean
+                           
+                        
+                        
+                           HCV
+                           
+                           Prevalence
+                           =
+                           
+                              β
+                              0
+                           
+                           +
+                           
+                              β
+                              1
+                           
+                           ∗
+                           Time
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              2
+                           
+                           ∗
+                           Multi-transfused
+                           
+                           patients
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              3
+                           
+                           ∗
+                           Schistosomiasis
+                           
+                           patients
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              4
+                           
+                           ∗
+                           Thalassemic
+                           
+                           patients
+                        
+                     
+                     
+                        
+                        
+                           +
+                           
+                              β
+                              5
+                           
+                           ∗
+                           Viral
+                           
+                           hepatitis
+                           
+                           patients
+                        
+                     
+                  
+               
+         
+      
+      In both models, βi are the parameters of the statistical model and Time and sub-population names are
+         the indicator variables.
+      
+      Data used for these analyses were extracted from the eligible studies included in
+         this review. In the presence of both an overall HCV prevalence measure as well as
+         stratified prevalence measures, we included only the overall prevalence measure. Including
+         both overall and stratified prevalence measures from the same study would have given
+         more weight to those studies, relative to others, thereby biasing our results. The
+         year of data collection was estimated for studies missing this variable. This was
+         done by conducting a correlation analysis between the year of data collection and
+         the year of publication for studies having data on both, followed by a paired t-test
+         to estimate the mean difference between them. We then applied this difference to the
+         year of publication to estimate the year of data collection when missing. Midpoints
+         were calculated and used for studies conducted over a number of years. The statistical
+         analysis was conducted using STATA version 11 (STATA corporation, College Station,
+         Texas).
+      
+   
+

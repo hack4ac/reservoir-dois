@@ -1,0 +1,1 @@
+flexible spacecraft, disturbance observer, time-varying delay, H∞ control, LMI

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Bibliographic data can be used to map the research quality and productivity of a discipline. We hypothesized that bibliographic data would identify geographic differences in research capacity, species specialization, and interdisciplinary relationships within the veterinary profession that corresponded with demographic and economic indices.
+
+				
+				
+					
+						Results
+
+					Using the SCImago portal, we retrieved veterinary journal, article, and citation data in the Scopus database by year (1996–2011), region, country, and publication in species-specific journals (food animal, small animal, equine, miscellaneous), as designated by Scopus. In 2011, Scopus indexed 165 journals in the veterinary subject area, an increase from 111 in 1996. As a percentage of veterinary research output between 1996 and 2010, Western Europe and North America (US and Canada) together accounted for 60.9% of articles and 73.0% of citations. The number of veterinary articles increased from 8815 in 1996 to 19,077 in 2010 (net increase 66.6%). During this time, publications increased by 21.0% in Asia, 17.2% in Western Europe, and 17.0% in Latin America, led by Brazil, China, India, and Turkey. The United States had the highest number of articles in species-specific journals. As a percentage of regional output, the proportion of articles in small animal and equine journals was highest in North America and the proportion of articles in food animal journals was highest in Africa. Based on principal component analysis, total articles were highly correlated with gross domestic product (based on World Bank data). The proportion of articles in small animal and equine journals was associated with gross national income, research and development, and % urban population, as opposed to the proportion of food animal articles, agricultural output, and % rural population. Co-citations linked veterinary medicine with medicine in the United States, with basic sciences in Eastern Europe and the Far East, and with agriculture in most other regions and countries.
+
+				
+				
+					
+						Conclusions
+
+					Bibliographic data reflect the demographic changes affecting veterinary medicine worldwide and provide insight into current and changing global research capacity, specialization, and interdisciplinary affiliations. A more detailed analysis of species-specific trends is warranted and could contribute to a better understanding of educational and workforce needs in veterinary medicine.
+
+				
+			
+		

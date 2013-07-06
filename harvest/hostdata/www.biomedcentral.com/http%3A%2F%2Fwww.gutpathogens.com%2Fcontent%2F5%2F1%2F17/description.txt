@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Campylobacter concisus  is an emerging enteric pathogen associated with prolonged diarrhoea and possibly inflammatory bowel disease in children as well as adults, but the interaction with cells of the innate immune system is unclear. The magnitude of systemic immunoglobulin response in acute infection is unknown.
+
+				
+				
+					
+						Methods
+
+					Neutrophils from healthy volunteers were activated with five faecal isolates of  C. concisus  from patients with gastroenteritis as well as the oral reference strain  C. concisus  ATCC33237. Neutrophils were tested for the expression of adherence molecule CD11b by immunoflourescence and for oxidative burst response by chemiluminescence. The opsonic activity in a chemiluminescence assay was assessed with heat treated serum from patients with  C. concisus  infection.
+
+				
+				
+					
+						Results
+
+					A strong and dose-dependent activation of neutrophil adherence molecule CD11b and oxidative burst response was demonstrated with all six  C. concisus  isolates. Bacteria opsonised in heat treated serum induced an increased chemiluminescence response. Heat treated serum from patients with  C. concisus  infection did not have a higher opsonic activity than heat treated serum from healthy volunteers.
+
+				
+				
+					
+						Conclusion
+
+					
+						 C. concisus  has the capability to activate the innate immune system by stimulating neutrophil cells to increased adherence molecule expression and oxidative burst response, both crucial for acute inflammation. In a chemiluminescence assay the opsonic activity of heat treated serum from patients was not increased compared to heat treated control serum suggesting a weak systemic IgG response to infection.
+
+				
+			
+		

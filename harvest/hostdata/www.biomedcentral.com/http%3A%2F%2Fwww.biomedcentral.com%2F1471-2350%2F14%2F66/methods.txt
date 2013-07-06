@@ -1,0 +1,111 @@
+Methods
+   
+      Study population
+      Sixty patients with IPF and 150 healthy volunteers solicited from among the hospital
+         personnel as control subjects were included in this study, which was performed between
+         January 2009 and May 2011 at King Khalid University Hospital, King Saud University,
+         Riyadh, Saudi Arabia. The study was approved by the Institutional Review Board/Ethics
+         Committee of the College of Medicine, King Saud University, Riyadh, Saudi Arabia.
+         Written informed consent was obtained from each individual included in the study.
+         IPF was diagnosed according to the American Thoracic Society/European Respiratory
+         Society consensus classification [12]. Histopathological evidence of IPF was available for 24 (40%) of patients, while
+         the remaining patients were diagnosed on the basis of compatible clinical, laboratory
+         and HRCT findings. Healthy controls were randomly selected and had no associated medical
+         illness. All subjects were evaluated as outpatients, and none had clinical evidence
+         of concurrent infection. None of the patients was receiving any corticosteroids or
+         other immunosuppressive medications at the time of blood sample collection. In addition,
+         none of the patients had any history of acute exacerbations of IPF within three months
+         of the serum cytokine measurements.
+      
+      Thirty patients seen during the study period were excluded because although their
+         HRCT images were consistent with usual interstitial pneumonia, they had positive autoantibodies
+         based on serological tests. These exclusion criteria included antinuclear antibody
+         titer &gt; 320, rheumatoid factor titer &gt; 60, and/or the presence of anti-cyclic citrullinated
+         peptide, anti-Ro/SSA, anti-La/SSB, anti-double-stranded DNA (dsDNA), anti-Smith, anti-Sclero
+         70 (Scl-70), anti- ribonucleoprotein (RNP), and anti-histidyl-tRNA synthetase (Jo-1).
+      
+      Measurements
+      Pulmonary function tests (PFT Masterscreen; Jaeger, Hoechberg, Germany) were performed
+         using standard methodologies, including spirometry, plethysmography, and measurement
+         of the diffusion capacity of the lung for carbon monoxide (DLco) [13-15]. Arterial blood gas values (Rapid Lab 865; Bayer, Plymouth, UK) were obtained for
+         the partial pressure of oxygen (PaO2), the partial pressure of carbon dioxide (PaCO2), and the extent of oxygen saturation (SaO2).
+      
+      Chest HRCT
+      All patients underwent CT scanning (Light Speed 16 or VCT XT; GE Medical Systems,
+         Milwaukee, WI, USA). Full-volume scans reconstructed every 2.5&nbsp;mm were obtained throughout
+         the entire thorax. Scans were performed during suspended inspiration with patients
+         in the supine position. Additional limited scans using 1.25-mm thin collimation at
+         10-mm intervals from the aortic arch level to the lung bases, with high spatial resolution
+         reconstruction, were obtained at end-expiration with patients in the prone position.
+         CT images were assessed for the presence and extent of parenchymal abnormalities,
+         including ground-glass opacity, reticular opacity, honeycombing, traction bronchiectasis,
+         emphysema, and architectural distortion. The extent of parenchymal abnormality was
+         determined for each complete lung using a previously described 5-point scale [16] (0 = no involvement; 1 = 1-25%; 2 = 26-50%; 3 = 51-75%; and 4 = 76-100%). Each lung
+         was scored separately and divided into three zones (upper zone, lung apex to aortic
+         arch; middle zone, aortic arch to a position inferior to the pulmonary veins; and
+         lower zone, from the inferior pulmonary veins to the diaphragm). A mean score for
+         each of the six zones was calculated for each parenchymal pattern (i.e., ground-glass
+         opacity, reticular opacity, honeycombing, traction bronchiectasis, emphysema, and
+         architectural distortion). Total lung involvement was determined by summing the scores
+         for each CT pattern (total extent).
+      
+      DNA extraction from peripheral blood
+      Peripheral blood (8&nbsp;ml) was drawn and centrifuged with an acid-citrate-dextrose (ACD)
+         anti-coagulant. DNA extraction was performed using a QIAamp DNA mini kit (Qiagen Inc.,
+         Valencia, CA, USA) in accordance with the manufacturer’s instructions. In brief, cells
+         were lysed with lysis buffer and proteases, the DNA was ethanol precipitated, and
+         the sample was transferred to a QIAamp column and washed twice with washing buffer
+         and centrifugation. To increase the DNA yield, 200&nbsp;μl of elution buffer was added
+         to the column and the sample was incubated for 5&nbsp;minutes at room temperature. Finally,
+         the DNA was collected by centrifugation for 1&nbsp;minute. The concentration and purity
+         of the recovered DNA were assessed by spectrophotometry (GeneQuantII, Pharmacia Biotech,
+         Sweden), and the sample was stored in elution buffer at −20°C until use.
+      
+      Cytokine genotyping
+      The investigated gene polymorphisms included TGF-β1 (codons 10 and 25), IL-6 (−174), IL-10 (−1082, -819 and −592), TNF-α (−308), and
+         IFN-γ (+874). Cytokine genotyping was performed using the polymerase chain reaction
+         sequence specific primer (PCR-SSP) method with a cytokine-genotyping tray (Micro SSP™
+         primer set tray; One Lambda Inc., Canoga Park, CA, USA). DNA samples were thawed at
+         room temperature and mixed with D-mix and recombinant Taq polymerase. The mixture
+         was dispensed to the tray and amplification was performed in a thermocycler (Perkin
+         Elmer 9700; Perkin Elmer, Foster City, CA, USA) using the following program: denaturation
+         at 96°C for 2&nbsp;minutes, 9&nbsp;cycles of 96°C for 10&nbsp;seconds and 63°C for 50&nbsp;seconds, and
+         then 20&nbsp;cycles of 96°C for 10&nbsp;seconds, 59°C for 50&nbsp;seconds and 72°C for 30&nbsp;seconds.
+         The amplified DNA products were resolved by electrophoresis and identified using a
+         gel-documentation system (Alpha Inotech, Santa Clara, CA, USA).
+      
+      Serum cytokine assay
+      Due to resource limitations, blood samples were collected from the first consecutively
+         enrolled IPF patients (n = 38) and healthy controls (n = 36). Cytokines were assessed
+         in serum samples by quantitative sandwich immunoassays performed on a fully automated
+         ELISA machine (ETI-Max 3000; DiasORIN S.p.A, Vercelli, Italy) using ELISA kits purchased
+         from R&amp;D Systems (Minneapolis, MN, USA). Estimation of each cytokine was performed
+         in accordance with the manufacturers’ instructions. Briefly, 50&nbsp;μl of assay diluent
+         was dispensed to each well, and 200&nbsp;μl of standard, control or serum sample were added
+         as appropriate. The contents were incubated at room temperature for 2&nbsp;hours, washed
+         four times with washing buffer, and mixed with 200&nbsp;μl of cytokine conjugate per well.
+         After a further incubation for 2&nbsp;hours at room temperature, the plate was washed and
+         200&nbsp;μl of substrate was dispensed to each well. The plate was then incubated for 20&nbsp;minutes
+         at room temperature, and 50&nbsp;μl of stop solution was added to each well. Optical densities
+         were recorded and the results were expressed in pg/ml.
+      
+      Statistical analysis
+      Data are presented as proportions, means and standard deviations for normally distributed
+         data, or as median (range) for non-normally distributed data. Allele and genotype
+         frequencies were calculated by direct counting. Observed and expected frequencies
+         were compared using the chi-square test or Fisher’s exact test to check for Hardy-Weinberg
+         equilibrium (HWE). Differences between genotype and allele frequencies in IPF patients
+         and controls were analyzed with the chi-square or Fisher’s exact tests. Odds ratios
+         and 95% confidence intervals for relative risks were calculated. One-way analysis
+         of variance (ANOVA) and the Student’s t-test were used to compare the means of quantitative variables (age, physiological
+         parameters and HRCT scores) in relation to various genotypes and serum cytokines level.
+         For nonparametric data (serum cytokine levels between patients and controls), the
+         Mann–Whitney U test was used. Pearson’s and Spearman’s correlation coefficients were
+         used for parametric and nonparametric data, respectively, to examine the relationship
+         between serum cytokine levels and quantitative variables. A two-sided p value &lt; 0.05
+         was considered statistically significant. All analyses were performed using the Statistical
+         Software Package for the Social Sciences (SPSS, version 16.0; SPSS Inc., Chicago,
+         IL, USA).
+      
+   
+

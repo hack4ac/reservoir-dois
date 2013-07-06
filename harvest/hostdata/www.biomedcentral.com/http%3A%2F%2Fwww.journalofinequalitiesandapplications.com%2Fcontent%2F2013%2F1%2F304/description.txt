@@ -1,0 +1,105 @@
+Abstract
+In this paper, we investigate the growth and the zeros of difference of the first and second derivative of the solutions of the second-order linear differential equations
+
+    f 
+    ″ 
+ 
+ + 
+ 
+    A 
+    0 
+ 
+ 
+    e 
+    
+       
+          a 
+          0 
+ 
+       z 
+ 
+ 
+ 
+    f 
+    ′ 
+ 
+ + 
+ 
+    ( 
+    
+       A 
+       1 
+ 
+    
+       e 
+       
+          
+             a 
+             1 
+ 
+          z 
+ 
+ 
+    + 
+    
+       A 
+       2 
+ 
+    
+       e 
+       
+          
+             a 
+             2 
+ 
+          z 
+ 
+ 
+    ) 
+ 
+ f 
+ = 
+ 0 
+
+and a small function, where  
+    A 
+    j 
+ 
+ ( 
+ z 
+ ) 
+  (≢0) ( j 
+ = 
+ 0 
+ , 
+ 1 
+ , 
+ 2 
+ ) are meromorphic functions and  
+    a 
+    0 
+ 
+ < 
+ 0 
+ ,  
+    a 
+    1 
+ 
+ 
+    a 
+    2 
+ 
+ ≠ 
+ 0 
+ ,  
+    a 
+    1 
+ 
+ ≠ 
+ 
+    a 
+    2 
+ 
+ . Our result extended the results of Peng and Chen, Belaïdi and others.
+MSC: 
+34M10, 30D35.

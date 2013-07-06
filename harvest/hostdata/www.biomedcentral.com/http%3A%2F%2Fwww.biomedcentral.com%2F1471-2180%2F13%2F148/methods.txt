@@ -1,0 +1,63 @@
+Methods
+   
+      Bacterial growth conditions and virulence assays
+      Bacterial strains used in this work are listed in Table&nbsp;1. B. cenocepacia strains were cultured at 37°C with shaking at 200&nbsp;rpm in NYG medium (5&nbsp;g peptone,
+         3&nbsp;g yeast extract, and 20&nbsp;g glycerol per liter) [33]. The following antibiotics were supplemented when necessary: tetracycline, 100&nbsp;μg&nbsp;ml-1;
+         ampicillin, 200&nbsp;μg&nbsp;ml-1; trimethoprim, 25&nbsp;μg&nbsp;ml-1. Killing assays were performed using
+         Caenorhabditis elegans strain Bristol N2. Nematodes were maintained on nematode growth medium (NGM) at 23°C
+         [34]. Slow killing assays were performed on NGM medium and fast killing assays on high-osmolarity
+         PGS medium (peptone-glucose-sorbitol) [22]. BDSF and OHL signal molecules were added to the medium at a final concentration
+         of 5&nbsp;μM unless indicated otherwise.
+      
+      Table 1. Bacterial strains and plasmids used in this study
+      Construction of in-frame deletion mutants and complementation strains
+      The cepI deletion mutant of B. cenocepacia strain H111 was used as the parental strain to generate the in-frame double deletion
+         mutant of rpfFBc and cepI, following the methods described previously [12]. For complementation analysis, the coding region of WspR was amplified by PCR using
+         the primers listed in Additional file 4: Table S1, and cloned under the control of the S7 ribosomal protein promoter in plasmid
+         vector pMSL7. The resultant construct was conjugated into the rpfFBc deletion mutant B. cenocepacia H111 using tri-parental mating with pRK2013 as the mobilizing plasmid.
+      
+      Additional file 4: Table S1. Primers used in this study.
+         	Format: DOC 
+         	Size: 29KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      Construction of reporter strains and measurement of β-galactosidase activity
+      The promoter of cepI was amplified using the primer pairs listed in Additional file 4: Table S1 with HindIII and XhoI restriction sites attached. The resulting products
+         were digested with HindIII and XhoI, and ligated at the same enzyme sites in the vector
+         pME2-lacZ [35]. These constructs, verified by DNA sequencing, were introduced into B. cenocepacia H111 using tri-parental mating with pRK2013. Transconjugants were then selected on
+         LB agar plates supplemented with ampicillin and tetracycline. Bacterial cells were
+         grown at 37°C and harvested at different time points as indicated, and measurement
+         of β-galactosidase activities was performed following the methods as described previously
+         [36].
+      
+      Biofilm formation, swarming motility and proteolytic activity assays
+      Biofilm formation in 96-well polypropylene microtiter dishes was assayed essentially
+         as described previously [23]. Swarming motility was determined on semi-solid agar (0.5%). Bacteria were inoculated
+         into the center of plates containing 0.8% tryptone, 0.5% glucose, and 0.5% agar. The
+         plates were incubated at 37°C for 18&nbsp;h before measurement of the colony diameters.
+         Protease assay was performed following the previously described method [37]. Protease activity was obtained after normalization of absorbance against corresponding
+         cell density.
+      
+      Analysis of AHL signals
+      Bacterial cells were grown in NYG medium to a same cell density in the late growth
+         phase. The supernatants were acidified to pH = 4.0 and extracted using ethyl acetate
+         in a 1:1 ratio. Following evaporation of ethyl acetate the residues were dissolved
+         in methanol. Quantification of AHL signals was performed using β-galactosidase assay
+         with the aid of the AHL reporter strain CF11 as described previously [38]. Briefly, the reporter strain was grown in minimal medium at 28°C with shaking at
+         220&nbsp;rpm overnight. The cultures were inoculated in the same medium supplemented with
+         extracts containing AHL signals. Bacterial cells were harvested and β-galactosidase
+         activities were assayed as described in previous section. For TLC analysis, 5&nbsp;μl of
+         the concentrated AHL extracts were spotted onto 10 × 20&nbsp;cm RP-18254&nbsp;s plate (MERCK)
+         and separated with methanol–water (60:40, v/v). The plates were subsequently air dried
+         and overlaid with 50&nbsp;ml minimal medium containing 0.8% agarose, 50&nbsp;μg&nbsp;ml-1 X-gal,
+         and 1&nbsp;ml stocked CF11 culture. The plates were then incubated overnight at 28°C, and
+         AHL is indicated by the presence of a blue spot.
+      
+      Western blotting analysis
+      Bacterial cultures were grown in NYG medium overnight and inoculated in the same medium.
+         The refreshed cultures were grown at 37°C to an OD600 of 4.5; and 1&nbsp;ml of each bacterial culture was collected and centrifuged. The cells
+         were lysed by adding 250&nbsp;μl celLyticTM B cell Lysis Reagent (Sigma). The concentrations
+         of total protein samples were measured and normalized. Then the samples were denatured
+         by boiling for 10&nbsp;min and separated by 10% SDS-PAGE. Western blot analysis was performed
+         following the standard protocols [39].
+      
+   
+

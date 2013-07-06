@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					It has been suggested that frequent-, short-term sick leave is associated with work environment factors, whereas long-term sick leave is associated mainly with health factors. However, studies of the hypothesis of an association between a poor working environment and frequent short spells of sick leave are few and results are inconsistent. Therefore, we aimed to explore associations between self-reported psychosocial work factors and workplace-registered frequency and length of sick leave in the eldercare sector.
+
+				
+				
+					
+						Methods
+
+					Employees from the municipal eldercare in Aarhus (N = 2,534) were included. In 2005, they responded to a work environment questionnaire. Sick leave records from 2005 were dichotomised into total sick leave days (0–14 and above 14 days) and into spell patterns (0–2 short, 3–9 short, and mixed spells and 1–3 long spells). Logistic regression models were used to analyse associations; adjusted for age, gender, occupation, and number of spells or sick leave length.
+
+				
+				
+					
+						Results
+
+					The response rate was 76%; 96% of the respondents were women. Unfavourable mean scores in work pace, demands for hiding emotions, poor quality of leadership and bullying were best indicated by more than 14 sick leave days compared with 0–14 sick leave days. For work pace, the best indicator was a long-term sick leave pattern compared with a non-frequent short-term pattern. A frequent short-term sick leave pattern was a better indicator of emotional demands (1.62; 95% CI: 1.1-2.5) and role conflict (1.50; 95% CI: 1.2-1.9) than a short-term non-frequent pattern.
+Age (= < 40 / >40 years) statistically significantly modified the association between the 1–3 long-term sick leave spell pattern and commitment to the workplace compared with the 3–9 frequent short-term pattern.
+
+				
+				
+					
+						Conclusions
+
+					Total sick leave length and a long-term sick leave spell pattern were just as good or even better indicators of unfavourable work factor scores than a frequent short-term sick leave pattern. Scores in commitment to the workplace and quality of leadership varied with sick leave pattern and age. Thus, different sick leave measures seem to be associated with different work environment factors. Further studies on these associations may inform interventions to improve occupational health care.
+
+				
+			
+		

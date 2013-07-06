@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Diabetic patients, through incompletely understood mechanisms, endure exacerbated ischemic heart injury compared to non-diabetic patients. Intermedin (IMD) is a novel calcitonin gene-related peptide (CGRP) superfamily member with established cardiovascular protective effects. However, whether IMD protects against diabetic myocardial ischemia/reperfusion (MI/R) injury is unknown.
+
+				
+				
+					
+						Methods
+
+					Diabetes was induced by streptozotocin in Sprague–Dawley rats. Animals were subjected to MI via left circumflex artery ligation for 30 minutes followed by 2 hours R. IMD was administered formally 10 minutes before R. Outcome measures included left ventricular function, oxidative stress, cellular death, infarct size, and inflammation.
+
+				
+				
+					
+						Results
+
+					IMD levels were significantly decreased in diabetic rats compared to control animals. After MI/R, diabetic rats manifested elevated intermedin levels, both in plasma (64.95 ± 4.84 pmol/L, p < 0.05) and myocardial tissue (9.8 ± 0.60 pmol/L, p < 0.01) compared to pre-MI control values (43.62 ± 3.47 pmol/L and 4.4 ± 0.41). IMD administration to diabetic rats subjected to MI/R decreased oxidative stress product generation, apoptosis, infarct size, and inflammatory cytokine release (p < 0.05 or p < 0.01).
+
+				
+				
+					
+						Conclusions
+
+					By reducing oxidative stress, inflammation, and apoptosis, IMD may represent a promising novel therapeutic target mitigating diabetic ischemic heart injury.
+
+				
+			
+		

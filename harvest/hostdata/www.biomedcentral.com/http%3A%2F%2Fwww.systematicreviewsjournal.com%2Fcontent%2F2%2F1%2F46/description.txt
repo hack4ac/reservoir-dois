@@ -1,0 +1,39 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Serotonin (5-HT3) receptor antagonists are a class of antiemetic medications often used to prevent nausea and vomiting among patients undergoing chemotherapy, radiotherapy or surgery. However, recent studies suggest that these agents might be associated with increased cardiac harm. To examine this further, we are proposing to conduct a systematic review and network meta-analysis on the comparative safety of 5-HT3 receptor antagonists among patients undergoing chemotherapy or surgery.
+
+				
+				
+					
+						Methods/Design
+
+					Studies reporting one or more safety outcomes of interest for 5-HT3 receptor antagonists compared with each other, placebo, and/or other anti-emetic agents (for example, benzamides, phenothiazines, butyrophenones, antihistamines, and anticholinergics) among children and adult patients undergoing surgery or chemotherapy will be included. Our primary outcome of interest is arrhythmia. Our secondary outcomes include cardiac death, QT prolongation, PR prolongation, all-cause mortality, nausea, and vomiting. We will include experimental studies, quasi-experimental studies (namely controlled before-after and interrupted time series), and observational studies (namely cohort studies). We will not limit inclusion by publication status, time period, duration of follow-up or language of dissemination.
+Electronic databases (for example, MEDLINE, EMBASE) will be searched from inception onwards. These main searches will be supplemented by searching for difficult to locate and unpublished studies, such as dissertations, and governmental reports. The eligibility criteria will be pilot-tested and subsequently used to screen the literature search results by two reviewers in duplicate. A similar process will be followed for full-text screening, data abstraction, and risk of bias/methodological quality appraisal. The Cochrane Risk of Bias tool will be used to appraise experimental and quasi-experimental studies, and cohort studies will be assessed using the Newcastle Ottawa Scale. If the data allows, random effects meta-analysis and a network (that is, mixed treatment comparisons) meta-analysis will be conducted. All analyses will be conducted separately for different study designs, patient populations (for example, children and adults), and reason for administering 5-HT3 receptor antagonists (for example, post-surgery and chemotherapy).
+
+				
+				
+					
+						Discussion
+
+					Our results will help inform patients, clinicians, and health policy-makers about the potential safety concerns, as well as the comparative safety, of using these antiemetic agents.
+
+				
+				
+					
+						Trial registration
+
+					
+						 PROSPERO registry number:  CRD42013003564 
+					
+
+				
+			
+		

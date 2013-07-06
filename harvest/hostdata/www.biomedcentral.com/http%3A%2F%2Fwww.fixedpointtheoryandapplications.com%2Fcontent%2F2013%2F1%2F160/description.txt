@@ -1,0 +1,2 @@
+Abstract
+In this paper, we study the strong convergence of Moudafi’s viscosity approximation methods for approximating a common fixed point of a one-parameter continuous semigroup of nonexpansive mappings in  CAT  (  0  )  spaces. We prove that the proposed iterative scheme converges strongly to a common fixed point of a one-parameter continuous semigroup of nonexpansive mappings which is also a unique solution of the variational inequality. The results presented in this paper extend and enrich the existing literature.

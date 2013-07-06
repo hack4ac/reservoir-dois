@@ -1,0 +1,122 @@
+Methods
+   
+      Honey samples
+      Honey samples from the stingless bee M. compressipes manaosensis (Apidae, Meliponinae) were provided by the Research Group on Bees (GPA) from the
+         National Institute of Amazon Research (INPA) in Manaus, Amazonas (honey A). Honey
+         samples were collected twice, during the dry and rainy seasons. The harvesting took
+         place in March 2009 (dry season) and November 2009 (rainy season). It was collected
+         3 samples from each season.
+      
+      These Melipona species keep the honey in compartments within the hives, referred to as pots, and
+         for this reason an adapted 20&nbsp;mL syringe containing a sterile tube was used to withdraw
+         the honey from the pots. This procedure was carried out by trained GPA technicians.
+         The honey withdrawn was immediately stored in sterile dark glass recipients to avoid
+         photodegradation, and kept at 5°C.
+      
+      Three commercial honey samples were also included in this study: eucalyptus honey
+         (predominant blooming) from Rio Grande do Sul (honey B); honey produced by Apis sp. bees from Ceará (honey C); and honey produced by the stingless bees known as
+         Jandaíra (M. subnitida, Apidae, Meliponinae) produced by beekeepers from the community of the Tupé Sustainable
+         Development Reserve (RDS Tupé), located in the rural zone of Manaus (honey D). Harvesting
+         of honey B-D took place in 2009.
+      
+      Bacterial strains
+      Strains of Staphylococcus aureus, Escherichia coli (O157:H7), Proteus vulgaris, Shigella sonnei, Salmonella paratyphi and Klebsiella sp. were kindly provided by the Tropical Virology Laboratory of INPA. Bacterial cultures
+         were kept in nutrient agar at 36°C.
+      
+      The bacterial strains were previously tested regarding its antibiotic susceptibility,
+         as showed in Table&nbsp;1.
+      
+      Table 1. Antibiotic susceptibility presented by different bacterial strains used in this work
+      Antibacterial activity assays
+      For the antimicrobial assays the bacterial strains were grown overnight in Müeller-Hilton
+         broth at 36.5°C. The bacterial concentration was standardized to 3 × 108 CFU ml-1 using the McFarland scale.
+      
+      In this study two different assays were performed to evaluate the antibacterial potential
+         of the honey samples: agar-well diffusion and broth macrodilution.
+      
+      For the well diffusion assay Müeller-Hilton solid media was prepared on petri dishes,
+         followed by autoclaving at 121°C for 20&nbsp;min. Approximately 5&nbsp;ml of the sterilized
+         media was poured onto the dishes (65 × 15&nbsp;mm), in an aseptic environment. The diffusion
+         test was performed according to Hernández et al. [10], with a few modifications. Seven wells of 3&nbsp;mm were made in the agarized medium after
+         inoculation with the bacterial strains. Honey samples were diluted in bidistilled
+         water in the proportions of 1:1, 1:2, 1:4, and 1:8 (v/v). The wells were filled with
+         30&nbsp;μl of the honey samples (diluted samples, non-diluted samples and bidistilled water
+         as the negative control). The plates were incubated at 36.5°C for 24&nbsp;h before visual
+         assessment of the inhibition zones. The experiment was repeated three times. The quantification
+         of microbial growth inhibition was determined by measuring the diameter of clear zones
+         of microbial growth around the wells in the agar (including the well itself). The
+         minimum inhibitory concentration (MIC) was considered the lowest concentration capable
+         of inhibiting the visible bacterial growth.
+      
+      For the bacterial broth macrodilution assay, appropriate amounts of the honey samples
+         and the culture broth to give the desired concentrations (1:1, 1:2, 1:4, 1:6 and 1:8;
+         v/v) were placed into 5&nbsp;ml tubes. The bacterial standardized inoculum (30&nbsp;μl) was
+         poured into the tubes, homogenized and incubated at 36.5°C for 24&nbsp;h. Samples taken
+         from the tubes were inoculated into petri dishes containing nutrient agar to verify
+         bacterial growth. Inhibition of bacterial growth was visible as a clear broth and
+         the presence of growth was detected by the presence of turbidity. The positive control
+         was the tube containing the culture broth and the bacterial inoculum; the negative
+         control contained the culture broth and the honey sample. The experiment was repeated
+         three times.
+      
+      Minimum bactericidal concentration (MBC) of honey
+      The MBC is the lowest honey concentration capable of killing a bacterial population.
+         It was determined using the incubated tubes from the macrodilution assay, where a
+         100&nbsp;μl sample from each tube was inoculated into petri dishes containing nutrient
+         agar. The plates were incubated at 36.5°C for 24&nbsp;h. The MBC was considered the lowest
+         concentration of honey where no bacterial growth was observed on the agar surface
+         (99.9% of bacterial death) [11]. All tests were repeated three times.
+      
+      Statistical analysis
+      All of the experimental results were expressed as mean ± standard deviation (SD) of
+         three determinations. The presence of a significant difference between honey samples
+         was determined by one-way ANOVA followed by Tukey test (p ≥ 0.05) comparison using
+         BioStat 5.3.5.
+      
+      Phenolic compounds extraction from honey
+      Liquid-liquid extraction with ethyl acetate was used, according to the methodology
+         described by Wahdan [12]. A 20% honey stock solution was prepared in distilled water, and after separating
+         50&nbsp;ml of this solution the pH was adjusted to 3.5. To this 50&nbsp;ml aliquot, 50&nbsp;ml of
+         ethyl acetate and 1&nbsp;g of sodium chloride was added in a separation funnel. The funnel
+         was shaken for 5&nbsp;min for the extraction of phenolic compounds. The ethyl acetate fraction
+         was then withdrawn and stored in a test tube. This procedure was repeated three times.
+         After the extraction, 150&nbsp;ml of ethyl acetate honey extract, was obtained and submitted
+         to vacuum evaporation at 30°C. The concentrated extract was stored at -18°C.
+      
+      Sample preparation for chromatography
+      An aliquot (2&nbsp;ml) of each concentrated sample was collect with a 5&nbsp;ml sterile syringe
+         and filtered through 0.45&nbsp;μm Teflon membranes. The filtered samples were stored in
+         sterile 2&nbsp;ml vials. Prior to the injection into the chromatographer column, 400&nbsp;μl
+         of the samples were added to 600&nbsp;μl of previously filtered methanol.
+      
+      Preparation of standards
+      Apigenin (5&nbsp;mg) and pinocembrin (25&nbsp;mg) were acquired from Sigma-Aldrich Co. The rutin
+         standard was kindly donated by the Laboratory of phytochemistry of the Federal University
+         of Amazonas (UFAM). Stock solutions were prepared by the dissolution of each compound
+         within HPLC-grade methanol. Apigenin and rutin were diluted in 10&nbsp;ml of methanol and
+         pinocembrin was dissolved in 50&nbsp;ml of the solvent. The standard solutions were filtered
+         through 0.45&nbsp;μm Teflon membranes and injected into the chromatographer column under
+         the same analytical conditions used for the honey samples.
+      
+      High performance liquid chromatography (HPLC) analysis
+      The analysis was performed in a Varian HPLC System equipped with an autosampler. For
+         the separation of phenolic components a reverse-phase C-18 column (150 × 4.6&nbsp;mm × 1/4)
+         was used. The mobile phase consisted of an isocratic gradient system as described
+         by Ferreres et al. [13] with some modifications. Water and methanol were used as the eluent at a flow rate
+         of 1.00&nbsp;ml min-1. To achieve better separation, a gradient elution was used starting with 30% methanol
+         which remained isocratic for the first 15&nbsp;min, followed 40% methanol at 20&nbsp;min, 45%
+         methanol at 30&nbsp;min, 60% methanol at 50&nbsp;min and 80% methanol at 52&nbsp;min before becoming
+         isocratic again until the end of analysis at 60&nbsp;min. Chromatograms were recorded at
+         340 and 290&nbsp;nm.
+      
+      Flavonoid identification
+      The flavonoids were identified by two techniques. Firstly, a chromatographic comparison
+         between the peak retention times obtained for the samples and for the standard flavonoids
+         was carried out. The technique of standard addition was also used, which consists
+         of adding known amounts of each flavonoid standard into the sample. If there is an
+         increase in the peak height, and thus in the peak area, without the appearance of
+         shoulders or distortions, this is strong evidence that this peak is the flavonoid
+         of interest. A comparison of the peak retention times was also carried out.
+      
+   
+

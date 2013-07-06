@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Myocardial infarct heterogeneity indices including peri-infarct gray zone are predictors for spontaneous ventricular arrhythmias events after ICD implantation in patients with ischemic heart disease. In this study we hypothesize that the extent of peri-infarct gray zone and papillary muscle infarct scores determined by a new multi-contrast late enhancement (MCLE) method may predict appropriate ICD therapy in patients with ischemic heart disease.
+
+				
+				
+					
+						Methods
+
+					The cardiovascular magnetic resonance (CMR) protocol included LV functional parameter assessment and late gadolinium enhancement (LGE) CMR using the conventional method and MCLE post-contrast. The proportion of peri-infarct gray zone, core infarct, total infarct relative to LV myocardium mass, papillary muscle infarct scores, and LV functional parameters were statistically compared between groups with and without appropriate ICD therapy during follow-up.
+
+				
+				
+					
+						Results
+
+					Twenty-five patients with prior myocardial infarct for planned ICD implantation (age 64±10 yrs, 88% men, average LVEF 26.2±10.4%) were enrolled. All patients completed the CMR protocol and 6–46 months follow-up at the ICD clinic. Twelve patients had at least one appropriate ICD therapy for ventricular arrhythmias at follow-up. Only the proportion of gray zone measured with MCLE and papillary muscle infarct scores demonstrated a statistically significant difference (P < 0.05) between patients with and without appropriate ICD therapy for ventricular arrhythmias; other CMR derived parameters such as LVEF, core infarct and total infarct did not show a statistically significant difference between these two groups.
+
+				
+				
+					
+						Conclusions
+
+					Peri-infarct gray zone measurement using MCLE, compared to using conventional LGE-CMR, might be more sensitive in predicting appropriate ICD therapy for ventricular arrhythmia events. Papillary muscle infarct scores might have a specific role for predicting appropriate ICD therapy although the exact mechanism needs further investigation.
+
+				
+			
+		

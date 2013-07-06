@@ -1,0 +1,6 @@
+
+Abstract
+
+Whole-genome sequencing of tumor tissue has the potential to provide comprehensive characterization of genomic alterations in tumor samples. We present Patchwork, a new bioinformatic tool for allele-specific copy number analysis using whole-genome sequencing data. Patchwork can be used to determine the copy number of homologous sequences throughout the genome, even in aneuploid samples with moderate sequence coverage and tumor cell content. No prior knowledge of average ploidy or tumor cell content is required. Patchwork is freely available as an R package, installable via R-Forge ( http://patchwork.r-forge.r-project.org/ ).
+
+

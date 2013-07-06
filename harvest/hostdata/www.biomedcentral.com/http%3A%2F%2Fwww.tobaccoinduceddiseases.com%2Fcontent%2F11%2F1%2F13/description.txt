@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					To examine facilitators of dental smoking intervention practices in Japan, where smokeless tobacco is rarely used, we evaluated the characteristics of dental care for smokers.
+
+				
+				
+					
+						Methods
+
+					Community dentists volunteered to record the treated disease or encounter with patients that was principally responsible for their dental care on the survey day. Patients were classified into groups receiving gingival/periodontal treatment (GPT), caries/endodontic treatment (CET), prosthetic treatment (PRT), periodical check-up/orthodontic treatment (POT), or other encounters/treatments. Potential effect of dentist clustering was adjusted by incorporating the complex survey design into the analysis.
+
+				
+				
+					
+						Results
+
+					Data of 2835 current smokers (CS) and 6850 non-smokers (NS) from 753 clinics were analysed. Distribution of treatments significantly differed between CS and NS (P = 0.001). In ad hoc multiple comparisons for each treatment, CS were significantly higher than NS for CET (47.1% vs. 43.6%, P = 0.002), and lower for POT (1.6% vs. 2.7%, P = 0.001), whereas GPT and PRT proportions were equivalent by smoking. When stage of disease progression was compared in the GPT subpopulation, CS were more likely received treatment for advanced stage disease than NS in the age groups of 40–59 years (24.9% vs. 15.3%, P = 0.001) and more than 60 years (40.8% vs. 22.1%, P < 0.001). However, the difference was less apparent in the entire population (9.7% vs. 6.0%), and CS were not predominant among patients receiving GPT for advanced stage disease (37.6%).
+
+				
+				
+					
+						Conclusions
+
+					The association of smoking with type of dental care of CET and GPT severity would warrant the need for dental professionals to engage their patients smoking within clinical practice. The detrimental effects of smoking in dental care for smokers, as evidenced by the distribution of treatment and encounter and stage of treated disease, may not be clearly realized by dental professionals, unless the smoking status of all patients is identified.
+
+				
+			
+		

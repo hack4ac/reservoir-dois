@@ -1,0 +1,16 @@
+
+			
+				
+					Abstract
+
+				The preparation of CoZr nanostructure films to replicate the order of anodized aluminum oxide template with barrier layer was described. Coercivity and in-plane magnetic anisotropy were increased with the increase of oblique sputtering angle. Resonance frequency and damping factor had the same tendency also. Note that larger damping factor in nanostructure films was observed compared with that of continuous films in Si substrate, which was induced by magnetic anisotropy distribution particularly with a significant out-of-plane contribution due to the competition of shape anisotropy.
+
+			
+				
+					PACS
+
+				75.75.-c, 75.70.-i, 07.57.Pt
+
+			
+			
+		

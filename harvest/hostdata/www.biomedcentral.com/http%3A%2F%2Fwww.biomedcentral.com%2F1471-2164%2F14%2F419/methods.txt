@@ -1,0 +1,209 @@
+Methods
+   
+      Building metagenomic read trees
+      The approach is illustrated in Figure&nbsp;1. To build a gene family phylogeny in which each leaf is a shotgun read from a metagenomic
+         sample, we first align all reads that have previously been identified as belonging
+         to the family, e.g., with NCBI BLAST (http://blast.ncbi.nlm.nih.gov/ webcite) or HMMER (http://hmmer.janelia.org/ webcite), to a probabilistic sequence profile for the gene family: a profile hidden Markov
+         Model for proteins or a stochastic context-free grammar for 16S rRNA. These profile
+         models are built from all known full-length sequences for the gene family (“reference
+         sequences”), which are included in the alignment. We apply standard and placement-type
+         phylogenetic algorithms (see below) to the resulting alignment of reference sequences
+         and reads. Finally, we prune the reference sequences from the estimated phylogeny
+         to produce a read tree.
+      
+      Direct quantification of error in shotgun read phylogenies
+      Because metagenomics is a relatively new field, there are no “gold-standard” data
+         sets that would allow us to vary parameters that we expected to influence accuracy.
+         Hence, we designed a large collection of simulated shotgun metagenomic datasets (Figure&nbsp;1) to assess the effects of read length, phylogenetic method, number of reads, and
+         reference database size and diversity upon the construction of read trees. To create
+         the simulated datasets, we developed and used the MetaPASSAGE software workflow. Details
+         about its implementation are in Additional file 8: Supplementary Methods.
+      
+      Additional file 8: Supplementary Methods. Details about software implementation and the methods used in the simulations, phylogenetic
+         inference, error evaluation, and analyses.
+         	Format: DOC 
+         	Size: 75KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      Selection of genes
+      To test whether accuracy varies for different gene families, we identified five gene
+         families for which global homology alignments and probabilistic models had already
+         been built and for which at least 400 unique full-length sequences were available
+         (Table&nbsp;1). We selected 16S rRNA and four proteins: rpoB, RNA polymerase beta-subunit encoding gene; rpsB, 30S ribosomal protein S2; dnaG, a primase for DNA replication; and lipoprotein-releasing system transmembrane protein
+         lolC, from the ABC transporter superfamily. This selection enabled us to assess the generality
+         of our findings and identify any impacts of gene length, type (RNA vs. protein), function
+         (housekeeping vs. not), or level of conservation on read-tree construction. For sequence
+         download information and accession numbers, see Table&nbsp;1 and Additional file 1: Table S1.
+      
+      Gene family alignment and quality control
+      To improve algorithmic performance, we processed the full-length sequences of each
+         gene family to retain only one representative of every subset of identical sequences.
+         For consistency among simulations, we also limited all gene families to the set of
+         taxa represented in AMPHORA. To focus our study on the most common conditions and
+         sources of error, we removed all Mycoplasma and Candidatus sequences, as these taxa occur in very specific microbiomes and often have extremely
+         fast-evolving sequences, which could present an additional source of inaccuracy. The
+         remaining unique sequences were aligned to the gene-family profile model using INFERNAL
+         [30] for 16S rRNA and HMMER for proteins. For 16S rRNA, we used cmbuild with options “--rf"
+         and “--ere 1.4” to create an INFERNAL profile model from a hand-curated reference
+         alignment obtained from the Ribosomal Database Project [30]. For rpoB, rpsB, and dnaG, we used HMMER2.0 profile models and alignment functionality directly from AMPHORA,
+         which applies a “non-strict” mask designed to improve the alignment quality. For lolC, we first downloaded a gene family alignment from PhyloFacts, pruned that alignment
+         appropriately, and, for consistency with the other gene families, created a HMMER2.0
+         profile model by running hmmbuild with the “-F" option (the “-s” option was also used
+         to create the profile for aligning reads). For all gene families, we removed any empty
+         alignment columns, including those with a single ambiguous character, and any duplicate
+         sequences produced by masking.
+      
+      Reference database simulation
+      To explore the impact of current knowledge of a gene family, we sampled a subset of
+         sequences from the family alignment and generated a new profile model using only these
+         sequences. We call the sampled sequences the simulated reference database. We used
+         two sizes (“small” and “large”, corresponding to 50 and 200 sequences) and, for three
+         of the gene families, two types (“random” and “diverse”) of reference databases. For
+         every combination of size and type, we simulated three reference databases, for a
+         total of 6 (random only) or 12 (random and diverse) databases for each gene family.
+         The random reference databases were constructed by sampling sequences uniformly without
+         replacement. The diverse databases were constructed using available software [29] by maximizing the phylogenetic diversity [31] of half of the sequences and randomly selecting the rest.
+      
+      Community simulation
+      Using the MetaPASSAGE workflow, for each simulation, we composed small or large simulated
+         microbial communities by randomly sampling 50 or 200 full-length sequences from the
+         collection of full-length sequences for each gene family. We call these the source
+         sequences for a given simulation. The number of source sequences corresponded to the
+         sample size in the read simulation step. Source sequences need not be present in the
+         reference database.
+      
+      Read simulation
+      For each gene family, we used MetaPASSAGE to simulate shotgun reads from the sources
+         sequences via the MetaSim software package [17] and automatically process them according to the following protocol. For each combination
+         of mean read length (100&nbsp;bp and 400&nbsp;bp), sample size (50 and 200 reads), and random
+         reference database (three “small” and three “large”), we generated ten simulated samples,
+         for a total of 240 datasets. For three gene families, we created 240 additional simulated
+         datasets using the diverse reference databases. No sequencing error was simulated
+         in these datasets in order to accurately quantify the impacts of the other simulated
+         parameters in the absence of experimental measurement error. However, for the rpoB gene family, 100-bp mean read length, 200-read sample size, and each of the six random
+         reference databases, we generated ten additional simulated samples, for a total of
+         60 datasets, using an Illumina-based sequencing error model. As has been done previously
+         [32], this model was extended from the 80-bp Illumina model available on the MetaSim website
+         (http://ab.inf.uni-tuebingen.de/software/metasim/ webcite) by repeating the error rate at position 80 an additional 20 bases.
+      
+      Each simulation began with the community simulation step described above, resulting
+         in a set of source sequences. To produce a realistic distribution of reads across
+         the length of each source sequence, MetaPASSAGE padded both ends of the source sequence
+         with ‘N’s, representing the genome up- and down-stream. It then randomly generated
+         an average of three metagenomic reads (of average length 100&nbsp;bp or 400&nbsp;bp) per source
+         sequence and trimmed N’s from the simulated reads. MetaPASSAGE dropped any reads shorter
+         than 50&nbsp;bp (for the 100-bp mean) or 200&nbsp;bp (for the 400-bp mean). It oriented (for
+         16S rRNA) or translated (for protein families) the remaining reads by comparing them
+         with BLAST against the simulated reference database, and removed any reads for which
+         this could not be done accurately. This set of oriented or translated reads was finally
+         filtered so that there remained at most one random read per original source sequence,
+         a step taken to facilitate the direct one-to-one comparison of phylogenies labeled
+         by simulated metagenomic sequences and phylogenies labeled by full-length source sequences.
+         After filtering, MetaPASSAGE aligned the final set of reads with the simulated reference
+         database sequences, using HMMER 2.0 for proteins or INFERNAL 1.0 for RNA sequences.
+         For each simulated dataset, we kept track of which reads came from which source sequences.
+      
+      Phylogenetic algorithms
+      From each alignment of reads to a reference database, we generated read trees using
+         three different phylogenetic inference algorithms: FastTree [25], RAxML [33] (with a fixed reference tree), and pplacer [12]. These represent the range of current approaches in phylogenetics that are computationally
+         feasible for large datasets (related approaches include PhyML [34] and RAxML’s evolutionary placement algorithm [11]; see Additional file 8: Supplementary Methods). We also applied each phylogenetic algorithm to an alignment
+         of the complete set of full-length reference sequences for each gene family. For each
+         simulation, we pruned this tree so that it contained only the leaves labeled by source
+         sequences for the reads in that simulation. We call this tree of source sequences
+         the source tree. Details about the options used with each algorithm are in Additional
+         file 8: Supplementary Methods.
+      
+      Performance evaluation
+      We evaluated each read tree based on how different it was from the corresponding source
+         tree (Figure&nbsp;1). We compared each pair of trees using normalized versions of standard measures of
+         topological error (normalized Robinson-Foulds distance (nRF)) and branch-length error
+         (normalized branch-score distance (nBS)) [19] (see Additional file 8: Supplementary Methods). The nRF and nBS scores are based on the number of leaf bipartitions
+         occurring in one but not both of the trees. If two trees are identical topologically,
+         nRF = 0. For trees with more than 30 leaves, the expected mean nRF between a pair
+         of random phylogenies is approximately at least 0.99, with a standard deviation of
+         less than 0.0004 [19].
+      
+      We also developed a new measure, called the distortion factor (DF) distribution, which
+         offers a more refined view of error in branch-length estimation than does nBS for
+         branches that appear in both the read tree and the corresponding source tree, i.e.,
+         topologically correct branches. We define the DF of a topologically correct branch
+         as the branch’s length in the read tree divided by its length in the source tree.
+         A branch that is smaller in the read tree than in the source tree has DF &lt; 1.0, meaning
+         its length has been underestimated, and a branch that is larger in the read tree than
+         in the source tree has DF &gt; 1.0, meaning its length has been overestimated. To avoid
+         numerical instability and focus on branches of topological relevance, we computed
+         DFs only for branches with a minimum length (&gt;0.0004) in the source tree, which included
+         91–96% of branches in the complete gene tree for each gene family. The quartiles of
+         the DF distribution illustrate the extent to which topologically correct branches
+         are typically stretched or shrunk. Formal definitions of all three measures are in
+         Additional file 8: Supplementary Methods.
+      
+      Assessment of impact of error in UniFrac-based analyses
+      We designed a second set of simulations to test the feasibility and accuracy of UniFrac
+         analysis [18] applied to metagenomic read trees. These simulations follow the same general approach
+         as the first set of simulations; unless stated otherwise, the parameter settings are
+         identical.
+      
+      Gene family
+      We used the 16S rRNA gene with the profile model described above and sampled source
+         sequences from a much larger pool of 1,071 full-length reference sequences (Table&nbsp;1, Additional file 1: Table S1), obtained via fragment recruitment [35] from Human Microbiome Project sequencing of gut samples [36].
+      
+      Community types
+      We simulated three distinct communities (“Pop1”, “Pop2”, and “Pop3”), guided by three
+         “enterotype” communities described by Arumugam et al. [27]. For each community, we defined a relative abundance distribution over 15 genera
+         that fell roughly within the parameters of a corresponding community type in the Arumugam
+         study (Figure&nbsp;5). In particular, Pop1 does not have an obvious structure but does have low levels
+         of Ruminococcus, a taxon not present in the other communities. Pop2 has a relatively
+         high abundance of Prevotella, while Pop3 has relatively high abundances of Bacteroides
+         and Faecalibacterium. To simulate each community, we then randomly sampled 50 (not
+         necessarly unique) source sequences, distributed over genera according to the community-specific
+         relative abundance distribution, from the set of full-length gene sequences. That
+         set of source sequences was used to generate every sample of simulated reads for that
+         community.
+      
+      Reference database simulation
+      We randomly sampled 33 unique sequences from the same set of full-length gene sequences,
+         using a relative abundance distribution over genera that was intermediate among the
+         simulated populations (Figure&nbsp;5). This set of reference sequences overlapped with each community and also contained
+         sequences distinct from all three communities.
+      
+      Read simulation
+      Using MetaPASSAGE, we created a total of 60 sets of simulated metagenomic samples:
+         ten sets of simulated metagenomic samples for each combination of community (Pop1,
+         Pop2, and Pop3) and mean read length (100&nbsp;bp and 400&nbsp;bp). To produce one sample, MetaPASSAGE
+         first generated 60 simulated metagenomic reads according to the same protocol as described
+         above, except that after orienting the reads, a final random sample of 30 reads was
+         taken, without filtering with respect to source sequences. This number allowed trees
+         to be built and analyzed quickly, while also making it very likely that, for at least
+         some source sequences, multiple reads from the same source would be present (unlike
+         in the previous simulations).
+      
+      Phylogenies of combined samples and controls
+      For a fixed parameter setting (100-bp or 400-bp mean read length), we created a set
+         of alignments that each contained three simulated samples of metagenomic reads and
+         the simulated reference database. To quantify false positives, we generated nine “null
+         test” alignments in which all three samples came from the same community. To quantify
+         true positives, we generated ten alignments in which each of the three samples came
+         from a different community. A read tree was built using each of the three phylogenetic
+         algorithms from each read alignment. Error rates in the analyses of read trees were
+         compared to error rates in the analyses of the corresponding source trees (the “controls”).
+         For each read tree, a control was built with the same phylogenetic method from an
+         alignment containing the unique source sequences.
+      
+      Fast UniFrac
+      We analyzed read trees and source trees using the weighted version of Fast UniFrac.
+         This statistical test is designed to determine whether the samples in a tree come
+         from different communities or similar communities. It assigns a p-value for each of
+         the pairs of samples in each tree. Pairs of samples with low p-values are more likely
+         to be from different communities. For read trees, the “sample id map” used by Fast
+         UniFrac contained a 1 if read x appeared in sample y, i.e., each read sequence was considered unique. For source trees, the sample id
+         map reported the number of reads simulated from source sequence x in sample y.
+      
+      Performance evaluation
+      Using a p-value cut-off of 0.05, we analyzed the false positive rate (FPR) and true
+         positive rate (TPR) of Fast UniFrac applied to read trees versus the corresponding
+         source trees (Table&nbsp;3). The FPR was computed as the proportion of pairs of samples from the null tests
+         incorrectly identified as coming from different communities. The TPR was computed
+         as the proportion of sample pairs from the non-null tests correctly identified as
+         coming from different communities.
+      
+   
+

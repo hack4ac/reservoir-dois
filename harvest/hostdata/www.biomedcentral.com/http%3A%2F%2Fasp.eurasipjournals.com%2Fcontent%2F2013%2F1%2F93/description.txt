@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					In this article, we address the problem of singular value decomposition of polynomial matrices and eigenvalue decomposition of para-Hermitian matrices. Discrete Fourier transform enables us to propose a new algorithm based on uniform sampling of polynomial matrices in frequency domain. This formulation of polynomial matrix decomposition allows for controlling spectral properties of the decomposition. We set up a nonlinear quadratic minimization for phase alignment of decomposition at each frequency sample, which leads to a compact order approximation of decomposed matrices. Compact order approximation of decomposed matrices makes it suitable in filterbank and multiple-input multiple-output (MIMO) precoding applications or any application dealing with realization of polynomial matrices as transfer function of MIMO systems. Numerical examples demonstrate the versatility of the proposed algorithm provided by relaxation of paraunitary constraint, and its configurability to select different properties.
+
+				
+			
+		

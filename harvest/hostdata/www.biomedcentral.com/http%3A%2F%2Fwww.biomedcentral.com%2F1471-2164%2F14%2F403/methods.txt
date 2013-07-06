@@ -1,0 +1,126 @@
+Methods
+   
+      Plant materials for microarray and quantitative PCR (qPCR) experiments
+      Two near-isogenic lines of Li1 Upland cottons (Gossypium hirsutum L.) that were homozygous dominant (Li1Li1) and homozygous recessive (li1li1) for the Li1 locus were developed in a backcross program at Stoneville, MS in field and greenhouse
+         environments (Figure&nbsp;1A). Texas marker-1 (TM-1) cotton plants containing the Li1 gene were crossed with the Upland cotton variety DP5690. F1 progeny were backcrossed for five generations (BC5) by single seed decent (SSD) to DP5690 which served as the recurrent parent in each
+         backcross. At the end of BC5 cycle, plants with Li1 phenotype were self-pollinated. The DP5690 recurrent parent was a pure inbred line
+         that was self-pollinated for nine generations via SSD (Additional file 1). Progenies in each backcross were selected based on the phenotype for the Li1 short-fiber mutation.
+      
+      Figure 1. Phenotype of the Li1 mutant and its wild type. A) Comparison of phenotypes observed in wild type DP5690 and Li1/ Li1 mutant under field conditions after opening (top row) and of single individual seeds
+         (bottom row). B) Measurements of fiber length, mass, density and fiber cellulose content in the wild
+         type (DP5690) and Li1/ Li1 mutant. C) Cross-sectional images of fibers from 28 and 40 DPA wild type (WT) and Li1 mutant fibers (200× magnification).
+      
+      Additional file 1. Pedigree of the Li1 mutant and WT NILs.Li1Li1 and li1li1 were created using a G. hirsutum pure inbred cv. DP5690 backcrossed for 5 generations to a F1 generation DP5690/Li1.
+         	Format: TIFF 
+         	Size: 121KB Download file or  display content in a new window
+      For the microarray and qPCR experiments, a total of 100 homozygous (Li1Li1) Li1 mutant and 100 WT (li1li1) plants were planted in a field at the Southern Regional Research Center, New Orleans,
+         LA in the summers of 2011 and 2012. The soil type in New Orleans was Aquent dredged
+         over alluvium in an elevated location to provide adequate drainage. Flowers were tagged
+         and sample collections were made before 10:00 am and immediately placed on ice. All
+         samples collected within each developmental stage were tagged and collected on the
+         same day. Fruits were randomly grouped into 3 individual replicates with 5–10 fruits
+         per replicate. Fruits were then dissected, frozen in liquid nitrogen and stored at
+         −80°C until further processing.
+      
+      Mapping population
+      A WT DP5690 (li1li1) was used as the female in a cross with its near-isogenic mutant line (Li1Li1 homozygous plant). Two thousand five hundred fifty-three F2 plants derived from approximately 20 F1 plants were planted along with their parents in a field in Stoneville, MS in 2012.
+         The Li1 trait of each F2 progeny plant was evaluated after boll maturation and opening (about 60 DPA). Standard
+         conventional field practices were applied during the growing season. The soil type
+         in Stoneville, MS was Bosket very fine sandy loam.
+      
+      Fiber length and cellulose content measurements
+      Fiber length was measured using the method described by Schubert et al. [6]. Two replicate samples with 10 ovules each were measured. For mass determination,
+         air-dried fibers were gently removed from all ovules of each sample, and weighted
+         on an analytical balance. Cellulose content from each fiber sample was measured using
+         the method described by Updegraff [33] with minor modification. Dried fiber samples were cut into small pieces. Ten mg of
+         the blended fibers were placed in 5 mL Reacti-Vials™ (Thermo Fisher Scientific, Waltham,
+         MA). Non-cellulosic materials in fibers were hydrolyzed with acetic-nitric reagent.
+         The remaining cellulose was hydrolyzed with sulfuric acid and measured by a colorimetric
+         assay with anthrone using Avicel PH-101 (FMC, Rockland, ME) as a cellulose standard.
+         The average cellulose content for each fiber sample was obtained from two biological
+         and three technical replications.
+      
+      Imaging analysis of fiber cross-sections
+      Fibers from 28 and 40 DPA were manually separated from the seed. After bundling the
+         fibers together, a new razor blade was used to cut 2.5 – 3 mm of fiber from the end
+         to be sectioned. This ensured a majority of fibers were cross-sectioned near the middle
+         of the fiber. The fiber samples were embedded, thin-section cut, and photographed
+         using the method previously described [34]. The images were taken using a Nikon Cambridge Quantimet 900 microscope at 200× magnification
+         with a Hitachi KP-DSO camera.
+      
+      RNA isolation from cotton fibers
+      RNA was isolated as previously described [25]. Briefly, material was obtained from developing ovules using a glass bead shearing
+         technique [35]. To separate the fibers from the ovules the samples were shaken vigorously enough
+         to break fibers without damaging the ovules. Isolation of RNA was conducted using
+         the Sigma Spectrum™ Plant Total RNA Kit (Sigma-Aldrich, St. Louis, MO) with on-column
+         DNaseI digestion according to the manufacturer’s instructions. RNA quantity was determined
+         by using a Nanodrop 2000 spectrophotometer (NanoDrop Technologies Inc., Wilmington,
+         DE). A RNA integrity number (RIN) was determined for each sample using an Agilent
+         Bioanalyzer 2100 and the RNA 6000 Nano Kit Chip (Agilent Technologies Inc., Santa
+         Clara, CA). Only samples with RIN values of 7.0 or higher were used for further analysis.
+      
+      Microarray hybridizations and data analysis
+      The minimum information about microarray experiments (MIAME) guidelines were followed
+         for all microarray experiments conducted in this study [36]. The microarray chips used for this study were the commercially available Affymetrix
+         GeneChip® Cotton Genome Microarray (Affymetrix Inc., Santa Clara, CA), comprising
+         239,777 probe sets representing 21,854 cotton transcripts from a variety of EST databases.
+         Labeling of the RNA was conducted using the Affymetrix GeneChip® 3′ IVT Express Kit
+         and hybridizations were conducted according to the manufacturer’s protocols. Hybridizations
+         were conducted on 3, 12, and 16 DPA samples with two biological replicates from each
+         developmental stage. Data normalization and the determination of statistically relevant
+         deviations in expression patterns were performed as described [37]. To assist in analysis of biological processes represented in the data, Gene-Ontology
+         Enrichment Analysis (GOEA) was performed using the agriGO Singular Enrichment Analysis
+         tool [38]. The statistical test method used was the Fisher’s Exact test (significance level
+         0.05). Annotation of the probe sets was accomplished with Blast2Go [39], and analysis of the cellulose synthase probes was conducted by translating all 6
+         reading frames of the probe sets and subjecting them to blastp analysis.
+      
+      To investigate the activity of known cell elongation and cell wall-related genes,
+         the microarray probe sets were compared with published lists of genes [27,40]. Each probe set reference sequence was aligned to the G. raimondii reference genome [41] with blastn and the best hit with e value of 1×10-30 or smaller was used to establish an annotation. The G. raimondii gene annotations specify an arabidopsis homolog for each gene, which was used to
+         classify the functions of each Affymetrix probe set. Seventy-four probe sets were
+         classified as elongation genes based on an earlier report [27]. To classify probe sets as primary or secondary cell wall genes, co-expression with
+         arabidopsis microarray data with known primary or secondary cell wall cellulose synthase
+         genes [40] was obtained from ATTEDII [42]. This strategy produced lists of 81 primary cell wall and 43 secondary cell wall
+         gene probe sets.
+      
+      Reverse transcription and quantitative PCR
+      The cDNA reactions were performed using the iScript™ cDNA Synthesis kit (Bio-Rad Laboratories,
+         Hercules, CA) per the manufacturer’s instructions. The reaction without reverse transcriptase
+         served as negative control for testing genomic DNA contamination of the RNA samples.
+         This reaction was then used as template in a qPCR reaction to verify that no amplification
+         occurred. After cDNA synthesis, the qPCR reaction was conducted using iTaq™ SYBR®
+         Green Supermix (Bio-Rad Laboratories) in a Bio-Rad CFX96 real time PCR detection system.
+         PCR conditions and the protocols for determining primer efficiencies were as previously
+         described [25]. Ubiquitin-conjugated protein (UCP) (Genebank AI730710) was used as the endogenous
+         reference gene. Primer sequences are listed in Additional file 2.
+      
+      Additional file 2. qPCR Primer Sequences. Primer sequences used for quantitative PCR analysis.
+         	Format: XLSX 
+         	Size: 9KB Download file or  display content in a new window
+      SSR marker analysis and genetic mapping
+      Young leaves were collected from each individual F2 plant and parents, and stored at −80°C. Total DNA was extracted from frozen leaves
+         according to Fang et al. [43]. The Li1 gene was previously determined to reside on chromosome 22 (Chr. 22) [31,32]. To rapidly identify molecular markers closely linked to the Li1 locus, all simple sequence repeat (SSR) markers that were mapped on both Chr.22 and
+         its homeologous Chr. 4 based on the high density consensus genetic map [44] were selected for analysis. RFLP markers reported by Rong et al. [32] were not screened due to unavailability of probes, and technical difficulties for
+         RFLP marker analysis. The SSR markers mapped on Chr. 5 and its homeologous Chr.19
+         were also included because of a known translocation between Chr. 4 and Chr. 5 [45,46]. All together, a total of 921 SSR markers mapped in these four chromosomes were screened
+         for polymorphism between DNA bulks. For the WT bulk, DNA of 10 F2 plants with WT phenotype were pooled at equal ratio and diluted to 50ng/μL. The mutant
+         type bulk consisted of DNA from 10 F2 plants with short seed fiber. Four DNA bulks were made, two for each type. The polymorphic
+         markers were then analyzed using 96 F2 progeny to identify markers closely associated with the Li1 locus. Only SSR markers that revealed less than 10 recombination events were analyzed
+         among the total 2,553 F2 progeny plants.The PCR amplification conditions and marker data acquisition were
+         according to Fang et al. [43]. All SSR primer sequences can be obtained from Cotton Marker database (http://www.cottonmarker.org webcite). Segregation data for the Li1 trait and SSR markers were mapped using program JoinMap4.0 [47] with logarithm of odds score =25.
+      
+      Functional analysis of the Li1 region
+      
+      To obtain sequences in the region determined to contain the Li1 mutant gene, the identified SSR marker sequences were aligned to the diploid G. raimondii D5 genome [41]. We also blasted other SSR marker sequences from the Li1 interval of Chr. 22 based on the high density consensus map [44]. This permitted comparison of the gene annotations for this interval with the annotations
+         provided by Affymetrix to identify candidate genes. qPCR on select genes was conducted
+         as described above.
+      
+      Sequencing introns to develop additional polymorphic markers
+      To identify additional polymorphisms that could facilitate finer mapping of the Li1 locus, we sequenced introns from the annotated genes in the 17 Mb interval between
+         the markers TMB2500 and DPL0489 according to the reference G. raimondii genome sequences. Our rational to sequence introns was that introns tend to have
+         higher sequence variations than exons. We designed primers that flanked 23 introns
+         but were anchored in protein coding sequences. Three genes that resided in this interval
+         and showed differential expression between WT and mutant were included. Amplicons
+         were generated from total genomic DNAs of the parental lines and two F2 individuals (one WT type and one mutant type) and were Sanger sequenced.
+      
+   
+

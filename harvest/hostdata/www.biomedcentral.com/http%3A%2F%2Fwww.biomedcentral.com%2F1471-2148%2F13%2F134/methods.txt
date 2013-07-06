@@ -1,0 +1,126 @@
+Methods
+   
+      Recordings and acoustic analysis
+      Recordings of anuran vocalizations were digitally copied as WAV files from commercially
+         available CDs (see Additional file 1) comprising calls from North, South, and Central America, Europe, South Africa, Japan
+         and Korea. Only advertisement calls representing single males were used. For each
+         CD track, the longest continuous sequence containing only advertisement calls of a
+         single male was extracted using the Praat software, version 5.1.44 [61]. Two separate non-identical recordings (obtained from different CDs and thus presumably
+         different individuals) were used for 41 species. Only one high-quality recording was
+         available for the remaining 49 species.
+      
+      The acoustic analysis was conducted using the MIR Toolbox 1.3.2 in MATLAB [62]. Acoustic parameters were analyzed using a window of 40 ms with hop-size of 20 ms,
+         according to the method described in [23].
+      
+      Mean values for each recording were computed over all 40-ms frames for the following
+         acoustic parameters: dominant frequency (DF), coefficient of variation of root-mean-square
+         amplitude (CVA), spectral flux (SF), spectral flatness or tonality (TON), and spectral
+         irregularity (SI). These five parameters were found to exhibit low multicollinearity
+         in a set of 194 recordings that included the 131 recordings used in the current study
+         [23]. For the 41 species for which two recordings were available, the mean values were
+         averaged over both recordings; the mean values computed from a single recording were
+         used for the remaining 49 species. Detailed values for each recording, as well as
+         the mean values for species for which two recordings were available, are given in
+         Additional file 3.
+      
+      Temperature data were available for some of the recordings and are provided in Additional
+         file 3. These data were sparse and were not analyzed in the present study. In any case,
+         temperature-induced effects on the acoustical properties of calls are presumably relatively
+         small in comparison to taxonomical or ecological influences [63]. Moreover, DF has rarely been shown to be affected by temperature [28].
+      
+      Phylogenetic analysis
+      Nucleotide sequence alignment
+      Our genetic dataset consisted of nucleotide sequences of approximately 930 bp from
+         the 12S rRNA region of the mitochondrial genome (mtDNA) from 90 species belonging
+         to four clades of anurans (Bufo, Hylinae, Leptodactylus, and Rana). As out-group, the same region of the mtDNA in the Siberian Salamander (Ranodon sibiricus, Family: Hynobiidae), California Tiger Salamander (Ambystoma californiens, Family: Ambystomatidae) and Western Spadefoot Toad (Pelobates cultripes, Family: Pelobatidae) was used.
+      
+      In addition to the 12S mtDNA sequences, we analyzed a second dataset consisting of
+         nucleotide sequences of 312 bp from exon 1 of the rhodopsin gene from 49 species belonging
+         to three clades (Bufo, Hylinae and Rana). P. cultripes was used as out-group.
+      
+      All 12S and rhodopsin sequences were obtained from GenBank, using search and extraction
+         tools developed in Biopython [64], and the validity of obtained DNA sequences was checked using BlastSearch (National
+         Center for Biotechnology Information). The nucleotide sequences were aligned in BioEdit
+         software version 7.0 [65].
+      
+      The Muscle (implemented in the software MEGA) [66], ClustalW2 [67], and Guidance methods [68] were all tested to obtain a reliable multiple sequence alignment. The ClustalW2 method
+         was eventually used for the multiple sequence alignment on the 12S dataset with the
+         following parameters: gap open penalties (GOP) = 10, gap extension penalties (GEP) = 0.2,
+         gap distance = 5, and the UPGMA clustering method in BioEdit software version 7.0
+         [65]. In the case of the rhodopsin gene, we used the Muscle Codon option, with GOP = −2.9,
+         GEP = 0 and hydrophobicity multiplier = 1.2. Some sites were manually edited to maximize
+         positional homology.
+      
+      Phylogenetic tree reconstruction
+      The program jMODELTEST [69,70] was used to identify the evolutionary models and other parameters. Based on the Akaike
+         Information Criterion (AICc), the GTR+Γ+I model (general time-reversible) [71] with a proportion of invariant sites (28.6% invariant sites) [72] and rates at other sites varying according to a gamma distribution (gamma shape = 0.53,
+         number of discrete gamma categories = 4) best described the 12S sequence data [73,74]. However, the HKY model (Hasegawa-Kishino-Yano) [75] with gamma site heterogeneity model with 4 rate categories for the discrete approximation
+         of the Gamma distribution rates among sites (HKY +Γ) (gamma shape = 0.31) best described
+         the rhodopsin data.
+      
+      The phylogenetic relationship among various anuran clades was reconstructed using
+         the Monte-Carlo Markov Chain (MCMC) model implemented in BEAST version 1.6.2 [76]. We used a Yule tree prior that assumes a constant (unknown) lineage birth rate for
+         each branch in the tree. This model is suitable for trees describing the phylogenetic
+         relationship among individuals from many different species. Wide uniform prior distributions
+         were used as defaults. A relaxed clock model [77] with uncorrelated lognormal distribution was used to reconstruct the genetic phylogenies.
+         The MCMC model was run for 30,000,000 generations (10,000,000 generations for rhodopsin)
+         with the initial 1,000,000 steps discarded as burn-in. Trees and model parameters
+         were sampled every 1000 steps thereafter. Effective Sample Sizes (ESS) for mean evolutionary
+         rate, population size and posterior likelihood were found to be &gt; 200 for all the
+         models used. Subsequently, a single target tree with maximum clade credibility (MCC)
+         and median node heights from a sample of trees produced by BEAST were constructed
+         using TreeAnnotator v1.6.2 [78]. The initial 1000 trees were discarded as burn-in. Abouheif proximities were computed
+         from the phylogenetic trees using the function ‘proxTips’ in the package ‘adephylo’
+         in R [79].
+      
+      Estimating pairwise genetic distances using maximum likelihood
+      Pairwise genetic distances for the 12S and rhodopsin nucleotide sequences were computed
+         using the software MEGA [66]. Both transition and transversion nucleotide substitutions were included in calculating
+         the genetic distance. Gaps and missing data were treated with the partial deletion
+         option, and the bootstrap method with 500 replications was employed.
+      
+      Nucleotide substitution saturation test
+      The nucleotide substitution saturation test was conducted on the 12S mtDNA dataset
+         using DAMBE [46,47]. Because the test can only run on 32 taxonomic units and our sample included 90 species,
+         10,000 replications with random resampling of subsets of 4, 8, 16, and 32 species
+         were conducted, following the methodology described in [47].
+      
+      Snout-vent length
+      SVL values in mm for males, taken from the literature, were used as an estimate of
+         male body size [29]. Additional file 3 provides the median male SVL values for all 90 species included in this study, and
+         Additional file 1 lists the sources used to obtain these data.
+      
+      Statistical analysis
+      The phylogenetically corrected residuals of the acoustic parameters were computed
+         using the ‘phyl_resid.R’ function in R [34]. Following the methodology described in [34], the ‘phyl_resid.R’ function used a variance-covariance matrix representing phylogenetic
+         relatedness under the Brownian trait evolution model, which was computed from the
+         phylogenetic tree using the function ‘vcv.phylo’ in the package ‘ape’ in R [80]. Multivariate trait Euclidean distances were computed on the standardized size-corrected
+         residuals of the acoustic parameters using the ‘dist’ function from the package ‘stats’
+         in R (standardization was applied to give equal weight to all parameters).
+      
+      The standard deviate of Moran’s autocorrelation coefficient [37] was computed using the ‘moran.test’ function from package ‘spdep’ in R [81]. Statistical significance was assessed by Monte-Carlo simulations using the ‘moran.mc’
+         function from the package ‘spdep’. 10,000 permutations were conducted in each case.
+         Geary’s C was computed in the same way using the functions ‘geary.test’ and ‘geary.mc’,
+         respectively, from the package ‘spdep’. To confirm our analyses on Abouheif’s proximities
+         conducted with the function ‘moran.test’, we used the function ‘abouheif.moran’ from
+         the package ‘adephylo’ in R [79], and obtained nearly identical results (within rounding error).
+      
+      Blomberg’s K was computed using the function ‘phylosig’ from the package ‘phytools’ in R [82]. 10,000 permutations were conducted for significance tests.
+      
+      Mantel tests were conducted using the ‘mantel’ function from the package ‘ecodist’
+         in R [83]. 10,000 permutations were conducted for significance tests. To determine the best
+         fit for multivariate trait Euclidean distances, a forward stepwise procedure was conducted
+         in which an acoustic parameter was added to the multivariate trait distance model
+         only if the Mantel correlation coefficient obtained on this distance model was significantly
+         higher than the Mantel correlation coefficient obtained on a trait distance model
+         that did not include this parameter. Because there is no formal test of significance
+         to compare two Mantel correlation coefficients, we used confidence intervals as estimated
+         by bootstrapping (the confidence intervals were also estimated with the ‘mantel’ function
+         from the package ‘ecodist’). A given Mantel coefficient ‘A’ was considered as significantly
+         higher than a coefficient ‘B’ when the value of ‘A’ was higher than 95% of the values
+         of ‘B’ obtained on 10,000 bootstrapping iterations. Note that, to avoid over-fitting,
+         the forward stepwise procedure was only conducted on the entire sample (90 species
+         for the data presented in Table&nbsp;1, and 49 species for the data presented in Table&nbsp;2) and not on individual clades.
+      
+   
+

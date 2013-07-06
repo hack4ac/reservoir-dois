@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Heterogeneously and differentially expressed genes (hDEG) are a common phenomenon due to bio-logical diversity. A hDEG is often observed in gene expression experiments (with two experimental conditions) where it is highly expressed in a few experimental samples, or in drug trial experiments for cancer studies with drug resistance heterogeneity among the disease group. These highly expressed samples are called outliers. Accurate detection of outliers among hDEGs is then desirable for dis- ease diagnosis and effective drug design. The standard approach for detecting hDEGs is to choose the appropriate subset of outliers to represent the experimental group. However, existing methods typically overlook hDEGs with very few outliers.
+
+				
+				
+					
+						Results
+
+					
+					We present in this paper a simple algorithm for detecting hDEGs by sequentially testing for potential outliers with respect to a tight cluster of non- outliers, among an ordered subset of the experimental samples. This avoids making any restrictive assumptions about how the outliers are distributed. We use simulated and real data to illustrate that the proposed algorithm achieves a good separation between the tight cluster of low expressions and the outliers for hDEGs.
+
+				
+				
+					
+						Conclusions
+
+					
+					The proposed algorithm assesses each potential outlier in relation to the cluster of potential outliers without making explicit assumptions about the outlier distribution. Simulated examples and and breast cancer data sets are used to illustrate the suitability of the proposed algorithm for identifying hDEGs with small numbers of outliers.
+
+				
+			
+		

@@ -1,0 +1,97 @@
+Methods
+   
+      Strain collection
+      Since 1998, all clinical strains isolated in France are sent to the National Reference
+         Centre for Legionella (NRC-L) for characterization and molecular analysis. For this study, a sample of
+         114 L. pneumophila serogroup 1 clinical strains isolated from hospitalized patients with community-acquired
+         LD in metropolitan France was selected during the period 2006–2009. Clinical isolates
+         from nosocomial LD patients and from LD patients who had traveled ≥ 5&nbsp;days abroad
+         during their incubation period, were excluded.
+      
+      Environmental isolates are also sent to NRC-L for identification during routine environmental
+         control or for typing by using Sequence-Based Typing method, PFGE method and monoclonal
+         antibody sub-grouping, allowing the identification of source of contamination. For
+         this study, a random sample of 105 environmental L. pneumophila strains isolated from the period 2003–2008 was selected, including 91 L. pneumophila sg 1 and 14 L. pneumophila non-serogroup 1 isolates. These strains were collected throughout France from hot
+         water system, cooling towers, sludge, fountains and thermal waters. The origin of
+         the environmental strains allowed classifying the isolates in 5 groups: (a) related
+         to an outbreak (5 strains); (b) found in a source related to a LD patient and matched
+         with the patient isolate (on SBT and PFGE level) (1 strain); (c) found in a source
+         related to a LD patient, but not matched with the patient isolate (20 strains); (d)
+         not related to LD patients (76 strains); (e) endemic strains sharing a previously
+         observed genotype and responsible for at least 30 epidemiologically unrelated cases
+         of legionellosis (3 strains).
+      
+      Microarray development
+      The mixed-genome microarray used in this study has been described elsewhere, and was
+         developed using a systematic collection of Dutch Legionella strains [19]. In short, four clinical Legionella isolates and four environmental L. pneumophila strains were selected based on their diversity to provide a shotgun library. The
+         library, consisting of 3360 genomic fragments was used to compare the labeled genomic
+         DNA of 257 Legionella strains in the Dutch collection. The data for all spots were calculated as ratios
+         between the tester strain and the library strains. Since 80% of the 3360 markers were
+         present in all strains, encompassing the core genome, these were ignored for analysis.
+         The remaining 20% showed considerable variation among strains. Also, where multiple
+         markers showed nearly identical patterns over the complete data set (suggesting partial
+         overlap or close linkage in the genome), only one was used for further analysis. As
+         a result, 480 potentially relevant markers were used to develop the prediction model.
+      
+      For the French collection the Dutch library was used to compare the labelled genomic
+         DNA of 219 French strains. (Additional file 2).
+      
+      Additional file 2. Hybridization ratios for 480 markers of the 219 French Legionella pneumophila strains.
+         	Format: TXT 
+         	Size: 278KB Download file or  display content in a new window
+      Prediction of the origin of French Legionella strains using Dutch markers
+      
+      The method to identify genetic markers that predict the clinical or environmental
+         origin of Legionella strains from a Dutch strain collection has been described elsewhere [8]. The method is based on a classification algorithm that uses an ensemble of different
+         classification trees, called Random Forest. The Random Forest statistical approach
+         performs excellent in infectious disease data classification problems [20,21]. In short, the Random Forest algorithm was applied on ten random training datasets
+         to select 25 markers with the highest rank of “importance” in the prediction of the
+         origin of the strains (clinical or environmental). From 250 markers (25 markers times
+         10 training datasets) the 25 most frequent genetic markers were chosen. An eleventh
+         so called “training dataset” was constructed consisting of a random selection of clinical
+         isolates and environmental Legionella strains. Using forward logistic regression, a model was developed for the “training
+         dataset” with the 25 genetic markers entered as independent variables, and the origin
+         of the strains (clinical or environmental) as dependent variable. The model was tested
+         with a so-called ‘test dataset’ consisting of those strains that were not present
+         in the eleventh training dataset, in order to prevent overfitting of the model. As
+         a result, four Dutch markers were identified, that could predict the clinical or environmental
+         origin of Legionella strains.
+      
+      In our study, we examined whether the four Dutch markers, using the same logistic
+         regression model, could predict the clinical or environmental origin of the French
+         strains.
+      
+      Marker selection for L. pneumophila strains from France
+      
+      Additionally, we developed a new prediction model for the French strain collection,
+         using the same “Dutch” methodology [8]. The 219 French L. pneumophila strains were randomly assigned to 10 different training datasets, each consisting
+         of 57 clinical and 53 environmental strains. For all training datasets, the 25 best
+         predicting genetic markers were selected with the aid of the Random Forest algorithm.
+         From these 250 markers, the 25 most common markers were chosen and entered in the
+         logistic regression model that was developed for the eleventh constructed training
+         dataset. This model was tested with the eleventh so-called ‘test dataset’, consisting
+         of the 57 clinical and 52 environmental strains that were not used for the construction
+         of the prediction model. The performance of the prediction model is presented in 2×2
+         tables, together with the estimated sensitivity, specificity, negative predictive
+         value (NPV), and positive predictive value (PPV). The NPV is the most relevant test
+         characteristic in public health situations in which our prediction would be useful
+         [14,15].
+      
+      Comparison of the Dutch and French markers
+      The association between the four Dutch markers that were previously identified [8], and the predictive markers that were selected for the new prediction model based
+         on the French strain collection was investigated by calculating the correlation between
+         the hybridization ratios of the 4 Dutch and the 4 French predictive markers, using
+         Spearman correlation coefficients. Additionally, the hybridization ratios of both
+         the Dutch and the French markers were compared between clinical isolates and environmental
+         strains. This was done by calculating the difference in hybridization ratio between
+         clinical isolates and environmental strains, divided by the within group standard
+         deviation (SD) of the ratio in the total sample. All analyses were performed using
+         PASW Statistics 18.0, SPSS inc., Chicago, Illinois).
+      
+      Functionality of markers
+      The sequences of the markers that were selected in the final prediction model that
+         was developed for the French strain collection were compared with the known Legionella sequences of eleven completely sequenced strains present in the NCBI database (http://www.ncbi.nlm.nih.gov webcite): Legionella longbeachae (strains NSW150 and D-4968), L. pneumophila strains Paris, Philadelphia, Lens, Corby, Alcoy, 130b, Lorraine, HL 0604 1035, and
+         ATCC 43290 using BlastN and BlastX.
+      
+   
+

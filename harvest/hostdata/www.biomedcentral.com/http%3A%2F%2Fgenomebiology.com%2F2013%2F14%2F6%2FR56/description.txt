@@ -1,0 +1,31 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Background
+
+
+               MADS-domain transcription factors play important roles during plant development. The  Arabidopsis MADS-box gene  SHORT VEGETATIVE PHASE ( SVP ) is a key regulator of two developmental phases. It functions as a repressor of the floral transition during the vegetative phase and later it contributes to the specification of floral meristems. How these distinct activities are conferred by a single transcription factor is unclear, but interactions with other MADS domain proteins which specify binding to different genomic regions is likely one mechanism.
+
+
+            
+               
+                  Results
+
+
+               To compare the genome-wide DNA binding profile of SVP during vegetative and reproductive development we performed ChIP-seq analyses. These ChIP-seq data were combined with tiling array expression analysis, induction experiments and qRT-PCR to identify biologically relevant binding sites. In addition, we compared genome-wide target genes of SVP with those published for the MADS domain transcription factors FLC and AP1, which interact with SVP during the vegetative and reproductive phases, respectively.
+
+
+            
+               
+                  Conclusions
+
+
+               Our analyses resulted in the identification of pathways that are regulated by SVP including those controlling meristem development during vegetative growth and flower development whereas floral transition pathways and hormonal signaling were regulated predominantly during the vegetative phase. Thus, SVP regulates many developmental pathways, some of which are common to both of its developmental roles whereas others are specific to only one of them.
+
+
+

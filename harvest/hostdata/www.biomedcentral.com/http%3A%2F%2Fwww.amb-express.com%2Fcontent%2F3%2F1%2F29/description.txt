@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					In this work a defined co-culture of the lactic acid bacterium  Lactobacillus zeae  and the propionate producer  Veillonella criceti  has been studied in continuous stirred tank reactor (CSTR) and in a dialysis membrane reactor. It is the first time that this reactor type is used for a defined co-culture fermentation. This reactor allows high mixing rates and working with high cell densities, making it ideal for co-culture investigations. In CSTR experiments the co-culture showed over a broad concentration range an almost linear correlation in consumption and production rates to the supply with complex nutrients. In CSTR and dialysis cultures a strong growth stimulation of  L. zeae  by  V. criceti  was shown. In dialysis cultures very high propionate production rates (0.61 g L -1 h -1 ) with final titers up to 28 g L -1  have been realized. This reactor allows an individual, intracellular investigation of the co-culture partners by omic-technologies to provide a better understanding of microbial communities.
+
+				
+			
+		

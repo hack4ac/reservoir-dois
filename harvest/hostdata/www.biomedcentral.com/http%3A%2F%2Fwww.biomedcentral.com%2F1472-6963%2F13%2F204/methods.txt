@@ -1,0 +1,66 @@
+Methods
+   
+      Lakeridge Health (LH) is a large community hospital network in southeastern Ontario
+         comprised of four campuses that together provide a wide range of services. In 2001,
+         a hospitalist program was initiated at the largest campus (LH Oshawa) with five family
+         physicians recruited from the local community (“FP-Hospitalists”). This program has
+         expanded to 16 full time equivalent family physician-trained hospitalists who care
+         for acute medical, oncology, renal-dialysis, stroke, palliative and rehab inpatients.
+         FP-Hospitalists also provide medical consults to surgeons, co-manage patients with
+         the orthopedic and psychiatry programs and provide care to healthy newborns. In 2005,
+         a sister hospitalist program was instituted at the Oshawa campus, comprised of 2 general
+         internists (“GIM-Hospitalists”). This program has since expanded to include 4 full-time
+         equivalent GIM-Hospitalists who provide care to a similar population as the FP-Hospitalists
+         although with a heavier emphasis on cardiac patients. The general internists also
+         provide coverage for the stroke prevention and pre-operative clinics, as well as medical
+         consultations to subspecialists and FP-Hospitalists. Almost all FP-Hospitalists spend
+         100 percent of their clinical time delivering inpatient care, while the GIM-Hospitalists
+         spend 25 percent of their time covering the above-mentioned hospital-based ambulatory
+         clinics.
+      
+      While the FP- and GIM -Hospitalists are funded and administrated separately, there
+         is a close working relationship between the two groups. For example, GIM-Hospitalists
+         admit all medical patients from the Emergency Department (ED) during the day, while
+         FP-Hospitalists admit patients in the evenings. Both groups are geographically distributed,
+         such that FP-Hospitalists attend to patients on three acute medical units while the
+         GIM-Hospitalists are responsible for one medical ward that includes telemetry beds.
+         As a result, patients admitted by one group may be looked after by the other. Both
+         groups attend patients on the Short Stay Unit and patients boarded in the ED. Members
+         of both groups also participate in code blue and code stroke coverage, ICU transfers
+         to the ward, and various quality improvement initiatives. The FP-Hospitalists work
+         13&nbsp;weeks in a 16-week rotation, while GIM-Hospitalists work 3&nbsp;weeks out of 4.
+      
+      A declining number of community family physicians (“traditional FPs”) continue to
+         admit and look after their own patients at the Oshawa campus. As well, some inpatients
+         with clearly defined medical problems continue to be cared for by internal medicine
+         subspecialists (“other-IM”), particularly cardiologists and gastroenterologists.
+      
+      In order to study care differences among our institution’s two traditional physician
+         staffing models (traditional FPs and other-IM) and newer hospitalist programs (FP-Hospitalist
+         and GIM-Hospitalist), we used a national administrative database maintained by the
+         Canadian Institute of Health Information (CIHI). Canadian hospitals provide a large
+         number of demographic, diagnostic and outcomes data on all hospitalization episodes
+         to the CIHI Discharge Abstract Database (DAD). The DAD uses the International Classification
+         of Diseases and Canadian Classification of Health Interventions systems to categorize
+         and code diagnoses and therapeutic interventions. CIHI has also devised a Case Mix
+         Grouping (CMG) methodology to group patients with similar resource utilization under
+         the same diagnostic categories. In 2007, CIHI introduced an enhanced methodology (called
+         CMG Plus) that replaced the earlier CMG groupings. Moreover, CIHI has developed a
+         methodology for measurement of Hospital Standardized Mortality Ratios (HSMR) which
+         is reported nationally.
+      
+      Through the Decision Support department of LH, we obtained DAD data on all adult admissions
+         to LH Oshawa from April 2003 through to March 2010. Inclusion criteria were all patients
+         18&nbsp;years and older admitted to the medical program. We excluded surgical, obstetrical
+         and psychiatric cases, and cases for which the primary care providers were non-medical
+         (refer to Appendix A for details). The main quality outcome measures were in-hospital
+         mortality and 30-day same-facility readmission rate, and length of stay (LOS) was
+         used as a surrogate for resource utilization. We conducted multivariate logistic and
+         linear regression analyses to identify demographic and clinical factors affecting
+         these outcome measures, including physician provider groups (refer to Appendix A for
+         statistical details). We also examined HSMRs calculated using the CIHI methodology,
+         with 95% confidence intervals calculated using Byar’s approximation [11]. Data were analyzed using SPSS version 19. The Research Ethics Board of Lakeridge
+         Health approved the study.
+      
+   
+

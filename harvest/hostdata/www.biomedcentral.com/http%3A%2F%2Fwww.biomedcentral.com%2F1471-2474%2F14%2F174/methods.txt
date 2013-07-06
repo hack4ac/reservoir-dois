@@ -1,0 +1,99 @@
+Methods
+   
+      Preparation of the salmon-derived collagen sponge disc containing OP-1
+      The crosslinked atelocollagen sponge disc was prepared from the fresh skin of chum
+         salmon by acid solubilization and subsequent pepsin digestion, according to a procedure
+         previously reported [6]. Briefly, the lyophilized salmon-derived collagen was added to 100&nbsp;mL of diluted
+         HCl (pH&nbsp;3) to a concentration of 0.5% (w/v) and stirred overnight at 4 degrees Celsius.
+         Next, 1&nbsp;ml of the collagen solution was transferred into a multiple 48-well plate
+         for tissue culture (Asahi Techno Glass, Tokyo, Japan) and then frozen at −70 degrees
+         Celsius for 12&nbsp;hours. The frozen plates were placed into a lyophilizer (FDU-830, Tokyo
+         Rikakikai, Tokyo, Japan) for 24&nbsp;hours. The obtained porous materials were immersed
+         in a 4-M NaCl aqueous solution containing 1% (w/v) water-soluble EDC (Dojindo, Tokyo,
+         Japan) and kept at 4 degrees Celsius for 24&nbsp;hours. These materials were washed three
+         times with diluted water and then lyophilized again. Thus, we obtained the crosslinked
+         atelocollagen sponge. The degree of crosslinking (the decrease ratio in the free amine
+         group contents of the crosslinked sample to the uncrosslinked sample) of this collagen
+         sponge was approximately 40% [12]. Our previous in vivo study [12] showed that the crosslinked SCS sponge did not show any detrimental effects in the
+         knee joint, when they were implanted into an osteochondral defect created in the rabbit
+         knee. From this material, we created the OP1-SCS disc for implantation in the present
+         study (Figure&nbsp;1). Each disc had a diameter of 4.5&nbsp;mm and a height of 3&nbsp;mm. We injected 10-μg OP-1
+         (R&amp;D Systems, Minneapolis, MN, USA) dissolved in 1-ml saline solution into a core
+         portion of the disc immediately before implantation. This dose of OP-1 was chosen
+         based on a previous study [18].
+      
+      Study design and animal experimentation
+      Animal experiments were carried out in the Institute of Animal Experimentation, Hokkaido
+         University School of Medicine under the Rules and Regulation of the Animal Care and
+         Use Committee. A total of 24 mature female Japanese white rabbits, weighing 3.9 ± 0.5&nbsp;kg,
+         were used in this study. An operation for each animal was performed under intravenous
+         anesthesia (pentobarbital, 25&nbsp;mg/kg) under sterile conditions. In each animal, the
+         bilateral knee joints were exposed through a medial parapatellar incision, and the
+         patella was dislocated laterally. A full-thickness osteochondral defect having a diameter
+         of 4.3&nbsp;mm and a depth of 3&nbsp;mm was created in each femoral trochlea, using a sharp
+         drill. Then, in 12 of the 24 rabbits, we implanted an OP1-SCS disc into the defect
+         in the right knee (Group-I knees) using the press-fit technique. In the remaining
+         12 rabbits, we implanted a salmon-derived collagen sponge disc without OP-1 into the
+         defect in the right knee (Group-II knees) in the same manner. In each group, we applied
+         no treatment for a defect in the left knee to obtain the untreated control (Group-III
+         knees). The incised joint capsule and the skin wound were closed in layers with 3–0
+         nylon sutures, and an antiseptic spray dressing was applied. Postoperatively, each
+         animal was allowed unrestricted activity in a cage (310 × 550 × 320&nbsp;mm) without any
+         joint immobilization. All rabbits were sacrificed at 12&nbsp;weeks after surgery. This
+         period was chosen because it was considered to be the best period to compare the degree
+         of cartilage regeneration among the 3 groups according to the previous study [12]. The knee joints were immediately removed en bloc with the surrounding tissue. In
+         each group, 10 animals were used for histological and immunohistological evaluations,
+         and the remaining 2 were used for real-time polymerase chain reaction (PCR) analyses.
+      
+      Gross observations and histological evaluations
+      At the time of sacrifice, the tissue regenerated in the osteochondral defect underwent
+         gross observations, and was quantitatively evaluated with the grading scale reported
+         by Wayne et al. [19]. The maximum total score was 16 points. A distal portion of the resected femur was
+         fixed in a 10% neutral buffered formalin solution for 3&nbsp;days, decalcified with 50&nbsp;mM
+         ethylenediaminetetraacetic acid for a period of 3–4&nbsp;weeks, and then cast in a paraffin
+         block. The femur was sectioned perpendicular to the longitudinal axis, and stained
+         with Hematoxylin-Eosin and Safranin-O. For immuno-histological evaluations, monoclonal
+         antibody (anti-hCL(II), purified IgG, Fuji Chemical Industries Ltd, Toyama, Japan)
+         was used as primary antibodies. Immunostaining was carried out according to the manufacturer’s
+         instructions using the Envision immunostaining system (DAKO Japan, Kyoto, Japan).
+         Finally, the sections were counterstained with hematoxylin. Histology was evaluated
+         with a scoring system reported by Wayne et al. [19]. Subsequently, the maximum total score was 19 points. In addition, for each defect,
+         randomly selected 3 sections of central portion with Safranin-O were evaluated by
+         2 authors (E.K., Y.K.) under a blinded manner. Cellularity of the nuclei in the proteoglycan-rich
+         tissue were observed with light microscopy.
+      
+      Real-time PCR analysis
+      Total RNA was extracted from the tissues regenerated in the defect using the RNeasy
+         mini kit (Qiagen Inc., Valencia, CA) at 12&nbsp;weeks. RNA quality from each sample was
+         assured by the A260/280 absorbance ratio. The RNA (100&nbsp;ng) was reverse-transcribed
+         into single strand cDNA using PrimeScript® RT reagent Kit (TakaraBio, Ohtsu, Japan).
+         The RT reaction was carried out for 15&nbsp;min at 37 degrees Celsius and then for 5&nbsp;sec
+         at 85 degrees Celsius. All oligonucleotide primer sets were designed based upon the
+         published mRNA sequence. The expected amplicon lengths ranged from 93 to 189&nbsp;bp. The
+         sequences of primers used in real time PCR analyses for rabbit regenerative tissues
+         were as follows: type 2 collagen forward GACCATCAATGGCGGCTTC; reverse CACGCTGTTCTTGCAGTGGTAG.
+         Aggrecan forward GCTACGACGCCATCTGCTAC; reverse GTCTGGACCGTGATGTCCTC. SOX9 forward
+         AACGCCGAGCTCAGCAAGA; reverse TGGTACTTGTAGTCCGGGTGGTC. GAPDH forward CCCTCAATGACCACTTTGTGAA;
+         reverse AGGCCATGTGGACCATGAG. The real-time PCR was performed in Thermal Cycler Dice®
+         TP800 (TakaraBio, Ohtsu, Japan) by using SYBR® Premix Ex TaqTM (TakaraBio, Ohtsu,
+         Japan). cDNA template (5&nbsp;ng) was used for real-time PCR in a final volume of 25 microliters.
+         cDNA was amplified according to the following conditions: 95 degrees Celsius for 5&nbsp;sec
+         and 60 degrees Celsius for 30&nbsp;sec at 40 amplification cycles. Fluorescene changes
+         were monitored with SYBR Green after every cycle. A dissociation curve analysis was
+         performed (0.5 degrees Celsius /sec increase from 60 to 95 degrees Celsius with continuous
+         fluorescene readings) at the end of cycles to ensure that single PCR products were
+         obtained. The amplicon size and reaction specificity were confirmed by 2.5% agarose
+         gel electrophoresis. The results were evaluated using the Thermal Cycler Dice® Real
+         Time System software program (TakaraBio, Ohtsu, Japan). Glyceroaldehyde-3-phosphate
+         dehydrogenase (GAPDH) primers were used to normalize samples.
+      
+      Statistical analysis
+      A priori power analysis was performed. A sample size was calculated to have 70% to
+         83% power to test the hypothesis. All data were described as the mean and standard
+         deviation values. The one-way analysis of variance (ANOVA) was performed with the
+         Fischer’s PLSD test for post hoc multiple comparisons. The significance limit was
+         set at p = 0.05. For calculation, the StatView 5.0 software (SAS Institute Inc., Cary,
+         NC, USA) was used.
+      
+   
+

@@ -1,0 +1,43 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In statistical modeling, finding the most favorable coding for an exploratory quantitative variable involves many tests. This process involves multiple testing problems and requires the correction of the significance level.
+
+				
+				
+					
+						Methods
+
+					For each coding, a test on the nullity of the coefficient associated with the new coded variable is computed. The selected coding corresponds to that associated with the largest statistical test (or equivalently the smallest  p 
+						 
+							 v 
+							 a 
+							 l 
+							 u 
+							 e 
+						 ). In the context of the Generalized Linear Model, Liquet and Commenges (Stat Probability Lett,71:33–38,2005) proposed an asymptotic correction of the significance level. This procedure, based on the score test, has been developed for dichotomous and Box-Cox transformations. In this paper, we suggest the use of resampling methods to estimate the significance level for categorical transformations with more than two levels and, by definition those that involve more than one parameter in the model. The categorical transformation is a more flexible way to explore the unknown shape of the effect between an explanatory and a dependent variable.
+
+				
+				
+					
+						Results
+
+					The simulations we ran in this study showed good performances of the proposed methods. These methods were illustrated using the data from a study of the relationship between cholesterol and dementia.
+
+				
+				
+					
+						Conclusion
+
+					The algorithms were implemented using R, and the associated CPMCGLM R package is available on the CRAN.
+
+				
+			
+		

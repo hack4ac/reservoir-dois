@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Plasmodium  parasites, the causative agents of malaria, express many variant antigens on cell surfaces. Variant surface antigens (VSAs) are typically organized into large subtelomeric gene families that play critical roles in virulence and immune evasion. Many important aspects of VSA function and evolution remain obscure, impeding our understanding of virulence mechanisms and vaccine development. To gain further insights into VSA function and evolution, we comparatively classified and examined known VSA gene families across seven  Plasmodium  species.
+
+				
+				
+					
+						Results
+
+					We identified a set of ultra-conserved orthologs within the largest  Plasmodium  gene family  pir , which should be considered as high-priority targets for experimental functional characterization and vaccine development. Furthermore, we predict a lipid-binding domain in erythrocyte surface-expressed PYST-A proteins, suggesting a role of this second largest rodent parasite gene family in host cholesterol salvage. Additionally, it was found that PfMC-2TM proteins carry a novel and putative functional domain named MC-TYR, which is conserved in other  P. falciparum  gene families and rodent parasites. Finally, we present new conclusive evidence that the major  Plasmodium  VSAs PfEMP1, SICAvar, and SURFIN are evolutionarily linked through a modular and structurally conserved intracellular domain.
+
+				
+				
+					
+						Conclusion
+
+					Our comparative analysis of  Plasmodium  VSA gene families revealed important functional and evolutionary insights, which can now serve as starting points for further experimental studies.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Introduction
+
+					An association between pollen count (Poaceae) and symptoms is well known, but to a lesser degree the importance of priming and lag effects. Also, threshold levels for changes in symptom severity need to be validated. The present study aims to investigate the relationship between pollen counts, symptoms and health related quality of life (HRQL), and to validate thresholds levels, useful in public pollen warnings.
+
+				
+				
+					
+						Material and methods
+
+					Children aged 7–18 with grass pollen allergy filled out a symptom diary during the pollen season for nose, eyes and lung symptoms, as well as a HRQL questionnaire every week. Pollen counts were monitored using a volumetric spore trap.
+
+				
+				
+					
+						Results
+
+					89 (91%) of the included 98 children completed the study. There was a clear association between pollen count, symptom severity and HRQL during the whole pollen season, but no difference in this respect between early and late pollen season. There was a lag effect of 1–3 days after pollen exposure except for lung symptoms. We found only two threshold levels, at 30 and 80 pollen grains/m 3  for the total symptom score, not three as is used today. The nose and eyes reacted to low doses, but for the lung symptoms, symptom strength did hardly change until 50 pollen grains/m 3 .
+
+				
+				
+					
+						Conclusion
+
+					Grass pollen has an effect on symptoms and HRQL, lasting up to 5 days after exposure. Symptoms from the lungs appear to have higher threshold levels than the eyes and the nose. Overall symptom severity does not appear to change during the course of season. Threshold levels need to be revised. We suggest a traffic light model for public pollen warnings directed to children, where green signifies “no problem”, yellow signifies “can be problems, especially if you are highly sensitive” and red signifies “alert – take action”.
+
+				
+			
+		

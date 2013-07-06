@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Calculation of accumulated dose in fractionated radiotherapy based on spatial mapping of the dose points generally requires deformable image registration (DIR). The accuracy of the accumulated dose thus depends heavily on the DIR quality. This motivates investigations of how the registration uncertainty influences dose planning objectives and treatment outcome predictions.
+A framework was developed where the dose mapping can be associated with a variable known uncertainty to simulate the DIR uncertainties in a clinical workflow. The framework enabled us to study the dependence of dose planning metrics, and the predicted treatment outcome, on the DIR uncertainty. The additional planning margin needed to compensate for the dose mapping uncertainties can also be determined. We applied the simulation framework to a hypofractionated proton treatment of the prostate using two different scanning beam spot sizes to also study the dose mapping sensitivity to penumbra widths.
+
+				
+				
+					
+						Results
+
+					The planning parameter most sensitive to the DIR uncertainty was found to be the target  D 
+						 95 . We found that the registration mean absolute error needs to be ≤0.20 cm to obtain an uncertainty better than 3% of the calculated  D 
+						 95  for intermediate sized penumbras. Use of larger margins in constructing PTV from CTV relaxed the registration uncertainty requirements to the cost of increased dose burdens to the surrounding organs at risk.
+
+				
+				
+					
+						Conclusions
+
+					The DIR uncertainty requirements should be considered in an adaptive radiotherapy workflow since this uncertainty can have significant impact on the accumulated dose. The simulation framework enabled quantification of the accuracy requirement for DIR algorithms to provide satisfactory clinical accuracy in the accumulated dose.
+
+				
+			
+		

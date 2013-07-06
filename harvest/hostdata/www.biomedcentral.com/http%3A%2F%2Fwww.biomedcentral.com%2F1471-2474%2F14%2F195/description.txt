@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Low back pain is an important public health problem that is associated with poor quality of life and disability. Among the electrophysical treatments, interferential current (IFC) has not been studied in patients with low back pain in a high-quality randomised controlled trial examining not only pain, but pain mechanisms and function.
+
+				
+				
+					
+						Methods/design
+
+					A three-arm randomised controlled trial with patient and assessor blinded to the group allocation. One hundred fifty patients with chronic, nonspecific low back pain from outpatient physical therapy clinics in Brazil. The patients will be randomly allocated into 3 groups (IFC 1 kHz, IFC 4 kHz or Placebo IFC). The interferential current will be applied three days per week (30 minutes per session) over four weeks.  Primary outcome : Pain intensity.  Secondary outcomes : The pressure pain threshold, global impression of recovery, disability, function, conditioned pain modulation and temporal summation of pain, discomfort caused by the current. All outcomes will be measured at 4 weeks and 4 months after randomisation. The between-group differences will be calculated by using linear mixed models and Tukey’s post-hoc tests.
+
+				
+				
+					
+						Discussion
+
+					The use of a placebo group and double-blinding assessor and patients strengthen this study. The present study is the first to compare different IFC carrier frequencies in patients with chronic low back pain.
+
+				
+				
+					
+						Trial registration
+
+					Brazilian Registry of Clinical Trials:  http://RBR-8n4hg2 
+					
+
+				
+			
+		

@@ -1,0 +1,51 @@
+Methods
+   
+      Chromosomal spreads for laser microdissection
+      X. tropicalis chromosome nomenclature followed [20]. Metaphase spreads were prepared from euploid primary cell cultures of dissected
+         testes as described in [20] with minor changes. Cells were trypsinized and hypotonized in 38 mM KCl for 5 min.
+         After fixation, cell suspensions were stored overnight at −20°C. For laser microdissection,
+         cells were dropped on a polyethylene naphthalene membrane (P.A.L.M. GmbH, Bernried,
+         Germany) attached to a thin glass slide, allowed to dry, and stained with 3% Giemsa
+         in H2O for 10 min.
+      
+      Laser microdissection
+      Chromosomes were harvested as in [25]. Briefly, 15 copies of the p arm of chromosome 7 were microdissected and collected
+         using a PALM MicroLaser system (P.A.L.M. GmbH, Bernried, Germany) coupled with an
+         inverted microscope (Olympus) under an oil immersion objective (100× magnification).
+         Chromosome arms were catapulted by a single laser pulse directly into the cap of a
+         PCR tube containing 4 μL PCR oil. To ensure that the whole short arm of chromosome
+         7 was obtained, the laser cut was targeted to the q arm border of the centromere region.
+      
+      Whole genome amplification
+      An initial round of whole genome amplification was performed using the WGA4 GenomePlex Single Cell Kit (Sigma-Aldrich). Dissected chromosome arms were digested with Proteinase K, followed by library preparation
+         and amplification according to manufacturer’s instructions. Primary PCR products were
+         cleaned up using a Qiaquick Gel Extraction Kit (QIAGEN) column. 20 ng of primary WGA4
+         product was then reamplified using the WGA3 system (GenomePlex WGA Reamplification Kit, Sigma-Aldrich) according to our original protocol for preparation of X. tropicalis painting probes [26]. The secondary PCR product was purified by ethanol precipitation, yielding approximately
+         20 μg of DNA fragments averaging ~500–600 bp in size.
+      
+      High throughput sequencing and library construction
+      In order to minimize resequencing WGA adaptors at ends of amplified fragments, libraries
+         for high-throughput sequencing were constructed by in vitro transposition to simultaneously fragment the DNA and introduce sequencing primer/adaptors
+         using the Nextera DNA sample prep kit (Illumina, Inc.) according to manufacturer’s
+         instructions. 50 ng (measured by QuBit, Life Technology) of dissected chromosome amplification
+         product DNA was used with Nextera Illumina-Compatible Enzyme Mix and low molecular
+         weight buffer to generate libraries with fragment size of ~200 to 400 bp (including
+         the 135 bp adapter sequence), and enriched by limited-cycle PCR. Library quality was
+         determined by QuBit, Agilent Bioanalyser and QT-PCR using KAPA library quantification
+         kit (KAPABiosystems, Boston, USA) before loading 6.5 pM on a lane of a GAII flow cell
+         for sequencing 80 bp single reads.
+      
+      Data analysis
+      Reads were mapped to Xenopus tropicalis v4.1 and v7.1 assemblies (available on http://www.xenbase.org webcite) [27] using Bowtie (http://bowtie-bio.sourceforge.net webcite) [28,29]. Due to prevalence of repeats in the X .tropicalis genome, only unique hits with higher than 97.5% identity were selected, using Bowtie
+         parameters m=1 and v=2. The sequences obtained were counted and analyzed using PERL
+         scripts and Microsoft Excel. Repetitive genomic regions were obtained from the UCSC
+         (browser http://genome.ucsc.edu/ webcite).
+      
+      FISH-TSA (Fluorescence In Situ Hybridization with Tyramide Signal Amplification).
+      
+      Metaphase spreads for FISH-TSA analysis were prepared from the same euploid testes
+         cell cultures as for the laser microdissection procedure, using the FISH-TSA protocol
+         described in [30].
+      
+   
+

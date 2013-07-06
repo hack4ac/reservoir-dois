@@ -1,0 +1,1 @@
+Image compression, Image encryption, Lossy compression, Image reconstruction, Scalable coding

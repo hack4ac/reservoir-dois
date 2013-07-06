@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					While severe shortages, inadequate skills and a geographical imbalance of health personnel have been consistently documented over the years as long term critical challenges in the health sector of the United Republic of Tanzania, there is limited evidence on the gender-based distribution of the health workforce and its likely implications. Extant evidence shows that some people may not seek healthcare unless they have access to a provider of their gender. This paper, therefore, assesses the gender-based distribution of the United Republic of Tanzania’s health workforce cadres.
+
+				
+				
+					
+						Methods
+
+					This is a secondary analysis of data collected in a cross-sectional health facility survey on health system strengthening in the United Republic of Tanzania in 2008. During the survey, 88 health facilities, selected randomly from 8 regions, yielded 815 health workers (HWs) eligible for the current analysis. While Chi-square was used for testing associations in the bivariate analysis, multivariate analysis was conducted using logistic regression to assess the relationship between gender and each of the cadres involved in the analysis.
+
+				
+				
+					
+						Results
+
+					The mean age of the HWs was 39.7, ranging from 15 to 63 years. Overall, 75% of the HWs were women. The proportion of women among maternal and child health aides or medical attendants (MCHA/MA), nurses and midwives was 86%, 86% and 91%, respectively, while their proportion among clinical officers (COs) and medical doctors (MDs) was 28% and 21%, respectively. Multivariate analysis revealed that the odds ratio (OR) and 95% confidence interval (CI) that a HW was a female (baseline category is “male”) for each cadre was: MCHA/MA, OR = 3.70, 95% CI 2.16-6.33; nurse, OR = 5.61, 95% CI 3.22-9.78; midwife, OR = 2.74, 95% CI 1.44-5.20; CO, OR = 0.08, 95% CI 0.04-0.17 and MD, OR = 0.04, 95% CI 0.02-0.09.
+
+				
+				
+					
+						Conclusion
+
+					The distribution of the United Republic of Tanzania’s health cadres is dramatically gender-skewed, a reflection of gender inequality in health career choices. MCHA/MA, nursing and midwifery cadres are large and female-dominant, whereas COs and MDs are fewer in absolute numbers and male-dominant. While a need for more staff is necessary for an effective delivery of quality health services, adequate representation of women in highly trained cadres is imperative to enhance responses to some gender-specific roles and needs.
+
+				
+			
+		

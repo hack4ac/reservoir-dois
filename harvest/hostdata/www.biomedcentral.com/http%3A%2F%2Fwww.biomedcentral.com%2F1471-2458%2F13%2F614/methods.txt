@@ -1,0 +1,139 @@
+Methods
+   
+      Subjects
+      Five hundred and eighteen Hong Kong Chinese postmenopausal women aged 50 to 64&nbsp;years
+         were recruited for a study to examine the prevalence of subclinical atherosclerosis
+         and its associated risk factors during 2002-2004. Subjects were recruited by random
+         telephone dialing based on the most recent residential telephone directory. At least
+         6 attempts were made at different times of the day and week for each number before
+         it was considered a noncontact. If more than one postmenopausal woman within the household
+         fell into the targeted age range of 50 to 64&nbsp;years, the member with the most recent
+         birthday was selected. Women with surgical menopause, cardiovascular disease, and
+         severe disease conditions such as cancer and renal failure were excluded. Eligible
+         women were invited for questionnaire interviews, clinical examinations, and ultrasound
+         measurements. A response rate of 62.5% was obtained. Details of the sampling method
+         and of the baseline cohort have been reported elsewhere [36].
+      
+      Between 2008 and 2009, the cohort was invited to re-attend for repeat questionnaire
+         interviews, clinical examinations, and ultrasound measurements. The procedure for
+         data collection was the same as baseline and follow-up. 414 of the 518 subjects (79.9%)
+         returned. Of these individuals, those who were ambulant without assistance from another
+         person were subsequently invited for the VO2max assessment. Those who reported that they had leg pain, pace maker implanted, or were
+         taking blood thinning medications were excluded. In addition, subjects who had systolic
+         blood pressure &gt; 199&nbsp;mm Hg or diastolic blood pressure &gt; 109&nbsp;mm Hg, heart rate &lt; 40
+         or &gt; 110 beats per minute, had evidence of abnormal resting or exercise electrocardiogram,
+         or had severe disease conditions such as heart disease, cancer, or renal failure were
+         excluded. Hence, the present study population consisted of 184 subjects who had participated
+         in the follow-up examinations with completed data on blood pressures, anthropometric
+         and metabolic profiles, VO2max, and other confounding factors. Written informed consent was obtained from each subject
+         and the study was approved by the Ethics Committees of the Chinese University of Hong
+         Kong.
+      
+      Clinical examinations
+      Subjects fasted for 12&nbsp;h before attending the study centre. Venous samples of blood
+         were collected for the measurement of total cholesterol, HDL cholesterol, low-density
+         lipoprotein (LDL) cholesterol, triglycerides, and fasting blood glucose. Blood samples
+         were analyzed using commercial kits (Randox, United Kingdom) with standard enzymatic
+         methods on the Alcyon 300 analyzer (Abbott Laboratories, Abbott Park, IL). Blood pressures
+         were measured twice with a mercury sphygmomanometer on the right upper arm with the
+         subject seated quietly for at least 10&nbsp;minutes. Height, weight, waist, and hip circumferences
+         were also measured twice with the subject wearing light clothing and no shoes. BMI
+         was documented. Waist circumference was measured over the abdomen at the smallest
+         diameter between the costal margin and iliac crest and hip circumference was measured
+         at the level of the greater trochanters. Waist-to-hip ratio was calculated as the
+         ratio of waist-to-hip circumferences.
+      
+      According to the NCEP ATP III guidelines [1] and the revised cut-off value of waist circumference for defining abdominal obesity
+         for Asian populations [37], a subject was classified as having MS if she had three or more of the following
+         risk factors: 1) high blood pressure (systolic blood pressure ≥ 130&nbsp;mm Hg and/or diastolic
+         blood pressure ≥ 85&nbsp;mm Hg and/or drug treatment), 2) abdominal obesity (waist circumference ≥ 80&nbsp;cm),
+         3) high triglycerides (triglycerides ≥ 1.7&nbsp;mmol/L), 4) low HDL (HDL &lt; 1.3&nbsp;mmol/L),
+         and 5) high fasting blood glucose (fasting blood glucose ≥ 6.1&nbsp;mmol/L and/or drug
+         treatment).
+      
+      Assessment of physical activity
+      PA was assessed using the modified and locally translated Baecke questionnaire [38,39]. Based on the original Baecke questionnaire that was divided into three parts (work,
+         sport and leisure time) [38], a section assessing activities on housework and additional cultural specific leisure
+         time activities such as window shopping and playing mahjong (popular activities in
+         Hong Kong) were included to make the questionnaire applicable for use in Hong Kong
+         Chinese adults of a wide age range. The questions thus consisted of PA at work, in
+         doing housework, at leisure time, and in doing sports. For each question, the subject
+         had to choose subjectively from four choices: frequently, sometimes, rarely, or never.
+         The scores from the four sections were used to derive the work index, housework index,
+         leisure time index, and sport index. Summing the four indices result in a continuous
+         unweighted total index. A weighted total index was also computed, taking into account
+         the different time and activity pattern of workers and housewives. The reference period
+         of the questionnaire refers to activities of the last year. Previously we found that
+         the weighted total index was significantly correlated with daily energy expenditure
+         obtained from the diaries and the total index was not [39]. However, the present results indicated that the distribution of weighted total index
+         was skewed and the total index had a higher correlation with MS than the weighted
+         total index. Therefore, total index were used as opposed to weighted total index in
+         this study.
+      
+      Assessment of cardiorespiratory fitness
+      VO2max was assessed with a symptom-limited maximal exercise test on an electrically braked
+         bicycle ergometer (Ergoline 900, Ergoline GmbH, Lindenstrasse, Bitz, Germany). Subjects
+         were instructed to abstain from any strenuous exercise on the day before testing.
+         Each subject was connected to a calibrated respiratory gas analyzer (Fitmate, COSMED
+         Srl, Italy), a portable metabolic analyzer designed for measurement of oxygen consumption
+         during exercise via a face mask. It uses a turbine flowmeter for measuring ventilation
+         and a galvanic fuel cell oxygen sensor for analyzing oxygen in expired gases, and
+         a new sampling technology has been adopted through the use of a small sample of the
+         expired volume in a miniaturized dynamic mixing chamber. Though it does not have a
+         CO2 analyzer, it ramps the respiratory exchange ratio between 0.8 and 1.2 based on the
+         increase in heart rate, thus markedly reduces to minimal error. As reported by Nieman
+         and colleagues [40], there were no significant differences in oxygen consumption between the Fitmate
+         systems and the Douglas bag system, the ‘gold standard’ for gas exchange measurements,
+         during graded treadmill exercise. In the present study, the Fitmate analyzer was calibrated
+         before each test. Blood pressure was monitored throughout the exercise test. The test
+         started with a 3-min warm up at a workload of 20&nbsp;W and continued with 10&nbsp;W increments
+         every minute, until the subject was exhausted or was not able to maintain the required
+         pedaling frequency of 50&nbsp;rpm. Subjects were verbally encouraged to reach their maximum.
+         The test was terminated when the subject reached VO2max[41,42] or showed any symptoms that indicated termination of exercise based on the guidelines
+         of the American College of Sports Medicine [43]. To check the test-retest reliability and the internal consistency of the assessment,
+         a separate sample of 50 healthy men and 25 healthy women were invited to undergo a
+         repeated VO2max assessment within two weeks after the original assessment period. Paired sample t
+         tests indicated that there were no significant mean differences between the two assessments
+         (p = 0.051 for men and 0.054 for women). Internal consistency was also adequate with
+         Cronbach’s α = 0.95 for men and 0.98 for women.
+      
+      Other covariates
+      Information on a number of covariates was also collected. Marital status, education
+         level, occupation, medical history, current use of medications, smoking, and alcohol
+         intake were obtained by questionnaire interview. A validated food frequency questionnaire
+         containing 60 food items was used to assess dietary intake [44].
+      
+      Statistical analysis
+      Continuous variables are reported as mean and standard deviations, and categorical
+         variables as percentages. Student t tests / Chi square tests were performed to compare
+         subjects with MS and without MS. Analyses of Covariance (ANCOVA) were also performed
+         after adjustment for age. To examine the relative association of PA and CRF with the
+         risk of MS, PA and CRF were categorized into tertiles. The lowest tertile of PA (total
+         index &lt; 8.6) was designated as inactive and the higher tertiles (2nd–3rd) of PA (total index 8.6–&lt; 9.4 and ≥ 9.4) were grouped together and designated as
+         active. Similarly, the lowest tertile of CRF (VO2max &lt; 21.2&nbsp;ml/kg/min) was designated as unfit and the higher tertiles (2nd–3rd) of CRF (VO2max 21.2–&lt; 24.3 and ≥ 24.3&nbsp;ml/kg/min) were grouped together and designated as fit. The
+         cut-off scores for the lowest terile of PA/CRF were used as the cut-off scores for
+         inactive/active and unfit/fit because the results might provide a reference for the
+         minimum PA/CRF level that is associated with lower risk of having MS. Logistic regression
+         was used to estimate odds ratios (OR) and 95% confidence interval (CI) as an index
+         of association of PA and CRF with prevalent MS. Models were adjusted for age, BMI
+         and dietary total calories intake. In addition, PA was further adjusted in the models
+         for CRF and CRF was further adjusted in the models for PA. The analyses were repeat
+         stratified for PA, CRF, and BMI. The combined effects of PA and CRF on MS were also
+         examined using logistic regression. For this analysis, four PA–CRF combination categories
+         (inactive and unfit; inactive but fit; active but unfit; active and fit) were created
+         where the effect of each combination of PA and CRF categories were compared with the
+         referent group (inactive and unfit). To test whether metabolically healthy but obese
+         subjects have a higher CRF level, subjects were categorized into four groups (metabolically
+         healthy and normal weight, metabolically healthy but overweight/obese, metabolically
+         unhealthy but normal weight, metabolically abnormal and overweight/obese) on the basis
+         of absence or presence of MS and BMI levels of &lt; 23&nbsp;kg/m2 or ≥ 23&nbsp;kg/m2. A cut-off point of a BMI of 23&nbsp;kg/m2 was chosen because it represents the current standard for overweight, as proposed
+         by the WHO Western Pacific Regional Office [37]. In this analysis, the waist circumference was excluded as a criterion in the definition
+         of MS, since the purpose was to examine the CRF level across metabolic profile regardless
+         of their adiposity. Comparisons of CRF level were made between the four categories
+         using ANCOVA, with adjustment for age, dietary total calories intake, and PA. Pairwise
+         comparisons were adjusted for the Bonferroni correction. All analyses were conducted
+         with the Window-based SPSS Statistical Package (version 17.0; SPSS Inc., Chicago,
+         IL), and P values less than 0.05 was considered statistically significant.
+      
+   
+

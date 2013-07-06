@@ -1,0 +1,43 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Objectives
+
+					To evaluate the quality of cardiopulmonary resuscitation (CPR) in a physician staffed helicopter emergency medical service (HEMS) using a monitor-defibrillator with a quality analysis feature. As a post hoc analysis, the potential barriers to implementation were surveyed.
+
+				
+				
+					
+						Methods
+
+					The quality of CPR performed by the HEMS from November 2008 to April 2010 was analysed. To evaluate the implementation rate of quality analysis, the HEMS database was screened for all cardiac arrest missions during the study period. As a consequence of the observed low implementation rate, a survey was sent to physicians working in the HEMS to evaluate the possible reasons for not utilizing the automated quality analysis feature.
+
+				
+				
+					
+						Results
+
+					During the study period, the quality analysis was used for 52 out of 187 patients (28%). In these cases the mean compression depth was < 40 mm in 46% and < 50 mm in 96% of the 1-min analysis intervals, but otherwise CPR quality corresponded with the 2005 resuscitation guidelines. In particular, the no-flow fraction was remarkably low 0.10 (0.07, 0.16). The most common reasons for not using quality-controlled CPR were that the device itself was not taken to the scene, or not applied to the patient, because another EMS unit was already treating the patient with another defibrillator.
+
+				
+				
+					
+						Conclusions
+
+					When quality-controlled CPR technology was used, the indicators of good quality CPR as described in the 2005 resuscitation guidelines were mostly achieved albeit with sufficient compression depth. The use of the well-described technology in improving patient care was low. Wider implementation of the automated quality control and feedback feature in defibrillators could further improve the quality of CPR on the field.
+
+				
+				
+					
+						Trial registration
+
+					ClinicalTrials.gov ( NCT00951704 )
+
+				
+			
+		

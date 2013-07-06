@@ -1,0 +1,116 @@
+Methods
+   
+      Ethics statement
+      Our experiment was conducted in accordance with the French national regulations for
+         human care and use of animals in research. Blood samples were collected on large-white
+         pigs from UMR INRA Toxalim under the experimentation agreement number TOXCOM/0020/PP
+         IO for the collection of blood samples.
+      
+      Neutrophil isolation and activation
+      Neutrophils were isolated from freshly drawn venous blood of 7 to 9&nbsp;month-old healthy
+         pigs as described previously [33]. Briefly, after density gradient centrifugation (1.077&nbsp;g/l, Lymphoprep, Eurobio),
+         the pellet containing the neutrophils was submitted to a lysis solution (NH4Cl 0.15&nbsp;M – KHCO3 0.01&nbsp;M EDTA Na2 1&nbsp;μM) at room temperature for 10&nbsp;min to eliminate the red cells. The cell suspension
+         was then centrifuged at 300&nbsp;g for 20&nbsp;min and the pellet was resuspended in 1&nbsp;ml of
+         RPMI 1640. Purity of cell population was estimated at 90% by microscopic examination
+         of May-Grünwald Giemsa (Sigma-Aldrich) stained blood smears and cell viability was
+         found to be greater than 95% by a Trypan blue dye exclusion test. The neutrophil sample
+         was divided in two: one part was directly used for spreading on slides (resting neutrophils)
+         and the other part (adjusted at 7 × 106 cells/mL) was incubated by shaking with LPS (10&nbsp;μg/mL for 3&nbsp;h at 37°C) to produce
+         the LPS-stimulated batch. The cells were spread on slides as described previously
+         [33].
+      
+      DNA probes
+      Subtelomeric probes were selected using recent data from the pig genome sequencing
+         project (http://pre.ensembl.org/Sus_scrofa_map/Location/Genome webcite). Each probe consisted of: (1) 2 BACs specific to the p or q telomeric regions of a chromosome pair, (2) 4 different pools of BACs specific to the p or q telomeric regions of submetacentric
+         chromosomes (SSC1 to SSC5), subtelocentric chromosomes (SSC6 and SSC7), metacentric
+         chromosomes (SSC8 to SSC12) and finally telocentric chromosomes (SSC13 to SSC18).
+         These BAC clones were obtained from the Biological Resources Centre – GADIE (http://www.crb-gadie.inra.fr webcite). All the BACs used in this study were presented in Additional file 1: Table S1. For each chromosome, p (probe 1) and q (probe 2) telomeric BACs were combined.
+         Probes 1 and 2 were previously labelled by random priming by incorporation of dUTP
+         Alexa 568 and dUTP Alexa 488 respectively, using the Bioprime DNA labelling kit (Invitrogen).
+         Similarly, the 4 pools of p and q telomeric probes were labelled by incorporation
+         of dUTP Alexa 568 and dUTP Alexa 488 respectively. Products from the reaction were
+         precipitated with porcine Cot-1 DNA (Applied Genetics Laboratories, Melbourne, USA)
+         and salmon sperm DNA (Eurobio). Each probe was dropped onto slides at a final concentration
+         of 100&nbsp;ng/μL in a hybridization buffer (Sigma-Aldrich).
+      
+      Chromosome specific painting probes from flow-sorted chromosomes [50] were individually labelled by random priming with Biotin (Invitrogen) and combined
+         with the appropriate subtelomeric probes. Biotin was revealed by streptavidin conjugated
+         to Alexa 633 (Invitrogen). The specificity of all probes was tested by 2D FISH on
+         porcine metaphases prepared from lymphocytes according to protocols which had previously
+         been described [51] (Additional file 2: Figures S1a-g).
+      
+      3D-FISH experiments
+      3D FISH experiments were carried out according to [33]. Briefly, after permeabilization of the neutrophils and RNAse A treatment, cells
+         and probes were simultaneously heat-denatured at 75°C for 8&nbsp;min and then incubated
+         for 72&nbsp;h at 37°C. The entire procedure was carried out in a DAKO hybridizer. Post-hybridization
+         washes were performed first in 2 × SSC at room temperature (twice) for 15&nbsp;min, then
+         three times for 15&nbsp;min each in 2 × SSC 50% formamide pH&nbsp;7.0 at 45°C, and finally three
+         times for 15&nbsp;min each in 0.1 × SSC at 50°C. Nuclei were counterstained with 4',6'diamidino-2-phenylindole
+         (DAPI) in Vectashield medium (Vector Laboratories). For the visualization of the nuclear
+         membrane, the samples were incubated with an anti-lamin B antibody (Santa Cruz Biotechnology)
+         at 1:50 dilution in PBS containing 2% serum albumin for 1&nbsp;h at room temperature and
+         incubated with an anti-goat Alexa 488 secondary antibody (Invitrogen).
+      
+      Confocal microscopy and image analyses
+      Confocal microscopy was carried out using a Leica TCS SP2 confocal microscope (Leica
+         Instruments) equipped with an oil immersion objective (plan achromatic 63× N.A. = 1.4).
+         The Z-stacks were acquired at 1024 × 1024 pixels per frame using an 8-bit pixel depth
+         for each channel at a constant voxel size of 0.093 × 0.093 × 0.244&nbsp;μm. Typically,
+         a stack of 45 confocal planes was acquired. Segmentations and 3D measurements between
+         objects (3D distances between nucleus outer border and subtelomeric probe centres,
+         or between subtelomeric probe centres) were performed using NEMO software [42]. The nucleus segmentation was validated by labelling the nuclear membrane with anti-lamin
+         B (Additional file 3: Figure S2) and more generally, the segmentation for each cell (nucleus and objects)
+         was validated by manual comparisons with the raw images.
+      
+      Telomere associations
+      Telomeres were defined as associated if the 3D distance between their spot centres
+         was inferior to 2 × r, r being the spot radius. We determined for each chromosome
+         pair how many nuclei were in each conformation (denoted C1 to C14 – Additional file
+         8: Figure S4a). Then we calculated the number of associations and non-association events
+         for each type of telomeric association considering that there are 6 possibilities
+         (1&nbsp;pp, 1 qq, 2 pqloop and 2 pqcross) (Additional file 8: Figure S4b).
+      
+      Additional file 8: Figure S4. Estimation of the number of events (telomeric associations) that can occur in a neutrophil
+         nucleus.
+         	Format: DOCX 
+         	Size: 130KB Download file or  display content in a new window
+      Statistical analyses
+      Distance of the p and q telomeres from the nuclear outer border
+      Pairwise comparisons of the average values (border-to-border distances between the
+         spot and the outer nuclear periphery) over the two cell populations (resting and activated
+         neutrophils) were carried out using the Mann–Whitney Wilcoxon test R software, [52]. Similarly in each state, the positions of the p and q telomeres were compared using
+         the same statistical test.
+      
+      Test on random association between p and q telomeres
+      For each chromosome, the distribution of pp, qq, pqloop and pqcross associations observed
+         was compared to the theoretical distribution (p) expected if these associations occur at random and independently (p (pp or qq) = 1/6; p (pqloop or pqcross) = 1/3) using a χ2 test. p values &lt;0.05 were considered as significant.
+      
+      Frequency of telomeric associations
+      To determine the frequency at which a telomeric association occurs, we estimated a
+         probability of association for each type (pp, qq, pqloop or pqcross) as follows:
+      
+      Probability of pp association ppp :
+      
+      ppp = Number of pp associations / (Number of pp associations + Number of 0&nbsp;pp association)
+      
+      and similarly for pqq, ppqloop and ppqcross (Additional file 8: Figure S4a).
+      
+      This estimation derives from the following binomial model. With Xc,t,s,i denoting the number of telomeric associations observed in the nucleus (i), in the
+         state (s) (activated/not activated), of the type t (pp, qq, pqloop, pqcross) and the chromosome c, and Nc,t,s,i the associated maximum number of such associations, we stated that Xc,t,s,i follows a binomial distribution: Xc,t,s,i ~ Bin(Nc,t,s,i , pc,t,s,i ). In order to estimate and test the existence of an effect of different factors
+         such as LPS-activation, chromosomal association level and association type, we fitted
+         the binomial regressions with the following covariates (X stands for interaction)
+         and applied a step by step procedure:
+      
+      Model 1: chromosome + type + state + chromosome X type + chromosome X state X type
+      Model 2: chromosome + type + state + chromosome X type
+      Model 3: chromosome + type
+      Model 4: chromosome + state
+      Model 5: chromosome
+      Model 6: constant
+      The fit of these nested models was compared using a χ2 test.
+      
+      As a complement, we conducted a Principal Component Analysis on the observed relative
+         frequencies of the number of telomeric associations observed, sorted by type.
+      
+   
+

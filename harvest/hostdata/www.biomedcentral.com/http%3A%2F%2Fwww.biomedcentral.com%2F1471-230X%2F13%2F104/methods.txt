@@ -1,0 +1,72 @@
+Methods
+   
+      Study population
+      This is a cross-sectional nationwide multicentre study of adult subjects aged 16 years
+         or older who visited healthcare centers for routine health check-up between January
+         and December 2011 in South Korea. The subjects were enrolled prospectively in 2011
+         under a predefined protocol. The institutions participating in this study were healthcare
+         centers located in Seoul and in the seven provinces of South Korea.
+      
+      Informed consent was obtained from each subject. All subjects were invited to answer
+         the questionnaire which was the same as previous study’s [9] under the supervision of a well-trained interviewer. The questionnaire included information
+         regarding demographic data (i.e. age, sex, and residence), socioeconomic data (i.e.
+         monthly income and education level), medical history (such as H. pylori eradication therapy, history of gastric operation, and family history of gastric
+         cancer (GC)), and upper gastrointestinal (GI) symptoms (such as indigestion, bloating,
+         epigastric soreness, regurgitation, or heartburn), that persisted for at least one
+         month within the last 3 years.
+      
+      Subjects were categorized into 3 education levels: low (middle school graduate or
+         less), middle (high school graduate or university dropout), and high (university graduate
+         or graduate of a postgraduate course). Monthly family income was classed as 3 groups:
+         low household income (&lt; US $ 3,000 per month), middle income (US $ 3,000 to 10,000
+         per month), and high income (&gt; US $ 10,000 per month).
+      
+      Clinical and laboratory evaluations
+      Anthropometric measurements (weight and height) were done by trained nurses using
+         a standardized protocol.
+      
+      Blood samples were obtained from the antecubital vein in the morning after overnight
+         fasting, and serum samples were separated after centrifugation. Serum cholesterol,
+         triglyceride, and fasting glucose were measured by an automatic analyser, Alisei®
+         (Seac, Pomezia, Italy). To compare these results according to seropositivity of H. Pylori, we categorized the level of total cholesterol (TC) as normal (≤240 mg/dl) and abnormal
+         (&gt;240 mg/dl), trigryceride (TG) as ≤150 mg/dl and &gt;150 mg/dl, and fasting glucose
+         as ≤100 mg/dl and &gt;100 mg/dl, respectively.
+      
+      Anti-H. pylori IgG was measured using H. pylori-EIA-Well in Healthcare System Gangnam Center and Genedia H. pylori ELISA at the remaining centers using the same kits as those in the previous studies
+         [9,10]. Genedia H. pylori ELISA, developed from Korean H. pylori strains showed a sensitivity of 97.8% and a specificity of 92% [11]. H. pylori-EIA-Well showed a sensitivity of 95.6% and a specificity of 97.8% when Genedia H. pylori ELISA was used as the gold standard [9].
+      
+      Statistical analysis
+      Evaluation of risk factors of each group according to eradication of H. pylori
+      Demographic and clinical information were summarized by descriptive statistics. To
+         investigate risk factors for H. pylori seropositivity and influential factors having a history of H. pylori eradication, multivariable logistic regression was used. A significance level of
+         p &lt; 0.05 was used for all analyses.
+      
+      Comparison of trends of seroprevalence of H. pylori in 1998, 2005, and 2011
+      Trends of seroprevalence of H. pylori were compared using the published data of 1998 [10] and 2005 [9]. For this comparison, study subjects in each time period were restricted to asymptomatic
+         subjects without a history of H. pylori eradication and gastric operation. For statistical comparison of trends of seroprevalence
+         of H. pylori in 1998, 2005, and 2011, the Cochrane-Armitage trend test, which is a modified Pearson
+         chi-square test to examine the association between a binary outcome and a variable
+         with multiple categories with order, was conducted.
+      
+      Analysis of cohort effects
+      In addition, the seroprevalence of H. pylori by birth cohort group was also drawn. To examine birth cohort effects, we created
+         synthetic cohorts from the successive cross-sectional data of 1998, 2005, and 2011.
+         For this analysis, relevant raw data in 1998 and 2005 were obtained from the authors
+         and reconstructed for the analysis of birth cohort. Data from 1998 was considered
+         to be those in 1999 because the successive cross-sectional data should span with same
+         interval. The interval of three cross-sectional data was 6 years. The aggregate birth
+         cohort from 1930 to 1972 was restructured into 8 groups using the standard approach
+         for cohort analysis [12]. In detail, a birth cohort was obtained by subtracting age from year (i.e. Birth
+         cohort of 1974.5 (birth cohort of 1972–77) = Year of 1998 – Age of 24.5 (22–27 years
+         old)). For example, people aged 22–27 years in 1998 (considered as data in 1999),
+         those aged 28–33 years in 2005, and those aged 34–39 years in 2011 were considered
+         to be in the same birth cohort, born between 1972 and 1977. Using this approach for
+         other age groups in each year, eight birth cohorts (1972–77, 1966–71, 1960–65, 1954–59,
+         1948–53, 1942–47,1936-41,1930-35) had three estimates of H. pylori seroprevalence at 6 year intervals for 12 years.
+      
+      Ethics statement
+      The protocol of this study was approved by the main Institutional Review Board of
+         Seoul National University Hospital (IRB No. H-1011-038-339).
+      
+   
+

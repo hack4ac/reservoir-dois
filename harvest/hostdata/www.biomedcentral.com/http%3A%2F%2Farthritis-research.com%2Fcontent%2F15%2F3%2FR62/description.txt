@@ -1,0 +1,24 @@
+
+Abstract
+
+Introduction
+
+The aim of this study was to determine the factors, including markers of bone resorption and bone formation, which determine catabolic and anabolic periarticular bone changes in patients with rheumatoid arthritis (RA).
+
+
+Methods
+
+Forty RA patients received high-resolution peripheral quantitative computed tomography (HR-pQCT) analysis of the metacarpophalangeal joints II and III of the dominantly affected hand at two sequential time points (baseline, one year follow-up). Erosion counts and scores as well as osteophyte counts and scores were recorded. Simultaneously, serum markers of bone resorption (C-terminal telopeptide of type I collagen (CTX I), tartrate-resistant acid phosphatase 5b (TRAP5b)), bone formation (bone alkaline phosphatase (BAP), osteocalcin (OC)) and calcium homeostasis (parathyroid hormone (PTH), 25-hydroxyvitamin D3 (Vit D)) were assessed. Bone biomarkers were correlated to imaging data by partial correlation adjusting for various demographic and disease-specific parameters. Additionally, imaging data were analyzed by mixed linear model regression.
+
+
+Results
+
+Partial correlation analysis showed that TRAP5b levels correlate significantly with bone erosions, whereas BAP levels correlate with osteophytes at both time points. In the mixed linear model with erosions as the dependent variable, disease duration ( P <0.001) was the key determinant for these catabolic bone changes. In contrast, BAP ( P = 0.001) as well as age ( P = 0.018), but not disease duration ( P = 0.762), were the main determinants for the anabolic changes (osteophytes) of the periarticular bone in patients with RA.
+
+
+Conclusions
+
+This study shows that structural bone changes assessed with HR-pQCT are accompanied by alterations in systemic markers of bone resorption and bone formation. Besides, it can be shown that bone erosions in RA patients depend on disease duration, whereas osteophytes are associated with age as well as serum level of BAP. Therefore, these data not only suggest that different variables are involved in formation of bone erosions and osteophytes in RA patients, but also that periarticular bone changes correlate with alterations in systemic markers of bone metabolism, pointing out BAP as an important parameter.
+
+
+

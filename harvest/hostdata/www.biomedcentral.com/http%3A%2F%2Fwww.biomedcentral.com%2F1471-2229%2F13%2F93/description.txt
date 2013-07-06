@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Taxol is an anti-cancer drug harvested from  Taxus  trees, proposed ecologically to act as a fungicide.  Taxus  is host to fungal endophytes, defined as organisms that inhabit plants without causing disease. The  Taxus  endophytes have been shown to synthesize Taxol  in vitro , providing  Taxus  with a second potential biosynthetic route for this protective metabolite. Taxol levels in plants vary 125-fold between individual trees, but the underlying reason has remained unknown.
+
+				
+				
+					
+						Results
+
+					Comparing  Taxus  trees or branches within a tree, correlations were observed between Taxol content, and quantity of its resident Taxol-producing endophyte,  Paraconiothyrium  SSM001. Depletion of fungal endophyte  in planta  by fungicide reduced plant Taxol accumulation. Fungicide treatment of intact plants caused concomitant decreases in transcript and/or protein levels corresponding to two critical genes required for plant Taxol biosynthesis. Taxol showed fungicidal activity against fungal pathogens of conifer wood, the natural habitat of the Taxol-producing endophyte. Consistent with other Taxol-producing endophytes, SSM001 was resistant to Taxol.
+
+				
+				
+					
+						Conclusions
+
+					These results suggest that the variation in Taxol content between intact  Taxus  plants and/or tissues is at least in part caused by varying degrees of transcriptional elicitation of plant Taxol biosynthetic genes by its Taxol-producing endophyte. As Taxol is a fungicide, and the endophyte is resistant to Taxol, we discuss how this endophyte strategy may be to prevent colonization by its fungal competitors but at minimal metabolic cost to itself.
+
+				
+			
+		

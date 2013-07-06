@@ -1,0 +1,25 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The diverse microbial populations that inhabit pristine aquifers are known to catalyze critical in situ biogeochemical reactions, yet little is known about how the structure and diversity of this subsurface community correlates with and impacts upon groundwater chemistry. Herein we examine 8,786 bacterial and 8,166 archaeal 16S rRNA gene sequences from an array of monitoring wells in the Mahomet aquifer of east-central Illinois. Using multivariate statistical analyses we provide a comparative analysis of the relationship between groundwater chemistry and the microbial communities attached to aquifer sediment along with those suspended in groundwater.
+
+				
+				
+					
+						Results
+
+					Statistical analyses of 16S rRNA gene sequences showed a clear distinction between attached and suspended communities; with iron-reducing bacteria far more abundant in attached samples than suspended, while archaeal clones related to groups associated with anaerobic methane oxidation and deep subsurface gold mines (ANME-2D and SAGMEG-1, respectively) distinguished the suspended community from the attached. Within the attached bacterial community, cloned sequences most closely related to the sulfate-reducing  Desulfobacter  and  Desulfobulbus  genera represented 20% of the bacterial community in wells where the concentration of sulfate in groundwater was high (> 0.2 mM), compared to only 3% in wells with less sulfate. Sequences related to the genus  Geobacter , a genus containing ferric-iron reducers, were of nearly equal abundance (15%) to the sulfate reducers under high sulfate conditions, however their relative abundance increased to 34% when sulfate concentrations were < 0.03 mM. Also, in areas where sulfate concentrations were <0.03 mM, archaeal 16S rRNA gene sequences similar to those found in methanogens such as  Methanosarcina  and  Methanosaeta  comprised 73–80% of the community, and dissolved CH 4  ranged between 220 and 1240 μM in these groundwaters. In contrast, methanogens (and their product, CH 4 ) were nearly absent in samples collected from groundwater samples with > 0.2 mM sulfate. In the suspended fraction of wells where the concentration of sulfate was between 0.03 and 0.2 mM, the archaeal community was dominated by sequences most closely related to the ANME-2D, a group of archaea known for anaerobically oxidizing methane. Based on available energy (∆G A ) estimations, results varied little for both sulfate reduction and methanogenesis throughout all wells studied, but could favor anaerobic oxidation of methane (AOM) in wells containing minimal sulfate and dihydrogen, suggesting AOM coupled with H 2 -oxidizing organisms such as sulfate or iron reducers could be an important pathway occurring in the Mahomet aquifer.
+
+				
+				
+					
+						Conclusions
+
+					Overall, the ...

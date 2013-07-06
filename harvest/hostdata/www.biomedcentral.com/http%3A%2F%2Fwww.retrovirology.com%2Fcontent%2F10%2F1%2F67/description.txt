@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Combination antiretroviral therapy, despite being potent and life-prolonging, is not curative and does not eradicate HIV-1 infection since interruption of treatment inevitably results in a rapid rebound of viremia. Reactivation of latently infected cells harboring transcriptionally silent but replication-competent proviruses is a potential source of persistent residual viremia in cART-treated patients. Although multiple reservoirs may exist, the persistence of resting CD4+ T cells carrying a latent infection represents a major barrier to eradication. In this review, we will discuss the latest reports on the molecular mechanisms that may regulate HIV-1 latency at the transcriptional level, including transcriptional interference, the role of cellular factors, chromatin organization and epigenetic modifications, the viral Tat  trans -activator and its cellular cofactors. Since latency mechanisms may also operate at the post-transcriptional level, we will consider inhibition of nuclear RNA export and inhibition of translation by microRNAs as potential barriers to HIV-1 gene expression. Finally, we will review the therapeutic approaches and clinical studies aimed at achieving either a sterilizing cure or a functional cure of HIV-1 infection, with a special emphasis on the most recent pharmacological strategies to reactivate the latent viruses and decrease the pool of viral reservoirs.
+
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Despite the growth of hospitalist programs in Canada, little is known about their effectiveness for improving quality of care and use of scarce healthcare resources. The objective of this study is to compare measures of cost and quality of care (in-hospital mortality, 30-day same-facility readmission, and length of stay) of hospitalists vs. traditional physician providers in a large Canadian community hospital setting.
+
+				
+				
+					
+						Methods
+
+					We performed a retrospective analysis of data from the Canadian Institute for Health Information (CIHI) Discharge Abstract Database, using multivariate logistic and linear regression analyses comparing performance of four provider groups of traditional family physicians (FPs), traditional internal medicine subspecialists (other-IM), family physician-trained hospitalists (FP-Hospitalist), and general internal medicine-trained hospitalists (GIM-Hospitalist).
+
+				
+				
+					
+						Results
+
+					Compared to traditional FPs, FP-Hospitalists and GIM-Hospitalists demonstrate lower mortality [OR 0.881, (CI 0.779 – 0.996); and OR 0.355, (CI 0.288 – 0.436)] and readmission rates [OR 0.766, (CI 0.678 – 0.867); and OR 0.800, (CI 0.675 – 0.948)]. Compared to traditional FPs, GIM-Hospitalists appear to improve length of stay [OR−2.975, (CI −3.302 – -2.647)] while FP-Hospitalists perform similarly [OR 0.096, (CI −0.136 – 0.329)]. Compared to other-IM, GIM-Hospitalists have similar performance on all measures while FP-Hospitalists show a mixed impact.
+
+				
+				
+					
+						Conclusions
+
+					Compared to traditional family physicians, hospitalists appear to improve measures of quality and resource utilization. Specifically, hospitalists demonstrate lower in-hospital mortality and 30-day readmission rates while improving (or at least showing similar) length of stay. Compared to traditional subspecialists, hospitalists demonstrate similar performance despite looking after sicker and more complex medical patients.
+
+				
+			
+		

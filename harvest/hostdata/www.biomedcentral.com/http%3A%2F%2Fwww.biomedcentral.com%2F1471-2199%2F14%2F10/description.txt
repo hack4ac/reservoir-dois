@@ -1,0 +1,10 @@
+
+			
+				
+					Abstract
+
+				
+				A member of the NF-κB signaling pathway, PoAkirin1, was cloned from a full-length cDNA library of Japanese flounder ( Paralichthys olivaceus ). The full-length cDNA comprises a 5′UTR of 202 bp, an open reading frame of 564 bp encoding a 187-amino-acid polypeptide and a 521-bp 3′UTR with a poly (A) tail. The putative protein has a predicted molecular mass of 21 kDa and an isoelectric point (pI) of 9.22. Amino acid sequence alignments showed that PoAkirin1 was 99% identical to the  Scophthalmus maximus  Akirin protein (ADK27484). Yeast two-hybrid assays identified two proteins that interact with PoAkirin1: PoHEPN and PoC1q. The cDNA sequences of  PoHEPN  and  PoC1q  are 672 bp and 528 bp, respectively. Real-time quantitative reverse-transcriptase polymerase chain reaction analysis showed that bacteria could induce the expressions of PoAkirin1, PoHEPN and PoC1q. However, the responses of PoHEPN and PoC1q to the bacterial challenge were slower than that of PoAkirin1. To further study the function of PoAkirin1, recombinant PoAkirin1 and PoHEPN were expressed in  Escherichia coli  and would be used to verify the PoAkirin1 - PoHEPN binding activity. These results identified two proteins that potentially interact with PoAkirin1 and that bacteria could induce their expression.
+
+			
+		

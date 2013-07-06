@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Aberrant DNA methylation is a prominent feature of many cancers, and may be especially relevant in germ cell tumors (GCTs) due to the extensive epigenetic reprogramming that occurs in the germ line during normal development.
+
+				
+				
+					
+						Methods
+
+					We used the Illumina GoldenGate Cancer Methylation Panel to compare DNA methylation in the three main histologic subtypes of pediatric GCTs (germinoma, teratoma and yolk sac tumor (YST); N = 51) and used recursively partitioned mixture models (RPMM) to test associations between methylation pattern and tumor and demographic characteristics. We identified genes and pathways that were differentially methylated using generalized linear models and Ingenuity Pathway Analysis. We also measured global DNA methylation at LINE1 elements and evaluated methylation at selected imprinted loci using pyrosequencing.
+
+				
+				
+					
+						Results
+
+					Methylation patterns differed by tumor histology, with 18/19 YSTs forming a distinct methylation class. Four pathways showed significant enrichment for YSTs, including a human embryonic stem cell pluripotency pathway. We identified 190 CpG loci with significant methylation differences in mature and immature teratomas (q < 0.05), including a number of CpGs in stem cell and pluripotency-related pathways. Both YST and germinoma showed significantly lower methylation at LINE1 elements compared with normal adjacent tissue while there was no difference between teratoma (mature and immature) and normal tissue. DNA methylation at imprinted loci differed significantly by tumor histology and location.
+
+				
+				
+					
+						Conclusion
+
+					Understanding methylation patterns may identify the developmental stage at which the GCT arose and the at-risk period when environmental exposures could be most harmful. Further, identification of relevant genetic pathways could lead to the development of new targets for therapy.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The most important limiting factor in kidney transplantation is the scarcity of donor organs. Consequently, there is an increased use worldwide of kidneys from older deceased donors. High donor age is a known risk factor for acute cellular rejection and premature graft failure, and the optimal immunosuppressive regimen in these circumstances remains to be established.
+
+				
+				
+					
+						Methods
+
+					We investigated whether induction treatment with an interleukin 2 (IL-2) receptor antagonist improves graft survival and reduces rejection episodes in recipients of kidneys from deceased donors aged ≥ 60 years. Data were retrieved for all recipients transplanted at our center from 2004 to 2009 with a kidney from a deceased donor aged > 60 years. The outcome was compared between recipients treated with (IL-2 plus) or without (IL-2 minus) an IL-2 receptor antagonist. All recipients received a calcineurin inhibitor, steroids and mycophenolate.
+
+				
+				
+					
+						Results
+
+					A total of 232 first-transplant recipients were included (IL-2 plus = 149, IL-2 minus = 83). IL-2 minus was associated with increased risk of early acute rejection (OR 2.42; 95% CI 1.25 to 4.68,  P  = 0.009) and steroid-resistant rejection (OR 8.04; 2.77 to 23.25,  P < 0.001). IL-2 plus patients had superior two-year estimated uncensored (87% versus 70%,  P  = 0.001) and death-censored (95% versus 79%,  P < 0.001) graft survival.
+
+				
+				
+					
+						Conclusions
+
+					Induction treatment with IL-2 receptor antagonist was associated with a reduction in acute rejection episodes and improved two-year graft survival in patients transplanted with kidneys from older deceased donors.
+
+				
+			
+		

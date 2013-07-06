@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Sexual reproduction is a widely studied biological process because it is critically important to the genetics, evolution, and ecology of eukaryotes. Despite decades of study on this topic, no comprehensive explanation has been accepted that explains the evolutionary forces underlying its prevalence and persistence in nature. Monogonont rotifers offer a useful system for experimental studies relating to the evolution of sexual reproduction due to their rapid reproductive rate and close relationship to the putatively ancient asexual bdelloid rotifers. However, little is known about the molecular underpinnings of sex in any rotifer species.
+
+				
+				
+					
+						Results
+
+					We generated mRNA-seq libraries for obligate parthenogenetic (OP) and cyclical parthenogenetic (CP) strains of the monogonont rotifer,  Brachionus calyciflorus , to identify genes specific to both modes of reproduction. Our differential expression analysis identified receptors with putative roles in signaling pathways responsible for the transition from asexual to sexual reproduction. Differential expression of a specific copy of the duplicated cell cycle regulatory gene  CDC20  and specific copies of histone  H2A  suggest that such duplications may underlie the phenotypic plasticity required for reproductive mode switch in monogononts. We further identified differential expression of genes involved in the formation of resting eggs, a process linked exclusively to sex in this species. Finally, we identified transcripts from the bdelloid rotifer  Adineta ricciae  that have significant sequence similarity to genes with higher expression in CP strains of  B. calyciflorus .
+
+				
+				
+					
+						Conclusions
+
+					Our analysis of global gene expression differences between facultatively sexual and exclusively asexual populations of  B. calyciflorus  provides insights into the molecular nature of sexual reproduction in rotifers. Furthermore, our results offer insight into the evolution of obligate asexuality in bdelloid rotifers and provide indicators important for the use of monogononts as a model system for investigating the evolution of sexual reproduction.
+
+				
+			
+		

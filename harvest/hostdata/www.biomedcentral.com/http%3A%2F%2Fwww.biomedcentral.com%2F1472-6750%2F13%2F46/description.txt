@@ -1,0 +1,26 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Chromobacterium violaceum  is a free-living β-proteobacterium found in tropical and subtropical regions. The genomic sequencing of  C .  violaceum  ATCC 12472 has revealed many genes that underpin its adaptability to diverse ecosystems. Moreover,  C .  violaceum  genes with potential applications in industry, medicine and agriculture have also been identified, such as those encoding chitinases. However, none of the chitinase genes of the ATCC 12472 strain have been subjected to experimental validation. Chitinases (EC 3.2.1.14) hydrolyze the β-(1,4) linkages in chitin, an abundant biopolymer found in arthropods, mollusks and fungi. These enzymes are of great biotechnological interest as potential biocontrol agents against pests and pathogens. This work aimed to experimentally validate one of the chitinases from  C .  violaceum .
+
+				
+				
+					
+						Results
+
+					The open reading frame (ORF) CV2935 of  C .  violaceum  ATCC 12472 encodes a protein (439 residues) that is composed of a signal peptide, a chitin-binding domain, a linker region, and a C-terminal catalytic domain belonging to family 18 of the glycoside hydrolases. The ORF was amplified by PCR and cloned into the expression vector pET303/CT-His. High levels of chitinolytic activity were detected in the cell-free culture supernatant of  E .  coli  BL21(DE3) cells harboring the recombinant plasmid and induced with IPTG. The secreted recombinant protein was purified by affinity chromatography on a chitin matrix and showed an apparent molecular mass of 43.8 kDa, as estimated by denaturing polyacrylamide gel electrophoresis. N-terminal sequencing confirmed the proper removal of the native signal peptide during the secretion of the recombinant product. The enzyme was able to hydrolyze colloidal chitin and the synthetic substrates  p -nitrophenyl-β-D- N , N ’-diacetylchitobiose and  p -nitrophenyl-β-D- N , N ’, N ”-triacetylchitotriose. The optimum pH for its activity was 5.0, and the enzyme retained ~32% of its activity when heated to 60°C for 30 min.
+
+				
+				
+					
+						Conclusions
+
+					A  C .  violaceum  chitinase was expressed in  E .  coli  and purified by affinity chromatography on a chitin matrix. The secretion of the recombinant protein into the culture medium was directed by its native signal peptide. The mature enzyme was able to hydrolyze colloidal chitin and synthetic substrates. This newly identified signal peptide is a promising secretion factor that should be further investigated in future studies, aiming to demonstrate its usefulness as an ...

@@ -1,0 +1,1 @@
+Optimization, Budding yeast, Cell cycle, ODE model, Model reduction, Phenotypic constraints, Latin hypercube sampling, Differential evolution, Sensitivity analysis, Phenotype competition

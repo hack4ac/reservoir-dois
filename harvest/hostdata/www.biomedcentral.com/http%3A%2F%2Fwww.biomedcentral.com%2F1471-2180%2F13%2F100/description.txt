@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Lyme borreliosis, caused by tick-borne  Borrelia burgdorferi , is a multi-phasic, multi-system disease in humans. Similar to humans, C3H mice develop arthritis and carditis, with resolution and periodic bouts of recurrence over the course of persistent infection.  Borrelia burgdorferi  arthritis-related protein (Arp/BBF01), a highly conserved protein among  B. burgdorferi  s.s. isolates, has been shown to be antigenic in humans with Lyme borreliosis, and a target for antibody-mediated disease resolution in the mouse model.
+
+				
+				
+					
+						Results
+
+					A mutant strain of  B. burgdorferi  s.s. deficient of the  arp  gene and a complemented version of that mutant were created and examined for phenotypic effects in mice compared to wild-type  B. burgdorferi . Deletion of  arp  did not abolish infectivity, but did result in a higher infectious dose compared to wild-type  B. burgdorferi , which was restored by complementation. Spirochete burdens in tissues of C3H- scid  mice were lower when infected with the  arp  mutant, compared to wild-type, but arthritis was equally severe. Spirochete burdens were also lower in C3H mice infected with the  arp  mutant, but disease was markedly reduced. Ticks that fed upon infected C3H mice were able to acquire infection with both wild-type and  arp  mutant spirochetes. Arp mutant spirochetes were marginally able to be transmitted to naïve hosts by infected ticks.
+
+				
+				
+					
+						Conclusion
+
+					These results indicated that deletion of BBF01/ arp  did not abrogate, but diminished infectivity and limited spirochete burdens in tissues of both immunocompetent and immunodeficient hosts, and attenuated, but did not abolish the ability of ticks to acquire or transmit infection.
+
+				
+			
+		

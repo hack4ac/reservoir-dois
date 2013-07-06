@@ -1,0 +1,139 @@
+Methods
+   
+      Chlamydial strains and selection for resistance
+      Antibiotic resistant C. trachomatis strains J/6276rif, RC-J/6276tet-rif, F(s)/70rif, F(s)/70tet-rif L2-434ofl,DUW/3Cx ofl, L1/440/LNrif or L3/404/LNrif were generated as previously described [5]. Briefly, strains were grown in McCoy cells at a multiplicity of infection (MOI)
+         of 1 in media containing sub-inhibitory concentrations, equivalent to half the minimum
+         inhibitory concentration (MIC) of the appropriate drug. Serial passages of these strains
+         were cultured in the media containing desired antibiotics until resistant mutants
+         emerged or until passage was completely negative. Some strains required several attempts
+         until resistant mutants were isolated. Isolates were then cloned by a twofold limiting
+         dilution method. The resulting cloned elementary bodies (EBs) were grown to high titers
+         and were partially purified by centrifugation of lysates of infected cells through
+         a 30% MD-Gastroview® pad (Mallinckrodt Inc. St Louis).
+      
+      Generation of recombinant clones for complete genome sequence analysis
+      Recombinants isolated for genome analysis were generated from two sets of crosses
+         (Table&nbsp;1). The first of these involved two parental strains; L2-434ofl and F(s)/70rif and the second was a three-way cross with the parental strains F(s)/70tet-rif, J/6276rif and L2-434ofl. Recombination experiments were conducted as previously described [5]. Briefly, crosses were performed in McCoy cells seeded in sets of individual shell
+         vials. The monolayers were then infected with different combinations of drug-resistant
+         strains each at an MOI = 2, ensuring infections of cells with both strains. Cultures
+         were incubated for 48&nbsp;h post-infection in the absence of antibiotics and were then
+         detached and lysed using a -80C/37C freeze-thaw cycle [5]. Potential recombinants were selected by inoculating 50&nbsp;μl of the freeze-thaw lysates
+         from each shell vial onto a new shell vial monolayer and overlaying with a medium
+         containing antibiotics at 1/4 the MIC for each resistant parental strain. In the case
+         of the three-way cross [F(s), J, L2], three different combinations of drug were applied
+         to the infected monolayers (MOI = 2). These combinations included ofloxacin/rifampicin,
+         ofloxacin/tetracycline, and ofloxacin/rifampicin/tetracycline.
+      
+      Generation of recombinant chlamydial strains for analysis of recombination hot spots
+      Multiple independent shell vials containing confluent McCoy cells were inoculated
+         sequentially with ofloxacin-resistant D/UW3Cx and rifampin-resistant L1/440/LN or
+         L3/404/LN strains, and incubated 48&nbsp;h in medium lacking antibiotics. Monolayers were
+         lysed and used as inocula onto fresh McCoy cells at MOI = 1, and incubated in the
+         presence of 4X the MIC of the drugs used for selection, rifampin and ofloxacin. These
+         concentrations were previously determined to be sufficient to select for individual
+         recombinant strains resistant to both drugs. Incubation of either parent in this combination
+         and concentration of antibiotics at MOI = 1 never yielded a doubly resistant mutant
+         parent. Chlamydial recombinants growing in this mixture of antibiotics were propagated
+         and cloned by limiting dilution. Only a single recombinant progeny was collected from
+         each lineage from a single original inoculated shell vial. DNA was harvested from
+         these clones, and PCR primers were created that flanked regions of suspected recombination
+         hotspots identified by Srinivasan and colleagues [24]. The Phusion high fidelity DNA polymerase (New England Biolabs, Ipswich, MA) was
+         used to generate PCR products from these regions, and these were sequenced at the
+         Oregon State University Center for Genomics Research and Biocomputing. Sequences were
+         then examined for possible recombination by comparing informative sequence polymorphisms
+         relative to each parent in the cross.
+      
+      Chlamydia recombinant strain genomic DNA preparation
+      Recombinants were clonally isolated using limiting dilution and EB purification was
+         conducted as previously described [23,40]. Purified EBs were incubated for 60&nbsp;min with 4 units/mL RQ1 DNase (Promega) followed
+         by treatment with 2&nbsp;mM EGTA (RQ1 Stop solution, Promega) to inactivate the DNase.
+         Elementary bodies were then suspended in Qiagen Genomic buffer B1 supplemented with
+         dithiothreitol (5&nbsp;mM) and DNA was then extracted using the Qiagen Genomic Tip kit,
+         (Qiagen, Valencia, CA) following the manufacturer’s instructions.
+      
+      Genome sequencing and sequence analysis
+      Genomic DNA from recombinant strains was processed for Illumina-based paired-end sequencing
+         using commercial DNA preparation kits (Illumina Inc., San Diego, CA) following the
+         manufacturer’s instructions. Each recombinant genome was first assembled using the
+         reference-guided assembly program Maq [41]. Appropriate parental genomes were used as references in the analyses. Regions in
+         reference-guided assembled genomes where Maq could not resolve sequence were then
+         compared to contiguous sequences assembled using de-novo assembly software Velvet
+         [42] and a single contiguous draft sequence was produced.
+      
+      To confirm the clonality of the recombinant genomes, and to quality control our assembly
+         process, two to four apparent crossover regions in each recombinant progeny were amplified
+         by PCR and sequenced using classical Sanger sequencing. In all cases the sequenced
+         amplicon contained the appropriate informative sites from each parent involved in
+         the cross (not shown).
+      
+      Recombinant maps of each genome were produced by computationally parsing a draft genome
+         against the two parents used to generate the recombinant, using the alignment program
+         MAFFT with the default settings [43,44]. Any detected crossover regions were manually analyzed using MacVector sequence analysis
+         software (Cary, NC). Crossover regions were defined as the intervening homologous
+         sequence between two informative sites (defined as a nucleotide position that varied
+         in sequence between the two parent genomes), where the informative site was the same
+         as one parent at one position and the same as the second parent at an immediately
+         adjacent informative site.
+      
+      Whole genome alignments including all recombinant strains and the 3 parental strains
+         were constructed using MAFFT with default settings. Any position in this alignment
+         where at least one genome had a variable base was further analyzed using the Fisher
+         exact test as a metric to determine if the variable genotype could be associated with
+         a given phenotype. In these analyses, a low p-value indicated an association between the base sequence and a specific parental
+         phenotype or genotype. A variable genotype was considered to be associated with a
+         given phenotype if the calculated p-value was the lowest possible based on the sample size. The p-values calculated by the Fisher’s exact test were inverse Log-transformed and plotted
+         using the statistical analysis program R (http://www.r-project.org/).
+      
+      Whole genome alignments of all recombinants against both parents were used to determine
+         if any random mutations had occurred during culture and the generation of recombinants.
+         A random mutation was defined as a nucleotide in the recombinant sequence that was
+         different than the nucleotide of either parent at the same nucleotide position. All
+         ORF designations are based on numbering system used for the C. trachomatis D/UW3 genome sequence [31].
+      
+      Measurement of attachment efficiency
+      McCoy cell monolayers were seeded in duplicate 24 well plates at 90% confluency, and
+         triplicate wells of each plate were infected using a target MOI = of 1. Plates were
+         then either centrifuged at 640 × g (2000 RPM on Beckman Coulter, Allegra X-15R centrifuge)
+         for 1&nbsp;h or placed on a rocker platform for 1&nbsp;h, with both treatments being at room
+         temperature. Wells were then washed 3 times with Hanks balanced salt solution and
+         DNA was extracted directly from each well using the Qiagen DNeasy Blood and Tissue
+         kit, with the lysis buffer supplemented with 5&nbsp;mM dithiothreitol. Each sample was
+         pipetted up and down 10 times to disrupt both host cells and chlamydiae. Genome copy
+         number was determined for each treatment by qPCR, using a probe for hsp60 (groEL_3,
+         CT755). A cloned and quantified version of CT755 was used as the standard curve on
+         all qPCR plates, ensuring that each sample being analyzed was properly quantified.
+         The target sequence for this assay is conserved among C. trachomatis, but was unique to this hsp60 allele, as demonstrated by PCR analysis of alternate
+         hsp60 open reading frames (CT110 and CT604; not shown). Attachment efficiency was
+         then calculated by dividing the genome copy number of the rocked samples by the genome
+         copy number of the centrifuged samples.
+      
+      Quantification of secondary inclusion formation
+      The frequency of secondary inclusion formation in parental and progeny strains was
+         determined using previously described methods [23]. Briefly, McCoy cells were infected with the strain of interest at an MOI = of 0.3.
+         These cells were incubated for approximately 24 hpi prior to fixation with methanol.
+         C. trachomatis IncA was labeled with mouse monoclonal anti-IncA, and chlamydial developmental forms
+         were labeled with mouse anti-lipopolysaccharide [23]. Cells were then labeled with appropriate secondary antibodies (Southern Biotechnology
+         Associates, Birmingham, AL) and observed using 400× or 1000× magnification. A semi-quantitative
+         measure of secondary inclusion formation was conducted by determining the fraction
+         of infected cells having secondary inclusions versus the total number of infected
+         cells. A 1+ to 4+ scoring system was used to quantify secondary inclusion formation
+         and each score was determined on three independent sets of coverslips. A 1+ value
+         is equivalent to less than 10% of infected cells having secondary inclusions, while
+         a 4+ value is equivalent to 40% or more of the cells having secondary inclusions.
+      
+      Genome sequence accession numbers
+      The genome sequences of the parental strains used to generate recombinant sequences
+         and the previously sequenced C. trachomatis strains used in the whole genome alignment studies are in the DDBJ/EMBL/GenBank database
+         under the following accession numbers: D/UW3Cx, AE001273; L2-434Bu, AM884176; L2/UCH1,
+         AM884177; L1/440/LN, HE601950; L3/404/LN, HE601955; D(s)/2923, ACFJ01000001; E/11023,
+         CP001890; E/150, CP001886; G/9768, CP001887; G/11074, CP001889; G/11222, CP001888;
+         F/70, ABYF01000001; F(s)/70, ABYG01000001; J/6276, ABYD01000001; J(s)/6276, ABYE01000001.
+      
+      The C. trachomatis genome accession numbers of the recombinants used in this study have been deposited
+         in the DDBJ/EMBL/GenBank database under the following accession numbers: RC-F/69,
+         CP002671; RC-L2(s)/46, CP002672; RC-F(s)/852, CP002673; RC-J/943, CP002674; RC-J/953,
+         CP002675; RC-L2(s)/3, CP002676; RC-F(s)/342, CP002677; RC-J(s)/122, CP002678; RC-J/966,
+         CP002679; J/6276tet1, CP002680; RC-L2/971, CP002681; RC-L2/55, CP002682.
+      
+   
+

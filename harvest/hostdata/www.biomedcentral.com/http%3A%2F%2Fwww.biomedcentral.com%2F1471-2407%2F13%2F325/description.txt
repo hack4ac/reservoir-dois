@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The influence of variants at the 9p21 locus on melanoma risk has been reported through investigation of  CDKN2A  variants through candidate gene approach as well as by genome wide association studies (GWAS).
+
+				
+				
+					
+						Methods
+
+					In the present study we genotyped, 25 SNPs that tag 273 variants on chromosome 9p21 in 837 melanoma cases and 1154 controls from Spain. Ten SNPs were selected based on previous associations, reported in GWAS, with either melanocytic nevi or melanoma risk or both. The other 15 SNPs were selected to fine map the  CDKN2A  gene region.
+
+				
+				
+					
+						Results
+
+					All the 10 variants selected from the GWAS showed statistically significant association with melanoma risk. Statistically significant association with melanoma risk was also observed for the carriers of the variant T-allele of rs3088440 (540 C>T) at the 3’ UTR of  CDKN2A  gene with an OR 1.52 (95% CI 1.14-2.04). Interaction analysis between risk associated polymorphisms and previously genotyped  MC1R  variants, in the present study, did not show any statistically significant association. Statistical significant association was observed for the interaction between phototypes and the rs10811629 (located in intron 5 of  MTAP) . The strongest association was observed between the homozygous carrier of the A–allele and phototype II with an OR of 15.93 (95% CI 5.34-47.54).
+
+				
+				
+					
+						Conclusions
+
+					Our data confirmed the association of different variants at chromosome 9p21 with melanoma risk and we also found an association of a variant with skin phototypes.
+
+				
+			
+		

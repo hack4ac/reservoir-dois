@@ -1,0 +1,43 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					There is some evidence that quality of life measured by long disease-specific questionnaires may predict exacerbations in asthma and COPD, however brief quality of life tools, such as the Airways Questionnaire 20 (AQ20) or the Clinical COPD Questionnaire (CCQ), have not yet been evaluated as predictors of hospital exacerbations.
+
+				
+				
+					
+						Objectives
+
+					To determine the ability of brief specific health-related quality of life (HRQoL) questionnaires (AQ20 and CCQ) to predict emergency department visits (ED) and hospitalizations in patients with asthma and COPD, and to compare them to longer disease-specific questionnaires, such as the St George´s Respiratory Questionnaire (SGRQ), the Chronic Respiratory Disease Questionnaire (CRQ) and the Asthma Quality of Life Questionnaire (AQLQ).
+
+				
+				
+					
+						Methods
+
+					We conducted a two-year prospective cohort study of 208 adult patients (108 asthma, 100 COPD). Baseline sociodemographic, clinical, functional and psychological variables were assessed. All patients completed the AQ20 and the SGRQ. COPD patients also completed the CCQ and the CRQ, while asthmatic patients completed the AQLQ. We registered all exacerbations that required ED or hospitalizations in the follow-up period. Differences between groups (zero ED visits or hospitalizations versus ≥ 1 ED visits or hospitalizations) were tested with Pearson´s X 2  or Fisher´s exact test for categorical variables, ANOVA for normally distributed continuous variables, and Mann–Whitney U test for non-normally distributed variables. Logistic regression analyses were performed to estimate the predictive ability of each HRQoL questionnaire.
+
+				
+				
+					
+						Results
+
+					In the first year of follow-up, the AQ20 scores predicted both ED visits (OR: 1.19; p = .004; AUC 0.723) and hospitalizations (OR: 1.21; p = .04; AUC 0.759) for asthma patients, and the CCQ emerged as independent predictor of ED visits in COPD patients (OR: 1.06; p = .036; AUC 0.651), after adjusting for sociodemographic, clinical, and psychological variables. Among the longer disease-specific questionnaires, only the AQLQ emerged as predictor of ED visits in asthma patients (OR: 0.9; p = .002; AUC 0.727). In the second year of follow-up, none of HRQoL questionnaires predicted exacerbations.
+
+				
+				
+					
+						Conclusions
+
+					AQ20 predicts exacerbations in asthma and CCQ predicts ED visits in COPD in the first year of follow-up. Their predictive ability is similar to or even higher than that of longer disease-specific questionnaires.
+
+				
+			
+		

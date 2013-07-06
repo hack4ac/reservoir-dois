@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					Cochannel speech separation aims to separate two speech signals from a single mixture. In a supervised scenario, the identities of two speakers are given, and current methods use pre-trained speaker models for separation. One issue in model-based methods is the mismatch between training and test signal levels. We propose an iterative algorithm to adapt speaker models to match the signal levels in testing. Our algorithm first obtains initial estimates of source signals using unadapted speaker models and then detects the input signal-to-noise ratio (SNR) of the mixture. The input SNR is then used to adapt the speaker models for more accurate estimation. The two steps iterate until convergence. Compared to search-based SNR detection methods, our method is not limited to given SNR levels. Evaluations demonstrate that the iterative procedure converges quickly in a considerable range of SNRs and improves separation results significantly. Comparisons show that the proposed system performs significantly better than related model-based systems.
+
+				
+			
+		

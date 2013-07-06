@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Obesity is a growing health problem leading to high rates of mortality and morbidity in patients with severe mental illness (SMI). The increased rate of obesity is largely attributed to antipsychotic use. The effect of antipsychotic medications on H1 and 5HT2 receptors has been associated with weight gain, but there is also a substantial amount of evidence showing that D2 receptor blockade may be responsible for weight gain by interacting with the dopamine-opioid system. Unfortunately, current available medications for weight loss have limited efficacy in this population. Naltrexone, an opioid receptor antagonist, may be a promising agent to reduce antipsychotic induced weight gain by decreasing food cravings. We aim to investigate the safety and efficacy of two doses of naltrexone (25 mg & 50 mg) versus placebo for weight and health risk reduction in overweight and obese individuals (BMI ≥ 28) with SMI, who gained weight while being treated with antipsychotics.
+
+				
+				
+					
+						Methods and design
+
+					One hundred and forty four patients will be recruited throughout the greater New Haven area. The participants will be randomized to naltrexone 25 mg/day, naltrexone 50 mg/day, or placebo in a 1:1:1 ratio. Participants will be on the study medication for 52 weeks, and assessed weekly for the first 4 weeks and bi-weekly thereafter. The primary outcome measurements are weight reduction and percentage achieving clinically significant weight loss (5% of total body weight). Waist circumference, body mass index, serum lipid profile, fasting glucose, and glycosylated hemoglobin are the secondary outcome measures. The effect of naltrexone on other outcome measurements such as schizophrenia symptoms, depression, dietary consumption, quality of life, cognitive functioning, physical activity, metabolism/inflammation markers, serum leptin, ghrelin, peptide YY, adinopectin, high sensitivity CRP, interleukin 6, interleukin-1B, interleukin-18, and tumor necrosis factor alpha (TNF-α) will be evaluated. The data will be analyzed by applying linear mixed effect models.
+
+				
+				
+					
+						Discussion
+
+					This is the first large scale study investigating the safety and efficacy of naltrexone in antipsychotic induced weight gain; and hopefully, this may lead to a novel pharmacological option for management of this major health problem.
+
+				
+				
+					
+						Trial registration
+
+					This trial is registered in  http://www.clinicaltrials.gov  as  NCT01866098 
+					
+
+				
+			
+		

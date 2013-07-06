@@ -1,0 +1,19 @@
+
+Abstract
+
+Background
+
+Recent genome-wide studies suggested that in addition to genetic variations, epigenetic variations may also be associated with differential gene expression and growth vigor in plant hybrids. Maize is an ideal model system for the study of epigenetic variations in hybrids given the significant heterotic performance, the well-known complexity of the genome, and the rich history in epigenetic studies. However, integrated comparative transcriptomic and epigenomic analyses in different organs of maize hybrids remain largely unexplored.
+
+
+Results
+
+Here, we generated integrated maps of transcriptomes and epigenomes of shoots and roots of two maize inbred lines and their reciprocal hybrids, and globally surveyed the epigenetic variations and their relationships with transcriptional divergence between different organs and genotypes. We observed that whereas histone modifications vary both between organs and between genotypes, DNA methylation patterns are more distinguishable between genotypes than between organs. Histone modifications were associated with transcriptomic divergence between organs and between hybrids and parents. Further, we show that genes up-regulated in both shoots and roots of hybrids were significantly enriched in the nucleosome assembly pathway. Interestingly, 22- and 24-nt siRNAs were shown to be derived from distinct transposable elements, and for different transposable elements in both shoots and roots, the differences in siRNA activity between hybrids and patents were primarily driven by different siRNA species.
+
+
+Conclusions
+
+These results suggest that despite variations in specific genes or genomic loci, similar mechanisms may account for the genome-wide epigenetic regulation of gene activity and transposon stability in different organs of maize hybrids.
+
+
+

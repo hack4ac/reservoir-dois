@@ -1,0 +1,4 @@
+Abstract
+We define the notion of an integral  G -contraction for mappings on metric spaces and establish some fixed point theorems for such mappings. Our results generalize and unify some recent results by Jachymski, Branciari and those contained therein. As an application, we obtain a result for cyclic operators. Moreover, we provide an example to show that our results are substantial improvements of some known results in literature.
+MSC: 
+47H10, 54H25.

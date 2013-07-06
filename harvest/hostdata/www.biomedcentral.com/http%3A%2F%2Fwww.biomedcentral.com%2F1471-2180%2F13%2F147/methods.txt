@@ -1,0 +1,61 @@
+Methods
+   
+      E. coli isolates
+      
+      163 isolates were randomly selected from the collection of ESBL-producing E. coli isolates maintained at -80°C in the Microbiology laboratory of Habib Bourguiba hospital.
+         The 163 isolates were collected from the two university hospital of Sfax in Tunisia
+         during the following years: 1989-1990 (6), 2000 (9), 2001 (18), 2002 (9), 2003 (30),
+         2004 (26), 2006 (36) and 2009 (29). These isolates were obtained mainly from urine
+         (124), but also from blood (20), wound swabs (10), abdominal fluid (5) and sputum
+         (4).
+      
+      Antibiotic susceptibility testing
+      The susceptibility to 16 antimicrobial agents (amoxicillin, amoxicillin + clavulanic
+         acid, ticarcillin, ticarcillin + clavulanic acid, cefalothin, cefoxitin, ceftazidime,
+         cefotaxime, cefepime, gentamicin, amikacin, nalidixic acid, norfloxacin, sulfamethoxzole/trimethoprim
+         and tetracycline) was determined by the disk diffusion method according to the guidelines
+         of the CLSI [16]. All isolates were confirmed for ESBL production using the double disk synergy method.
+      
+      Identification of bla genes
+      
+      The resistance genes blaTEM, blaSHV and blaCTX-M responsible for the ESBL activity were identified by PCR-sequencing [17]. PCR products were sequenced on ABI Prism 3100 automated sequencer (Applied Biosystems,
+         Foster City, CA) and were analyzed using NCBI BLAST program. (http://www.ncbi.nlm.nih.gov/ webcite).
+      
+      Strain typing
+      The phylogenetic group of the ESBL-producing E. coli was determined by a multiplex PCR assay [18]. Isolates belonging to phylogenetic group B2 were screened with a previously established
+         PCR-based method to identify the O25b subtype [19]. Furthermore, multilocus sequence typing (MLST) using the scheme of the Institut
+         Pasteur, Paris, France (http://www.pasteur.fr/mlst webcite) was used to confirm that CTX-M-15-producing E. coli O25b belonged to the international clone ST131 [19]. Genetic relatedness of the ESBL-producing strains was studied by PFGE following
+         extraction of genomic DNA and digestion with XbaI PFGE according to a standard protocol using a GenePath system (Bio-Rad). PFGE banding
+         profiles were compared digitally using Fingerprint II software (Bio-Rad) and relatedness
+         was calculated using the unweighted pair group method with arithmetic mean (UPGMA)
+         algorithm with similarity of bands using the Dice similarity indices. Isolates were
+         considered to belong to the same PFGE cluster if their Dice similarity index was &gt;80%
+         [20].
+      
+      Transfer of ESBL resistance determinants and plasmid analysis
+      Transfer of ESBL encoding genes by conjugation was performed by matting-out assays
+         using E. coli J53-2 RifR or E. coli HB101 StrR as recipient strains. Transconjugants were selected on MH agar containing rifampin
+         (250&nbsp;μg/mL) or streptomycin (50&nbsp;μg/mL) plus ceftazidime or cefotaxime (2&nbsp;μg/ml). When
+         plasmids were not transferable by conjugation, a transformation experiment was assayed.
+         Plasmid DNA obtained using the QIAprep Spin Miniprep kit (Qiagen) were electroporated
+         into E. coli DH10B (Invitrogen). Transformants were selected on MH agar plates supplemented with
+         ceftazidime (2&nbsp;μg/mL) or cefotaxime (2&nbsp;μg/mL). Plasmids were classified according
+         to their incompatibility group using the PCR replicon-typing scheme described previously
+         [21].
+      
+      Detection of virulence factors and plasmid addiction systems
+      For the ESBL-producing isolates, 17 virulence-associated genes were sought as previously
+         described: fimH (type 1 fimbriae), papG (P fimbriae adhesion) alleles I, II and III, papC, sfa/focDE (S and F1C fimbriae), afa/draBC (Dr-binding adhesions), iha (adhesion siderophore), hra (heat(resistant agglutinin), iutA (aerobactin receptor), fyuA (yersiniabcatin receptor), cnf-1 (cytotoxic necrotizing factor type 1), hlyA (α-hemolysin), sat (secreted autoreceptor toxin), kpsMT II (group II capsule), traT (serum resistance-associated) and pheR (phenylalanine tRNA, site of insertion from PAI V) [22].
+      
+      For E. coli recipient strains, seven plasmid addiction system PemK–PemI (plasmid emergency maintenance),
+         CcdA–CcdB (coupled cell division locus) RelB–RelE (relaxed control of stable RNA synthesis),
+         ParD–ParE (DNA replication), VagC-VagD (virulence-associated protein), Hok–Sok (host-killing)
+         and PndA–PndC (promotion of nucleic acid) were sought by PCR as described previously
+         [7].
+      
+      Statistical analysis
+      Comparisons were determined using Pearson’s x2 or Fisher’s exact test when appropriate, and a P value &lt; 0.05 was considered significant. Statistical analysis was carried out using
+         SPSS version 11.5 for Windows.
+      
+   
+

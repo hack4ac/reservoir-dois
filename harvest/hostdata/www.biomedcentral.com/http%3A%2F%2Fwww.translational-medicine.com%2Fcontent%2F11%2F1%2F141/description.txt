@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The α 2 -adrenoreceptor agonist dexmedetomidine is known to provide renoprotection against ischemia and reperfusion (I/R) injury. However the underlying molecular mechanisms remain unclear. The purpose of this study was to investigate whether the Janus kinase and signal transducer and activator of transcription (JAK/STAT) signaling pathway plays a role in dexmedetomidine’s renoprotection.
+
+				
+				
+					
+						Methods
+
+					I/R model was induced by bilateral renal pedicle clamping for 45 min followed by 48 h of reperfusion in male Wistar rat. Sham laparotomy served as controls. Animals received dexmedetomidine (50 μg/kg, i.p.) in the absence or presence of atipamezole (250 μg/kg, i.p.), or vehicle (DMSO) in the absence or presence of selective JAK2 inhibitor tyrphostin AG490 (10 mg/kg, i.p.) before ischemia. Renal function, histology, apoptosis, expression of cleaved caspase 3 protein, intercellular adhesion molecule-1 (ICAM-1), monocyte chemoattractant protein-1 (MCP-1) and phosphorylations of JAK2, STAT1 and STAT3 were assessed.
+
+				
+				
+					
+						Results
+
+					The animals treated with either dexmedetomidine or AG490 exhibited an improved renal functional recovery, attenuated histological lesions and reduced number of apoptotic tubular epithelial cells. Either dexmedetomidine or AG490 inhibited the phosphorylations of JAK2 and its downstream molecule STAT1 and STAT3, accompanied by down-regulation the expression of cleaved caspase 3, ICAM-1 and MCP-1 proteins, and significantly ameliorated renal I/R injury.
+
+				
+				
+					
+						Conclusions
+
+					Dexmedetomidine protects kidney against I/R injury, at least in part, through its inhibitory effects on injury-induced activation of JAK/STAT signaling pathway. If our data can be extrapolated to clinical setting, then dexmedetomidine may therefore serve as a clinical strategy to treat/prevent perioperative renal I/R injury.
+
+				
+			
+		

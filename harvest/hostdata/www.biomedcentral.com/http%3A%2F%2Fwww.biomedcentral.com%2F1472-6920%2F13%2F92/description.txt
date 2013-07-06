@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Aphasia is an acquired language disorder that can present a significant barrier to patient involvement in healthcare decisions. Speech-language pathologists (SLPs) are viewed as experts in the field of communication. However, many SLP students do not receive practical training in techniques to communicate with people with aphasia (PWA) until they encounter PWA during clinical education placements.
+
+				
+				
+					
+						Methods
+
+					This study investigated the confidence and knowledge of SLP students in communicating with PWA prior to clinical placements using a customised questionnaire. Confidence in communicating with people with aphasia was assessed using a 100-point visual analogue scale. Linear, and logistic, regressions were used to examine the association between confidence and age, as well as confidence and course type (graduate-entry masters or undergraduate), respectively. Knowledge of strategies to assist communication with PWA was examined by asking respondents to list specific strategies that could assist communication with PWA.
+
+				
+				
+					
+						Results
+
+					SLP students were not confident with the prospect of communicating with PWA; reporting a median 29-points (inter-quartile range 17–47) on the visual analogue confidence scale. Only, four (8.2%) of respondents rated their confidence greater than 55 (out of 100). Regression analyses indicated no relationship existed between confidence and students‘ age (p = 0.31, r-squared = 0.02), or confidence and course type (p = 0.22, pseudo r-squared = 0.03). Students displayed limited knowledge about communication strategies. Thematic analysis of strategies revealed four overarching themes; Physical, Verbal Communication, Visual Information and Environmental Changes. While most students identified potential use of resources (such as images and written information), fewer students identified strategies to alter their verbal communication (such as reduced speech rate).
+
+				
+				
+					
+						Conclusions
+
+					SLP students who had received aphasia related theoretical coursework, but not commenced clinical placements with PWA, were not confident in their ability to communicate with PWA. Students may benefit from an educational intervention or curriculum modification to incorporate practical training in effective strategies to communicate with PWA, before they encounter PWA in clinical settings. Ensuring students have confidence and knowledge of potential communication strategies to assist communication with PWA may allow them to focus their learning experiences in more specific clinical domains, such as clinical reasoning, rather than building foundation interpersonal communication skills.
+
+				
+			
+		

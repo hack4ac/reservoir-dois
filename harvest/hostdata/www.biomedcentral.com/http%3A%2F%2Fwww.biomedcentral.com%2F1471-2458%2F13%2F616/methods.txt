@@ -1,0 +1,156 @@
+Methods
+   
+      Participants
+      The hypotheses enunciated above are tested using data on a representative and randomly
+         sample of young people from the Cameroon Family and Health Survey (CFHS). Although
+         the survey was carried out in 1996–1997, it possesses unique information in the African
+         context on the timing of parenting practices for assessing the enduring consequences
+         of parenting practices on sexual risk-taking of childen at different stages in their
+         lifecourse and whether they vary by gender. The CFHS was designed with a theoretical
+         approach that considers that risk and protective factors for health behaviors should
+         be understood from a dynamic viewpoint, so as to take into account the influences
+         of changes in an individual’s family, social, and environmental contexts over the
+         life course. The survey was conducted in the Prefecture of Bandjoun, a semi-rural
+         and developing area in the Western region of Cameroon. Bandjoun is located about 300
+         kilometres from the economic capital (Douala) and the political capital (Yaoundé).
+         Bandjoun’s population was estimated at 51,624 inhabitants in 2005 [39]. Its inhabitants are mostly involved in the agricultural and retail sectors of the
+         economy. Regarding the norms and sexual practices, this population tends to share
+         negative opinions about the sexual activity among unmarried females and males and
+         about an open discussion on sexual issues between parents and children [40]. Thus, parent–child communication on sexual issues is not an established practice
+         in this population and may be influenced by the socioeconomic status of parents.
+      
+      Procedure
+      The CFHS is a survey of representative and randomly selected respondents from the
+         population of Bandjoun aged 10 and older. The sampling procedure was initiated by
+         an identification of the population composition of Bandjoun by sex (female and male)
+         and by four age groups (10–14, 15–19, 20–49, and 50 or more), based on the information
+         given by the latest (1987) Census of Population and Housing of Cameroon preceding
+         the survey. All 75 localities forming the prefecture of Bandjoun were nested within
+         12 socio-sanitary areas created by the government of Cameroon. The CFHS used a self-weighted
+         proportional sampling design. Households were randomly selected in these 12 areas,
+         and respondents aged 10 years or older were randomly sampled from these households.
+         Only one eligible respondent was randomly selected per household for interviewing,
+         which ensured the absence of correlation between individuals at the household level.
+         The process of random selection of respondents in selected households was performed
+         until a representative sample by sex and four age groups was obtained for each socio-sanitary
+         area. The final sample included 2,377 females and males aged 10 years old and older.
+      
+      The data on parenting practices were collected in a section of the questionnaire entitled
+         “family and residential environments”. Forty four questions were asked in order to
+         have a full grasp of the characteristics of the family and residential contexts in
+         which respondents’ lives were embedded. Each question was formulated in a retrospective
+         life history approach, using predefined key moments in the life course to structure
+         the respondents’ narratives. These key moments were: age 6, age 12, the moment of
+         sexual initiation (for those who ever had sex) and the time of the survey. For each
+         of these key moments if applicable, respondents had to provide information regarding
+         various aspects of their family and residential environments including: the persons
+         with whom they have lived, the attributes of parents/guardians who were responsible
+         for their rearing, the quality of the relationship they have had with the parents/guardians,
+         and the towns or localities they have lived in. These data do not constitute a “refined”
+         reconstruction of respondents’ event histories (i.e. a reconstruction based on a year
+         or a month scale). However, their retrospective longitudinal design constitutes a
+         precious source of information to stimulate new venues of research in the sub-Saharan
+         African context. Each of the selected key moments allows grasping experiences of individuals
+         at different developmental stages in their life course.
+      
+      Ethical considerations and data access
+      The National Ethics Committee of Cameroon (Yaoundé, Cameroon) and the Ethics Committee
+         of the University of Montreal (Montreal, Canada) provided ethical approval for the
+         survey. Moreover, strict confidentiality was maintained about the identity of respondents
+         due to the sensitivity of sexuality and reproductive health matters among unmarried
+         youths. In fact, interviewers were instructed to respect respondents’ privacy during
+         and after the interview. Specifically, interviews were not conducted in the presence
+         of parents or guardians. The CFHS data are not openly accessible. The database, created
+         and stored by the principal investigator, is available through written permission.
+         More details about the survey are available elsewhere [41,42].
+      
+      Study sample
+      This study uses a subsample of unmarried and sexually active respondents aged 15–24
+         years old at the time of the survey. This subsample includes 447 individuals, with
+         220 (49.2%) males and 227 (50.8%) females. This subsample meets the sample size and
+         power calculations criteria required for regression analyses and statistical inference
+         [43].
+      
+      Measurements
+      Sexual risk-taking was measured using three survey items: the number of sexual partners in the last
+         12 months, the frequency of contraceptive use with sexual partners in the last 12
+         months and the tendency of having concurrent occasional partners. The questions were:
+         “How many different sexual partners have you had during the last 12 months” – possible
+         responses ranged from zero to six and more, “How often do you and/or partner … use
+         a contraceptive method during sexual intercourse”, and “Do you usually have concurrent
+         occasional sexual partners?” The question on contraceptive use with sexual partners
+         did not specify the types of methods (i.e., condom versus other methods). However,
+         it did specify use of a contraceptive method to avoid sexually transmitted diseases
+         and/or unplanned pregnancy. The strategies used to reduce misreporting of sexual behaviors
+         in the CFHS included: (1) stressing that the information to be collected during the
+         interview will always remain strictly confidential as prescribed by law; and (2) making
+         respondents aware of the importance of providing accurate information that may contribute
+         to inform the design of effective sexual and reproductive health interventions.
+      
+      Four dichotomous variables were created for the analysis: 1) sexually active in the
+         last 12 months, 2) multiple partnerships in the last 12 months, 3) consistent use
+         of contraceptive with sexual partners in the last 12 months, and 4) usually have concurrent
+         occasional sexual partners. Because very few respondents reported systematic use of
+         contraceptives, consistent use was defined as “systematic” or “regular” use. A good
+         strategy of risk avoidance would, however, require systematic use of contraceptives.
+      
+      Parenting practices
+      Parent–child connectedness was assessed using an item concerning the quality of the relationships with the parent/guardian.
+         A question was asked about how the respondent perceived the quality of his/her relationship
+         with his/her parent/guardian at each key moment. Possible responses ranged from 1 = “very
+         good” to 4 = “difficult”. The variable was reversely coded to obtain a gradient with
+         a higher score indicating a higher quality of parent–child relationships.
+      
+      Parental monitoring was assessed using two items. The first item is the amount of parental knowledge
+         regarding out-of-home activities of the respondents. A question was asked about how
+         frequent the parents/guardians used to ask about their out-of-home activities at each
+         key moment. The second item refers to the amount of parental approval regarding out-of-home
+         activities. Respondents were asked a question about how frequent the parents/guardians
+         agreed with their out-of-home activities at each key moment. For both questions, responses
+         ranged from 1 = “a lot” to 5 = “never”. These two items were also reversely coded
+         to create a gradient with a higher score indicating a higher level of parental monitoring.
+      
+      Parent–child communication was assessed by four “yes or no” questions asking if respondents ever discussed with
+         their parents/guardians at each key moment about puberty, sexual education, prevention
+         of sexually transmitted infections and HIV/AIDS, and pregnancy prevention. These four
+         items were summed; the scores ranged from 0 to 4. Cronbach’s α was .89 at age 12 and
+         .84 at the time of the survey.
+      
+      A summary of these measures of parenting practices is presented in Table&nbsp;2.
+      
+      Table 2. Items used to measure parenting dimensions in the Cameroon Family and Health Survey
+            (CFHS)
+      Other variables
+      A number of commonly used family background variables are available in the CFHS, and
+         we used them in our models since they have been identified in prior research as aspects
+         of parenting practices [24]. These variables include: the family structure and the parent/guardian socioeconomic
+         characteristics. The family structure was measured by asking: “Were you living with
+         your biological parents at …? (each time point)” and “Who were you living with in
+         the household at …? (each time point) ». We created a single variable indicating if
+         respondents were living with both biological parents, the biological mother only,
+         the biological father only, other relatives or with uncorrelated residents. Variables
+         capturing the socioeconomic status of parent/guardian include education -- whether
+         the parent/guardian had at least a primary level of education, employment -- whether
+         the parent/guardian had a paid job, and marital status - whether the parent/guardian
+         was married. Note that the information used to create these two variables was collected
+         from the respondents.
+      
+      Gender and age were also included in the analyses as they may influence the association
+         between parenting practices and respondents’ sexual risk-taking. Gender was self-reported
+         (coded 0 for females and 1 for males). Age corresponds to the respondents’ responses
+         in completed years. Other variables added in the models included current school enrolment
+         status and religious affiliation which are known correlates of young people’s sexual
+         risk-taking in sub-Saharan Africa [12,21].
+      
+      Data analysis
+      Logistic regressions are performed to estimate the odds and standard errors of having
+         risky behaviors. Two models are used. The first model tests the effects of parenting
+         practices at young ages (assessment at the time of the survey) as well as the effects
+         of parenting practices during early adolescence (assessment at age 12). The other
+         variables are also fitted in the model. As parenting practices early in the children’s
+         life course are expected to be indirectly associated with sexual risk-taking at young
+         ages through delayed onset of sexual activity, we use a second model that includes
+         a variable related to whether or not the respondent had initiated sex by age 15.
+      
+   
+

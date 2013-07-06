@@ -1,0 +1,334 @@
+Methods
+   
+      Data
+      To test the hypothesized relationships, this study uses secondary data obtained from
+         Statistics Canada and Cardiac Care Network of Ontario from 2004 to 2007. All of the
+         data used in this study are openly available.
+      
+      Geodemographic data with respect to population size, age profile, and educational profile were gathered from Statistics Canada. According to the census data released by Statistics
+         Canada, geodemographic changes in each LHIN were rather gradual every year. For instance,
+         between the 2001 and 2006 Censuses, the population in Ontario grew by approximately
+         6.6% [22]. Thus, it is reasonable to assume that the 2006 Canadian census [23] would more or less reflect the geodemographics of Ontario over the years between
+         2004 and 2007. Based on the 2006 Canadian census data [23], we selected 47 major cities/towns in Ontario with population of more than 40,000
+         to derive the geodemographic profiles for 14 LHINs. The 40,000 population cut-off
+         point was determined such that cities/towns included in our study represented approximately
+         90.72% of Ontario’s population (as shown in Figure&nbsp;2). Patients residing in an LHIN may go to other LHINs to receive cardiac surgeries.
+         For instance, 25% of patients residing in the Central West LHIN received treatment
+         from hospitals in the Missisauga Halton LHIN in the fiscal year of 2007/2008 [24]. In view of this, we estimated the population that would potentially utilize the
+         cardiac surgery services in each LHIN, including those residents living in other LHINs,
+         and thereafter derived the corresponding geodemographic profiles.
+      
+      Figure 2. Population distribution across cities/towns in Ontario. The city/town population in Ontario follows a power-law distribution (correlation
+         coefficient R=-0.922, standard deviation SD=0.2441, p &lt;0.0001) as shown in this figure.
+         This figure also reveals that our selected cities/towns (with population larger than
+         40,000) cover a major part (approximately 90.72%) of Ontario’s population.
+      
+      Specifically, the measurement value for population size is calculated by using Equation 1. 
+      
+      
+         
+               
+                  
+                     
+                        P
+                     
+                     
+                        i
+                     
+                     
+                        ′
+                     
+                  
+                  =
+                  
+                     
+                        ∑
+                     
+                     
+                        j
+                        =
+                        1
+                     
+                     
+                        14
+                     
+                  
+                  
+                     
+                        P
+                     
+                     
+                        j
+                     
+                  
+                  
+                     
+                        D
+                     
+                     
+                        ji
+                     
+                  
+                  
+                  
+                  (
+                  i
+                  ,
+                  j
+                  ∈
+                  [
+                  1
+                  ,
+                  14
+                  ]
+                  ,
+                  i
+                  ≠
+                  j
+                  )
+               (1)
+      
+      where Pi′ denotes the measurement value of population size of LHIN i; Pj represents the population size of LHIN j; Dji is the proportion of patients residing in LHIN j but receiving services in LHIN i. The data representing Dji were obtained from [24].
+      
+      The measurement values for age profile and educational profile for LHIN i are calculated by using Equation 2. 
+      
+      
+         
+               
+                  
+                     
+                        V
+                     
+                     
+                        i
+                     
+                     
+                        ′
+                     
+                  
+                  =
+                  
+                     
+                        
+                           
+                              ∑
+                           
+                           
+                              j
+                              =
+                              1
+                           
+                           
+                              14
+                           
+                        
+                        
+                           
+                              V
+                           
+                           
+                              j
+                           
+                        
+                        
+                           
+                              D
+                           
+                           
+                              ji
+                           
+                        
+                     
+                     
+                        
+                           
+                              P
+                           
+                           
+                              i
+                           
+                           
+                              ′
+                           
+                        
+                     
+                  
+                  
+                  
+                  (
+                  i
+                  ,
+                  j
+                  ∈
+                  [
+                  1
+                  ,
+                  14
+                  ]
+                  ,
+                  i
+                  ≠
+                  j
+                  )
+               (2)
+      
+      where Vi′ denotes either the proportion of the senior population or the proportion of the
+         well-educated population in LHIN i; Vj denotes the number of people aged 50 and above, or the number of well-educated people
+         in LHIN j; Dji is the proportion of patients residing in LHIN j but receiving services in LHIN i; Pi′ is the measurement value of population size of LHIN i.
+      
+      In this study, we operationalize service accessibility as the proportion of the population residing within a 30-minute driving time to the
+         nearest hospitals providing cardiac surgery services in an LHIN [25]. Here, a 30-minute driving time is selected as a threshold to measure the healthcare
+         service accessibility in accordance with previous work [26,27], and the recommendations from CCN [28]. The driving time from each selected city/town to the nearest hospital that provides
+         cardiac surgery services was estimated by using the “Get directions” function in Google
+         Maps [29]. In Google Maps, a city/town is represented as the center point of its polygonal
+         area [30]. Distinct from a geographical information system (GIS), which estimates driving time
+         based on the lengths of roads and road speed limits [31,32], Google Maps considers the actual traffic conditions on roads. Hence, Google Maps
+         may provide relatively more realistic driving time estimate compared to a GIS. As
+         there may be several routes between a city/town and a hospital in Google Maps, we
+         tabulated the driving time for each selected city/town to all of the hospitals providing
+         cardiac surgery services and selected the route with the shortest driving time to
+         approximate the service accessibility for LHINs. The calculation method for service accessibility is shown in Equation 3. 
+      
+      
+         
+               
+                  S
+                  
+                     
+                        A
+                     
+                     
+                        i
+                     
+                  
+                  =
+                  
+                     
+                        
+                           
+                              ∑
+                           
+                           
+                              k
+                              =
+                              1
+                           
+                           
+                              
+                                 
+                                    K
+                                 
+                                 
+                                    i
+                                 
+                              
+                           
+                        
+                        
+                           
+                              P
+                           
+                           
+                              ki
+                           
+                        
+                        ∗
+                        
+                           
+                              δ
+                           
+                           
+                              ki
+                           
+                        
+                     
+                     
+                        
+                           
+                              P
+                           
+                           
+                              i
+                           
+                        
+                     
+                  
+               (3)
+      
+      where SAi is the service accessibility of LHIN i; Pki is the population size of city/town k in LHIN i; Ki is the number of cities/towns selected in LHIN i; Pi is the population size of LHIN i; δki is a parameter to denote whether a city/town k in LHIN i is within a 30-minute driving time to the nearest hospital.
+      
+      If the driving time from a city/town k in LHIN i to its nearest hospital is within 30 minutes, δki=1; otherwise, δki=0. The geodemographic profiles for the various LHINs are summarized in Table 2.
+      
+      Table 2. The measurement values for geodemographic profiles of LHINs providing cardiac surgery
+            services (2006)
+      Data representing cardiac surgery service utilization in 2004-2007 were obtained from the Cardiac Care Network (CCN) of Ontario [33]. As a provincial system that includes 11 hospitals providing cardiac surgery services
+         in Ontario, CCN provides quarterly statistical data on the waiting queue length and
+         the number of completed surgery cases in a month. Based on the CCN data, the average
+         number of cardiac surgery patient arrivals in hospital i each month over a quarter t (
+            
+               Arriva
+               
+                  
+                     l
+                  
+                  
+                     i
+                  
+                  
+                     t
+                  
+               
+            ) can be calculated by adding the number of completed cases to the number of patients
+         waiting in the queue (
+            
+               NoWai
+               
+                  
+                     t
+                  
+                  
+                     i
+                  
+                  
+                     t
+                  
+               
+            ), and then subtracting the waiting queue length at time t−1 (
+            
+               NoWai
+               
+                  
+                     t
+                  
+                  
+                     i
+                  
+                  
+                     t
+                     −
+                     1
+                  
+               
+            ). An overview of the secondary data on service utilization for each hospital examined in this study is shown in Table 3.
+      
+      Table 3. The secondary data about the cardiac surgery service utilization (2004-2007)
+      Statistical analysis
+      The Partial Least Squares (PLS)-based structural equation modeling (SEM) software
+         SmartPLS [34] was employed to test the hypothesized relationships. A powerful second-generation
+         multivariate data analysis technique, SEM is preferable to traditional statistical
+         tools (e.g., regression and ANOVA) in that it is efficient in constructing latent
+         variables that cannot be measured directly, and testing complex relationships among
+         observed and latent variables [12,14]. Moreover, PLS-based SEM, when compared with LISREL (i.e., another major type of
+         SEM), has the advantage of theory development, and thus is more appropriate in exploratory
+         modeling [14]. In this study, all of the latent variables, including population size, age profile, service accessibility, educational profile, and service utilization, are modeled as reflective constructs (i.e., constructs viewed as causing, as opposed
+         to being caused by, the observed variables) [35].
+      
+      To test both the direct and the moderating effects hypothesized in this study, we
+         conducted a two-step test as follows: 
+      
+      •Step 1: testing the direct effects of population size and age profile on healthcare service utilization;
+      
+      •Step 2: exploring the direct and the moderating effects of educational profile and service accessibility on service utilization.
+      
+   
+

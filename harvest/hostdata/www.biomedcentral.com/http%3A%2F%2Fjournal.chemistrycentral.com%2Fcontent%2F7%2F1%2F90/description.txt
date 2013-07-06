@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Nifuroxazide ( NF ) is an oral nitrofuran antibiotic, having a wide range of bactericidal activity against gram positive and gram negative enteropathogenic organisms. It is formulated either in single form, as intestinal antiseptic or in combination with drotaverine ( DV ) for the treatment of gastroenteritis accompanied with gastrointestinal spasm. Spectrofluorimetry is a convenient and sensitive technique for pharmaceutical quality control. The new proposed spectrofluorimetric method allows its determination either in single form or in binary mixture with  DV . Furthermore, experimental conditions were optimized using the new approach: Experimental design, which has many advantages over the old one, one variable at a time (OVAT approach).
+
+				
+				
+					
+						Results
+
+					A novel and sensitive spectrofluorimetric method was designed and validated for the determination of  NF  in pharmaceutical formulation. The method was based upon the formation of a highly fluorescent coumarin compound by the reaction between  NF  and ethylacetoacetate ( EAA ) using sulfuric acid as catalyst. The fluorescence was measured at 390 nm upon excitation at 340 nm. Experimental design was used to optimize experimental conditions. Volumes of  EAA  and sulfuric acid, temperature and heating time were considered the critical factors to be studied in order to establish an optimum fluorescence. Each two factors were co-tried at three levels. Regression analysis revealed good correlation between fluorescence intensity and concentration over the range 20–400 ng ml -1 . The suggested method was successfully applied for the determination of  NF  in pure and capsule forms. The procedure was validated in terms of linearity, accuracy, precision, limit of detection and limit of quantification. The selectivity of the method was investigated by analysis of  NF  in presence of the co-mixed drug  DV  where no interference was observed. The reaction pathway was suggested and the structure of the fluorescent product was proposed. Statistical comparison between the presented method and a reported spectrophotometric one was carried out on pure and pharmaceutical formulation and revealed no significant difference.
+
+				
+				
+					
+						Conclusion
+
+					The proposed method was considered economic, accurate, precise and highly sensitive. It could be easily applied in laboratory quality control for the analysis of  NF  in pure form and in pharmaceutical dosage form.
+
+				
+			
+		

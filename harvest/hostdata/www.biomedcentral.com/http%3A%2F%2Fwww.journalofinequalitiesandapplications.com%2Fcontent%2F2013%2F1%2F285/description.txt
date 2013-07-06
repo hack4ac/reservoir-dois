@@ -1,0 +1,4 @@
+Abstract
+In this paper, we give a unified analysis for both large- and small-update interior-point methods for the Cartesian  P  ∗  (  κ  ) -linear complementarity problem over symmetric cones based on a finite barrier. The proposed finite barrier is used both for determining the search directions and for measuring the distance between the given iterate and the  μ -center for the algorithm. The symmetry of the resulting search directions is forced by using the Nesterov-Todd scaling scheme. By means of Euclidean Jordan algebras, together with the feature of the finite kernel function, we derive the iteration bounds that match the currently best known iteration bounds for large- and small-update methods. Furthermore, our algorithm and its polynomial iteration complexity analysis provide a unified treatment for a class of primal-dual interior-point methods and their complexity analysis.
+MSC: 
+90C33, 90C51.

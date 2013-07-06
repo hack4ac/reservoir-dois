@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Exposure to pollutants including metals and particulate air pollution can alter DNA methylation. Yet little is known about intra-individual changes in DNA methylation over time in relationship to environmental exposures. Therefore, we evaluated the effects of acute- and chronic metal-rich PM 2.5  exposures on DNA methylation.
+
+				
+				
+					
+						Methods
+
+					Thirty-eight male boilermaker welders participated in a panel study for a total of 54 person days. Whole blood was collected prior to any welding activities (pre-shift) and immediately after the exposure period (post-shift). The percentage of methylated cytosines (%mC) in LINE-1, Alu, and inducible nitric oxide synthase gene ( iNOS ) were quantified using pyrosequencing. Personal PM 2.5  (particulate matter with an aerodynamic diameter ≤ 2.5 μm) was measured over the work-shift. A questionnaire assessed job history and years worked as a boilermaker. Linear mixed models with repeated measures evaluated associations between DNA methylation, PM 2.5  concentration (acute exposure), and years worked as a boilermaker (chronic exposure).
+
+				
+				
+					
+						Results
+
+					PM 2.5  exposure was associated with increased methylation in the promoter region of the  iNOS  gene (β = 0.25, SE: 0.11, p-value = 0.04). Additionally, the number of years worked as a boilermaker was associated with increased  iNOS  methylation (β = 0.03, SE: 0.01, p-value = 0.03). No associations were observed for Alu or LINE-1.
+
+				
+				
+					
+						Conclusions
+
+					Acute and chronic exposure to PM 2.5  generated from welding activities was associated with a modest change in DNA methylation of the  iNOS  gene. Future studies are needed to confirm this association and determine if the observed small increase in  iNOS  methylation are associated with changes in NO production or any adverse health effect.
+
+				
+			
+		

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The Drosophila GAGA factor (GAF) participates in nucleosome remodeling to activate genes, acts as an antirepressor and is associated with heterochromatin, contributing to gene repression. GAF functions are intimately associated to chromatin-based epigenetic control, linking basic transcriptional regulation to heritable long-term maintenance of gene expression. These diverse functions require GAF to interact with different partners in different multiprotein complexes. The two isoforms of GAF depict highly conserved glutamine-rich C-terminal domains (Q domain), which have been implicated in complex formation.
+
+				
+				
+					
+						Results
+
+					Here we show that the Q domains exhibit prion-like properties. In an established yeast test system the two GAF Q domains convey prion activities comparable to well known yeast prions. The Q domains stably maintain two distinct conformational states imposing functional constraints on the fused yeast reporter protein. The prion-like phenotype can be reversibly cured in the presence of guanidine HCl or by over-expression of the Hsp104 chaperone protein. Additionally, when fused to GFP, the Q domains form aggregates in yeast cells.
+
+				
+				
+					
+						Conclusion
+
+					We conclude that prion-like behavior of the GAF Q domain suggests that this C-terminal structure may perform stable conformational switches. Such a self-perpetuating change in the conformation could assist GAF executing its diverse epigenetic functions of gene control in  Drosophila .
+
+				
+			
+		

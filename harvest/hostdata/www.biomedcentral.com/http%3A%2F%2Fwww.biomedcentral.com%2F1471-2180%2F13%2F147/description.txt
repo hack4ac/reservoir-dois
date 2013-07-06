@@ -1,0 +1,35 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Extended-spectrum β-lactamases (ESBLs), particularly CTX-M- type ESBLs, are among the most important resistance determinants spreading worldwide in Enterobacteriaceae. The aim of this study was to characterize a collection of 163 ESBL-producing  Escherichia coli  collected in Tunisia, their ESBL-encoding plasmids and plasmid associated addiction systems.
+
+				
+				
+					
+						Results
+
+					The collection comprised 163 ESBL producers collected from two university hospitals of Sfax between 1989 and 2009. 118 isolates harbored  bla 
+						 CTX-M  gene (101  bla 
+						 CTX-M-15  gene and 17  bla 
+						 CTX-M-14  gene). 49 isolates carried  bla 
+						 SHV-12  gene, 9  bla 
+						 SHV-2a  gene and only 3  bla 
+						 TEM-26  gene. 16 isolates produced both CTX-M and SHV-12. The 101 CTX-M-15-producing isolates were significantly associated to phylogroup B2 and exhibiting a high number of virulence factors. 24 (23.7%) of the group B2 isolates belonged to clonal complex ST131. Pulsed-field gel electrophoresis (PFGE) typing revealed a genetic diversity of the isolates. 144 ESBL determinants were transferable mostly by conjugation. The majority of plasmid carrying blaCTX-M-15 genes (72/88) were assigned to various single replicon or multireplicon IncF types and had significantly a higher frequency of addiction systems, notably the VagCD module.
+
+				
+				
+					
+						Conclusion
+
+					This study demonstrates that the dissemination of CTX-M-15 producing  E. coli  in our setting was due to the spread of various IncF-type plasmids harboring multiple addiction systems, into related clones with high frequency of virulence determinants.
+
+				
+			
+		

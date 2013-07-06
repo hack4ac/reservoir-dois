@@ -1,0 +1,696 @@
+Methods
+   
+      The illness-death or disability model is a very useful tool for describing the course
+         of breast cancer. Figure&nbsp;1 shows this model in the case of “overall survival”. For the analysis of “distant
+         disease free” survival, the state “death” is replaced by “distant metastases or death”.
+         The variable t denotes the time since first diagnosis, d denotes the time of ILRR.
+      
+      Figure 1. Illness-death model for overall survival (distant disease free survival).
+      When using common regression models for censored data, there are three possible approaches
+         for the estimation of the transition hazards: separate models for every transition
+         (approach S), time-dependent covariates (approach J) [12], and the stratified model [13]. There are also mixture models, e.g. one proposed in [2]. In the following paragraphs, we explain how these methods estimate the transition
+         hazards and which assumptions are (indirectly) made.
+      
+      The Cox regression model [14] is used throughout the article. The definitions are as follows: λ0(t) denotes the baseline hazard, λ12(t), λ13(t) and λ23(t,d) are the hazard functions for the three possible transitions. The parameter vector
+         for the time-dependent covariates is β, for the time-invariant covariates γ is used. The time-invariant covariates are denoted by z. Time-dependent covariates can either depend on t, the time since the first diagnosis, or d, the time of the intermediate event. We define two time-varying covariates as follows:
+         
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              
+                                 1I
+                                 
+                              
+                              
+                                 {
+                                 t
+                                 ≥
+                                 d
+                                 }
+                              
+                           
+                           
+                        
+                        
+                           ·
+                           d
+                           
+                        
+                        
+                     
+                     
+                        
+                           
+                              
+                                 1I
+                                 
+                              
+                              
+                                 {
+                                 t
+                                 ≥
+                                 d
+                                 }
+                              
+                           
+                           
+                        
+                        
+                           ·
+                           (
+                           t
+                           -
+                           d
+                           )
+                           
+                        
+                        
+                     
+                  
+               
+         
+      
+      which we denote only by d and t - d in the following. We are now interested in the functional form with which these variables
+         enter the hazard function. We therefore transform (t - d) and d by a function f: f(d,t - d). At this stage, the shape of the function f is not yet determined. In paragraph Shape of the time-varying covariate some possible
+         choices are proposed for doing this.
+      
+      Problems can arise when sojourn times and in general random time-dependent covariates
+         are included into multi-state models. For example, cumulative incidence functions
+         cannot longer be estimated in a straightforward way. Such situations were studied
+         by [15] and [11]. The latter paper points out that “studying [...] sojourn times as time-dependent
+         covariates may be useful for testing model assumptions and for investigating their
+         effect on the survival” and treats this kind of problem in section 4.1 [11]. The model mentioned by these authors is equivalent to our straight line model of
+         Section Shape of the time-varying covariate.
+      
+      The following two paragraphs discuss the joint transition hazards approach J and the separate transition hazards approach S.
+      
+      Joint approach
+      Approach J models transitions 1 →3 and 2 →3 jointly. A time-varying covariate indicates whether
+         the patient is in state 1 or 2 and therefore if the first or the second hazard function
+         is “active”. The model is: 
+      
+      
+         
+               
+                  
+                     
+                        
+                           λ
+                           
+                           (
+                           t
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 β
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           
+                              
+                                 1I
+                                 
+                                 
+                              
+                              
+                                 {
+                                 t
+                                 ≥
+                                 d
+                                 }
+                              
+                           
+                           f
+                           (
+                           d
+                           ,
+                           t
+                           -
+                           d
+                           )
+                           +
+                           
+                              
+                                 γ
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                           ,
+                        
+                        
+                     
+                  
+               
+         
+      
+      where 1I{t≥d} is the time-varying indicator variable and β the corresponding parameter. The transition 1 →2 is modelled apart from the other
+         transitions. Therefore the resulting hazard functions are: 
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                           
+                              
+                                 λ
+                              
+                              
+                                 12
+                              
+                           
+                           (
+                           t
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                                 ,
+                                 12
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 γ
+                              
+                              
+                                 12
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                        
+                     
+                     
+                        
+                           
+                           
+                              
+                                 λ
+                              
+                              
+                                 13
+                              
+                           
+                           (
+                           t
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 γ
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                        
+                     
+                     
+                        
+                           
+                              
+                                 λ
+                              
+                              
+                                 23
+                              
+                           
+                           (
+                           t
+                           ,
+                           d
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                              
+                           
+                           (
+                           t
+                           )
+                           exp
+                           
+                           (
+                           
+                              
+                                 β
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           f
+                           (
+                           d
+                           ,
+                           t
+                           -
+                           d
+                           )
+                           +
+                           
+                              
+                                 γ
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                           .
+                        
+                     
+                  
+               (1)
+      
+      If this approach is used, the time-invariant covariates z are assumed to have the same effect on both transitions to the absorbing state (common
+         parameter γ). For transition 1 →2 the effects of the covariates are modelled separately (γ12 independent of γ). The relation between the hazards λ13 and λ23 is defined as c(d,t - d):= exp (βTf(d,t - d)). If only the time-varying indicator is used, i.e.f(d,t - d)≡1, the relation c = exp (β) is constant and the transition hazards 1 →3 and 2 →3 are assumed to be proportional.
+         If c = 1, the hazard function is not changed by the intermediate event. If assumption
+         of proportionality is not realistic, time-dependent structures can be added to the
+         function c as shown in Table&nbsp;1.
+      
+      Table 1. Possible relations between transitions 1 → 3 and 2 → 3 if approach J is used
+      Models J.III (1 and 2) and model J.IV violate the Markov assumption. The estimated
+         parameters of the time-varying covariates allow for testing directly the difference
+         between the hazards before and after the intermediate event. The models are nested
+         and it is therefore possible to use directly a criterion (AIC for example) to assess
+         the goodness of fit. This constitutes an advantage of this approach.
+      
+      Separate approach
+      Approach S models all transition hazards separately. The transition λ12 is modelled like in approach J (eq.(1)). Therefore we obtain : 
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                           
+                              
+                                 λ
+                              
+                              
+                                 12
+                              
+                           
+                           (
+                           t
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                                 ,
+                                 12
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 γ
+                              
+                              
+                                 12
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                        
+                     
+                     
+                        
+                           
+                           
+                              
+                                 λ
+                              
+                              
+                                 13
+                              
+                           
+                           (
+                           t
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                                 ,
+                                 13
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 γ
+                              
+                              
+                                 13
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                        
+                     
+                     
+                        
+                           
+                              
+                                 λ
+                              
+                              
+                                 23
+                              
+                           
+                           (
+                           t
+                           ,
+                           d
+                           )
+                           =
+                           
+                              
+                                 λ
+                              
+                              
+                                 0
+                                 ,
+                                 23
+                              
+                           
+                           (
+                           t
+                           )
+                           
+                           exp
+                           
+                           (
+                           
+                              
+                                 β
+                              
+                              
+                                 T
+                              
+                           
+                           f
+                           (
+                           d
+                           ,
+                           t
+                           -
+                           d
+                           )
+                           +
+                           
+                              
+                                 γ
+                              
+                              
+                                 23
+                              
+                              
+                                 T
+                              
+                           
+                           
+                           z
+                           )
+                           .
+                        
+                     
+                  
+               (2)
+      
+      The time-invariant covariates are allowed to have different effects on all hazards.
+         The time-dependency of the hazard 2 →3 on the time of recurrence d and the time since recurrence t - d is modelled via the function f. Approach J is a special case of model S.
+      
+      Using this approach, one has to chose the time-scale for the function λ0,23 what is not self-evident. In equation (2) the time since the first diagnosis t is chosen. This approach is often called “clock forward” approach. Figure&nbsp;2 shows that there is a second possibility: the time since recurrence t - d can also be used (called the “clock reset” approach). If the time-scale t is chosen, only individuals who have already changed to state 2 can be used for the
+         estimation of λ0,23. It is therefore necessary to account for left-truncation. The implementation of
+         the time-scale t - d is easier. However, when using time since recurrence, the comparison of the hazard
+         rates before and after recurrence is no longer straightforward.
+      
+      Figure 2. After the recurrence, two time scales are possible: time since first diagnosist or time since recurrencet-d.
+      Approach S is a special case of the stratified model [13]. The stratified model assumes different baseline hazards for all transitions. The
+         covariates can be chosen to have identical effects for all transitions or can be stratified
+         by transition whereas the baseline hazards remain different for all three transitions.
+         As the main interest of this article is the modelling of the time-dependent covariates
+         and not the effect of the “standard” covariates, we use approach S as described above.
+      
+      Shape of the time-varying covariate
+      Fractional polynomials (FP) are used for the modelling of the function f. Fractional polynomials were introduced in [16] and are explained in detail in [17]. In order to carry out model selection using FPs, a sequential selection procedure
+         was proposed in [18]. Our approach is similar to the approach of [19], where time - covariate interaction was investigated using FPs; for a comprehensive
+         overview see [20].
+      
+      By contrast, in the situation investigated here, fractional polynomials are directly
+         applied on the time-varying covariates d and t - d. The resulting FP gives the function f which describes the shape of the impact of the time-dependent covariates on the hazard
+         function λ23. Using approach J, it also determines the relation between function λ13 and λ23 as c(d,t - d)= exp (βTf(d,t - d)).
+      
+      The procedure is the following: Suppose that X is a time-dependent covariate. We are interested in finding the function f(.) that describes the impact of the time-dependent covariate on the hazard function.
+         The starting point is a straight line model f(X) = β1X. In some cases, this is already an adequate description of the relationship, but
+         other models are analysed in order to improve the fit. The extension of the straight
+         line model are power functions β1Xp. The values of p are chosen from the set S = {-2,-1,-0.5,0,0.5,1,2,3} where X0 denotes log(X). The resulting functions are called one-term fractional polynomials or FP1 functions.
+         The variable that counts the number of FP-terms m is set to 1. In this article also FP2 functions are used: 
+            
+               f
+               (
+               X
+               )
+               
+               =
+               
+               
+                  
+                     β
+                  
+                  
+                     1
+                  
+               
+               
+                  
+                     X
+                  
+                  
+                     
+                        
+                           p
+                        
+                        
+                           1
+                        
+                     
+                  
+               
+               
+               +
+               
+               
+                  
+                     β
+                  
+                  
+                     2
+                  
+               
+               
+                  
+                     X
+                  
+                  
+                     
+                        
+                           p
+                        
+                        
+                           2
+                        
+                     
+                  
+               
+            , with 
+            
+               
+                  
+                     p
+                  
+                  
+                     1
+                  
+               
+               ,
+               
+                  
+                     p
+                  
+                  
+                     2
+                  
+               
+               
+               ∈
+               
+               S
+            . In this case the number of FP-terms increases m = 2. If p1 = p2, the function 
+            
+               
+                  
+                     β
+                  
+                  
+                     1
+                  
+               
+               
+                  
+                     X
+                  
+                  
+                     
+                        
+                           p
+                        
+                        
+                           1
+                        
+                     
+                  
+               
+               +
+               
+                  
+                     β
+                  
+                  
+                     2
+                  
+               
+               
+                  
+                     X
+                  
+                  
+                     
+                        
+                           p
+                        
+                        
+                           1
+                        
+                     
+                  
+               
+               log
+               (
+               X
+               )
+             is used.
+      
+      In order to find the best model, the 8 different FP1 functions and the 36 different
+         FP2 functions are fitted and compared using the AIC criterion [21].
+      
+      If there are several time-dependent covariates, linear combinations of the FP of every
+         covariate are used. A model selection procedure treating several covariates is described
+         in [18].
+      
+   
+

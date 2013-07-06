@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					Distributed architecture offers many advantages compared to centralized architecture in terms of providing multimedia services. However, as a trade-off, distributed architecture requires that peers contribute a portion of their bandwidth and computational capacity to maintain the mutual overlay interconnection. This requirement develops into a serious problem for mobile users and wireless infrastructure, as the radio resource in this network is tremendously expensive, based on 3gpp (2005), and is one of the reasons why distributed architecture has not been widely applied in next-generation (4G) networks. It is also the main reason why multimedia services such as video conference have to rely on a costly centralized architecture built over an expensive media resource function controllers via the Internet protocol (IP) multimedia subsystem (IMS). This research work proposes a new distributed architecture utilizing intelligence and extra capacity, currently available on LTE and WiMAX base stations to reduce the required bit rates that each peer has to provide in order to maintain the overlay network. This reduction saves valuable radio resources and allows a distributed architecture to provide video conferencing services on 4G networks, with all the advantages of a distributed architecture such as flexibility, scalability, smaller delay, and lower cost. In addition, this can be implemented with a minimum modification of the standardized IMS platform and the 4G infrastructure, thereby saving the operators and service providers from excessive investments. A prototype has been built to prove the feasibility of the proposed architecture and evaluate its performances. The results show that our proposed distributed video conferencing service can actually reduce the average bandwidth required for data and signaling messages at wireless mobile terminals while maintaining the main operations of a video conference session.
+
+				
+			
+		

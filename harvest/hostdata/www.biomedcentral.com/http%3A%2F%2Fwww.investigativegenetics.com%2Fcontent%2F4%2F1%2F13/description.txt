@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Accurate determination of genetic ancestry is of high interest for many areas such as biomedical research, personal genomics and forensics. It remains an important topic in genetic association studies, as it has been shown that population stratification, if not appropriately considered, can lead to false-positive and -negative results. While large association studies typically extract ancestry information from available genome-wide SNP genotypes, many important clinical data sets on rare phenotypes and historical collections assembled before the GWAS area are in need of a feasible method (i.e., ease of genotyping, small number of markers) to infer the geographic origin and potential admixture of the study subjects. Here we report on the development, application and limitations of a small, multiplexable ancestry informative marker (AIM) panel of SNPs (or AISNP) developed specifically for this purpose.
+
+				
+				
+					
+						Results
+
+					Based on worldwide populations from the HGDP, a 41-AIM AISNP panel for multiplex application with the ABI SNPlex and a subset with 31 AIMs for the Sequenome iPLEX system were selected and found to be highly informative for inferring ancestry among the seven continental regions Africa, the Middle East, Europe, Central/South Asia, East Asia, the Americas and Oceania. The panel was found to be least informative for Eurasian populations, and additional AIMs for a higher resolution are suggested. A large reference set including over 4,000 subjects collected from 120 global populations was assembled to facilitate accurate ancestry determination. We show practical applications of this AIM panel, discuss its limitations for admixed individuals and suggest ways to incorporate ancestry information into genetic association studies.
+
+				
+				
+					
+						Conclusion
+
+					We demonstrated the utility of a small AISNP panel specifically developed to discern global ancestry. We believe that it will find wide application because of its feasibility and potential for a wide range of applications.
+
+				
+			
+		

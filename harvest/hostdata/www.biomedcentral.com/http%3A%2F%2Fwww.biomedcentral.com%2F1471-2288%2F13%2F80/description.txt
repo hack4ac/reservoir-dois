@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The aim of this article is to propose several methods that allow to investigate how and whether the shape of the hazard ratio after an intermediate event depends on the waiting time to occurrence of this event and/or the sojourn time in this state.
+
+				
+				
+					
+						Methods
+
+					A simple multi-state model, the illness-death model, is used as a framework to investigate the occurrence of this intermediate event. Several approaches are shown and their advantages and disadvantages are discussed. All these approaches are based on Cox regression. As different time-scales are used, these models go beyond Markov models. Different estimation methods for the transition hazards are presented. Additionally, time-varying covariates are included into the model using an approach based on fractional polynomials. The different methods of this article are then applied to a dataset consisting of four studies conducted by the German Breast Cancer Study Group (GBSG). The occurrence of the first isolated locoregional recurrence (ILRR) is studied. The results contribute to the debate on the role of the ILRR with respect to the course of the breast cancer disease and the resulting prognosis.
+
+				
+				
+					
+						Results
+
+					We have investigated different modelling strategies for the transition hazard after ILRR or in general after an intermediate event. Including time-dependent structures altered the resulting hazard functions considerably and it was shown that this time-dependent structure has to be taken into account in the case of our breast cancer dataset. The results indicate that an early recurrence increases the risk of death. A late ILRR increases the hazard function much less and after the successful removal of the second tumour the risk of death is almost the same as before the recurrence. With respect to distant disease, the appearance of the ILRR only slightly increases the risk of death if the recurrence was treated successfully.
+
+				
+				
+					
+						Conclusions
+
+					It is important to realize that there are several modelling strategies for the intermediate event and that each of these strategies has restrictions and may lead to different results. Especially in the medical literature considering breast cancer development, the time-dependency is often neglected in the statistical analyses. We show that the time-varying variables cannot be neglected in the case of ILRR and that fractional polynomials are a useful tool for finding the functional form of these time-varying variables.
+
+				
+			
+		

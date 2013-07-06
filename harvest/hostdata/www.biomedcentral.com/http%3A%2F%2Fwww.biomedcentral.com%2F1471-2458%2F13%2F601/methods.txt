@@ -1,0 +1,130 @@
+Methods
+   
+      The setting
+      Selection of sites
+      The importance of geography as both an equity marker [8] and the key parameter used by governments for planning, budgeting and delivery of
+         health services justified the choice of disadvantaged locations as the unit of analysis.
+         Time and logistical constraints prevented us from undertaking this work in a large
+         number of sites. With the understanding that many health system constraints are by
+         nature common across sites with similar typologies, policymakers in devolved settings
+         opted to pilot Investment Cases in a few locations representative of “typical” disadvantaged
+         sub-national units. Different criteria were used in each country. In the Philippines,
+         two provinces from the Eastern Visayas region with high mortality were chosen. Due
+         to the concerns of policymakers with the urban-poor, a city was also included in the
+         analysis. In Indonesia, two rural and two urban sites with poor coverage of MNCH interventions
+         were selected. In Orissa, government officials chose two districts with large disadvantaged
+         populations, one predominantly tribal and one prone to natural disasters. In the centralised
+         health system of Nepal, the reality of health services delivery dictates that the
+         strategies needed to scale up services in the populous plains (terai) regions, are
+         different to those required for the hills and remote mountainous districts. Therefore
+         groups of districts with low intervention coverage were chosen, which were representative
+         of the different ecological regions. Table&nbsp;1 provides key characteristics and demographics of the sites selected in each country.
+      
+      Table 1. Key characteristics and demographics of investment case study sites
+      The design of the study
+      Problem solving workshops
+      Problem solving workshops with key stakeholders at different levels of the health
+         system were undertaken to identify the root cause of the scaling-up constraints in
+         disadvantaged locations, formulate pragmatic strategies to address them and set realistic
+         coverage targets. In order to facilitate the discussions at the problem solving workshops,
+         we adopted the bottlenecks framework originally developed by Tanahashi [9] and further refined by UNICEF and the World Bank [10]. This framework helps policymakers to systematically unpack the constraints to six
+         determinants of health coverage all of which inhibit the ability of the system to
+         increase the uptake of priority interventions. These constraints are classified according
+         to supply (physical access to health services, availability of human resources, and
+         availability of critical inputs), demand (first use of health services, and continuous
+         use) and quality. Health interventions are seldom delivered in isolation. These determinants
+         are thus examined for twelve interventions that act as proxies for other health services
+         sharing a similar platform of delivery. Figure&nbsp;1 shows the example of a bottlenecks chart used to identify health system constraints
+         for Antenatal care in the Hills Cluster of districts, Nepal.
+      
+      Figure 1. Bottlenecks chart – Antenatal Care - Hills cluster, Nepal.
+      Results from the problem solving workshops have been validated by expert groups in
+         all countries, particularly to ensure the feasibility of strategies and increased
+         coverage targets within the wider regulatory environment. The extent to which these
+         strategies were incorporated into the plans and budgets in our study sites is detailed
+         elsewhere [7].
+      
+      Estimating costs and impact – the decision--support model
+      A cohort model was developed for this project to estimate the expected costs and impact
+         of scaling-up strategies. The supplementary material includes a brief overview of
+         the approach with conceptual diagrams of the basic model structure (Additional file
+         1). The full methods and calculations of the model are described in detail elsewhere
+         and are available as unpublished observations upon request. In brief, the model tracks
+         an annual cohort of pregnant women until birth and follows the live births until age
+         5.0 years.
+      
+      Additional file 1. Supplementary material 1. Decision-support tool.
+         	Format: DOC 
+         	Size: 71KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      The model incorporates coverage, efficacy, and costing data for the 66 interventions
+         involved in this analysis for which there are global estimates of their impact on
+         the burden of maternal, newborn, and child mortality [11]. These interventions are organised into four phases (pre-pregnancy, pregnancy to
+         birth, birth to age 1 month, age 1 month to 5 years) along the continuum of care starting
+         with family planning and pregnancy-related interventions through to immunisation and
+         curative health services for under fives. The population at-risk at the start of each
+         phase is dependent on the coverage of interventions in the preceding phase. The methods
+         for the estimation of intervention impact (% reduction in maternal, neonatal and under-five
+         mortality) were adapted from the Lives Saved Tool (LiST) [12]. Deaths are first distributed into the major defined causes, then reduced by the
+         cause-specific effectiveness (efficacy x marginal increase in coverage) of each intervention.
+         Where more than one intervention targets a specific cause of death, impact is calculated
+         sequentially to prevent over-estimation of deaths prevented.
+      
+      Methods for modelling the coverage targets generated in the problem solving workshops
+         and costing the strategies associated with these targets were adapted from the Marginal
+         Budgeting for Bottlenecks (MBB) tool [10]. The costs and benefits of new strategies to scale-up MNCH interventions are calculated
+         by comparing the new strategy to the current programme (status quo) in the population
+         of interest.
+      
+      The objective of the modelling process in the context of this study is to support
+         decentralised decision-making for health planning and budgeting in low-income settings.
+         For these purposes, the model aims at providing policymakers with the information
+         required to assess the relative merits and costs of the scaling-up strategies discussed
+         during the workshops. The model thus estimates financial rather than economic costs,
+         which can then be used to produce sub-national budgets. To facilitate the understanding
+         of budgetary implications, annual recurrent costs are assumed to be the same in each
+         of the next five years. Capital costs are not annualised and are assumed to be incurred
+         in the first year of the programme. Modified costing calculations provide both total
+         and incremental costs. Costs are produced at baseline which allows policymakers to
+         verify results when compared to actual expenditure. Both direct inputs into MNCH services
+         and more general health system improvements are included in the costing calculations.
+         As the burden of mortality in targeted areas is high, and the efficacy of most interventions
+         on morbidity are not well established, the model only considers deaths prevented rather
+         than other measures of health benefit. The primary outcome measures used to compare
+         alternative strategies are the financial cost per death averted and the financial
+         cost per capita. The time horizon of the model is a single budgeted year so future
+         costs and effects are undiscounted.
+      
+      The model was developed in Excel [13] as it was critical to have a transparent model developed in software familiar to
+         sub-national partners engaged in the process. There is a logical stepwise progression
+         through the model from coverage to impact and costs (see Webfigures 2–5 in Additional
+         file 1). Inputs have been standardised and the design is fully customisable. For example,
+         users can: (i) specify which level of coverage local estimates refer to i.e. initial
+         utilisation, continuous coverage, effective quality coverage; (ii) define up to six
+         health service delivery levels; (iii) organise the way interventions are grouped for
+         the purposes of bottleneck analysis and coverage target setting; (iv) add new user-defined
+         cost items; and (v) customise the budget to reflect local terminology and cost categories.
+      
+      Due to the complexity of an analysis that combines qualitative and quantitative methods
+         for an entire MNCH programme, we were unable to do a traditional uncertainty analysis.
+         The model instead includes a built-in facility for univariate sensitivity analysis
+         for a small number of important parameters. For example, the expected increase in
+         intervention coverage is highly uncertain, yet has a large influence on costs and
+         numbers of deaths prevented. For the purposes of this analysis, uncertainty ranges
+         therefore reflect the sensitivity of the results to a −/+ 10% change in the intervention
+         coverage targets.
+      
+      The results of the country Investment Cases are discussed below. Tables&nbsp;2, 3, 4 and 5 present causes of death, summaries of key strategies, and results for each of our
+         study sites by country at the end of the five-year timeframe of the analysis. Costs
+         are presented as marginal (additional) per capita costs of strategies in United States
+         Dollars (USD), by early capital (one-off) costs and annual recurrent costs. Impact
+         of scenarios are reported as reductions in neonatal mortality rate (NMR), under-five
+         mortality rate (U5MR), and maternal mortality ratio (MMR) with point estimates and
+         upper and lower bounds calculated assuming −/+ 10% of intervention coverage targets
+         determined by policymakers.
+      
+      Table 2. Results of impact and cost of investment case analysis in Philippines
+      Table 3. Results of impact and cost of investment case analysis in Indonesia
+      Table 4. Results of impact and cost of investment case analysis in Orissa (India)
+      Table 5. Results of impact and cost of investment case analysis in Nepal
+   
+

@@ -1,0 +1,217 @@
+Methods
+   
+      Tumor donors
+      Chemotherapy-naïve primary tumor samples were selected from the Colorado State University
+         (CSU) Flint Animal Cancer Center’s tissue archive. Samples are archived with owner
+         consent and approval by the CSU Institutional Animal Care and Use Committee. Twenty
+         tumors from good- and poor-responders (n = 10 each group) were selected following
+         the protocol previously published [32]. Briefly, chemotherapy-naïve primary OSA samples were from dogs treated with surgical
+         amputation followed by chemotherapy with doxorubicin and/or a platinum based drug
+         (distribution of choice of drug was not significantly different between groups). All
+         twenty dogs were free of thoracic metastases by radiographic analysis at diagnosis
+         and follow up consisted of evaluation by clinical examinations including thoracic
+         radiographs every 2–3&nbsp;months after initial treatment. Disease free interval (DFI)
+         was calculated from surgery until development of metastatic disease and samples were
+         identified for cohorts of good responders (DFI &gt; 300&nbsp;days) and poor responders (DFI &lt; 100&nbsp;days)
+         in order to flank the median DFI (200&nbsp;days). Nine additional appendicular OSA tumor
+         samples were collected from which matched normal metaphyseal bone was harvested from
+         the same limb (at least one joint space away from the tumor) following amputation.
+         These nine matched samples were collected at amputation as cases came in (convenience
+         sample) and absence/presence of metastasis, post-operative treatment, and patient
+         follow-up were less consistent in this population. Tumor and normal bone fragments
+         collected at amputation were flash-frozen in liquid nitrogen and stored at -80°C.
+         Tumor fragments were also fixed in 10% neutral buffered formalin for 24&nbsp;hours with
+         subsequent routine processing and paraffin embedding.
+      
+      Immunohistochemical HES1 expression was also assessed in a subset of canine appendicular
+         OSA patients from a previously reported multi-institutional randomized prospective
+         clinical trial [33]. The study was approved by the Institutional Animal Care and Use Committees of the
+         participating institutions. All dogs underwent amputation followed by 5&nbsp;cycles of
+         adjuvant doxorubicin, with or without an investigational matrix metalloprotease inhibitor.
+         Inclusion/exclusion criteria, staging, and follow-up procedures were standardized
+         and tumor tissues were processed as previously reported [33]. Histologic grading (from 1 to 3) was performed by one author (BEP) utilizing a schema
+         incorporating amount of matrix, percent necrosis, nuclear pleomorphism, nucleolar
+         size/number and mitosis score [33]. Mitotic index was calculated by counting the number of mitotic figures per 10 random
+         400× fields.
+      
+      Cell culture
+      Canine cell lines used in this study were provided by Dr. Douglas Thamm; all cell
+         lines were validated for species and genetic identity using short-tandem-repeat (STR)
+         profiling as previously described [34]. Human OSA cell lines were obtained from Dr. Douglas Thamm (MG63, SAOS-2, SJSA-1),
+         Dr. Hue Luu (MG63.2), or purchased from ATCC (U2OS). The MG63.2 cell line is a metastatic
+         sub-line of the MG63 line, obtained via serial passage of rare lung metastases from
+         MG63 [35]. All non-purchased cell lines were validated prior to use using STR profiling by
+         the University of Colorado DNA Sequencing Shared Resource. Cells were cultured in
+         C10 media (DMEM high glucose with 4&nbsp;mM&nbsp;L-glutamine (Hyclone Laboratories, Inc.), 1&nbsp;mM
+         of sodium pyruvate, 2× MEM vitamins, 1× MEM non-essential amino acids, 1× antibiotic-antimycotic
+         (100×: 10,000&nbsp;IU/ml penicillin, 10,000 ug/ul streptomycin and 25ug/ml) (all additives
+         from Mediatech, Inc.), and 10% fetal bovine serum (FBS) (Atlas Biologicals, Fort Collins,
+         CO).
+      
+      RNA extraction
+      Total RNA was extracted from tumors and RT-qPCR was conducted as described previously
+         [32]. Briefly, samples were freeze-fractured, homogenized, extracted with Trizol reagent
+         (Invitrogen, Carlsbad, CA) and purified with RNeasy clean up (Quiagen, Valencia, CA)
+         following manufacturer’s protocols. RNA was extracted from normal bone using the same
+         protocol with an additional spin of 800× g at 4°C for 5&nbsp;minutes following homogenization. The supernatant was carried forward
+         through the Trizol protocol. Total RNA was extracted from human and canine OSA cells
+         using the RNeasy Kit (Qiagen) per the manufacturer’s protocol. RNA was quantified
+         via spectrophotometry and bioanalyzed for integrity as described in O’Donaghue et
+         al. [32] with samples used having a RNA integrity number of at least 8. Human adult osteoblast
+         total RNA was purchased from CELL Applications, Inc.
+      
+      Reverse transcriptase PCR and quantitative real time PCR
+      cDNA synthesis was completed using the QuantiTect Reverse Transcription Kit (Qiagen)
+         with 1 or 3&nbsp;μg input RNA. RT-qPCR of cDNA was run using iQ SYBR Green Supermix (Bio-Rad)
+         and 25&nbsp;ng equivalent RNA input in 25&nbsp;μL reactions on a Stratagene Mx3000P instrument.
+         Expression in canine cells and tissues was normalized to hypoxanthine phosphoribosyltransferase
+         1 (HPRT1) expression. HPRT1 was selected based on its consistent moderate expression in our sample sets in prior
+         microarray and RT-qPCR analysis (see Additional file 1 and reference [32]) and its previous use as a canine reference gene [36]. Consistent with current recommendations for the selection of reference genes and
+         because no single reference gene exhibited unchanged expression between samples, expression
+         in human OSA cells was normalized to the geometric mean of four reference genes; ribosomal
+         protein S15 (RBS15), glyceraldehyde-3-dehydrogenase (GAPDH), 18S ribosomal RNA (18SrRNA) and HPRT1[37]. Primer sequences and efficiencies for all genes and the full sequence of the canine
+         HES1 amplicon are listed in Additional file 2. Primers were designed using Primer-Blast based upon NCBI RefSeq mRNA sequences when
+         available. Primers were designed to be intron spanning when possible and cross-checked
+         for specificity via UCSC in silico PCR. Primers were further validated with standard
+         curves to calculate efficiency, and dissociation curves as previously described [34]. RT-qPCR products were validated for size by agarose gel electrophoresis and sequenced
+         to confirm identity. The 161&nbsp;bp canine HES1 amplicon revealed 98% homology to the human homolog of HES1. Human HES1 primers used were the same as those used by Zhang et al. [24]. The identity of the 200&nbsp;bp amplicon was verified as human HES1 by dideoxy sequencing (CSU DNA sequencing Core).
+      
+      Additional file 1. Affymetrix Canine 2.0 microarray data processed with PLIER algorithm. Selected Notch signaling pathway genes from Affymetrix Canine 2.0 microarray data
+         including both previously published [35] and unpublished data (normal bone).
+         	Format: XLSX 
+         	Size: 137KB Download file or  display content in a new window
+      Additional file 2. Sequences, amplicon sizes, and efficiencies of primer pairs used in RT-qPCR experiments.
+         	Format: XLSX 
+         	Size: 50KB Download file or  display content in a new window
+      Western blot
+      Western blot analysis was performed on canine and human OSA cells using whole cell
+         lysates or cytoplasmic and nuclear fractions. Whole cell lysates were prepared in
+         triethanolamine (TEA) lysis buffer (55&nbsp;mM TEA, pH&nbsp;7.5, 111&nbsp;mM NaCl, and 2.2&nbsp;mM EDTA,
+         0.44% SDS) with 1× Complete Protease Inhibitor Cocktail (Roche Diagnostics). Protein
+         concentrations were determined using the bicinchoninic acid (BCA) protein assay (Thermo
+         Scientific). Nuclear extracts were prepared using a hypotonic 0.5% or 0.25% IgePal
+         (NP-40) buffer (10&nbsp;mM Hepes, 1.5&nbsp;mM MgCl, and 10&nbsp;mM KCl). Briefly, harvested cell
+         pellets were re-suspended in IgePal buffer with protease inhibitor while vortexing,
+         incubated on ice for 0–5&nbsp;minutes, and centrifuged for 5&nbsp;minutes at 500× g. The supernatant (cytoplasmic fraction) was collected and the pellet (nuclear fraction)
+         was re-suspended in TEA lysis buffer with protease inhibitors. Samples were separated
+         using SDS-PAGE and transferred to a polyvinylidine fluoride membrane. The membrane
+         was blocked with 5% non-fat dry milk (NFDM) for one hour at room temperature and incubated
+         with rabbit monoclonal anti-HES1 antibody (RabMAb EPR4226, 1:500; Epitomics) in 5%
+         bovine serum albumin (BSA) at 4°C overnight. After washing in 0.1% Tween 20-Tris-buffered
+         saline (TBST) the membrane was incubated with secondary horseradish peroxidase conjugated
+         goat anti-rabbit antibody (1:5000; Bio-Rad) in 5% NFDM for one hour at room temperature.
+         SuperSignal West Dura Extended Duration Substrate (Pierce Biotechnology) was used
+         to detect chemiluminescent signals. Band intensity from four experiments using whole
+         cell lysates from MG63 and MG63.2 cell lines were analyzed using ImageJ software.
+         The intensity of the HES1 band was normalized to the corresponding α-tubulin loading
+         control.
+      
+      Immunohistochemistry (IHC)
+      IHC to detect HES1 expression was performed on 4&nbsp;μm sections from formalin-fixed paraffin
+         embedded (FFPE) tumor tissues using standard immunoperoxidase techniques on charged
+         slides with hematoxylin counter stain. Slides with sections were heated at 60°C for
+         30&nbsp;minutes, allowed to cool, and deparaffinized with xylene or a citrus based clearing
+         solution (Thermo-Fisher Scientific), and rehydrated with descending ethanol concentrations
+         in deionized water (100%, 95%, 75% and 50%). Heat induced epitope retrieval was done
+         with 10&nbsp;mM sodium citrate buffer (pH&nbsp;6.0) heated in a pressure cooker for 1&nbsp;minute
+         at 125°C. Endogenous peroxidase activity was blocked with 3% hydrogen peroxide at
+         room temperature for 5&nbsp;minutes with 3 washes in TBST both before and after. Slides
+         were incubated with a non-serum protein block (Background Sniper, Biocare Medical)
+         at room temperature for 15&nbsp;minutes followed by incubation with primary antibody overnight
+         at 4°C overnight. The primary antibody (anti-HES1 RabMAb, Epitomics) was used at a
+         dilution of 1:750 (diluted in Antibody Diluent, Dako). Sections were then incubated
+         with a prediluted secondary antibody conjugated to horseradish peroxidase (Envision
+         and Dual Link System HRP, Dako) for 30&nbsp;minutes at room temperature with 3 TBST washes
+         both before and after. Diaminobenzidine (DAB, Ventana Medical Systems) was used as
+         a chromogen for immunoreactive complex detection and slides were counterstained with
+         hematoxylin.
+      
+      Sixty-one additional FFPE tumor samples were analyzed for HES1 immunohistochemical
+         expression utilizing a protocol similar to that described above with the following
+         exceptions: primary antibody was diluted in 2.5% normal goat serum in TBST (1:750
+         or 1:375, higher antibody concentration was used in subsequent batches to increase
+         immunoreactivity signal), and detection was performed using biotinylated anti-rabbit
+         IgG antibody in a Vectastain ABC Kit (Vector Laboratories). The IHC was performed
+         in five batches of 8 to 18 slides each with the same antibody dilution used for an
+         entire batch. Variations in antibody dilutions were controlled for by inclusion of
+         a positive control tumor slide with a total immunoreactivity score of 4 (percent cells
+         staining score of 2 and intensity score of 2; Table&nbsp;1). All samples within each batch were scored in reference to the control. Negative
+         controls lacking primary antibody were included in each batch.
+      
+      Table 1. Summary of data for dogs with DFI &gt; 300 and DFI &lt; 100&nbsp;days, including HES1 immunohistochemistry
+            score
+      HES1 antibody validation was done using human placenta and canine lung and pancreas
+         as positive control tissues. Specificity of the primary antibody was verified using
+         a HES1 blocking peptide (Epitomics). Briefly, primary antibody was incubated with
+         25× (by mass) blocking peptide in antibody diluents (at both 1:375 and 1:750) for
+         one hour at room temperature before application to canine control and sample tumor
+         slides. Positive and negative controls with sections from the same tissues were incubated
+         in parallel.
+      
+      Immunohistochemical scoring of all slides was performed independently by two authors
+         blinded to case information. A positive cell was any neoplastic cell with distinct
+         brown staining in the nucleus (stromal cells and endothelial cells were not counted).
+         The percentage of positive cells in each sample was estimated based on an average
+         of two or more high powered fields and scored as follows, 1: &lt; 50% cells stain positive,
+         2: 50-75% cells stain positive, 3: &gt; 75% cells stain positive. Average stain intensity
+         ranged from 1 to 3 (lowest to highest intensity). Field location and number were selected
+         randomly at the discretion of the individual scorer. The product of the percentage
+         and intensity scores made up the overall immunoreactivity score (ranging from 1 to
+         9). Both scorers simultaneously reviewed slides with conflicting scores (scores deviating
+         by more than 1 in either category) (n = 5) and consensus was reached. After review,
+         total scores were averaged for statistical analyses.
+      
+      Immunocytochemistry (ICC)
+      Immunocytochemistry was performed utilizing the same reagents and a similar protocol
+         to that used for IHC. Slides were prepared via cytospin and dried overnight. Prior
+         to the blocking step cells were fixed with 100% methanol at room temperature for 15&nbsp;minutes,
+         allowed to dry, washed in TTBS and incubated in 0.1% TritonX-100 in TBS for 7–12&nbsp;minutes.
+         The remainder of the procedure was identical to that used for IHC, but a higher concentration
+         of primary antibody (1:250) was used.
+      
+      Photomicrographs (IHC and ICC) were taken using the Olympus BX51 Research System Microscope
+         with an Olympus dp70 Digital Camera System. Minimal additional editing was done in
+         Microsoft ® PowerPoint ® for Mac 2011.
+      
+      Gene expression microarray analysis
+      Total RNA from primary OSA tumor samples from dogs with DFI &lt; 100 (n = 8) and DFI &gt; 300
+         (n = 7) was analyzed on GeneChip Canine 2.0 Genome Arrays (Affymetrix, Santa Clara,
+         CA) at CSU’s Rocky Mountain Regional Center for Excellence (RMRCE) Genomics Core per
+         Affymetrix protocols as described [35]. Normal bone samples (n = 8) were analyzed using an identical protocol. Samples used
+         for microarray analysis were a subset of those used for RT-qPCR (microarray samples
+         were limited due to array costs). Microarray pre-processing combining the osteosarcoma
+         samples with the normal bone samples was conducted using Probe Logarithmic Intensity
+         Error (PLIER) estimation algorithms with log2 transformations. Probesets including Notch receptor ligands, effectors, or targets
+         of either the canonical Notch pathway or HES1 were selected based on literature review,
+         Ingenuity® Systems Pathway analysis, and/or inclusion in The Human Notch Signaling Pathway RT2 Profiler™ PCR Array (SAbiosciences) (Additional file 1). CIMminer was used to generate clustered images of the data from the 75 selected
+         probesets with unsupervised clustering on both axes and the following parameters:
+         average linkage, Euclidean distance, and quantile binning with median centering of
+         the data. Full microarray data for the DFI groups is available through NCBI’s Gene
+         Expression Omnibus (GEO) via accession number GSE24251.
+      
+      Statistics
+      Statistical analysis of RT-qPCR and immunohistochemistry data (not including survival
+         data) was performed using Prism software (GraphPad Software, La Jolla, CA). For RT-qPCR
+         data standard curves, dissociation curves and amplification data was collected on
+         a Stratagene Mx3000P instrument and analyzed using the Rest2009 software [38]. HES1 RT-qPCR data was also analyzed using the 2(-ΔΔCt) method [39] with similar results. IHC scores for the DFI &gt; 300 and DFI &lt; 100 tumors were analyzed
+         with a 2-tailed Fischer’s exact test after separating scores into low expression (total
+         score less than 4) and high expression (total score greater than or equal to 4) categories.
+         The cut off was based on results of receiver-operating characteristic (ROC) analysis
+         of immunohistochemical scores for the DFI &gt; 300 and DFI &lt; 100 groups. Welch t-test in ArrayTrack 3.5.0 with false discovery rate correction for multiple comparisons
+         (FDR; based on all array probesets) was used to compare microarray gene expression
+         data. Significance was defined as p &lt; 0.05 (Welch t-test) or q &lt; 0.05 (FDR).
+      
+      Statistical analysis of survival data was performed using a combination of Prism and
+         SPSS software version 20 for Macintosh (IBM, Armonk, NY). Correlations between HES1
+         expression levels and other markers on a continuous scale were evaluated using linear
+         regression analysis. A 2-tailed, unpaired t-test was used to evaluate the association between HES1 expression levels and categorical
+         markers. The median DFI was estimated using the Kaplan-Meier method, and comparisons
+         between groups made using log rank analysis for categorical variables. For continuous
+         variables, markers were categorized into a low and high group using the median value
+         as the break point. Multivariable Cox regression analysis was then performed, utilizing
+         both forward and backward stepwise models. Variables identified with a univariate
+         p-value of &lt;0.1 were included in the multivariate analysis. For all other tests, p-values
+         of &lt;0.05 were considered significant.
+      
+   
+

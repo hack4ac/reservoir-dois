@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Renal interstitial fibrosis and glomerular sclerosis are hallmarks of diabetic nephropathy (DN) and several studies have implicated members of the WNT pathways in these pathological processes. This study comprehensively examined common genetic variation within the WNT pathway for association with DN.
+
+				
+				
+					
+						Methods
+
+					
+					Genes within the WNT pathways were selected on the basis of nominal significance and consistent direction of effect in the GENIE meta-analysis dataset. Common SNPs and common haplotypes were examined within the selected WNT pathway genes in a white population with type 1 diabetes, discordant for DN (cases: n = 718; controls: n = 749). SNPs were genotyped using Sequenom or Taqman assays. Association analyses were performed using PLINK, to compare allele and haplotype frequencies in cases and controls. Correction for multiple testing was performed by either permutation testing or using false discovery rate.
+
+				
+				
+					
+						Results
+
+					
+					A logistic regression model including collection centre, duration of diabetes, and average HbA1c as covariates highlighted three SNPs in  GSK3B  (rs17810235, rs17471, rs334543), two in  DAAM1  (rs1253192, rs1252906) and one in  NFAT5  (rs17297207) as being significantly ( P  < 0.05) associated with DN, however these SNPs did not remain significant after correction for multiple testing. Logistic regression of haplotypes, with ESRD as the outcome, and pairwise interaction analyses did not yield any significant results after correction for multiple testing.
+
+				
+				
+					
+						Conclusions
+
+					
+					These results indicate that both common SNPs and common haplotypes of WNT pathway genes are not strongly associated with DN. However, this does not completely exclude these or the WNT pathways from association with DN, as unidentified rare genetic or copy number variants could still contribute towards the genetic architecture of DN.
+
+				
+			
+		

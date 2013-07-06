@@ -1,0 +1,153 @@
+Methods
+   
+      Study design
+      We carried out a cross sectional population based study which enrolled 1200 community
+         dwelling elderly individuals aged 65&nbsp;years and above, living in rural areas of seven
+         out of the eight Mohafazat in Lebanon.
+      
+      Sample size calculation
+      The sample was selected through multistage cluster sampling. The sample size has been
+         established according to the prevalence of home-living elderly people, either suffering
+         from malnutrition or considered at risk of malnutrition (average 40%). These results
+         are based on a review of 48 studies including either healthy or frail elderly individuals
+         [19] and a retrospective study of pooled data [20] based on the Mini-Nutritional-Assessment (MNA) [21]. Although some of the study samples were of convenience nature and mainly focused
+         on European population, we considered these results as the most appropriate for our
+         sample calculation, as representative data from developing countries are lacking.
+         A minimum of 1024 subjects was necessary to establish a 95% confidence interval, with
+         an accuracy of +/− 3%, taking clustering into account. Due to possible missing values
+         in several items, a final sample size of 1200 elderly was chosen.
+      
+      Subjects and setting
+      Lebanon is divided into eight Mohafazat (governorates); each of them consists of several
+         districts (Caza) forming a total of 25 Caza. As our study included only rural elderly
+         subjects, the Caza of Beirut (urban area) was excluded. In each of the remaining 24
+         Caza (stratum), two villages were randomly selected from the list of villages provided
+         by the Central Agency of Statistics in Lebanon, except for two Caza where only one
+         large village was selected giving a total of 46 villages [22]. Within each village, a random sample of 25 elderly individuals was drawn from the
+         small villages and 50 from the larger villages, based on the list of households provided
+         by the municipality or other local authority. A replacement list was prepared in case
+         of absence or refusal of participation. The inclusion criteria were: to be at least
+         65&nbsp;years old, to live at home in rural areas, to be free from terminal illness and
+         not tube fed. The study received the approval of the ethics committee of St Josephs
+         University of Beirut.
+      
+      Questionnaire
+      The study was based on a comprehensive multi-component questionnaire, administrated
+         by trained interviewers, including the assessment tools as described below. The questionnaire
+         was translated back and forth from French to Arabic by two persons fluent in both
+         languages. People were questioned after oral consent at their place of residence.
+         Written consent was not considered necessary because it was an observational study.
+         Also, participants remained anonymous and individual results were kept confidential.
+         A pilot study including 100 individuals was performed previously in order to pretest
+         the feasibility of the questionnaire. According to the results, some minor changes
+         were made. The interview duration of 40–50&nbsp;minutes was considered acceptable. If the
+         participant was unable to answer, the help of a family member was required. The main
+         survey was conducted over a period of 12&nbsp;months between April 2011 and April 2012.
+      
+      Assessment tools
+      Socio-demographic factors
+      The variables recorded included demographic characteristics (age, gender, marital
+         status, village of residence) and living conditions (living alone or with others).
+         Information about the financial situation was recorded by two questions: one question
+         regarding the personal monthly income which, according to the national minimum wages,
+         was categorized into &lt; 300.000 LL (~200 USD), 300.000 – 600.000 LL and &gt; 600.000 LL
+         (~400 USD). According to a survey conducted by the Central Administration of Statistics
+         of Lebanon in 2004, about 8,7% of Lebanese adults live below the extreme poverty line
+         corresponding to an annual income of 2400 USD (200 USD monthly) per household [23]. The second question asked about financial dependency from children, with answers
+         ranging between “totally dependent, partially dependent or independent”. Information
+         about educational level was obtained using the following categories: illiteracy, less
+         or at least 8&nbsp;years schooling (primary school), less or at least brevet (middle school),
+         less or at least high school graduation and university level. Regarding the main occupation,
+         individuals were questioned about the longest occupation held, which was categorized
+         into: farmer, employee or manager, self-employed, without work (including housework);
+         they were also asked if they were still working. The question about health insurance
+         was categorized into three groups: without insurance, private insurance, national
+         social security fund (NSSF) and others.
+      
+      Anthropometric measures and nutritional status
+      Weight was taken in light indoor clothes without shoes by electronic digital scale
+         to the nearest 0.1&nbsp;kg, whereas height was measured in standing position to the nearest
+         0.1&nbsp;cm. Body Mass Index (BMI) was computed as [weight (kg)/height (m2)]. Nutritional status was assessed by the MNA in its Arabic version [24]. The MNA, developed by Guigoz et al. [25], is the most established, best validated and widespread nutritional assessment tool
+         used among geriatric population [26]. It has been translated into more than 20 languages and is cited in nearly 200 publications.
+         The MNA includes 18 questions regarding anthropometric, general, dietetic, and subjective
+         assessment. Based on the total score, subjects were classified into three categories:
+         malnourished (&lt;17), at nutritional risk (17 ≤ score &lt; 24), adequate nutritional status
+         (≥ 24) [25].
+      
+      Health characteristics
+      Health related characteristics were assessed by self related health status (SRH) based
+         on a 5 item scale. This measure has shown to be a reliable indicator for overall health
+         status [27] in developed countries but also in most Arabic countries [28]. Comorbidities were recorded by asking participants if they suffered from chronic
+         physician-diagnosed conditions such as hypertension, diabetes, etc. Drug intake was
+         estimated by the number of drugs taken daily on a regular basis as prescribed by a
+         physician and checked with packages shown to the interviewer. Furthermore, the participants
+         were questioned about chronic pain (yes/no), defined as feeling pain for at least
+         3&nbsp;months, insomnia (no or occasionally/often or always) as well as recent hospitalization
+         (&lt;1&nbsp;year). Frailty was assessed by the SOF (Study of Osteoporotic Fractures) frailty Index [29], which included 3 items: involuntary weight loss for one year, inability to rise
+         from a chair without using arms and reduced energy level for at least 3&nbsp;days during
+         the past week. Based on the original SOF frailty index, frailty status was defined
+         as robust (0 component), pre-frail (1 component), and frail (2 or more components).
+         Oral health assessment included three dichotomous questions about chewing problems,
+         total or partial loss of dentition and wearing dental prosthesis. Finally, tobacco
+         use was estimated by asking about current smoking, whereas the level of physical exercise
+         was assessed by estimating the frequency and duration of exercise (excluding housework)
+         by “a minimum of 30&nbsp;min daily”, “occasionally” or “never”.
+      
+      Functional status
+      Functional status was investigated through the Activities of Daily Living (ADL), a
+         5-item scale commonly used in comprehensive geriatric assessment evaluating the basic
+         activities like bathing, toileting, clothing, walking and eating by his/her own [30]. This scale was validated in its Arabic version by Nasser &amp; Doumit [31] in a sample of Lebanese elderly living in nursing homes. Continence was not considered
+         in this scale because difficulties in bladder or bowel control reflect an abnormality
+         in a particular physical system and should therefore be considered as impairment rather
+         than a disability [32]. According to several authors [33,34], we defined three main groups: “not disabled” was defined as independent in all 5
+         ADL, “moderately disabled” as dependent in one or two items, “severely disabled” as
+         dependent in three or more items. The Instrumental ADL (IADL) included four activities:
+         telephone use, use of transportation, responsibility for drugs intake and budget management.
+         This 4 item IADL scale has been shown to be associated with cognitive impairment in
+         community dwelling elderly subjects [35]. Individuals were considered as fully independent (coded 0) if they could perform
+         the IADL item without any help, otherwise they were considered partially dependent
+         (coded 1). The final score, ranging from 0 to 4, was computed by summing the number
+         of IADL dependencies for these four items. Subjects without telephone (n = 288) as
+         well as subjects free of drug intake (n = 152) were not considered in the analysis.
+         Balance disorder was assessed by the “one-leg balance” test, a useful screening tool
+         of fall risk among elderly individuals [36]. Subjects were asked to stay on one leg without using their arms. Moreover, participants
+         were asked if they experienced one or more falls during the past year.
+      
+      Psychosocial and cognitive status
+      Mental status was assessed by the 5 item Geriatric Depression Scale (GDS-5), a dichotomized
+         5- item scale (score ranges from 0–5) allowing to detect depressive disorder in elderly
+         people [37]. Presence of depressive symptoms was defined as a score of two or above [37]. The 5-item WHO Well Being Index [38] was used to assess the mood of our study sample, as this instrument had previously
+         been validated in the Arabic version by Sibai et al. [38] among Lebanese elderly. The WHO-5 Arabic version allows the detection of depression
+         among Lebanese elderly at a cut-off point less than 13 [38]. Cognitive status was assessed by the Mini-mental-state (MMS) examination [39], the most commonly used screening tool for cognitive impairment worldwide. In order
+         to take into account the high level of illiteracy, we constructed a modified version
+         adapted to illiterate subjects (MMS 2), whereas the original MMS (MMS 1) translated
+         in Arabic language was used for literate elderly. In the MMS 2 form, question 28 including
+         a written order (“Close your eyes”) was replaced by the same order but given verbally
+         (the interviewer asks the subject to close the eyes). Furthermore, regarding question
+         29, where the patient is required to write a sentence, the participant was asked to
+         construct a sentence orally including a subject, a verb and an object. As no cut-off
+         points were defined in Lebanese elderly, the results were divided into quartiles.
+         To investigate the social network we used the Lubben Social Network Scale 6 (LSNS
+         6) as described by Lubben et al. [40]. This tool is an abbreviated version of the original LSNS scale [41], which was especially developed for elderly populations and has been shown to be
+         associated with a wide range of health indicators. The LSNS 6 is based on 3 questions
+         assessing the family network, as follows: “How many relatives do you see or hear from at least once a month? How many relatives
+            do you feel close to such that you could call on them for help? How many relatives
+            do you feel at ease with that you can talk to about private matters?” These same questions are repeated by replacing the word “relatives” with the word
+         “friends”. The answers were as follows: none (coded 0), one (coded 1), two (coded
+         2) three or four (coded 3), five to eight (coded 4), nine or more (coded 5). The total
+         score is the sum of the 6 items, ranging from 0 to 30. According to the author [40], at a score below 12, the person is considered as at risk for social isolation. Subjective
+         loneliness was assessed by the modified version of the Jong- Gierveld Loneliness Scale
+         as described by Wilson et al. [42]. This 5 item scale included the following: “I experience a general sense of emptiness,” “I miss having people around,” “I feel
+            like I don’t have enough friends,” “I often feel abandoned,” and “I miss having a
+            really good friend”. As Wilson [42], we used a dichotomous scale where “yes” was scored for 1 and “no” for 0. Following the authors’ instruction, higher values indicated more loneliness.
+      
+      Statistical analysis
+      The Statistical Package for Social Sciences (SPSS) version 19.0 was used to enter
+         and analyze data. Cluster effect was taken into account when computing confidence
+         intervals, according to Rumeau-Rouquette et al. [43]. Percentages were used to present nominal variables, while means and standard deviations
+         were applied for presenting continuous variables. The Chi Square test was used for
+         cross tabulation of qualitative variables in bivariate analysis, while the Student
+         T test was used to compare the means between genders.
+      
+   
+

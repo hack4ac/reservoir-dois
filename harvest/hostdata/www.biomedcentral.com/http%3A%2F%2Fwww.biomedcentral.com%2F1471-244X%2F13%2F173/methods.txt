@@ -1,0 +1,255 @@
+Methods
+   
+      Study design
+      In a pragmatic cluster randomised controlled trial key workers and their patients
+         are randomly allocated to the experimental condition using DIALOG+ or the control
+         condition with regular ratings of satisfaction using the DIALOG Scale on a tablet.
+         Both conditions are in addition to treatment as usual. There are four data collection
+         points: baseline, and 3, 6 and 12 month follow-ups.
+      
+      Key workers are recruited from Community Mental Health Teams in East London (East
+         London NHS Foundation Trust). We aim to recruit a maximum of seven patients per key
+         worker. If necessary, the patients to approach for participation are randomly selected
+         from the pool of eligible patients on a key worker’s caseload. However, this is rare,
+         and usually we recruit fewer than seven patients per key worker. Once all consenting
+         patients (per key worker) meeting the inclusion criteria have been recruited, the
+         key worker – and their patients – are randomly allocated to either the intervention
+         or control condition. Clustering of clinicians prevents contamination effects in the
+         study. Randomisation is carried out via e-mail by an independent statistician at the
+         Pragmatic Clinical Trials Unit of Queen Mary, University of London. The unit of randomisation
+         is the key worker using randomly permuted blocks with variable block sizes and equal
+         allocation ratio.
+      
+      Key workers use the intervention with their patients for a period of six months. Midway
+         through receiving the intervention (3 months), at the end of the intervention period
+         (6 months), and after a 6 month follow-up period patients are interviewed by researchers
+         and outcomes assessed. These assessments are conducted on NHS sites or in the community.
+      
+      Researchers assessing the outcomes are blinded to the allocation of the patients.
+         If blinding cannot be maintained, we put researchers working at the Unit for Social
+         and Community Psychiatry at Queen Mary, University of London (who are independent
+         of the core research team) into contact with patients via telephone for conducting
+         the assessment of the primary outcome and, as far as feasible, secondary outcomes.
+         In such cases, patients are asked not to discuss the treatment they received for the
+         duration of the call.
+      
+      Planned interventions
+      Key workers and their patients in the experimental condition are instructed to use
+         DIALOG+ at least once per month over a six month period, although this may vary due
+         to the practical organisation of care. DIALOG+ is used as defined in the accompanying
+         manual, and the DIALOG 2.0 software runs on a tablet. All key workers in the experimental
+         group are trained in one session before beginning the intervention. The training is
+         provided by two experienced clinicians who are independent of the research study team
+         (both qualified in psychological treatments), with the number of training sessions
+         divided between the two. For practical reasons, the majority of training is carried
+         out one to one. During the training session, key workers are provided with reading
+         material and the DIALOG+ manual, have the procedure demonstrated to them, participate
+         in a role-play exercise, and have the opportunity to watch videos. For each key worker,
+         the first DIALOG+ session with a patient is audio-recorded and feedback is provided
+         by their trainer via a follow-up session. A subsequent DIALOG+ session is also audio-recorded
+         to provide further feedback. Throughout the duration of the study key workers can
+         contact the trainers for further sessions for support and advice at any time.
+      
+      Key workers and patients in the experimental group may decide to continue with DIALOG+
+         after the end of the six month intervention. This will be documented and considered
+         in the analysis of outcomes after the follow-up period.
+      
+      The control condition includes treatment as usual plus a defined intervention that
+         also involves the use of a tablet and an assessment of the patient’s satisfaction.
+         The patients use the device to rate their satisfaction on the 11 domains of the DIALOG
+         scale. The intervention is delivered with the same frequency as DIALOG+, with such
+         assessments being undertaken after a routine meeting. The key workers are instructed
+         to demonstrate the software to the patients prior to their first time completing the
+         scale. Patients need to complete the scale alone without the key worker’s help, and
+         patients and key workers are not to discuss the ratings. This is intended to control
+         for the effect of the implementation of an electronic device in the clinical setting
+         and the regular assessment of satisfaction.
+      
+      Inclusion and exclusion criteria
+      To reflect the pragmatic nature of the trial, there are wide inclusion criteria and
+         very few exclusion criteria for both clinicians and patients. The inclusion criteria
+         for patients are wider than in the original DIALOG trial to test whether patients
+         with more acute disorders, who have not been in care for many years and whose treatment
+         in secondary services may not continue for another year, can also be recruited and
+         benefit from the intervention.
+      
+      Key workers
+      Clinicians are key workers currently employed in the East London NHS Foundation Trust,
+         working in community mental health teams and meeting the following criteria:
+      
+      • Professional qualification as a clinician (nurse, social worker, psychologist, occupational
+         therapist, doctor);
+      
+      • More than 6 months experience of working in community mental health care;
+      • Working as care coordinator.
+      Clinicians are excluded if they have to attend a scheduled training course of more
+         than two weeks’ time during the study period and will not continue their care-coordinating
+         role whilst attending training.
+      
+      Patients
+      We recruit patients in the East London NHS Foundation Trust, currently treated in
+         a community mental health care team, fulfilling the following criteria:
+      
+      • Treatment in a community mental health care team for at least one month;
+      • No planned discharge for the next six months;
+      • Clinical diagnosis of schizophrenia or a related disorder (F20-29);
+      • Age between 18 and 65 years;
+      • A mean score of lower than 5 on the MANSA;
+      • Capacity to give informed consent.
+      Exclusion criteria
+      
+      • Insufficient command of the English language for conducting meetings in English
+         and filling in the assessment instruments of outcomes;
+      
+      • A mean score of 5 or more on the MANSA;
+      • Learning difficulties.
+      Outcome measures
+      Outcomes are assessed at baseline and after 3, 6, and 12 months.
+      The primary outcome is subjective quality of life, measured on the Manchester Short
+         Assessment of Quality of Life (MANSA) (as in the original trial testing DIALOG) 
+         					[11]
+      
+      Secondary outcomes for the trial are:
+      • Recovery as measured on the severity parts of each of the 24 items of the CHOICE
+         scale 
+         					[12] (satisfaction, i.e. the second part of each item, is already assessed on the MANSA)
+      
+      • Objective Social Outcomes (SIX) 
+         					[13], also assessed using the MANSA (sections 2 and 3), at 6 and 12 months only
+      
+      • Social contacts in the last week in a structured interview
+      • Treatment Satisfaction on the Client Satisfaction Questionnaire (CSQ-8) 
+         					[14]
+      
+      • The Therapeutic Relationship on the Scale for Assessing Therapeutic Relationships
+         in community mental health care (patient and clinician versions) 
+         					[15]
+      
+      • Needs on the Camberwell Assessment of Need Short Appraisal Schedule, patient-rated
+         version 
+         					[16]
+      
+      • Self-Efficacy on the General Self-Efficacy Scale 
+         					[17]
+      
+      • Psychopathological Symptoms on the Brief Psychiatric Rating Scale 
+         					[18]
+      
+      • Costs of care, assessed on the Client Service Receipt Inventory 
+         					[19], i.e. data on the use and frequency of inpatient care, outpatient care (face to face
+         meetings), and other health services which are obtained from case notes, electronic
+         databases and patients themselves.
+      
+      • Mental well-being on the Warwick-Edinburgh Mental Well-Being Scale (WEMWBS) 
+         					[20].
+      
+      All outcomes are assessed at baseline and after 3, 6, and 12 months.
+      Qualitative assessments
+      For assessing the feasibility of the intervention, adherence to the manual and its
+         effects in the patient-clinician meetings, each patient-clinician pair in the intervention
+         group has one of their meetings video-taped (or when unpractical audio-taped) and
+         analysed. In the control group, we do the same for 20% of the sample. Adherence to
+         manual in the intervention group is assessed against the manual for DIALOG+, using
+         an adherence scale developed by the research team.
+      
+      The software records automatically what domains were explicitly discussed in DIALOG+
+         and what actions were agreed. This information is synchronised to a server that un-blinded
+         members of the research team have access to.
+      
+      At the end of the intervention, separate focus groups will be conducted and audio-taped
+         with patients and clinicians in the intervention group to obtain their experiences
+         and suggestions for improvements.
+      
+      Statistical analysis
+      The primary analysis of subjective quality of life as measured on the MANSA will be
+         conducted using a generalised linear model with a fixed effect for treatment and baseline
+         MANSA score and a random effect for key worker to account for clustering.
+      
+      Secondary outcomes will be analysed using a similar approach, with adjustment for
+         corresponding baseline values.
+      
+      Sensitivity analyses will be performed to explore the impact of missing data on our
+         conclusions.
+      
+      All analysis will be conducted under the intention to treat principle and significance
+         testing will be at the 5% level (2-sided). A full analysis plan will be developed
+         and agreed prior to any analysis or unblinding of the data. Results will be presented
+         to follow the recommendations given in the CONSORT statement extension for the reporting
+         of cluster randomised trials.
+      
+      Economic evaluation
+      The cost of the DIALOG and DIALOG+ interventions are expected to be low and will mainly
+         comprise any extra time spent with the patient to administer the intervention. There
+         will though be costs associated with (i) refining the procedure and developing DIALOG+
+         (but when apportioned across all patients who might receive the intervention these
+         will be minimal), and (ii) training key workers in their use. A nominal developmental
+         cost per patient will be included and resources and time required for training will
+         be measured and costed. Total costs will be calculated by combining the intervention
+         costs with those associated with the use of other services. Cost differences will
+         be analysed using bootstrap methods due to the expected skewness in the data distributions.
+         Costs will be combined with the primary outcome measure in the form of a cost-effectiveness
+         analysis. If costs are lower for one group than another and outomes are better then
+         it will be ‘dominant’ in terms of cost-effectiveness. If costs are higher and outcomes
+         are better then an incremental cost-effectiveness ratio will indicate the extra costs
+         incurred to produce an extra unit-improvement in quality of life. Uncertainty around
+         these estimates will be analysed using cost-effectiveness planes and cost-effectiveness
+         acceptability curves 
+         					[21].
+      
+      Qualitative analysis
+      Videotapes will be analysed according to specific criteria (using a purposely developed
+         adherence scale) for adherence to the manual. Audiotapes from focus groups will be
+         analysed using thematic analysis.
+      
+      Proposed sample size
+      We aim to recruit 42 key workers in total; with each key worker providing an average
+         of four to five patients, providing a total of 180 patients.
+      
+      Assuming a practically negligible cluster effect (as in the original trial) the sample
+         size will be sufficient to detect a medium effect size of 0.5 (Cohen’s D) with 80%
+         power at the 5% significance level (2-sided). A slightly higher effect of 0.57 will
+         be detected with 90% power.
+      
+      The effect size of 0.5 would require that at the end of the intervention patients
+         in the experimental condition rate their satisfaction with at least 3 out of 12 life
+         domains in the MANSA at least one point higher than patients in the control condition.
+      
+      This sample size allows for a cluster attrition rate of 6 key workers (30 patients)
+         and a patient dropout rate of less than 10%.
+      
+      Recruiting participants and obtaining informed consent
+      Clinicians working in Community Mental Health Teams in the East London boroughs of
+         Hackney, Newham and Tower Hamlets are approached by the managers of East London NHS
+         Foundation Trust and asked to participate in the study. Written informed consent to
+         participate is obtained from individual key workers.
+      
+      Key workers, supported by research and administrative staff, identify patients on
+         their caseloads fulfilling the inclusion criteria, and then ask suitable patients
+         for consent to be approached by a researcher. If the answer is yes, a researcher arranges
+         a meeting with the patient to provide an information sheet and to discuss the project
+         in full. At the meeting, the researcher goes through the information sheet, explains
+         the study, obtains written informed consent, and establishes all inclusion criteria.
+      
+      Patients are informed through their consent forms that they are free to withdraw from
+         the study at any time, without giving reason and without any negative consequences.
+         This will be emphasised by the researcher in all discussions explaining the study
+         and prior to taking informed consent.
+      
+      As part of this process we obtain consent for one of the patient’s sessions with their
+         key worker to be video recorded in order to assess adherence to the procedure, and
+         for patients to attend an audio-recorded focus group at the end of their intervention
+         period to discuss their experiences with other patients. This is optional for patients,
+         and if they do not wish to be video recorded or take part in the focus group this
+         will not impact on their participation in the study.
+      
+      Ethics approval
+      The study has been approved by the London-Stanmore National Research Ethics Service
+         Committee (REC reference 12/LO/1145). All data will be stored in line with the Data
+         Protection Act. All audio and video recorded data will be encrypted and password protected.
+      
+      Trial steering committee and data monitoring and ethics committee
+      Both a Trial Steering Committee and a Data Monitoring and Ethics Committee have been
+         set up. No formal interim efficacy analyses have been planned.
+      
+   
+

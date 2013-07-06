@@ -1,0 +1,48 @@
+Methods
+   
+      Study subjects
+      The study included index patients from 145 breast and/or ovarian cancer families who
+         have been assessed and confirmed to be negative for BRCA1/2 germ line mutations and described previously (Group 1) [38]. After identification of mutations from the entire coding region of the CHEK2 gene in this cohort, an additional cohort of 229 BRCA1/2-negative high-risk patients was screened for the two identified mutations (Group
+         2). The index cases were identified using the following criteria: i) families with
+         one female breast cancer diagnosed ≤30 years of age, ii) families with two first-
+         or second-degree (through a male) female relatives diagnosed with breast cancer; at
+         least one diagnosed ≤50 years of age, iii) families with at least three cases of breast
+         cancer; at least one diagnosed ≤50 years of age, iv) families with one male breast
+         cancer case diagnosed at any age, v) families with at least one female breast cancer
+         and one ovarian cancer at any age, vi) families with one ovarian cancer diagnosed
+         ≤45 years of age and vii) families with at least two ovarian cancers; at least one
+         diagnosed ≤45 years of age. Breast and ovarian cancer in the same patient were counted
+         as two independent cases. The number of index cases by phenotype for Group 1 and Group
+         2 are shown in Table&nbsp;1.
+      
+      Table 1. Description of index cases screened for CHEK2 mutations
+      Control population comprised 150 healthy females of Pakistani origin. These were either
+         attendants of hospital registered patients or visiting the cancer centre for medical
+         reasons other than cancer. All study participants were furnished with and signed an
+         informed written consent. The study was approved by the Institutional Review Board
+         of the SKMCH &amp; RC.
+      
+      Mutation screening
+      Genomic DNA was extracted as previously described [38]. The entire coding region and exon-intron junctions of the CHEK2 gene (Genbank accession number NM_007194.2) were screened in the 145 index patients
+         using denaturing high-performance liquid chromatography (DHPLC) analysis. DHPLC analysis
+         was carried out with the WAVE system (Transgenomics, Omaha, NE). Since multiple homologous
+         copies are present for exons 10–14 of this gene, a nested PCR approach was employed
+         as previously described [40]. PCR-primer pairs and DHPLC running conditions for exon 1 and exons 4–14 were according
+         to Dufault and colleagues [41] and for exons 2 and 3 according to Kleibl and colleagues [42]. When available, a mutation positive control for each exon was included in the DHPLC
+         analyses.
+      
+      The presence of the CHEK2 mutations identified in Group 1 was subsequently assessed in the 229 BRCA1/2-negative high-risk cases of Group 2 and in 150 healthy female controls.
+      
+      DNA sequence analysis
+      Each sample showing variants detected by DHPLC analysis was sequenced using an automated
+         DNA CEQ 8000 sequencer (Beckman, Hilden, Germany) according to the manufacturers’
+         instructions. Bi-directional genomic DNA sequencing was performed to verify the presence
+         of a mutation.
+      
+      In silico analyses
+      
+      CHEK2 missense variants (p.P92R; p.R406C) were analyzed for their potential effect on protein
+         function using the default settings of web tools Align-GVGD (http://agvgd.iarc.fr/agvgd_input.php webcite), PolyPhen2 (http://genetics.bwh.harvard.edu/pph2 webcite), SIFT (http://sift.jcvi.org webcite) and SNAP (http://www.rostlab.org/services/snap webcite).
+      
+   
+

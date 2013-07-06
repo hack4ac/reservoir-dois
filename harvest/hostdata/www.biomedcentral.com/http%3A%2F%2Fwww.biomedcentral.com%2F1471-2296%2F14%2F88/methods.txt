@@ -1,0 +1,105 @@
+Methods
+   
+      Participants and recruitment
+      Participants were recruited as part of the Renal Risk in Derby (RRID) study, a prospective
+         cohort study of people with CKD stage 3 in a primary care setting. The methods for
+         the RRID study have been published in detail elsewhere 
+         					[24]. In summary, eligible participants were 18&nbsp;years or over, met the Kidney Disease
+         Outcomes Quality Initiative criteria for CKD stage 3 (estimated GFR [eGFR] of between
+         30 to 59&nbsp;ml/min per 1.73&nbsp;m2 on two or more occasions at least 3&nbsp;months apart prior to recruitment), were able
+         to give informed consent, and were able to attend their general practitioner (GP)
+         surgery for assessments. People who had previously had a solid organ transplant or
+         who were terminally ill (expected survival &lt;1&nbsp;years) were excluded. The RRID study
+         is conducted by a single nephrology department, but participants were recruited directly
+         from 32 GP surgeries. Eligible patients were invited to participate via a letter sent
+         by their GP and telephoned the coordinating centre to schedule a study visit. Study
+         visits were conducted at participating GP surgeries by the researchers.
+      
+      Data collection
+      First study visits were conducted from August 2008 to March 2010. Screening and baseline
+         visits were combined due to the large proportion of elderly participants and the logistical
+         challenges associated with conducting study visits in multiple primary care centres.
+         Participants were sent a medical and dietary questionnaire as well as three urine
+         specimen bottles, and were asked not to eat cooked meat for at least 12&nbsp;hours before
+         the assessment. Urine was collected as three early morning samples. Socioeconomic
+         status (SES) was defined by two methods. First, using the Indices of Multiple Deprivation
+         score (IMD); a social deprivation score comprising a composite measure of seven domains
+         which demonstrates a strong relationship to health in all geographical locations 
+         					[25]. Second, self-reported education status was collected; an important indicator of
+         socioeconomic status in elderly populations 
+         					[26]. Education status was categorised into eight groups (no formal qualifications, General
+         certificate of Secondary Education (GCSE) or equivalent, Advanced level (A level),
+         National Vocational Qualification (NVQ) 1–3, NVQ 4–5, first degree, higher degree,
+         patient refused to answer), subsequently grouped into three for the purposes of analysis
+         (group one: no formal qualifications, group two: GCSE or equivalent, A level, or NVQ
+         1–3, group three: first or higher degree, NVQ 4–5). Self-reported ethnicity information
+         was collected, but due to the small number of non-white participants in this study,
+         it was categorized into ‘White’ and ‘Other’ for the purposes of analysis.
+      
+      At the assessment, information on questionnaires was checked, anthropomorphic measurements
+         taken, and urinalysis performed. Blood specimens were taken and the three urine specimens
+         were submitted for biochemical analysis. eGFR was calculated using the modified 4-variable
+         Modified Diet in Renal Disease equation and categorised into four groups (&gt;60, 45–59,
+         30–44, &lt; 30) 
+         					[27]. Albuminuria was defined as albumin/creatinine ratio (ACR) ≥2.5&nbsp;mg/mmol in men ≥3.5&nbsp;mg/mmol
+         in women in at least two of the three urine specimens (≥3&nbsp;mg/mmol in all people for
+         the KDIGO guideline analyses). BMI was calculated from weight in kg divided by height
+         squared in metres and categorised according to World Health Organization (WHO) categories
+         underweight (&lt;18.5&nbsp;kg/m2), normal (18.5 – &lt;25&nbsp;kg/m2), overweight (25- &lt; 30&nbsp;kg/m2), and obese (&gt; = 30&nbsp;kg/m2) 
+         					[28]. Central obesity was defined as a waist to hip ratio of ≥0.9 for men or ≥0.8 for
+         women 
+         					[29]. Diabetes was defined by having a previous clinical diagnosis in line with WHO criteria
+         
+         					[30]. Previous cardiovascular event was defined as subject-reported myocardial infarction,
+         stroke, transient ischemic attack, revascularization, or amputation due to peripheral
+         vascular disease, or aortic aneurysm. Smoking status was categorized as never smoked,
+         ex-smoker, and current smoker. Self-reported alcohol consumption was categorized by
+         units per week as never drinking alcohol, drinking within recommended limits (&lt;21
+         units for women, &lt;28 units for men), and drinking above recommended limits. Blood
+         pressure was measured after a minimum of five minutes rest in the sitting position,
+         using a validated oscillometric device, recommended by the British Hypertension Society
+         (Digital Blood Pressure Monitor Model UA-767, A&amp;D Instruments Ltd, Abingdon, UK).
+         The same device was used for all readings. BP was calculated as the mean of three
+         readings that differed by &lt;10%. Mean arterial pressure (MAP) was calculated as 1/3
+         the average SBP plus 2/3 the average DBP.
+      
+      For the purposes of analysis, hypertension was defined as current antihypertensive
+         medication, but those with a systolic BP &gt;140&nbsp;mmHg or diastolic BP &gt;90&nbsp;mmHg at baseline
+         who were not on medication were also identified for descriptive purposes 
+         					[31]. Target BP threshold was defined according to three clinical guidelines: the UK NICE
+         guidelines BP target (&lt;140/90 or &lt;130/80 in people with diabetes and people with ACR &gt; 70&nbsp;mg/mmol),
+         the US NKF KDOQI guidelines BP target (&lt;130/80 for all people with CKD), and the KDIGO
+         guidelines (≤140/90 or 130/80 in people with albuminuria) 
+         					[19,21,22].
+      
+      Participants were asked ‘Were you told that you may have an issue with your kidneys
+         before you were contacted to take part in this study?’ Those answering ‘yes’ were
+         defined as being aware of their CKD diagnosis. The study was approved by the Nottingham
+         Research Ethics Committee 1. All participants provided written informed consent. The
+         study was included on the National Institute for Health Research (NIHR) Clinical Research
+         Portfolio (NIHR Study ID:6632) and was independently audited by QED Clinical Services
+         in November 2009.
+      
+      Statistical analyses
+      In the population of people with hypertension on antihypertensive medication, standard
+         descriptive statistics were used to compare the characteristics of people achieving
+         and not achieving BP control by NICE, KDOQI, and KDIGO BP targets. Univariate and
+         multivariable logistic regression (adjusting for age, sex, albuminuria, diabetes,
+         CVD, and eGFR) was used to identify the factors associated with achievement of the
+         three BP targets. A model excluding CVD was also constructed to assess the effect
+         of this variable on outcomes in view of the potential for CVD to cause lower BP through
+         heart failure. Sensitivity analyses were conducted in participants whose baseline
+         eGFR was &lt;60&nbsp;ml/min/1.73&nbsp;m2. The logistic regression analyses were also repeated to examine the associations
+         of people achieving NICE systolic and diastolic targets separately. Interaction terms
+         were introduced for gender by diabetes, age by diabetes, and diabetes by albuminuria
+         because of the effect modification seen among these variables in some studies 
+         					[32]. Chi squared test for trend was used to examine the degree of BP control by grade
+         of albuminuria in people with and without diabetes. For people on antihypertensive
+         medication or those with elevated BP identified at study registration, multivariable
+         linear regression was used to investigate the association between number of antihypertensive
+         medications and MAP. All odds ratios are presented with 95% confidence intervals (CIs)
+         and p values &lt;0.05 are considered statistically significant. IBM SPSS Statistics for
+         Windows version 19 was used to analyse the data.
+      
+   
+

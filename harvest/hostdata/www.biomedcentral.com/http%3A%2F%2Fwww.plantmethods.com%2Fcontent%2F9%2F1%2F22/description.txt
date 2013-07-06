@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Receptor-like protein kinases (RLKs) are a large and important group of plant proteins involved in numerous aspects of development and stress response. Within this family, homo-oligermization of receptors followed by autophosphorylation of the intracellular protein kinase domain appears to be a widespread mechanism to regulate protein kinase activity.  In vitro  studies of several RLKs have identified autophosphorylation sites involved in regulation of catalytic activity and signaling  in vivo . Recent work has established that multiple RLKs are biochemically active when expressed in  E. coli  and readily autophosphorylate prior to purification or subsequent manipulation. This observation has led us to develop a simplified method for assaying RLK phosphorylation status as an indirect measure of intrinsic autophosphorylation activity. The method involves expressing a recombinant RLK protein kinase domain in  E. coli , followed by SDS-PAGE of boiled cell lysate, and sequential staining with the phosphoprotein stain Pro-Q Diamond and a colloidal Coomassie total protein stain. We show this method can be used to measure and quantify  in vitro  autophosphorylation levels of recombinant wildtype and mutant versions of the Arabidopsis RLK HAESA, as well as to detect transphosphorylation activity of recombinant HAESA against a protein kinase inactive version of itself. Our method has several advantages over traditional protein kinase assays. It does not require protein purification, transfer, blotting, or radioactive reagents. It allows for rapid and quantitative assessment of autophosphorylation levels and should have general utility in the study of any autophosphorylating protein kinase expressed in  E. coli .
+
+			
+		

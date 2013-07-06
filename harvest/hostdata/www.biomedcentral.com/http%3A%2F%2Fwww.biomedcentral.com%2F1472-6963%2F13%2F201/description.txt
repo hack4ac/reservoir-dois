@@ -1,0 +1,41 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Previous research suggests that lifestyle intervention for the prevention of diabetes and cardiovascular disease (CVD) are effective, however little is known about factors affecting participation in such programs. This study aims to explore factors influencing levels of participation in a lifestyle modification program conducted as part of a cluster randomized controlled trial of CVD prevention in primary care.
+
+				
+				
+					
+						Methods
+
+					
+					This concurrent mixed methods study used data from the intervention arm of a cluster RCT which recruited 30 practices through two rural and three urban primary care organizations. Practices were randomly allocated to intervention (n = 16) and control (n = 14) groups. In each practice up to 160 eligible patients aged between 40 and 64 years old, were invited to participate. Intervention practice staff were trained in lifestyle assessment and counseling and referred high risk patients to a lifestyle modification program (LMP) consisting of two individual and six group sessions over a nine month period. Data included a patient survey, clinical audit, practice survey on capacity for preventive care, referral and attendance records at the LMP and qualitative interviews with Intervention Officers facilitating the LMP. Multi-level logistic regression modelling was used to examine independent predictors of attendance at the LMP, supplemented with qualitative data from interviews with Intervention Officers facilitating the program.
+
+				
+				
+					
+						Results
+
+					
+					A total of 197 individuals were referred to the LMP (63% of those eligible). Over a third of patients (36.5%) referred to the LMP did not attend any sessions, with 59.4% attending at least half of the planned sessions. The only independent predictors of attendance at the program were employment status - not working (OR: 2.39 95% CI 1.15-4.94) and having high psychological distress (OR: 2.17 95% CI: 1.10-4.30). Qualitative data revealed that physical access to the program was a barrier, while GP/practice endorsement of the program and flexibility in program delivery facilitated attendance.
+
+				
+				
+					
+						Conclusion
+
+					
+					Barriers to attendance at a LMP for CVD prevention related mainly to external factors including work commitments and poor physical access to the programs rather than an individuals’ health risk profile or readiness to change. Improving physical access and offering flexibility in program delivery may enhance future attendance. Finally, associations between psychological distress and attendance rates warrant further investigation.
+
+				
+				
+					
+						Trial ...

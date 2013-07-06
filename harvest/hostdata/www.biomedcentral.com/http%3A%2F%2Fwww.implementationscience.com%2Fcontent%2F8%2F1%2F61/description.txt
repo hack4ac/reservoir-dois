@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Long waits for core specialized services have consistently been identified as a key barrier to access. Governments and organizations at all levels have responded with strategies for better wait list management. While these initiatives are promising, insufficient attention has been paid to factors influencing the implementation and sustainability of wait time management strategies (WTMS) implemented at the organizational level.
+
+				
+				
+					
+						Methods
+
+					A systematic review was conducted using the main electronic databases, such as CINAHL, MEDLINE, and Cochrane Database of Systematic Reviews, to identify articles published between 1990 and 2011 on WTMS for scheduled care implemented at the organizational level or higher and on frameworks for analyzing factors influencing their success. Data was extracted on governance, culture, resources, and tools. We organized a workshop with Canadian healthcare policy-makers and managers to compare our initial findings with their experience.
+
+				
+				
+					
+						Results
+
+					Our systematic review included 47 articles: 36 related to implementation and 11 to sustainability. From these, we identified a variety of WTMS initiated at the organizational level or higher, and within these, certain factors that were specific to either implementation or sustainability and others common to both. The main common factors influencing success at the contextual level were stakeholder engagement and strong funding, and at the organizational level, physician involvement, human resources capacity, and information management systems. Specific factors for successful implementation at the contextual level were consultation with front-line actors and common standards and guidelines, and at the organizational level, financial incentives and dedicated staffing. For sustainability, we found no new factors. The workshop participants identified the same major factors as found in the articles and added others, such as information sharing between physicians and managers.
+
+				
+				
+					
+						Conclusions
+
+					Factors related to implementation were studied more than those related to sustainability. However, this finding was useful in developing a tool to help managers at the local level monitor the implementation of WTMS and highlighted the need for more research on specific factors for sustainability and to assess the unintended consequences of introducing WTMS in healthcare organizations.
+
+				
+			
+		

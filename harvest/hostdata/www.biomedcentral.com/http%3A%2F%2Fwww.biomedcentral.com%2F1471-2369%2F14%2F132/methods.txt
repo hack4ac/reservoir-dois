@@ -1,0 +1,118 @@
+Methods
+   
+      Study design
+      NHANES is conducted by the National Center of Health Statistics, Centers for Disease
+         Control and Prevention, as a cross-sectional, stratified, multistage probability sample
+         survey of the US civilian, noninstitutionalized population [24,25]. NHANES data are derived from direct interviews regarding medical history, medication
+         use and diet, as well as clinical examinations performed at mobile examination centers
+         (including BP measurements) and laboratory tests (including blood and urine biochemistries).
+      
+      From 1999, NHANES became a continuous survey, with no break between study cycles,
+         and data are released in 2-year increments; this analysis used pooled data from the
+         5 most recent study cycles: 2001–2002, 2003–2004, 2005–2006, 2007–2008 and 2009–2010.
+         Data from the 2001–2002 study cycle were included in this analysis to enable the assessment
+         of linear trends in CV risk factor treatment and control before and after the release
+         of current lipid and BP treatment guidelines for patients with CKD in 2003 and 2004,
+         respectively [11,12]. NHANES 2001–2010 received approval from the National Center for Health Statistics
+         research ethics review board, and written informed consent was obtained from all NHANES
+         participants [24].
+      
+      Sample population
+      From the total 2001–2010 NHANES population of 52,195 participants, after excluding
+         participants &lt;20 years of age (n=24,611), participants that did not attend the mobile
+         examination center (n=1,276), participants without fasting laboratory measurements
+         (15,162), pregnant women (n=407), participants with missing lipid or BP data (n=788)
+         and participants with Stage 5 CKD (n=36), a sample population of 9,915 participants
+         was identified for analysis. This analysis was restricted to the fasting subsample
+         of NHANES to enable the identification of participants with diabetes and hyperlipidemia,
+         the definitions of which require valid fasting plasma glucose and LDL-C levels, respectively
+         (described in further detail below). NHANES participants are randomly selected for
+         inclusion in the fasting subsample and instructed to fast for 8 to &lt;24 hours prior
+         to blood specimens being taken for laboratory testing [25].
+      
+      Data were stratified by CKD stage, categorized according to the presence of kidney
+         damage (based on albuminuria) and level of decline in kidney function (based on estimated
+         glomerular filtration rate [eGFR]). Albuminuria was defined as a urinary albumin–creatinine
+         ratio of ≥30 mg/g. eGFR was calculated from serum creatinine concentration using the
+         Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation [26]: eGFR = 141 × min(SCr/κ, 1)α × max(SCr/κ, 1)-1.209 × 0.993Age × 1.018 if female × 1.159 if black, where SCr is serum creatinine, κ is 0.7 for females
+         and 0.9 for males, α is -0.329 for females and -0.411 for males, min indicates the
+         minimum of SCr/κ or 1, and max indicates the maximum of SCr/κ or 1. CKD staging used
+         a modification of National Kidney Foundation (NKF) criteria [1]: Stage 1, albuminuria with an eGFR ≥90 mL/min/1.73 m2; Stage 2, albuminuria with an eGFR 60–89 mL/min/1.73 m2; Stage 3 was subdivided into Stage 3a, an eGFR 45–59 mL/min/1.73 m2, and Stage 3b, an eGFR 30–44 mL/min/1.73 m2; and Stage 4, an eGFR 15–29 mL/min/1.73 m2. Individuals with Stage 5 CKD (&lt;15 mL/min/1.73 m2) and those on dialysis were not included in the study due to the likelihood of confounding
+         from the small number of individuals within these groups.
+      
+      Data collection and laboratory measurements
+      All disease history and drug utilization was self-reported based on the NHANES questionnaire.
+         CVD was a composite of self-reported CHD, stroke or congestive heart failure. CHD
+         was identified by self-report of CHD, angina or myocardial infarction (MI). Presence
+         of diagnosed or undiagnosed diabetes was identified by self-report of diabetes, self-reported
+         use of insulin or oral medications for diabetes, or a fasting plasma glucose ≥126
+         mg/dL. Hyperlipidemia was defined as fasting levels of LDL-C above the specific goal
+         for each CHD risk category designated in the National Cholesterol Education Program
+         Adult Treatment Panel III (NCEP ATP III) guidelines [27] (LDL-C level ≥160 mg/dL for individuals with ≤1 CHD risk factor, ≥130 mg/dL for individuals
+         with ≥2 CHD risk factors, and ≥100 mg/dL for individuals with a history of CHD or
+         CHD risk equivalents), or self-reported use of lipid-lowering agents (including statins,
+         fibric acid derivatives, bile acid sequestrants, cholesterol absorption inhibitors
+         and other antihyperlipidemic agents). CHD risk factors included cigarette smoking,
+         hypertension (BP ≥140/90 mmHg or on antihypertensive medication), low levels of high-density
+         lipoprotein cholesterol (HDL-C; &lt;40 mg/dL), family history of premature CHD (male
+         first-degree relative &lt;55 years; female first-degree relative &lt;65 years), and older
+         age (men ≥45 years; women ≥55 years). CHD risk equivalents included diabetes and 2
+         or more risk factors conferring a 10-year risk for CHD &gt;20%; information on non-coronary
+         forms of atherosclerotic disease (peripheral arterial disease, abdominal aortic aneurysm,
+         and symptomatic carotid artery disease; also considered CHD risk equivalents) was
+         not available in NHANES. BP measurements in NHANES were performed 3–4 times manually
+         with a mercury sphygmomanometer according to a standard protocol [25]. The first reading was excluded and the remaining readings were used to compute average
+         BP. Hypertension was defined as an average BP &gt;130 mmHg systolic or &gt;80 mmHg diastolic,
+         or self-reported use of antihypertensive agents (including β-blockers, calcium channel
+         blockers, diuretics, angiotensin-converting enzyme inhibitors, angiotensin receptor
+         blockers and other BP-lowering agents).
+      
+      Methods for quantifying measures of kidney damage and kidney function have been described
+         elsewhere [25]. Briefly, urinary albumin was measured using a solid-phase fluorescent immunoassay.
+         Urinary creatinine was measured by one of two methods: a Jaffé rate (kinetic alkaline
+         picrate) method (prior to 2007) and an enzymatic (creatinase) method (from 2007 on).
+         Serum creatinine was measured using the Jaffé rate method. Methods for determining
+         blood lipid levels in NHANES have been described previously [25]. Briefly, total cholesterol was measured enzymatically on the basis of hydrogen peroxide
+         generation. In 2001–2002, high-density lipoprotein cholesterol (HDL-C) was measured
+         using two methods, heparin–manganese precipitation and a direct immunoassay, depending
+         on the participant age and amount of specimen. From 2003, all HDL-C measurements used
+         the direct immunoassay method. Triglyceride levels were measured after hydrolysis
+         to glycerol. LDL-C levels were calculated from measured values of total cholesterol,
+         triglycerides (≤400 mg/dL) and HDL-C according to the Friedewald calculation [25]. Plasma glucose was measured using a modified hexokinase enzymatic method [25].
+      
+      Definition of treatment goals
+      Participants were classified as meeting current recommendations on LDL-C or BP treatment
+         goals for patients with CKD [11,12] if their fasting LDL-C level was &lt;100 mg/dL or their BP was ≤130/80 mmHg. A sensitivity
+         analysis to investigate the effect of increasing the threshold for BP goal attainment
+         to ≤140/90 mmHg was also performed. In participants with CKD and concomitant CVD,
+         or CKD and concomitant diabetes, attainment of the optional LDL-C goal of &lt;70 mg/dL
+         [28-30] was also examined.
+      
+      Statistical methods
+      Statistical analyses were performed using survey analysis procedures available in
+         SAS software version 9.22 (SAS Institute Inc., Cary, North Carolina) that take into
+         account the complex sampling scheme of NHANES, and used sampling weights to account
+         for differential probabilities of sample selection and non-response. The fasting sampling
+         weights of the 9,915 participants included in the analysis were adjusted to the July
+         2008 US census population ≥20 years of age (n=221,419,638). Each 2-year fasting sample
+         weight within an NHANES 2-year study cycle was multiplied by the 2008 US census count
+         and divided by the 2-year weighted total sample count from the analysis data set of
+         persons in the 2-year study cycle. The population sizes for each study cycle were
+         180,717,445 for 2001–2002; 184,340,382 for 2003–2004; 190,068,016 for 2005–2006; 201,486,048
+         for 2007–2008; and 203,258,815 for 2009–2010. For example, the fasting sampling weight
+         for each study participant from 2001–2002 was multiplied by 221,419,638/180,717,445;
+         the fasting sampling weight for each study participant from 2003–2004 was multiplied
+         by 221,419,638/184,340,382; and so on for all 5 study periods. Demographic and clinical
+         characteristics of the 2001–2010 NHANES participants with and without CKD were calculated
+         using SURVEYFREQ. Rao-Scott chi-square P values for categorical variables were obtained using SURVEYFREQ. Between-cohort P values for continuous variables were obtained using SURVEYREG. Each continuous outcome
+         was regressed on the indicator variable CKD=1 or No CKD=0, and a contrast statement
+         was used to generate the between-cohort P value. Estimated population prevalences were calculated using SURVEYFREQ and stratified
+         by CKD stage. P values for Stage 1 versus Stage 4 CKD were obtained using SURVEYLOGISTIC. Each outcome
+         was regressed on the 5-level class variable CKD stage (Stage 1, 2, 3a, 3b or 4), and
+         a contrast statement was used to generate the Stage 1 versus Stage 4 P value. Linear trends for utilization of lipid- and BP-lowering agents, and rates
+         of LDL-C or BP goal attainment, over the five 2-year survey cycles were also assessed
+         using SURVEYLOGISTIC, including time as a continuous variable. Statistical tests were
+         2-sided and a P-value &lt;0.05 was considered statistically significant.
+      
+   
+

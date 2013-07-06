@@ -1,0 +1,127 @@
+Methods
+   
+      Identification of MKK and MPK genes in B. napus
+      BnaMKK and BnaMPK gene identification was performed essentially as described previously [44]. Expressed sequence tags (ESTs) representing MKK and MPK genes were retrieved by
+         BLAST searching the NCBI dbEST database (release 110101) using 10 AtMKKs and 20 AtMPKs as the queries, respectively. Only hits with e-values lower than 10-4 were retrieved. Altogether we obtained 18 and 84 unique ESTs representing BnaMKKs and BnaMPKs, respectively. These ESTs were further cleaned, clustered, and assembled and, each
+         of the resultant contigs and singlets were reciprocally BLAST-searched against Arabidopsis
+         to find the best hit, which we designated as the putative ortholog. Subsequently,
+         the amino acids were predicted using open reading frames (ORFs) in DNASTAR (DNASTAR
+         Inc.). At this step, we identified the cDNA (mRNA) sequences of a total of eight BnaMKK and 18 BnaMPK.
+      
+      Plant growth and gene cloning
+      Wild type canola (DH12075) plants were grown in Pindstrup soil mix (Egypt) in a glasshouse
+         with a photoperiod of 16&nbsp;h light (T5 fluorescent tubes with a light intensity of approximately
+         90 μE m-2&nbsp;s-1)/8&nbsp;h dark, and a temperature of 22°C for 7 d. RNA was isolated from seedlings using
+         a Plant RNA kit (Omega Bio-Tek, USA). RNA integrity was checked by electrophoresis
+         on an agarose gel and quantified using the NanoDrop 1000 (NanoDrop Technologies, Inc.,
+         USA). First-strand cDNA was synthesized from 2.5&nbsp;μg of total RNA using RevertAid H
+         minus reverse transcriptase (Fermentas) and oligo(dT)18 primers (Fermentas). PCR primers
+         were designed using PrimerSelect (DNAStar Inc.) or Primer 3 (v0.4.0, http://frodo.wi.mit.edu/ webcite) (Additional file 9: Table S4). PCR was conducted in a 50&nbsp;μL final volume including 0.5&nbsp;μL of cDNA template,
+         1 × Pfu buffer, 200&nbsp;μM deoxynucleotide triphosphates (dNTPs) (Promega), 400 nM of each primer,
+         and 1 unit of Pfu polymerase. The PCR conditions included an initial denaturation at 94°C for 3&nbsp;min,
+         followed by 35&nbsp;cycles of 94°C for 30&nbsp;s, 50°C for 30&nbsp;s, 72°C for 1&nbsp;min per kb, with
+         a final extension at 72°C for 8&nbsp;min. RACE (rapid amplification of cDNA end) was performed
+         as described [44]. PCR products were gel purified using the BioSpin Gel Extraction Kit (Bioer Technology
+         Co., Ltd) and cloned into pJET1.2 vector supplied with the CloneJET PCR cloning kit
+         (Fermentas) and sequenced from the two ends using BigDye reagent in ABI3700 sequencer
+         (Applied BioSystems).
+      
+      Additional file 9: Table S4. Primers used in this study.
+         	Format: XLS 
+         	Size: 33KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Excel Viewer
+      Phylogenetic tree construction and bioinformatics
+      The MKKs and MAPKs/MPKs of Arabidopsis and rice (Oryza sativa subsp. japonica) were downloaded from TAIR10 (http://www.arabidopsis.org webcite) and the rice genome annotation project http://rice.plantbiology.msu.edu/annotation_community_families.shtml webcite[1], respectively. To identify MKKs and MAPKs from other species, we first aligned the amino acid sequences of 10 AtMKKs and 20
+         AtMPKs and generated a hidden Markov model (HMM) for each. Next we performed an HMM-based
+         search (http://hmmer.janelia.org/ webcite) [83], for similar peptide sequences in the sequenced genomes as presented in Phytozome
+         v9.0 (http://www.phytozome.net/ webcite) and also by keyword search in the NCBI database. After that, each retrieved sequence
+         was examined for the conserved MKK and MAPK signature motif sequences. The species
+         searched include Brachypodium distachyon (Bd); Capsicum annuum (Ca); Chlamydomonas reinhartdii (Cr); Euphorbia esula (Ee); Gossypium hirsutum (Gh); Glycine max (Gm); Hordeum vulgare (Hv); Ipomoea batatas (Lb); Malus micromalus (Mm); Medicago sativa (Ms); Nicotiana tabacum (Nb); Ostreococcus tauri (Ot); Petroselinum crispum (Pc); Physcomitrella patens (Pp); Pisum sativum (Ps); Populus trichocarpa (Pt); Ricinus communis (Rc); Selaginella moellendorffii (Sm); Sorghum bicolor (Sb); Solanum lycopersicum (Sl); Saccharum officinarum (So); Solanum tuberosum (St); Triticum aestivum (Ta); Vitis vinifera (Vv) and Zea mays (Zm).
+      
+      The phylogenetic trees of both MKKs and MPKs across various species were produced
+         as described previously [44]. First, the predicted amino acid sequences of MKKs or MPKs were aligned using ClustalX1.83.
+         Then, by using the maximum parsimony (MP) algorithm implemented in MEGA5.1 [84], the bootstrap consensus trees were inferred from 500 replicates to represent the
+         inferred evolutionary history. The amino acid sequences of MKKs or MPKs from a variety
+         of species retrieved from online databases were also identified for the reconstruction
+         of the phylogenetic trees.
+      
+      We analyzed the predicted candidate proteins of BnaMKK and BnaMPK gene families using
+         MEME 4.9.0 (Release date: Wed Oct 3 11:07:26 EST 2012) with the parameters as described
+         previously [47,85]. The maximum number of motifs was set to 10 and the optimum motif width was 6 to
+         50. For prediction of transactivation domain (TAD) of transcription factors, a 9aa
+         TAD prediction program was used (http://www.at.embnet.org/toolbox/9aatad webcite).
+      
+      Subcellular localization and confocal microscopy
+      The coding regions (CDSs) of BnaMKK2, -3, -4 and BnaMPK-3, -5, -6, and -9, were amplified by RT-PCR from the cDNA of canola with primers listed (Additional
+         File 9: Table S4). Both pCsGFPBT (GenBank: DQ370426) binary vector and a modified version,
+         pYJGFP with a Gly-Ala rich peptide linker between CDS and sGFP were used in this study
+         [67]. The modified GFP vector, pYJGFP was made by insertion of multiple cloning sites
+         at Nco I site and sequenced to confirm that it was in-frame. These vectors and BnaMKK or BnaMPK products were digested with corresponding restriction enzymes (Ferments), purified
+         (Bioer) and ligated by T4 DNA ligase (Fermentas) before transformed into DH5α. After confirmed by sequencing,
+         these constructs and p19 protein of tomato bushy stunt virus were transferred into
+         Agrobacterium tumefaciens GV3101 for infiltrating into the leaves of N. benthamiana[86]. P19 can suppress gene silencing in transformed tobacco leaves. AS-media (for 100&nbsp;ml,
+         1&nbsp;ml of 1&nbsp;M MES-KOH, pH&nbsp;5.6, 333&nbsp;μl of 3&nbsp;M MgCl2, 100&nbsp;μl of 150&nbsp;mM acetosyringon [in DMSO, stored in aliquots at -20°C]) was freshly
+         made to resuspend transformed agrobacteria. One mililiter of the culture was taken
+         by sterile single-use syringes to inject into the abaxial air space of tobacco leaves.
+         The leaf section near the injection site was taken and 500&nbsp;mM mannitol was used to
+         treat leaves section for one hour at room temperature to separate the cell wall and
+         protoplast. Observation of GFP signal was performed under a confocal microscope LSM510beta
+         (Carl Zeiss).
+      
+      Fungal pathogen inoculation and stress treatments
+      Wild type canola plants were grown in a greenhouse with a photoperiod of 16&nbsp;h light
+         /8&nbsp;h dark for 18 d. S. sclerotiorum (SX09-904) was a gift provided by Prof. Lili Huang (Northwest A &amp; F University) and
+         was cultured on Potato Dextrose Agar (PDA) mdium. Agar plugs from the front edge of
+         mycelia were used to inoculate the first and the second true leaves with wounding.
+         Leaves inoculated with agar plugs without mycelia were used as mock control. Tissues
+         were harvested at 6 and 24&nbsp;h post inoculation (hpi) and flash frozen in liquid nitrogen
+         before stored at -80°C. Jasmonic acid (JA, Sigma-Aldrich, USA), SA (Sigma-Aldrich,
+         USA), Paraquat (MV, Sigma-Aldrich), abscisic acid ((±)-ABA, Invitrogen, USA), 1-aminocyclopropane-1-carboxylic
+         acid (ACC, Sigma-Aldrich), oxalic acid (OA, Sigma-Aldrich) were sprayed onto the leaves
+         with a concentration of 100&nbsp;μM for JA, 2&nbsp;mM for SA, 50&nbsp;μM for ABA, 25&nbsp;μM for ACC,
+         10&nbsp;μM for Paraquat and 40&nbsp;mM for OA. The preparation of stock solution of JA, SA,
+         and ACC followed our previous procedures [44], while OA was prepared as a 40&nbsp;mM stock solution as described in [87]. The whole process was repeated three times at independently time and thus three
+         biological replicates were prepared.
+      
+      Quantitative RT-PCR (qRT-PCR)
+      The quantitative reverse transcriptase PCR (qRT-PCR) was performed as described earlier
+         [44] with modifications. Total RNA samples were isolated from treated and non-treated
+         canola leaves using Plant RNA kit (Omega, USA), quantified by NanoDrop (NanoDrop Technologies,
+         Inc.) with the integrity checked on 1% (w/v) agarose gel. RNA samples were transcribed
+         into cDNAs by using RevertAid H minus reverse transcriptase (Fermentas,) and oligo(dT)18 primers (Fermentas). Primers used for qRT-PCR were designed using PrimerSelect program
+         of DNASTAR (DNASTAR Inc.) targeting 3’UTR of each genes with amplicon sizes of 75-250&nbsp;bp
+         (Additional file 9: Table S4). Each primer was reciprocally BLAST against the B. napus database in NCBI to eliminate cross-amplification. Primer specificity and amplification
+         efficiency were further checked by running standard curves with melting curves examined.
+         Three independent biological replicates were run and the significance was determined
+         with SPSS software (p &lt; 0.05).
+      
+      Yeast two-hybrid assay
+      Yeast two-hybrid (Y2H) analysis was performed in accordance with the Yeast Protocols
+         Handbook (Clontech, USA). The coding regions of BnaMKK, BnaMPK and BnaWRKY genes were
+         amplified from cDNA fragments of canola by high-fidelity PCR, restricted and cloned
+         into pGBKT7 (BnaMPKs) or pGADT7 (BnaMKKs, BnaWRKYs) vectors, respectively, before transformed into yeast strain AH109 through the lithium
+         acetate method. After selection on media (SD-Leucine-Tryptophan, SD-LT; SD-Leucine-Tryptophan-Histidine + 3’AT,
+         [SD-LTH + 3’AT]; SD-Adenine-Histidine-Leucine-Tryptophan, SD-LTHA), the positive interaction
+         transformants were cultivated into Yeast, peptone, dextrose (YEPD) media for serial
+         dilution. The exponentially grown yeast cells were centrifuged at 3000 g at room temperature and adjusted to OD600 = 0.5 with sterilized double-distilled water. Later on, it was diluted 1/10, 1/100
+         and 1/1000. Two microliters of the aforementioned serial diluted yeast cells were
+         spotted onto SD-LT, SD-LTH + 3’AT and SD-LTHA media, grown in 30C for 2-5&nbsp;days, before
+         photographed.
+      
+      The colony-lift filter assay was conducted following the instruction in the Yeast
+         Protocols Handbook. The freshly grown colonies on the selection media SD-LTHA were
+         transferred onto sterilized 9&nbsp;cm filter papers and then flash frozen in liquid nitrogen
+         for 20&nbsp;seconds. After thawed completely, the filter paper with colonies side up was
+         transferred onto presoaked filter paper in 5&nbsp;ml of staining buffer (60&nbsp;mM Na2HPO4, 39.8&nbsp;mM NaH2PO4, 10&nbsp;mM KCl, 1&nbsp;mM MgSO4, 0.817&nbsp;mM 5-bromo-4-chloro-3-indolyl-β-D-galactopyranoside [X-gal] and 38.5&nbsp;mM β-mercaptomethanol)
+         in a 90&nbsp;mm petri dish for 8-12&nbsp;h at 37°C. After that, the reaction was stopped and
+         filter paper dried before photographed.
+      
+      In vivo bimolecular florescence complementation (BiFC) analysis
+      
+      For yellow fluorescence protein (YFP)-based BiFC, the coding regions of tested BnaMPKs were subcloned into pSPYNE(R)173 and, the coding regions of BnaMKK or BnaWRKY genes were subcloned into pSPYCE(M) vector [88]. The primers used are listed in Additional file 9: Table S4. After confirmation by sequencing, these constructs and p19 of tomato bushy
+         stunt virus were transferred into A. tumefaciens GV3101. Freshly grown agrobacterium cultures were resuspended in a freshly made solution
+         containing 10&nbsp;mM MES-KOH, pH&nbsp;5.6, 10&nbsp;mM MgCl2 and 0.15&nbsp;mM acetosyringone, with OD600 adjusted to be 0.7-0.8, before mixed at 1:1:1 ratio, incubated at room temperature
+         for 2-4&nbsp;h, and infiltrated into the leaves of N. benthamiana[89]. At 4 d, the leaf sections near the injection sites were taken and used to examine
+         the YFP signals under a confocal microscope A1R (Nikon, Japan).
+      
+   
+

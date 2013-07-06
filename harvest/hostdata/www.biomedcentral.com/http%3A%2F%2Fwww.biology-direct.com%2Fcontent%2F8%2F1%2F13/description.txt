@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The PIWI module, found in the PIWI/AGO superfamily of proteins, is a critical component of several cellular pathways including germline maintenance, chromatin organization, regulation of splicing, RNA interference, and virus suppression. It binds a guide strand which helps it target complementary nucleic strands.
+
+				
+				
+					
+						Results
+
+					Here we report the discovery of two divergent, novel families of PIWI modules, the first such to be described since the initial discovery of the PIWI/AGO superfamily over a decade ago. Both families display conservation patterns consistent with the binding of oligonucleotide guide strands. The first family is bacterial in distribution and is typically encoded by a distinctive three-gene operon alongside genes for a restriction endonuclease fold enzyme and a helicase of the DinG family. The second family is found only in eukaryotes. It is the core conserved module of the Med13 protein, a subunit of the CDK8 subcomplex of the transcription regulatory Mediator complex.
+
+				
+				
+					
+						Conclusions
+
+					Based on the presence of the DinG family helicase, which specifically acts on R-loops, we infer that the first family of PIWI modules is part of a novel RNA-dependent restriction system which could target invasive DNA from phages, plasmids or conjugative transposons. It is predicted to facilitate restriction of actively transcribed invading DNA by utilizing RNA guides. The PIWI family found in the eukaryotic Med13 proteins throws new light on the regulatory switch through which the CDK8 subcomplex modulates transcription at Mediator-bound promoters of highly transcribed genes. We propose that this involves recognition of small RNAs by the PIWI module in Med13 resulting in a conformational switch that propagates through the Mediator complex.
+
+				
+				
+					
+						Reviewers
+
+					This article was reviewed by Sandor Pongor, Frank Eisenhaber and Balaji Santhanam.
+
+				
+			
+		

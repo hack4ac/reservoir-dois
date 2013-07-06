@@ -1,0 +1,99 @@
+Methods
+   
+      Animals
+      Nine horses, aged 1 month to 16 years (median 5 years) of different breeds and gender
+         were treated for stromal ulcerative keratitis with CXL using riboflavin and UVA-light
+         during 2010 and 2011 at ATG’s Horse Clinic in Skara, Sweden (Table&nbsp;1). All horses, except for 2 previously untreated horses, were referred because of
+         failure of medical therapy, defined as non-healing ulceration or aggravation of clinical
+         signs from the eye, specifically increased corneal vascularization, oedema, or stromal
+         loss, or emergence of additional ulcers. The two previously untreated horses were
+         included in the study upon request from the owners.
+      
+      The regional Ethical Committee (Göteborgs Djurförsöksetiska nämnd, Sweden, Dnr 246–2010)
+         approved the use of horses for this study and informed consent was obtained from all
+         horse owners prior to treatment.
+      
+      Ophthalmic examination
+      All horses were examined by the first author before and after the CXL treatment. The
+         horses were sedated and akinesia of the eyelids was induced when needed. The ophthalmic
+         examination included slit-lamp biomicroscopy (Kowa SL15, Kowa Company Ltd, Nagoya,
+         Japan), sampling for cytology and microbiological testing, as well as fluorescein
+         staining. Samples for microbiological cultures and cytology were obtained from the
+         edge of the ulcerations using a sterile swab (ESwab, Copan innovation Ltd, Brescia,
+         Italy) and a special brush (Cytology brush Plus, CooperSurgical Inc., Trumbull, USA),
+         respectively. Aerobic bacterial culture and antimicrobial susceptibility testing was
+         performed by a local laboratory (Eurofins, Lidköping, Sweden). Specimens for cytology
+         were stained using May Grünwald Giemsa and Gram staining, respectively. When fungal
+         hyphae were present on cytology, an additional swab was sent for fungal culture. Microbiological
+         cultures and cytology were repeated after CXL in horses nos. 2 and 3 to learn if the
+         microorganisms obtained in the initial samples were eliminated after treatment. All
+         horses were re-examined until the ulcers healed, defined as no fluorescein dye uptake,
+         and absence of clinical signs of pain or anterior uveitis. Photographs of the corneas
+         were taken before CXL and at each re-examination.
+      
+      The depths of the ulcers were scored according to Burn's system [48]. Only horses with stromal loss comprising ≤ 2/3 of the corneal thickness were included
+         in the study.
+      
+      The diagnosis of stromal melting was made when the stroma had a gelatinous structure
+         and an abnormal, often drop-shaped contour. When the progressive stromal melting ceased,
+         the structure stabilized and the size of the ulcer stopped increasing.
+      
+      Sedation, local and topical anesthesia
+      The adult horses were sedated with 0.01 mg/kg detomidine (Domodin vet, 10 mg/ml, Novartis
+         Animal Health, Copenhagen, Denmark) and 0.02 mg/kg buthorphanol (Butador vet 10 mg/ml,
+         Vetoquinol Scandinavia, Åstorp, Sweden) intravenously. Sedation was maintained throughout
+         the procedure using symptomatic i.v. infusion with 1 mg detomidine per 100 ml physiologic
+         saline solution (Natriumklorid, Fresenius Kabi, Uppsala, Sweden).
+      
+      The two foals were anesthetized with a combination of 1.0 mg/kg xylazine (Rompun 20
+         mg/ml, Bayer Animal Health, Copenhagen, Denmark), 0.05 mg/kg midazolam (Midazolam
+         5 mg/ml, Actavis AB, Stockholm, Sweden) and 2.0 mg/kg ketamine (Ketaminol vet, 100
+         mg/ml, Intervet AB, Sollentuna, Sweden).
+      
+      Akinesia of the eyelids was obtained after subcutaneous injection of 1 ml mepivacaine
+         (Carbocain, 20 mg/ml, Astra Zeneca, Södertälje, Sweden) over the auriculopalpebral
+         nerve. The cornea was anesthetized with 2 drops of oxybuprocaine eye drops (Oxibuprokain
+         Chauvin, 20 mg/ml, Bausch &amp; Lomb Nordic AB, Stockholm, Sweden).
+      
+      Corneal collagen cross-linking, CXL
+      The CXL treatment protocol was based on the protocol developed in Dresden and described
+         by Wollensak et al. in 2003 [33], with minor modifications for horses. Two to 3 mm of the epithelium surrounding the
+         corneal ulcer was removed using a blunted scalpel blade. Isotonic riboflavin eye drops
+         (Medio-cross®, riboflavin &gt; 0.1 in dextran 500 20%, Medio-cross GmbH, Neudorf, Germany)
+         were instilled every 2nd minute for 25 minutes. The non-epithelialized part of the cornea was saturated with
+         riboflavin, which could be observed as a yellowish discoloration.
+      
+      A lid speculum was inserted to keep the eye open during light exposure. Prior to each
+         treatment, the UVA-light source (CCL-365, Peschke Meditrade GmbH, Huenenberg, Switzerland)
+         was calibrated according to the manufacturer’s recommendations. The corneal ulcer
+         was then exposed during 30 minutes to a 365 nm light with an irradiance of 3.0 mW/cm2 and a beam diameter of 10 mm (Figure&nbsp;4). This light source has an optical system that provides a uniform (Köhler) illumination
+         of the treated area [49]. The distance between the UVA-light source and the cornea (5 cm) was maintained throughout
+         the procedure by supporting the light source by one hand resting against the head
+         of the horse. The light source would then also follow any movements made by the horse
+         and stay centred on the ulcerated area. The operator continuously monitored that the
+         beam remained focused and sharply circumscribed at the corneal surface. Care was taken
+         not to illuminate the limbus with the UV-light.
+      
+      Figure 4. Corneal collagen cross-linking. A handheld UVA-light source was employed to irradiate the corneal ulcer during 30
+         minutes. The edge of the light beam was sharply circumscribed when the lamp was held
+         at a distance of 5 cm from the corneal surface, which enhanced maintaining the correct
+         distance between the lamp and the patient’s eye.
+      
+      All horses except horse no. 3 received topical medication after CXL treatment, according
+         to a standard protocol, with 5 ml chloramphenicol eye drops (Chloromycetin, 5 mg/ml,
+         Pfizer AB, Sollentuna, Sweden) and 1 ml atropine eye drops (Isopto-Atropin 1%, Alcon
+         Sverige AB, Stockholm, Sweden) diluted in autologous serum in 1.8 mg/ml EDTA (serum
+         collected in EDTA-tubes) to a total volume of 10 ml. This mixture was instilled on
+         the eye through a continuous delivery system (Infu-Disc™, San Diego, CA, USA) at a
+         rate of 0.14 ml/h. Accidently, horse no. 3 got autologous serum and atropine only
+         in the delivery system. To relieve postoperative discomfort and treat concomitant
+         uveitis, 1.1 mg/kg flunixin meglumine (Cronyxin vet 50 mg/ml, Ceva Animal Health,
+         Lund, Sweden) was given intravenously once daily for 5–8 days in all horses. Horse
+         nos. 3, 7 and 8 were also given penicillin G sodium (Geepenil vet 300 mg/ml, Orion
+         Pharma Animal Health, Sollentuna, Sweden) 14 mg/kg, intravenously q8h, for 6, 8 and
+         4 days respectively.
+      
+      Statistical analyses
+      Medians and ranges are used as descriptive statistics in this study.
+   
+

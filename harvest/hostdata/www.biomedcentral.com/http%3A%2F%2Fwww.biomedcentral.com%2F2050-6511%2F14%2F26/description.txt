@@ -1,0 +1,44 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Remogliflozin etabonate (RE) is the prodrug of remogliflozin, a selective inhibitor of the renal sodium-dependent glucose transporter 2 (SGLT2), which could increase urine glucose excretion (UGE) and lower plasma glucose in humans.
+
+				
+				
+					
+						Methods
+
+					This double-blind, randomized, placebo-controlled, single-dose, dose-escalation, crossover study is the first human trial designed to evaluate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics of RE. All subjects received single oral doses of either RE or placebo separated by approximately 2 week intervals. In Part A, 10 healthy subjects participated in 5 dosing periods where they received RE (20 mg, 50 mg, 150 mg, 500 mg, or 1000 mg) or placebo (4:1 active to placebo ratio per treatment period). In Part B, 6 subjects with type 2 diabetes mellitus (T2DM) participated in 3 dose periods where they received RE (50 mg and 500 mg) or placebo (2:1 active to placebo per treatment period). The study protocol was registered with the NIH clinical trials data base with identifier  NCT01571661 .
+
+				
+				
+					
+						Results
+
+					RE was generally well-tolerated; there were no serious adverse events. In both populations, RE was rapidly absorbed and converted to remogliflozin (time to maximum plasma concentration [C max ;T max ] approximately 1 h). Generally, exposure to remogliflozin was proportional to the administered dose. RE was rapidly eliminated (mean T ½  of ~25 min; mean plasma T ½  for remogliflozin was 120 min) and was independent of dose. All subjects showed dose-dependent increases in 24-hour UGE, which plateaued at approximately 200 to 250 mmol glucose with RE doses ≥150 mg. In T2DM subjects, increased plasma glucose following OGTT was attenuated by RE in a drug-dependent fashion, but there were no clear trends in plasma insulin. There were no apparent effects of treatment on plasma or urine electrolytes.
+
+				
+				
+					
+						Conclusions
+
+					The results support progression of RE as a potential treatment for T2DM.
+
+				
+				
+					
+						Trial registration
+
+					ClinicalTrials.gov   NCT01571661 
+					
+
+				
+			
+		

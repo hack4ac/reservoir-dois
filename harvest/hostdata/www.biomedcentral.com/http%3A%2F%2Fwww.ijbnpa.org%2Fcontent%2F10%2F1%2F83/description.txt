@@ -1,0 +1,43 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Active commuting is prospectively associated with physical activity in children. Few longitudinal studies have assessed predictors of change in commuting mode.
+
+				
+				
+					
+						Purpose
+
+					To investigate the individual, socio-cultural and environmental predictors of uptake and maintenance of active commuting in 10 year-old children.
+
+				
+				
+					
+						Methods
+
+					Children were recruited in 2007 and followed-up 12 months later. Children self-reported usual travel mode to school. 31 child, parent, socio-cultural and physical environment characteristics were assessed via self-reported and objective methods. Associations with uptake and maintenance of active travel were studied using multi-level multiple logistic regression models in 2012.
+
+				
+				
+					
+						Results
+
+					Of the 912 children (59.1% girls, mean ± SD baseline age 10.2 ± 0.3 yrs) with complete data, 15% changed their travel mode. Those children who lived less than 1 km from school were more likely to take up (OR: 4.73, 95% CI: 1.97, 11.32, p = 0.001) and maintain active commuting (OR: 2.80 95% CI: 0.98, 7.96, p = 0.02). Children whose parents reported it was inconvenient to use the car for school travel were also more likely to take up (OR: 2.04, 95% CI: 1.08, 3.85, p = 0.027) and maintain their active commuting (OR: 5.43 95% CI: 1.95, 15.13, p = 0.001). Lower socio-economic status and higher road safety were also associated with uptake.
+
+				
+				
+					
+						Conclusions
+
+					Findings from this longitudinal study suggest that reducing the convenience of the car and improving the convenience of active modes as well as improving the safety of routes to school may promote uptake and maintenance of active commuting and the effectiveness of these interventions should be evaluated
+
+				
+			
+		

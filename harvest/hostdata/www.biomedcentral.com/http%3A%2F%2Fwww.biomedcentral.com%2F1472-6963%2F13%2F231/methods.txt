@@ -1,0 +1,126 @@
+Methods
+   
+      Source of data
+      Cross-sectional data were collected from a study called “Gesundes Kinzigtal” (Engl.
+         Healthy Kinzigtal), which evaluated an integrated healthcare system [19]. The “Kinzigtal” is a rural region in the Black Forest in Southern Germany. The main
+         objective of the “Kinzigtal” project was to improve care through an intensive networking
+         of different health care providers and institutions (integrated care). Another special
+         focus of the project was to increase patient involvement in clinical decisions. The
+         “Kinzigtal” project investigated one intervention and two control groups.
+      
+      All insurants of the Health Insurance Fund AOK Baden-Württemberg and the Health Insurance
+         Fund LKK Baden-Württemberg residing in the area of the Kinzigtal were suitable for
+         participation in the study as members of the intervention or the first control group.
+         The intervention group consisted of all insurants that were taking part in the “Kinzigtal”
+         project at the reference date of 31.03.2007. The first control group consisted of
+         insurants living in the same area but not taking part in the project. The second control
+         group consisted of insurants living in an area that is comparable to the Kinzigtal
+         with respect to healthcare infrastructure, population density, and local economy.
+         To ensure that the control groups are comparable to the intervention group regarding
+         central characteristics, insurants in these groups were selected by stratification
+         of sex, age, kind of insurance, and healthcare costs they induced in the previous
+         12&nbsp;months. All selected insurants were invited to participate in the study by a written
+         invitation sent by their Health Insurance Fund (a more detailed description available
+         in [19]).
+      
+      The primary objective of the “Kinzigtal” project was to measure the effects of the
+         integrated healthcare system on patient involvement and satisfaction with the physician.
+      
+      We used data from the “Kinzigtal” project for the evaluation of the conceptual model.
+         Our analysis is based on the pooled baseline data of all three groups mentioned above.
+         The study was conducted in accordance with the principles of the Helsinki Declaration
+         and with the approval of the ethics committee of the University Medical Center Freiburg
+         (157/07).
+      
+      Data collection
+      Participants completed a postal questionnaire to allow for an assessment of relevant
+         SDM-related constructs (see Table&nbsp;2): preference for involvement in medical decisions, experienced involvement, decisional
+         conflict, and satisfaction with the physician. All data were collected with reference
+         to the last clinical encounter of the patient with a physician delivering outpatient
+         care. Experienced involvement and decisional conflict were linked to a certain decision
+         made during this encounter. On the contrary, preference for involvement and satisfaction
+         with the physician were measured as generic constructs.
+      
+      Table 2. Postal questionnaire
+      The following instruments were used to assess the constructs:
+      The Autonomy-Preference-Index measures patients’ preferences regarding information and involvement in treatment
+         decision-making [21,25]. It consists of 14 items, of which 8 items evaluate the need for information, and
+         6 items relate to the preference for involvement. In the present study, only the preference
+         for involvement items were analysed. The internal consistency of both the original
+         English and adapted German version is satisfactory with a Cronbach’s α of 0.82 and
+         0.86, respectively [21,25].
+      
+      The 9-item-Shared Decision-Making Questionnaire (SDM-Q-9) assesses the extent of patient involvement in the decision-making process
+         from the patient’s perspective. The internal consistency of the instrument is high,
+         yielding a Cronbach’s α of 0.94 [22].
+      
+      The Decisional Conflict Scale (DCS) measures uncertainty in making a health-related decision, factors contributing
+         to the uncertainty, and effective decision-making [23,26]. Considering these many different facets, the construct of decisional conflict is
+         quite heterogeneous. It includes 16 items. Both the internal consistency (Cronbach’s
+         α = 0.78) and test-retest reliability (0.81) of the DCS are high.
+      
+      To measure the patient’s satisfaction with the physician, we adopted an existing questionnaire
+         (ZAP, [27]). We used two global items to measure the patient’s satisfaction with his or her
+         outpatient care. We added one item to measure the patient’s global satisfaction with
+         the quality and extent of information the patient received and another item to assess
+         the patient’s global satisfaction with his or her involvement in clinical decisions.
+         The resulting scale (ZAPA) had a satisfactory internal consistency with a Cronbach’s
+         α of 0.90 [24].
+      
+      Health-related quality of life, which was accounted for as a covariate, was captured with the SF-12 health survey
+         [20]. The SF-12 is a psychometrically sound abbreviated version of the SF-36.
+      
+      Demographic characteristics were assessed via closed multiple choice items. The patients
+         reported their health complaints and reasons for consultation in an open response
+         format (free text boxes).
+      
+      Data analysis
+      A path analysis using structural equation modelling [28,29] was employed to explore multiple associations. Data were analysed with AMOS 5 (SPSS
+         Inc., Chicago, Illinois). The elements of the conceptual model were included in the
+         model as defined a priori based on our theoretical assumptions. To control for their
+         possible confounding effects, the influence of the following known measures on the
+         central constructs was also modelled: demographic characteristics (age, sex, education),
+         clinical characteristics (cardiovascular, musculoskeletal, or endocrinological disease),
+         quality of life (mental and physical), and type of the clinical decision to be made
+         (diagnostics, therapy, or referral). As these elements are not part of the conceptual
+         model, their effects were freely estimated to fit the empirical data of these elements.
+         A satisfactory model was developed in a development sub-sample and cross-validated
+         in a confirmatory sample (split-half method). The split between the two samples was
+         conducted by randomisation. The sub-sample in which the model was developed consisted
+         of n = 983 patients; the confirmatory sub-sample comprised n = 930 patients.
+      
+      Model development was performed in a stepwise process. First, a full path model was
+         developed and included the following:
+      
+      •all associations of central interest according to the model (Figure&nbsp;1),
+      
+      •all possible additional direct associations between the constructs (effect of involvement
+         preference on decisional conflict and on patient satisfaction with the physician,
+         as well as the effect of experienced involvement on patient satisfaction),
+      
+      •all possible causal effects of confounders on SDM-related constructs, and
+      •all possible correlations between confounders.
+      Second, all correlations between confounders below 0.1 were eliminated, and the model
+         was reassessed. Third, all clinically irrelevant causal associations (standardised
+         regression coefficients below 0.1) were excluded, and the model was re-calculated.
+         These steps were repeated until all of the correlation coefficients and standardised
+         regression coefficients in the model exceeded 0.1.
+      
+      The measurement model (the extent by which reliable constructs were measured) was
+         assessed but not modified throughout the analysis because all of the included instruments
+         proved to be psychometrically sound in previous studies and because the primary objective
+         of the study was to examine associations between the SDM-related constructs and not
+         to improve their measurement.
+      
+      To describe the measurement model, local goodness-of-fit indexes were calculated.
+         To describe the whole model, global goodness-of-fit measures were assessed [30-34].
+      
+      An additional sensitivity analysis was conducted to test for possible model differences
+         among the investigated groups. In this analysis, we fitted the statistical model to
+         each of the three groups separately and investigated group differences with regard
+         to the standardized regression weights. Thus, the consistency of our results (that
+         were based on the pooled sample of the three groups) was tested additionally in the
+         three original subgroups.
+      
+   
+

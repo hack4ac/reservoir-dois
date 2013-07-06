@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Introduction
+
+					The Epithelial Cell Adhesion Molecule (EpCAM) has been shown to be strongly expressed in human breast cancer and cancer stem cells and its overexpression has been supposed to support tumor progression and metastasis. However, effects of EpCAM overexpression on normal breast epithelial cells have never been studied before. Therefore, we analyzed effects of transient adenoviral overexpression of EpCAM on proliferation, migration and differentiation of primary human mammary epithelial cells (HMECs).
+
+				
+				
+					
+						Methods
+
+					HMECs were transfected by an adenoviral system for transient overexpression of EpCAM. Thereafter, changes in cell proliferation and migration were studied using a real time measurement system. Target gene expression was evaluated by transcriptome analysis in proliferating and polarized HMEC cultures. A Chicken Chorioallantoic Membrane (CAM) xenograft model was used to study effects on  in vivo  growth of HMECs.
+
+				
+				
+					
+						Results
+
+					EpCAM overexpression in HMECs did not significantly alter gene expression profile of proliferating or growth arrested cells. Proliferating HMECs displayed predominantly glycosylated EpCAM isoforms and were inhibited in cell proliferation and migration by upregulation of p27 KIP1  and p53. HMECs with overexpression of EpCAM showed a down regulation of E-cadherin. Moreover, cells were more resistant to TGF-β1 induced growth arrest and maintained longer capacities to proliferate  in vitro . EpCAM overexpressing HMECs xenografts in chicken embryos showed hyperplastic growth, lack of lumen formation and increased infiltrates of the chicken leukocytes.
+
+				
+				
+					
+						Conclusions
+
+					EpCAM revealed oncogenic features in normal human breast cells by inducing resistance to TGF-β1-mediated growth arrest and supporting a cell phenotype with longer proliferative capacities  in vitro . EpCAM overexpression resulted in hyperplastic growth  in vivo . Thus, we suggest that EpCAM acts as a prosurvival factor counteracting terminal differentiation processes in normal mammary glands.
+
+				
+			
+		

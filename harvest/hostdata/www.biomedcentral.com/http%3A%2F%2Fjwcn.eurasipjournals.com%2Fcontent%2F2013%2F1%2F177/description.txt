@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				With the advent of IPv6, the world is getting ready to incorporate smart objects to the current Internet to realize the idea of Internet of Things. The biggest challenge faced is the resource constraint of the smart objects to directly utilize the existing standard protocols and applications. A number of initiatives are currently witnessed to resolve this situation. One of such initiatives is the introduction of Constrained Application Protocol. This protocol is developed to fit in the resource-constrained smart object with the ability to easily translate to the prominent representational state transfer implementation, hypertext transfer protocol (and vice versa). The protocol has several optional extensions, one of them being, resource observation. With resource observation, a client may ask a server to be notified every state change of the resource. However, in many applications, all state changes are not significant enough for the clients. Therefore, the client will have to decide whether to use a value sent by a server or not. This results in wastage of the already constrained resources (bandwidth, processing power,…). In this paper, we introduced an alternative to the normal resource observation function, named Conditional Observation, where clients tell the servers the criteria for notification. We evaluated the power consumption and number of packets transmitted between clients and servers by using different network sizes and number of servers. In all cases, we found out that the existing observe option results in excessive number of packets (most of them unimportant for the client) and higher power consumption. We also made an extensive theoretical evaluation of the two approaches which give consistent result with the results we got from experimentation.
+
+			
+		

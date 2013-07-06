@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Less than 20% of Pakistani women with early-onset or familial breast/ovarian cancer harbor germ line mutations in the high-penetrance genes  BRCA1 ,  BRCA2  and  TP53 . Thus, mutations in other genes confer genetic susceptibility to breast cancer, of which  CHEK2  is a plausible candidate.  CHEK2  encodes a checkpoint kinase, involved in response to DNA damage.
+
+				
+				
+					
+						Methods
+
+					In the present study we assessed the prevalence of  CHEK2  germ line mutations in 145  BRCA1/2 -negative early-onset and familial breast/ovarian cancer patients from Pakistan (Group 1). Mutation analysis of the complete  CHEK2  coding region was performed using denaturing high-performance liquid chromatography analysis, followed by DNA sequencing of variant fragments.
+
+				
+				
+					
+						Results
+
+					Two potentially deleterious missense mutations, c.275C>G (p.P92R) and c.1216C>T, (p.R406C), were identified (1.4%). The c.275C>G mutation is novel and has not been described in other populations. It was detected in a 30-year-old breast cancer patient with a family history of breast and multiple other cancers. The c.1216C>T mutation was found in a 34-year-old ovarian cancer patient from a family with two breast cancer cases. Both mutations were not detected in 229 recently recruited  BRCA1/2 -negative high risk patients (Group 2).
+
+				
+				
+					
+						Conclusion
+
+					Our findings suggest that  CHEK2  mutations may not contribute significantly to breast/ovarian cancer risk in Pakistani women.
+
+				
+			
+		

@@ -1,0 +1,39 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Introduction
+
+
+               Guidelines dealing with severe sepsis and septic shock mostly rely on randomized controlled trials (RCTs) to ensure the best standards of care for patients. However, patients included in high-quality studies may differ from the routine population and alter external validity of recommendations. We aimed to determine to what extent non-inclusion criteria of RCTs dealing with severe sepsis and septic shock may affect application of their conclusions in routine care.
+
+
+            
+               
+                  Methods
+
+
+               In a first step, the MEDLINE database was searched for RCTs treating severe sepsis and septic shock patients between 1992 and 2008, and non-inclusion criteria for these studies were abstracted. Two reviewers independently evaluated the articles, which were checked by a third reviewer. We extracted data on the study design, main intervention, primary endpoint, criteria for inclusion, and criteria for non-inclusion. In a second step, the distribution of the non-inclusion criteria was observed in a prospective multicenter cohort of severe sepsis and septic shock patients (Cub-Rea network, 1992 to 2008).
+
+
+            
+               
+                  Results
+
+
+               We identified 96 articles out of 7,012 citations that met the screening criteria. Congestive heart failure (35%) and cancer (30%) were frequent exclusion criteria in selected studies, as well as other frequent disorders such as gastrointestinal and liver diseases and all causes of immune suppression. Of the 67,717 patients with severe sepsis and septic shock in the Cub-Rea database, 40,325 (60%) experienced at least one of the main exclusion criteria, including 11% of congestive heart failure patients and 11% of cancer patients. In addition, we observed a significant trend for increasing number of patients with these criteria along time.
+
+
+            
+               
+                  Conclusion
+
+
+               Current exclusion criteria for RCTs dealing with severe sepsis and septic shock excluded most patients encountered in daily practice and limit external validity of the results of high-quality studies.
+
+
+

@@ -1,0 +1,72 @@
+Methods
+   
+      RNA extraction and library preparation
+      OP and CP clones of Brachionus calyciflorus homozygous for the op and wild-type alleles, respectively, were generated from the same heterozygous mother
+         by selfing [18]. Six B. calyciflorus females were added to 600&nbsp;mL cultures of 5 × 105 cells/mL Chlamydomonas reinhardtii in COMBO medium [25]. The cultures grew at 25 C and with 24&nbsp;hour light exposure for ~6&nbsp;days. Density of
+         females was determined every day by removal of ~10&nbsp;mL of culture and counting individual
+         females under a microscope at low magnification. When cultures reached a density of
+         ~25-40 females/mL, they were harvested for RNA. To confirm the presence of sexually-reproducing
+         females in the CP cultures, a sample of females was used to determine rate of mixis
+         induction as described previously [26], and the absence of males and resting eggs was confirmed for the OP cultures. The
+         rotifer cultures were filtered through 20&nbsp;μm Millipore nylon filters to remove algal
+         cells, the rotifers were washed in COMBO medium, and rinsed into 15&nbsp;mL conical tubes.
+         Total RNA was isolated using Trizol reagent (Ambion, Life Technologies, Grand Island,
+         NY) according to manufacturer’s instructions. RNA quality was determined by Experion
+         Automated Electrophoresis (Bio-Rad Laboratories, Hercules, CA) according to manufacturer’s
+         instructions before construction of mRNA-seq libraries using the mRNA-seq Sample Prep
+         kit (Illumina, Inc., San Diego, CA). Seventy-six base pair single end reads were sequenced
+         from each library on an Illumina Genome Analyzer IIx platform at the Iowa State University
+         DNA Facility (http://www.dna.iastate.edu/nextgen.html webcite).
+      
+      Illumina sequence analysis
+      Analysis of Illumina sequence reads was performed in part using the Galaxy server
+         (http://galaxyproject.org/ webcite) [27-29]. Adapter sequences were trimmed from the ends of the reads, and a blastn search revealed
+         reads that matched C. reinhardtii transcripts [30]. Reads with an alignment length ≥ 20 base pairs matching an algal sequence were removed
+         from the libraries. Transcriptome assembly was performed using the Tuxedo pipeline,
+         where reads were mapped to a partial assembly of the B. calyciflorus genome [31]via Tophat [32], assembled into transcripts using Cufflinks (assembly for individual samples with
+         0.1 minimum isoform fraction and 0.1 pre-mRNA fraction) and Cuffmerge (combined assembly
+         from all samples). Differential expression was determined between OP and CP samples
+         with Cuffdiff using a minimum alignment count of 500 [33,34]. Differential expression between OP and CP samples was also determined with edgeR
+         using a table of counts constructed with the fragments per kilobase locus length per million reads mapped (FPKM) values determined by Cufflinks [34]. Gene ontology mapping and enrichment analyses were performed with BLAST2GO (http://www.blast2go.com/b2ghome webcite). The transcriptome assembly projects have been deposited at GenBank under the accessions
+         GACQ00000000 and GACL00000000. The versions described in this paper are the first
+         versions, GACQ01000000 and GACL01000000. Assembled transcripts shorter than 200 base
+         pairs are given in Additional files 1, 2, 3 and 4.
+      
+      Additional file 1. Assembled transcripts for sample OP1 less than 200 base pairs in length.
+         	Format: FASTA 
+         	Size: 783KB Download file or  display content in a new window
+      Additional file 2. Assembled transcripts for sample OP2 less than 200 base pairs in length.
+         	Format: FASTA 
+         	Size: 1.1MB Download file or  display content in a new window
+      Additional file 3. Assembled transcripts for sample CP1 less than 200 base pairs in length.
+         	Format: FASTA 
+         	Size: 1.4MB Download file or  display content in a new window
+      Additional file 4. Assembled transcripts for sample CP2 less than 200 base pairs in length.
+         	Format: FASTA 
+         	Size: 1.5MB Download file or  display content in a new window
+      Library validation
+      OP and CP RNA samples used for Illumina library construction were treated with DNase
+         I prior to first-strand cDNA synthesis using Superscript II reverse transcriptase
+         (Invitrogen, Life Technologies, Grand Island, NY). Quantitative reverse transcriptase
+         polymerase chain reaction (qRT-PCR) was performed with Platinum SYBR Green quantitative
+         PCR (qPCR) Supermix (Invitrogen, Life Technologies, Grand Island, NY) and a 1:25 dilution
+         of the cDNA. Primers designed for amplification of thirteen genes from cDNA in the
+         qPCR reaction (200&nbsp;nM final concentration) are listed in Additional file 5. Relative quantification of gene expression was determined for each gene, with actin
+         transcript amplification used for normalization.
+      
+      Additional file 5. Primers used in qRT-PCR.
+         	Format: XLSX 
+         	Size: 61KB Download file or  display content in a new window
+      Phylogenetic analysis
+      For analysis of histone H2A, amino acid sequences of metazoan and fungal homologs
+         were obtained from the National Center for Biotechnology Information (NCBI) database
+         by keyword search and aligned with B. calyciflorus sequences by ClustalX version 2.1 [35]. Alignments were manually curated in MacClade (http://macclade.org/index.html webcite) and phylogenetic analysis was performed using the Bioportal parallel computational
+         resource [36]. Maximum likelihood analysis was performed using PhyML [37] with Whelan and Goldman (WAG) substitution model, best tree topology search, and
+         one thousand bootstrap replicates.
+      
+      Bdelloid sequence analysis
+      Transcript sequences for Adineta ricciae were obtained from GenBank (Accession numbers: HE687510 to HE716431). A. ricciae transcripts were used as queries against the assembled B. calyciflorus transcriptome using tblastx [38] with a Bit Score cutoff of 50. Gene ontology term enrichment was performed using
+         BLAST2GO [39].
+      
+   
+

@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Atrial fibrillation (AF) is associated with increased mortality and morbidity, including risk for cerebral macro- and microinfarctions and cognitive decline, even in the presence of adequate oral anticoagulation. AF is strongly related to increased inflammatory activity whereby anti-inflammatory agents can reduce the risk of new or recurrent AF. However, it is not known whether anti-inflammatory therapy can also modify the deterioration of neurocognitive function in older patients with AF. In the present study, older patients with AF were treated with intensive lipid-lowering therapy with atorvastatin 40 mg and ezetimibe 10 mg, or placebo. We examined the relationship between neurocognitive functions and inflammatory burden.
+
+				
+				
+					
+						Findings
+
+					Analysis of inflammatory markers revealed significant reductions in high sensitivity C-reactive protein (hs-CRP), fibroblast growth factor (FGF), granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-1 receptor antagonist (IL-1RA), interleukin (IL)-9, IL-13 and IL-17, and interferon-γ (IFNγ) in the treatment group compared to placebo. Reduction in plasma concentration of IL-1RA, IL-2, IL-9 and IL-12, and macrophage inflammatory protein-1β (MIP-1β) correlated significantly with improvement in the neurocognitive functions memory and speed. Loss of volume in amygdala and hippocampus, as determined by magnetic resonance imaging (MRI), was reduced in the treatment arm, statistically significant for left amygdala.
+
+				
+				
+					
+						Conclusions
+
+					Anti-inflammatory therapy through intensive lipid-lowering treatment with atorvastatin 40 mg and ezetimibe 10 mg can modify the deterioration of neurocognitive function, and the loss of volume in certain cerebral areas in older patients with AF.
+
+				
+				
+					
+						Trial registration Clinical Trials.gov
+
+					
+						 NCT00449410 
+					
+
+				
+			
+		

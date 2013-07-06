@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Introduction
+
+					There is a great health services disparity between urban and rural areas in China. The percentage of people who are unable to access health services due to long travel times increases. This paper takes Donghai County as the study unit to analyse areas with physician shortages and characteristics of the potential spatial accessibility of health services. We analyse how the unequal health services resources distribution and the New Cooperative Medical Scheme affect the potential spatial accessibility of health services in Donghai County. We also give some advice on how to alleviate the unequal spatial accessibility of health services in areas that are more remote and isolated.
+
+				
+				
+					
+						Methods
+
+					The shortest traffic times of from hospitals to villages are calculated with an O-D matrix of GIS extension model. This paper applies an enhanced two-step floating catchment area (E2SFCA) method to study the spatial accessibility of health services and to determine areas with physician shortages in Donghai County. The sensitivity of the E2SFCA for assessing variation in the spatial accessibility of health services is checked using different impedance coefficient values a . Geostatistical Analyst model and spatial analyst method is used to analyse the spatial pattern and the edge effect of potential spatial accessibility of health services.
+
+				
+				
+					
+						Results
+
+					The results show that 69% of villages have access to lower potential spatial accessibility of health services than the average for Donghai County, and 79% of the village scores are lower than the average for Jiangsu Province. The potential spatial accessibility of health services diminishes greatly from the centre of the county to outlying areas. Using a smaller impedance coefficient leads to greater disparity among the villages. The spatial accessibility of health services is greater along highway in the county.
+
+				
+				
+					
+						Conclusions
+
+					Most of villages are in underserved health services areas. An unequal distribution of health service resources and the reimbursement policies of the New Cooperative Medical Scheme have led to an edge effect regarding spatial accessibility of health services in Donghai County, whereby people living on the edge of the county have less access to health services. Comprehensive measures should be considered to alleviate the unequal spatial accessibility of health services in areas that are more remote and isolated.
+
+				
+			
+		

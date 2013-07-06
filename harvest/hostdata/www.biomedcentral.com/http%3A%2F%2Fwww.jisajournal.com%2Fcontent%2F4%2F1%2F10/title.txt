@@ -1,0 +1,1 @@
+Heterogeneous resource federation with a centralized security model for information extraction

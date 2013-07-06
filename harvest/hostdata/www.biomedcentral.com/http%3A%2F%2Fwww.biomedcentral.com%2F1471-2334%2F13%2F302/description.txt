@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Dengue fever is the most important vector-borne viral disease. Four serotypes of dengue virus, DENV1 to DENV4, coexist. Infection by one serotype elicits long-lasting immunity to that serotype but not the other three. Subsequent infection by a different serotype is a risk factor for severe dengue. Domain III (ED3) of the viral envelope protein interacts with cell receptors and contains epitopes recognized by neutralizing antibodies. We determined the serotype specificity and cross-reactivity of human IgMs directed against ED3 by using a well-characterized collection of 90 DENV-infected and 89 DENV-uninfected human serums.
+
+				
+				
+					
+						Methods
+
+					The recognitions between the four serotypes of ED3 and the serums were assayed with an IgM antibody-capture ELISA (MAC-ELISA) and artificial homodimeric antigens. The results were analyzed with Receiving Operator Characteristic (ROC) curves.
+
+				
+				
+					
+						Results
+
+					The DENV-infected serums contained IgMs that reacted with one or several ED3 serotypes. The discrimination by ED3 between serums infected by the homotypic DENV and uninfected serums varied with the serotype in the decreasing order DENV1 > DENV2 > DENV3 > DENV4. The ED3 domain of DENV1 gave the highest discrimination between DENV-infected and DENV-uninfected serums, whatever the infecting serotype, and thus behaved like a universal ED3 domain for the detection of IgMs against DENV. Some ED3 serotypes discriminated between IgMs directed against the homotypic and heterotypic DENVs. The patterns of cross-reactivities and discriminations varied with the serotype.
+
+				
+				
+					
+						Conclusions
+
+					The results should help better understand the IgM immune response and protection against DENV since ED3 is widely used as an antigen in diagnostic assays and an immunogen in vaccine candidates.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Egypt has the highest prevalence of hepatitis C virus (HCV) in the world, estimated nationally at 14.7%. Our study’s objective was to delineate the evidence on the epidemiology of HCV infection among the different population groups in Egypt, and to draw analytical inferences about the nature of HCV transmission in this country.
+
+				
+				
+					
+						Methods
+
+					We conducted a systematic review of all data on HCV prevalence and incidence in Egypt following PRISMA guidelines. The main sources of data included PubMed and Embase databases. We also used a multivariate regression model to infer the temporal trend of HCV prevalence among the general population and high risk population in Egypt.
+
+				
+				
+					
+						Results
+
+					We identified 150 relevant records, four of which were incidence studies. HCV incidence ranged from 0.8 to 6.8 per 1,000 person-years. Overall, HCV prevalence among pregnant women ranged between 5-15%, among blood donors between 5-25%, and among other general population groups between 0-40%. HCV prevalence among multi-transfused patients ranged between 10-55%, among dialysis patients between 50-90%, and among other high risk populations between 10% and 85%. HCV prevalence varied widely among other clinical populations and populations at intermediate risk. Risk factors appear to be parenteral anti-schistosomal therapy, injections, transfusions, and surgical procedures, among others. Results of our time trend analysis suggest that there is no evidence of a statistically significant decline in HCV prevalence over time in both the general population (p-value: 0.215) and high risk population (p-value: 0.426).
+
+				
+				
+					
+						Conclusions
+
+					Egypt is confronted with an HCV disease burden of historical proportions that distinguishes this nation from others. A massive HCV epidemic at the national level must have occurred with substantial transmission still ongoing today. HCV prevention in Egypt must become a national priority. Policymakers, and public health and medical care stakeholders need to introduce and implement further prevention measures targeting the routes of HCV transmission.
+
+				
+			
+		

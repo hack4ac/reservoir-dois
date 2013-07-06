@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Intimate partner violence (IPV) is a significant public health problem. There is a lack of data on IPV risk factors from longitudinal studies and from low and middle income countries. Identifying risk factors is needed to inform the design of appropriate IPV interventions.
+
+				
+				
+					
+						Methods
+
+					Data were from the Rakai Community Cohort Study annual surveys between 2000 and 2009. Female participants who had at least one sexual partner during this period and had data on IPV over the study period were included in analyses (N = 15081). Factors from childhood and early adulthood as well as contemporary factors were considered in separate models. Logistic regression was used to assess early risk factors for IPV during the study period. Longitudinal data analysis was used to assess contemporary risk factors in the past year for IPV in the current year, using a population-averaged multivariable logistic regression model.
+
+				
+				
+					
+						Results
+
+					Risk factors for IPV from childhood and early adulthood included sexual abuse in childhood or adolescence, earlier age at first sex, lower levels of education, and forced first sex. Contemporary risk factors included younger age, being married, relationships of shorter duration, having a partner who is the same age or younger, alcohol use before sex by women and by their partners, and thinking that violence is acceptable. HIV infection and pregnancy were not associated with an increased odds of IPV.
+
+				
+				
+					
+						Conclusions
+
+					Using longitudinal data, this study identified a number of risk factors for IPV. These findings are useful for the development of prevention strategies to prevent and mitigate IPV in women.
+
+				
+			
+		

@@ -1,0 +1,17 @@
+
+
+
+
+Abstract
+
+
+
+
+In this paper, we introduce the notion of Geraghty-contractions and consider the related best proximity point in the context of a metric space. We state an example to illustrate our result.
+
+
+
+ MSC: 47H10, 54H25, 46J10, 46J15.
+
+
+

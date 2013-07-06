@@ -1,0 +1,28 @@
+
+
+
+Abstract
+
+
+
+
+Background
+
+
+Cardiopulmonary resuscitation (CPR) is a sudden emergency procedure that requires a rapid and efficient response, and personnel training in lifesaving procedures. Regular practice and training are necessary to improve resuscitation skills and reduce anxiety among the staff. As one of the most important skills mastered by medical volunteers serving for Mt. Taishan International Mounting Festival, we randomly selected some of them to evaluate the quality of CPR operation and compared the result with that of the untrained doctors and nurses. In order to evaluate the functions of repeating standard CPR training on performance qualities of medical volunteers for Mt. Taishan International Mounting Festival, their performance qualities of CPR were compared with those of the untrained medical workers working in emergency departments of hospitals in Taian.
+
+
+
+
+Methods
+
+
+The CPR performance qualities of 52 medical volunteers (Standard Training Group), who had continually taken part in standard CPR technical training for six months, were tested at random and were compared with those of 68 medical workers (Compared Group) working in emergency departments of hospitals in Taian who hadn’t attended CPR training within a year. The QCPR 3535 monitor (provided by Philips Company) was used to measure the standard degree of single simulated CPR performance, including the chest compression depth, frequency, released pressure between compressions and performance time of compression and ventilation, the results of which were recorded in the table and the number of practical compression per minute was calculated. The data were analyzed by x2 Test and t Test. The factors which would influence CPR performance, including gender, age, placement, hand skill, posture of compression and frequency of training, were classified and given parameters, and were put to Logistic repression analysis.
+
+
+
+
+Results
+
+
+The CPR performance qualities of volunteers were much higher than those of the compared group. The overall pass rates were respectively 86.4% and 31.9%; the pass rates of medical volunteers in terms of the chest compression depth, frequency, released pressure between compressions were higher than those of the compared group, which were 89.6%, 94.2%, 95.8% vs 50.3%, 53.0%, 83.1%, P<0.01; there were few differences in overall performance time, which were (118.4±13.5s) vs (116.0±10.4s), P>0.05; the duration time of ventilation in each performance section was much shorter than that in the compared group, which were (6.38±1.2) vs (7.47±1.7), P<0.01; there were few differences in the number of practical compression per minute, which were (78.2±3.5) vs (78.8±12.2), P>0.05); the time proportion of compression and ventilation was 2.6:1 vs 2.1:1. The Logistic repression analysis showed that CPR performance qualities were clearly related to hand skill, posture of compression and repeating standard training, ...

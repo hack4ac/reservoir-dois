@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Chromatin plays a critical role in regulating transcription factors (TFs) binding to their canonical transcription factor binding sites (TFBS). Recent studies in vertebrates show that many TFs preferentially bind to genomic regions that are well bound by nucleosomes  in vitro . Co-occurring secondary motifs sometimes correlated with functional TFBS.
+
+				
+				
+					
+						Results
+
+					We used a logistic regression to evaluate how well the propensity for nucleosome binding and co-occurrence of a secondary motif identify which canonical motifs are bound  in vivo . We used ChIP-seq data for three transcription factors binding to their canonical motifs: c-Jun binding the AP-1 motif (TGA C / G TCA), GR (glucocorticoid receptor) binding the GR motif (G-ACA--- T / C GT-C), and Hoxa2 (homeobox a2) binding the Pbx (Pre-B-cell leukemia homeobox) motif (TGATTGAT). For all canonical TFBS in the mouse genome, we calculated intrinsic nucleosome occupancy scores (INOS) for its surrounding 150-bps DNA and examined the relationship with  in vivo  TF binding. In mouse mammary 3134 cells, c-Jun and GR proteins preferentially bound regions calculated to be well-bound by nucleosomes  in vitro  with the canonical AP-1 and GR motifs themselves contributing to the high INOS. Functional GR motifs are enriched for AP-1 motifs if they are within a nucleosome-sized 150-bps region. GR and Hoxa2 also bind motifs with low INOS, perhaps indicating a different mechanism of action.
+
+				
+				
+					
+						Conclusion
+
+					Our analysis quantified the contribution of INOS and co-occurring sequence to the identification of functional canonical motifs in the genome. This analysis revealed an inherent competition between some TFs and nucleosomes for binding canonical TFBS. GR and c-Jun cooperate if they are within 150-bps. Binding of Hoxa2 and a fraction of GR to motifs with low INOS values suggesting they are not in competition with nucleosomes and may function using different mechanisms.
+
+				
+			
+		

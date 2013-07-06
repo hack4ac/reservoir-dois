@@ -1,0 +1,141 @@
+Methods
+   
+      Plant and insect materials
+      The wheat cultivars Newton and Molly were used in this study. Newton is a susceptible
+         cultivar containing no Hessian fly resistance gene. Molly is a nearly-isogenic offspring
+         line of Newton and contains the R gene H13. Molly was obtained via backcrossing for seven generations to the susceptible parent
+         Newton [47]. A Hessian fly population from Scott County, Kansas, was used for this research.
+         The fly population is virulent to Newton wheat, but avirulent to Molly, which contains
+         the resistance gene H13[58].
+      
+      Experimental treatments and RNA extraction
+      Molly and Newton seedlings were grown and infested with biotype GP in a growth chamber
+         set at 20 ± 1°C (daytime) and 18 ± 1°C (night) with a 14:10&nbsp;h (L/D) photoperiod. Seedlings
+         were infested at two-leaf stage with eggs from 20 mated females per 10 plants. Tissue
+         samples from 5 plants in each replicate were collected and pooled at 6, 12, 24, and
+         72&nbsp;h after larval hatching. Only the tissue at the feeding site (about 1.5 to 2&nbsp;cm)
+         of the second leaf sheath was collected for RNA extraction. Seedlings of each genotype
+         under the same conditions but without infestation were used as uninfested control.
+         A portion of the seedlings in each experiment was kept for later phenotypic confirmation.
+         Total RNA was extracted from wheat tissues using TRI reagent™ according to the procedure
+         provided by the manufacturer (Molecular Research Center, Inc., Cincinnati, OH, USA).
+         Three biological replications were used for each treatment.
+      
+      Microarray hybridization and data analysis
+      GeneChip® wheat genome arrays containing 61,127 probesets were purchased from Affymetrix (Santa
+         Clara, CA, USA). Each data point contains three biological replicates. Labeling and
+         hybridization on the wheat microarrays were performed according to the standard protocol
+         provided by Affymetrix (http://www.affymetrix.com/support/technical/manual/expression_manual.affx webcite). After hybridization and washing, the arrays were scanned with an Affymetrix GeneChip
+         Scanner 3000. Gene annotation was accomplished using HarvEST: Wheat version 1.57 (http://www.harvest.ucr.edu/ webcite) and Affymetrix NetAffx. The functions of the genes were further manually updated
+         by searching the GenBank with BLASTX. Microarray data were deposited to the data base
+         of National Center for Biotechnology Information (NCBI) with accession number GSE34445
+         (http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE34445 webcite).
+      
+      Statistical analysis
+      The microarray probe-level intensity was read from cel files directly. The probe-level
+         data from multiple chips were then summarized with GC Robust Multi-array Average (GCRMA)
+         [59] to produce probeset expression values. GCRMA uses probe affinity data including perfect
+         match, mismatch probes and sequence information to perform background adjustment,
+         quantile normalization, and median-polish summarization.
+      
+      Differentially expressed genes were identified by using LIMMA method. Specifically,
+         the effects of interest were coded into contrast parameters and linear models were
+         fitted to estimate the contrast parameters. The log-odds of differential expression
+         versus no differential expression and the moderated t-statistics were calculated by
+         empirical Bayes shrinkage of the standard errors towards a pooled standard deviation
+         value. Differentially expressed genes were selected at 0.05 significant level with
+         BH adjustment for multiple comparisons [60,61].
+      
+      Real-time PCR validation and correlation Analysis
+      Real-time PCR (qPCR) was carried with six representative genes for validation of microarray
+         results. Actin was used for normalization. Total RNA was treated with TURBO™ DNase
+         (Ambion, Austin, TX, USA) to remove any genomic DNA contamination. One microgram of
+         total RNA was used for synthesis of first strand cDNA using SuperScript® III First-Strand Synthesis System (Invitrogen, Carlsbad, CA, USA), and used as a
+         template for real-time quantitative PCR (qPCR). Three biological replications, each
+         with two technical replications were used for qPCR analysis. PCR primers were designed
+         using Beacon Designer software (version 7) and listed in Additional file 10: Table S7. qPCR was performed using SYBR green kit (Bio-Rad) and Bio-Rad iCycler
+         iQs real-time PCR detection system at the Kansas State University Gene Expression
+         Facility. qPCR cycling parameters included 95°C for 5&nbsp;min, 40&nbsp;cycles each consisting
+         of 95°C for 30&nbsp;sec, 52°C for 15&nbsp;sec, and 72°C for 45&nbsp;sec. At the end of each PCR reaction,
+         a melt curve was generated to confirm single peak and rule out the possibility of
+         primer-dimer and non-specific product formation. Relative fold-changes for transcripts
+         were calculated using the comparative 2−ΔΔCT method [62]. Log2 ratios were used to perform the correlation analysis between qPCR and microarray
+         data.
+      
+      Additional file 10: Table S7. Target genes and primer pairs used for real-time PCR (qPCR).
+         	Format: DOC 
+         	Size: 38KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      qPCR results are shown in Additional file 9: Figure S3A. The results were highly consistent with microarray results, with a correlation
+         coefficient 0.95 (Additional file 9: Figure S3B).
+      
+      Hessian fly larvae rescue assay
+      Initial infestation was carried out with Molly plants as described above. Larval hatching
+         and migration were monitored hourly starting three days after infestation to accurately
+         determine the time when larvae reached the feeding site [36]. After larvae lived in resistant Molly plants for one or two days, seedlings were
+         dissected, larvae in the plants were washed off into water with 0.1% Tween20. The
+         washed off larvae were individually replaced back onto the first leaf-blade of a fresh
+         seedling of the susceptible Newton. Survival rate of the rescued larvae was determined
+         two weeks later when larvae became third instar. For control, larvae lived in susceptible
+         Newton seedlings for one or two days were collected and transferred onto new Newton
+         seedlings in exactly the same way as in Molly. Five replicates were carried out and
+         each replicate consisted of 10 plants with average rescued larvae 20–30 per replicate.
+         Data were analyzed using a standard ANOVA analysis.
+      
+      Metabolite profiling
+      Metabolite profiling was conducted by a commercial service with Metabolon (Durham,
+         NC, http://www.metabolon.com/ webcite). The analysis was conducted as described previously [63]. Briefly, wheat tissues were processed using the automated MicroLab STAR® system from Hamilton Company (Reno, NV, USA). Recovery standards were added prior
+         to the first step in the extraction process for quality control purposes. Sample preparation
+         was conducted using a proprietary series of organic and aqueous extractions to remove
+         the protein fraction while allowing maximum recovery of small molecules. The resulting
+         extract was divided into two fractions; one for analysis by liquid chromatography
+         (LC) and the other for analysis by gas chromatography (GC). Samples were placed briefly
+         on a TurboVap® (Zymark) to remove the organic solvent. Each sample was then frozen and vacuum dried.
+         Samples were then subjected to mass spectrometry (MS), either LC/MS or GC/MS.
+      
+      LC/MS analysis was conducted on a platform based on a Waters ACQUITY UPLC and a Thermo-Finnigan
+         LTQ mass spectrometer, which consisted of an electrospray ionization (ESI) source
+         and a linear ion-trap (LIT) mass analyzer. Plant extract was split into two aliquots,
+         dried, then reconstituted in acidic or basic LC-compatible solvents, each of which
+         contained 11 or more injection standards at fixed concentrations. One aliquot was
+         analyzed using acidic positive ion optimized conditions and the other using basic
+         negative ion optimized conditions in two independent injections using separate dedicated
+         columns. Extracts reconstituted in acidic conditions were gradient eluted using water
+         and methanol both containing 0.1% Formic acid, while the basic extracts, which also
+         used water/methanol, contained 6.5&nbsp;mM ammonium bicarbonate. The MS analysis alternated
+         between MS and data-dependent MS2 scans using dynamic exclusion.
+      
+      The samples destined for GC/MS analysis were re-dried under vacuum desiccation for
+         a minimum of 24&nbsp;hours prior to being derivatized under dried nitrogen using bistrimethyl-silyl-triflouroacetamide
+         (BSTFA). The GC column was 5% phenyl and the temperature ramp is from 40° to 300°C
+         in a 16&nbsp;minute period. Samples were analyzed on a Thermo-Finnigan Trace DSQ (Fisher
+         scientific, Pittsburgh, PA) fast-scanning single-quadrupole mass spectrometer using
+         electron impact ionization.
+      
+      Data were collected and analyzed using an informatics system. Compounds were identified
+         by comparison to library entries of purified standards or recurrent unknown entities.
+         Identification of known chemical entities was based on comparison to metabolomic library
+         entries of purified standards, which consisted of over 1000 commercially available
+         purified standard compounds. The combination of chromatographic properties and mass
+         spectra gave an indication of a match to the specific compound or an isobaric entity.
+         A variety of curation procedures were carried out to ensure that a high quality data
+         set was made available for statistical analysis and data interpretation.
+      
+      t-tests were conducted to determine whether the unknown means for two populations are
+         different or not. “Mean Decrease Accuracy” (MDA) is used to determine which variables
+         (biochemicals) make the largest contribution to a classification. MDA is determined
+         by randomly permuting a variable, running the observed values through the trees, and
+         then reassessing the prediction accuracy. Thus, the random forest analysis provides
+         an “importance” rank ordering of biochemicals; we typically output the top 30 biochemicals
+         in the list as potentially worthy of further investigation.
+      
+      Epidermal cell permeability assay
+      Neutral red stain (Sigma-Aldrich, St. Louis, MO, USA) was used to determine epidermal
+         permeability of cells as described previously [35,36]. Briefly, plants were dissected 2&nbsp;days after the initial HF larval attack. After
+         peeling off the first leaf-sheath, the HF larval feeding site of the second leaf-sheath
+         was stained with 0.1% neutral red stain for 10&nbsp;min, followed by five times washing
+         with water. Uninfested plants were dissected and stained as negative controls in the
+         same way. After staining, plant tissues were examined under a fluorescent microscope
+         (Zeiss Axioplan-2) and photographed with a Nikon Coolpix 4500 Digital camera.
+      
+   
+

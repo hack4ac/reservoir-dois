@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Autoimmune hepatitis (AIH) is a chronic liver disease caused by inflammation of the liver. The etiology of AIH remains elusive, and there are no reliable serum biomarkers.
+
+				
+				
+					
+						Methods
+
+					In order to identify candidate biomarkers, 2-DE analysis of serum proteins was performed using a mouse model of AIH induced by treatment with concanavalin A (ConA). To enrich samples for low abundance molecules a commercial albumin removal reagent was used. In an independent analysis, candidate biomarkers were identified in AIH patient’s serum by a targeted iTRAQ (isobaric tags for relative and absolute quantification) identification. Candidates were validated in independent cohorts of ConA treated mice and AIH patients by ELISA (enzyme-linked immuno sorbent assay).
+
+				
+				
+					
+						Results
+
+					Nine proteins were differentially expressed in AIH mice treated with con-A. Two of these, the third component of complement (C3) and alpha-2-macroglobulin (A2M) were also up-regulated in AIH patient’s sera by a targeted iTRAQ identification. In separate validation studies, serum C3 and A2M levels were increased in mice with ConA treatment after 20-40 h and in 34 AIH patients in a subgroup analysis, females with AIH aged 20–50 years old displayed the largest increases in serum A2M level. Biological network analysis implements the complement cascade and protease inhibitors in the pathogenesis of AIH.
+
+				
+				
+					
+						Conclusion
+
+					The serum proteins C3 and A2M are increased both in a mouse model and in patients with AIH by both 2-DE and iTRAQ methods. This integrated serum proteomics investigation should be applicable for translational researchers to study other medical conditions.
+
+				
+			
+		

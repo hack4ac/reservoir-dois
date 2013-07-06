@@ -1,0 +1,4 @@
+Abstract
+The diffusive predator-prey model with Ivlev functional response is considered under homogeneous Dirichlet boundary conditions. Firstly, we investigate the bifurcation of positive solutions and derive the multiplicity result for  γ  suitably large. Furthermore, a range of parameters for the uniqueness of positive solutions is described in one dimension. The method we used is based on a comparison principle, Leray-Schauder degree theory, global bifurcation theory and generalized maximum principle.
+MSC: 
+35K57.

@@ -1,0 +1,116 @@
+Methods
+   
+      Design
+      To determine the efficacy of a specially developed strategy for implementation of
+         the guidelines for depression [4], we conducted a randomised controlled trial (RCT) in which we compared an intervention
+         group with a control group. In this RCT we compared the intervention of a specially
+         developed training programme with the usual methods of implementation and training
+         currently in use by the social security agency.
+      
+      The intervention was a training programme designed for IPs, in which they learnt to
+         apply the guidelines for depression [3]. This programme, together with baseline and follow-up measurements, was integrated
+         into a four-day postgraduate course located at the Netherlands School of Public and
+         Occupational Health (NSPOH).
+      
+      While the intervention group was trained in applying the guidelines for depression,
+         the control group received an alternative programme of training in motivational interviewing
+         that did not conflict with the intervention programme. The RCT took three days within
+         a period of two weeks in March 2009. After the RCT ended, the control group received
+         the same training as the intervention group, while the intervention group received
+         the alternative programme. This was planned as the fourth day of the course, which
+         was held three months later at the end of June 2009.
+      
+      By using actors simulating four different case reports on video, we managed to create
+         a laboratory setting in which we could measure the work disability assessments of
+         clients with depression by each IP. In these videos the role of the client was played
+         by four different actors, while the role of the IP was played by two ‘real’ IPs, independently
+         selected for this purpose. The training programme was designed to be also applied
+         in practice. The Ethics Committee of the VU University Medical Centre granted approval
+         for the study design and the RCT was accepted by the Netherlands Trial Register under
+         number NTR1863.
+      
+      Participants
+      In January 2009, IPs employed by the Institute were invited to take part in a postgraduate
+         course in applying the guidelines for depression, given in the period from March to
+         July 2009. The inclusion criteria were that individuals should be registered as insurance
+         physicians, or still in training as such, and should be conducting disability assessments
+         of clients as commissioned by the Institute. The NSPOH was responsible for enrolment
+         of participants, who also provided written informed consent to take part in the study.
+         43 insurance physicians participated in the study.
+      
+      The participants were allocated in order of registration to either the intervention
+         group or the control group by using a random-sequence table. Participants who were
+         not available on the planned dates were excluded from the trial. The participants
+         were informed about the fact that the course was part of a research project, but they
+         were not informed about the design of the entire project, i.e. the various measurements
+         and the type of group they participated in.
+      
+      Data collection
+      Data were collected at the NSPOH during the period of the training course. At baseline
+         (pre-intervention) and at follow-up (post-intervention) each IP assessed the work
+         limitations of two clients, played by actors, who were presented separately on video.
+         The actors played clients with depression, reconstructed from real case reports. The
+         actors played their roles on the basis of extensive scripts, with room for improvisation.
+         The videos showed the disability assessment encounter between a client (actor) and
+         an independent IP (not a participant in the RCT), who had been briefed to perform
+         the assessment in complete accordance with the guidelines for depression. The decision
+         phase of the assessment encounter was not shown on the video. The participating IPs
+         completed their medical disability reports, including the LFA, immediately after watching
+         each client on the video. All reports and completed LFAs were collected directly afterwards.
+         The researchers were blinded for the collection of data and an independent research
+         assistant coded the data.
+      
+      Outcomes
+      The primary outcome of the RCT was guideline adherence, measured using performance
+         indicators. A detailed description of the development and reliability of these performance
+         indicators has been published elsewhere [11], as has the effect of the intervention on guideline adherence [4].
+      
+      Secondary outcome in the RCT was LFA scores. These LFA scores were scored by the IP
+         participating in the RCT for the work limitations of the clients presented in the
+         four videos. The LFA consists of six sections containing a total of 106 items: I personal
+         functioning (30 items), II social functioning (17 items), III adjusting to the physical
+         environment (13 items), IV dynamic movements (31 items), V static posture (11 items),
+         and VI working hours (4 items). A large-scale study (of 51,000 disability assessments)
+         into the dimensions behind these items [12] discovered 16 dimensions, each forming an scale. The internal reliability of the
+         scales (Cronbach’s alpha) was generally acceptable (alpha 0.60-0.75) to good (alpha
+         &gt;0.75) or even very good (alpha &gt;0.85). Only one dimension – communication – had an
+         unacceptable level of internal reliability (alpha 0.53). In a follow-up study using
+         a second order factor analysis [13], 14 of these 16 scales (excluding communication and working hours) were further reduced
+         to four scales:
+      
+      1) Mental abilities: limitations in coping with various mental task demands
+      2) General physical abilities: limitations covering various aspects of the musculoskeletal
+         system
+      
+      3) Autonomy: limitations in being able to act autonomously in the working situation
+      4) Manual skills and grip strength limitations.
+      Since the internal reliability of this last scale was very low (alpha 0.46), items
+         on this scale were included in the scale for general physical ability, a possibility
+         demonstrated by another study of LFA data from 84,000 disability assessments [10]. The three scales in the mentioned study had an acceptable level of reliability (alphas
+         were 0.69 for scale 1, 0.72 for scale 2, and 0.75 for scale 3 including manual skills
+         and grip strength). Hence, in the current study we used these three scales, with an
+         additional separate scale for working hours, that had a very good internal reliability
+         (alpha 0.97) [12].
+      
+      Analyses
+      To address the first hypothesis, we used an unpaired t-test to analyse differences
+         in the mean sum scores of the four scales between the intervention group and the control
+         group for each case report (four case reports: the first two pre-intervention, the
+         other two post-intervention). To examine whether correction was necessary for the
+         influence of any unequal distribution of background variables between the intervention
+         group and the control group, we performed regression analysis using the relevant background
+         variable as covariate.
+      
+      To address the second hypothesis regarding inter-rater reliability, we performed analyses
+         using linear mixed models, which enable modelling of variances (and covariances) and
+         provide the possibility of accounting for hierarchical data [14]. We used the variances to calculate the intraclass correlation coefficient (ICC,
+         with values ranging between 0 and 1) [15]. A higher ICC is an indication of greater degree of inter-rater reliability. We also
+         calculated whether the difference between the ICCs of the intervention group and the
+         control group was significantly different from zero. For a more detailed description
+         of the statistical analysis please we refer to the Additional file 1. All analyses were performed using SPSS 15.0 [14].
+      
+      Additional file 1. Statistical method for calculating intraclass correlation coefficients.
+         	Format: DOC 
+         	Size: 28KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+   
+

@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The current standard treatment of patients with relapsed or refractory diffuse large cell B-Cell lymphoma (DLBCL) primarily consists of intensified salvage therapy and, if the disease is chemo-sensitive, high dose therapy followed with autologous stem cell transplantation. In the rituximab era however, this treatment approach has shown only limited benefit. In particular, patients relapsing after rituximab-containing primary treatment have an adverse prognosis, especially if this occurs within the first year after therapy or if the disease is primarily refractory. Therefore there is an ultimate need for improved salvage treatment approaches.
+
+				
+				
+					
+						Methods/design
+
+					The STORM study is a prospective, multicentre phase I/II study to evaluate the safety, feasibility and activity of salvage therapy consisting of the mTOR inhibitor temsirolimus added to the standard therapy rituximab and DHAP for the treatment of patients with relapsed or refractory DLBCL. The primary objective of the phase I of the trial is to establish the maximum tolerated dose (MTD) of temsirolimus in combination with rituximab and DHAP. The secondary objective is to demonstrate that stem cells can be mobilized during this regimen in patients scheduled to proceed to high dose therapy. In phase II, the previously established maximum tolerated dose of temsirolimus will be used. The primary objective is to evaluate the overall response rate (ORR) in patients with relapsed DLBCL. The secondary objective is to evaluate progression free survival (PFS), overall survival (OS) and toxicity. The study will be accompanied by an analysis of lymphoma subtypes determined by gene expression analysis (GEP).
+
+				
+				
+					
+						Discussion
+
+					The STORM trial evaluates the safety, feasibility and activity of salvage therapy consisting of the mTOR inhibitor temsirolimus added to standard therapy of rituximab and DHAP for the treatment of patients with relapsed or refractory DLBCL. It also might identify predictive markers for this treatment modality.
+
+				
+				
+					
+						Trial Registration
+
+					ClinicalTrials.gov  NCT01653067 
+					
+
+				
+			
+		

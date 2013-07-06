@@ -1,0 +1,63 @@
+Methods
+   
+      Research setting
+      The research presented here was performed within the annual course ‘Advanced topics
+         in causal research: confounding and effect modification’. This is a course within
+         the MSc program Epidemiology at Utrecht University. It is a compulsory course for
+         MSc Epidemiology students as well as for postgraduate MSc students (mostly PhD students)
+         in Epidemiology. In the curriculum the course is scheduled at the end of a series
+         of theoretical courses, just before the students start their research projects. In
+         addition to the aforementioned groups of participants, the course is attended by clinicians
+         with a research interest.
+      
+      The course focuses on two issues in epidemiology that are essential to causal research:
+         confounding and effect modification. For a detailed explanation of these topics we
+         refer to textbooks on epidemiology [3]. During the course, approximately half of the time was devoted to the topic of confounding
+         and the other half to effect modification. There were two teachers in this course:
+         one was an expert in the field of confounding, the other an expert in the field of
+         effect modification.
+      
+      The course is a five-day course. The first four days have a similar set-up: each morning
+         lectures are scheduled in which theory is discussed, while in the afternoon computer
+         practicals are scheduled in which statistical software is used to clarify the theory
+         discussed during the morning session. On the fifth day of the course a group assignment
+         is scheduled. Each group is assigned an empirical dataset and an accompanying research
+         question. The group members have to draft an analysis plan, analyse the data accordingly,
+         and give a short presentation of the results of their study. At the end of the course,
+         the participants have to pass a written exam.
+      
+      Since 2008, the course has been given annually according to the format described above.
+         In 2012 the outline of the course was similar to the years before, but in addition
+         course materials were developed to allow participants to follow the course through
+         distance learning. In 2011, all lectures were recorded on video. The slides and the
+         timeline of the lectures were added to the recordings, which allowed participants
+         to go easily through the lecture or play specific parts multiple times. In addition,
+         for all computer practicals a video manual was recorded, which includes a video instruction
+         on using the statistical software, how to perform the exercises, where to find the
+         results, and how to interpret these results. All materials were available through
+         the E-learning environment on a website. Students could access the website using a
+         personal code. Aside from the study materials, there was also room to post messages
+         on the E-learning environment. These messages could be read by all participants as
+         well as the instructors. This allowed participants to ask questions or to respond
+         to questions by others. Participants could also send messages directly to the instructors,
+         either through the website or email. During the 2012 course, attendance to the live
+         education was not compulsory and distance learning material were made available in
+         parallel with the live sessions. Hence, participants could choose to attend the live
+         education, to use the learning materials provided through the internet, or both.
+      
+      Data collection and analysis
+      All participants of the course that was given in March 2012 were asked to keep a diary
+         on the number of hours they spent on course activities. They were also asked to write
+         down the reasons for attending or not attending the live education (lectures or practicals).
+         In addition, they were asked to fill in a questionnaire on learning styles. We used
+         the Index of Learning Styles, which was developed by Felder and Soloman [4]. The Index of Learning Styles makes a distinction between four domains of learning
+         (active-reflective, sensing-intuitive, visual-verbal, and sequential-global). The
+         questionnaire consists of 44 questions, 11 for each domain. For each participant the
+         answers to the questionnaire were categorized to indicate which was the predominant
+         learning style in each of the four domains. All questionnaires were answered voluntarily
+         and anonymized before they were collected. Therefore, we were unable to link the results
+         of the exam to e.g. attendance of live or distance education or learning styles. The
+         study was approved by the NVMO Ethical Review Board (NERB dossier number 261).
+      
+   
+

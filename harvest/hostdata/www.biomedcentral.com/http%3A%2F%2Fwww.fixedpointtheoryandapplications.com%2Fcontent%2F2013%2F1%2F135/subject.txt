@@ -1,0 +1,1 @@
+common fixed point, Banach operator pair, strongly M-starshaped metric space, invariant approximation

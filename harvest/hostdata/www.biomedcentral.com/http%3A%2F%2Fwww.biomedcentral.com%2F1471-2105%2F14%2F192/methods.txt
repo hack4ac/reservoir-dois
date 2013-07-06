@@ -1,0 +1,542 @@
+Methods
+   
+      In this work, we propose a real-time compression algorithm for reducing the memory
+         footprint of a forward-time population genetic simulation, composed of two components:
+         the compression technique (operation graph) and the decompression accelerator (Greedy-Load).
+         The operation graph represents each genotype by the sequence of evolutionary events
+         that gave rise to it, and Greedy-Load maintains a “small” set of explicit genotypes
+         that accelerates the decompression of compressed genotypes in the operation graph.
+         Whenever the simulation or analysis requires access to the genotype information, genotypes
+         can be retrieved on-the-fly by applying the evolutionary events to an explicitly represented
+         genotype. We now describe the algorithm and data structure we use in detail, including
+         the decision on which genotypes to represent explicitly, how to decompress a genotype,
+         and how to build/augment the compression data structure. We begin with the compression
+         technique, which we call the operation graph.
+      
+      The operation graph
+      As evolutionary operations — such as mutation or recombination — occur in the population
+         genetic simulation, the dependency of each operation on the previous genetic history
+         is encoded in the operation graph (OG). Operations are stored as nodes in the OG,
+         a directed acyclic graph (DAG) structure, where operations with one incoming edge
+         correspond to mutations and with two incoming edges correspond to recombinations.
+         Each operation that arises over the course of the simulation is encoded as a distinct
+         node in the OG, along with the genetic material produced by the operation.
+      
+      Let 
+            
+               F
+             denote the set of evolutionary operations allowable in a simulation, and let 
+            
+               G
+             denote the set of genotypes that arise during a simulation. For mutational evolutionary
+         events, each element 
+            
+               op
+               ∈
+               F
+             is a function 
+            
+               op
+               :
+               G
+               ×
+               Φ
+               →
+               G
+            , where 
+            
+               op
+               (
+               A
+               ,
+               ϕ
+               )
+               =
+               C
+             denotes that genotype C is the result of applying evolutionary event op to genotype A with parameters ϕ. However, for recombination, 
+            
+               op
+               ∈
+               F
+             is a function 
+            
+               op
+               :
+               G
+               ×
+               G
+               ×
+               Φ
+               →
+               G
+            , where op(A,B,ϕ)=C denotes that C is the result of a recombination event involving genotypes A and B, with parameters ϕ.
+      
+      For example, if we take 
+            
+               ϕ
+               
+               =
+               
+               〈
+            base-pair- mutation,3,T 〉 and apply it to genotype 
+            
+               A
+               =
+               ACCAAAT
+            , we obtain genotype 
+            
+               C
+               =
+               ACTAAAT
+            , since the operation applied to A is a base-pair mutation that substitutes nucleotide T in the third position. Since different evolutionary events have different types of
+         parameters, in addition to the “input” genotypes A and B, we abuse notation, for the sake of simplicity, and use op as a function from 
+            
+               G
+             to 
+            
+               G
+             for mutation and 
+            
+               G
+               ×
+               G
+             to 
+            
+               G
+             for recombination—additional parameters ϕ for applying op should be clear from the context.
+      
+      The operation graph (OG) is a rooted, labeled, weighted DAG OG=(V,E,ℓ,f,w,c), where 
+      
+      1. V is the set of nodes;
+      
+      2. E⊆V×V is the set of edges;
+      
+      3. 
+            
+               ℓ
+               :
+               V
+               →
+               (
+               G
+               ∪
+               {
+               nil
+               }
+               )
+             is the genotype labeling function with the constraint that {v∈V:ℓ(v)≠nil}≠∅;
+      
+      4. 
+            
+               f
+               :
+               V
+               →
+               F
+             is the operation labeling function;
+      
+      5. 
+            
+               w
+               :
+               V
+               →
+               ℝ
+             is the weight function such that w(v), for node v∈V, is the frequency of the genotype ℓ(v); and
+      
+      6. 
+            
+               c
+               :
+               V
+               →
+               ℝ
+             is the cost function such that c(v), for node v∈V, is the non-negative computational cost of applying the operation f(v).
+      
+      A node v is called explicit if ℓ(v)≠nil. That is, an explicit node corresponds to a genotype that is not compressed.
+      
+      For a node x∈V, we denote by Anc(x)⊆V the set of all lowest explicit nodes betweenx and the root of OG, where a node y is lowest if no explicit node z (z≠x and z≠y) resides on a path between y and x. In particular, if x is explicit, then Anc(x)={x}. The set of active nodes in an OG, denoted by A(OG), is all nodes whose corresponding genotypes have non-zero frequency; that is, 
+            
+               A
+               (
+               OG
+               )
+               =
+               {
+               v
+               ∈
+               V
+               :
+               w
+               (
+               v
+               )
+               ≠
+               0
+               }
+            .
+      
+      Novelty of the operation graph
+      The OG is a compression technique similar to LZ77 with edit operations and uses a
+         structure similar to the Ancestral Recombination Graph (ARG), a phylogenetic structure
+         that describes the evolutionary history of a set of genetic samples [13-15]. The LZ77 algorithms replace repeated occurrences of data with references to a single
+         copy of that data existing earlier in the input data stream. In our case, instead
+         of repeated occurrences, we replace “evolutionary related occurrences”, such that
+         we keep track of homologous, rather than identical, genotypes. For instance, if “ACCCT”
+         evolved from “ACCGT”, only one instance is explicitly saved. Further, the operation
+         graph is implicitly produced by forward time population genetic simulators, whether
+         or not it is explicitly stored; whereas for LZ77, the identification of previous,
+         similar strings is the bulk of the computational work in its implementation. Lastly,
+         while LZ77 is a general compression scheme, the operation graph is biologically motivated,
+         and in general, applies to scenarios where data evolves in a population, so that occurrences
+         of data can be related to each other through evolution and this relatedness is used
+         in the compression. For instance, it is not clear how LZ77 would handle the forking
+         replacement dependencies incurred through processes like recombination.
+      
+      While both the OG and ARG employ a DAG, the similarity between the two almost ends
+         there. An ARG provides an explicit model of the evolution of a set of genetic sequences,
+         mainly under point mutations and recombination [15]. The mutational model is often assumed to be the infinite sites, but more recent
+         work has considered finite-site models as well [16]. On the contrary, the OG is an implicit representation of a set of related genetic
+         information, where mutations and recombinations can be general (ranging from point
+         mutations to insertions/deletions to genomic rearrangements). Further, while ARGs
+         model the evolution of genetic sequences in a population setting, the OG is defined
+         for arbitrary genotypes. A case in point is our recent population-level analysis of
+         regulatory networks in E. coli, where the OG was defined over genotypes consisting
+         of regulatory networks [17].
+      
+      Updating the operation graph
+      Whenever a new genotype C arises from existing genotypes A and B through a recombination operation op, the operation graph is updated by (1) adding a new node u to V, (2) adding new edges e1=(x,u) and e2=(y,u) to E, where x and y are the nodes that correspond to genotypes A and B, respectively, and (3) setting f(u)=op. In terms of ℓ(u), it can be set to nil or to the new genotype C; we discuss below the choice we make in our algorithm. If the operation is a mutation,
+         then only a single new edge is added in Step (2). The cost of op, or c(u), can be set based on the type of operation (e.g., insertion, base mutation, deletion, recombination) or the input to the operation
+         ϕ. In the case of recombination, the ordering of the two parents is handled at the
+         implementation level.
+      
+      Whenever a genotype A is lost from the population, the operation graph is updated only when when the node
+         x that corresponds to genotype A is a leaf node in OG. In this case, the algorithm identifies the set Y where each node y∈Y is the lowest node on a path from the root to x that is either active, of out-degree 2, or the root of OG. Once node set Y is identified, allnodes on the path from y∈Y to x, excluding y, and all edges on that path, are deleted from OG. If x is not a leaf node, no update is done, since some active genotypes may be “under”
+         it.
+      
+      Measures of the operation graph quality
+      Given the graph OG, the genotype in every node can be decompressed; that is, for every node x with ℓ(x)=nil, the explicit value of ℓ(x) can be computed by traversing the path, or paths, from x to nodes in Anc(x) and applying the corresponding operations. The decompression cost for a given node
+         x, denoted by cost(x), is
+      
+      
+         
+               
+                  
+                     cost
+                     (
+                     x
+                     )
+                     =
+                     
+                        
+                           ∑
+                        
+                        
+                           v
+                        
+                     
+                     c
+                     (
+                     v
+                     )
+                     ,
+                  
+               
+         
+      
+      where the sum is taken over all nodes that resides on paths between nodes in Anc(x) and x. For a pair of nodes x and y, where y is on the path from a node in Anc(x) to x, we define the cost of decompressing node x by using information on the way from y to it, as 
+            
+               cost
+               (
+               x
+               ,
+               y
+               )
+               =
+               
+                  
+                     ∑
+                  
+                  
+                     v
+                  
+               
+               c
+               (
+               v
+               )
+               ,
+             where v ranges over all nodes on the path from y to x (cost(x,y)=0 if y is not on any path from a node in Anc(x) to x).
+      
+      Further, the load of a node x (or, the corresponding genotype) is given by 
+      
+      
+         
+               
+                  
+                     load
+                     (
+                     x
+                     )
+                     
+                     =
+                     
+                     
+                        
+                           ∑
+                        
+                        
+                           y
+                           ∈
+                           U
+                           (
+                           x
+                           )
+                        
+                     
+                     
+                     w
+                     (
+                     y
+                     )
+                     
+                     ·
+                     
+                     cost
+                     (
+                     y
+                     ,
+                     x
+                     )
+                     ,
+                  
+               
+         
+      
+      where U(x) denotes the set of all nodes in OG that are under node x and require node x for decompression. Notice that for two operation graphs OG1 and OG2 whose underlying graphs are isomorphic and node labelings are identical, it may be
+         the case that cost(x) based on OG1 is different from cost(x) based on OG2.
+      
+      If we denote by 
+            
+               C
+               (
+               V
+               )
+               =
+               {
+               v
+               ∈
+               V
+               :
+               ℓ
+               (
+               v
+               )
+               ≠
+               nil
+               }
+            , which is the set of uncompressed genotypes, then no compression is achieved when
+         C(V)=V, and maximum compression is achieved when C(v)={r} for the root node r of graph OG. The time it takes to access the explicit genotypes is effectively the time it takes
+         to decompress all the compressed genotypes.
+      
+      Compression algorithms
+      The set c(v) of an operation graph OG is at the core of the space-time trade-off here: the larger c(v), the more space is consumed and the less time is required to access the explicit
+         genotypes, and the smaller c(v), the less space is consumed and the more time is required to access the explicit
+         genotypes. Therefore, a central task here is to determine the set c(v) that would minimize the load of an operation graph. Here, we describe several compression algorithms for this
+         task, one which is the main contribution of this paper — Greedy Load — and the others
+         which are used for performance comparison.
+      
+      Greedy-Load
+      In Greedy-Load, the inputs, in addition to the operation graph OG, are k, which is a pre-specified bound on the desirable size of c(v), and t, which is the number of generations elapsed between updates of the set c(v). This algorithm assumes that load(x) for all x∈V is implicitly calculated and updated whenever the membership of c(v) changes.
+      
+      In a nutshell, Greedy-Load seeks to advance the set c(v) towards the leaves and active alleles of the OG by greedily caching genotypes with high levels of load. We define the utility function advance(x) which maximally “advances” the decompression from x towards the leaves of the OG: 
+      
+      1. let node y∈U(x)∪{x} be the highest node that is either: 
+      
+      (a) a leaf,
+      (a) has non-zero weight (frequency), or
+      (a) has at least two children each of which has non-zero load and is not in C(V);
+      
+      2. decompress the genotype corresponding to node y and set ℓ(x)=nil.
+      
+      The Greedy-Load algorithm applies the following two steps on a given operation graph
+         OG every t generations in the simulation (in the first application of this algorithm, we set
+         C(V)={r}). In the first step, nodes that are no longer needed for decompression — load(x)=0 — are compressed, otherwise the decompression is advanced towards the leaves of
+         the OG. In the second step, nodes are added to C(V) by decompressing the max-load child of the max-load cached node. 
+      
+      1. For each node x∈C(V): 
+      
+      (a) if load(x)=0 and |C(V)|&gt;1, set ℓ(x)=nil, or
+      
+      (a) if load(x)&gt;0, perform advance(x).
+      
+      2. Add nodes to C(V) until |C(V)|=k or no other nodes may be added. Let node x∈C(V) have maximum load in C(V) and node y be the max-load child of x, at each iteration 
+      
+      (a) decompress the genotype corresponding to node y, and
+      
+      (a) perform advance(y) and advance(x).
+      
+      Example execution
+      Assume an OG as illustrated in Figure 1, composed of 12 operations labeled a to l connected by 12 edges. Node a is the root and nodes j,k,h,e, and l are leaves. All nodes are mutation operations except for d, which is a recombination operation with inputs b and c.
+      
+      Figure 1. Example execution of Greedy-Load. An example execution of Greedy-Load is illustrated on an abstract operation graph.
+         Each node a-l represents a distinct genotype (or allele) and each edge depicts evolutionary descent
+         by mutation (one parent) or recombination (two parents). The actual genotype representation
+         could be a sequence or pathway. Genotypes may be compressed (○), cached (□) or active
+         (=). The load of each genotype is depicted as the background color, with darker colors corresponding
+         to greater load. Sequential steps taken by the Greedy-Load algorithm are illustrated
+         from left to write, showing the incremental changes that update the set of uncompressed
+         genotypes from {a,c} in Panel 1 to {e,g,h,i} in Panel 4. Dashed arrows within each step illustrate which genotypes are compressed
+         and uncompressed. For instance, in Panel 2, d is uncompressed (cached) and a is compressed. For this example, the total number of cached genotypes k is 4. A complete description of this execution can be found in the Example execution section in the Methods.
+      
+      Panel 1 in Figure 1 depicts the OG prior to the execution of Greedy-Load. All leaves correspond to genotypes that are
+         active in the population in addition to the internal node i. This example walks through the application of Greedy Load with k=4.
+      
+      In Panel 2, the first step of Greedy-Load ‘advances’ the decompression from a towards the leaves. In this case, node d has two children, g and h, each of which has non-zero load and is compressed. Because node c does not require a for decompression, it is not in the set of nodes considered in advance(a). Because node c has two compressed children with non-zero load, it is not possible to advance the
+         decompression from c towards the leaves, so nothing is done.
+      
+      In Panel 3, assume 
+            
+               load
+               (
+               c
+               )
+               &gt;
+               load
+               (
+               d
+               )
+             and 
+            
+               load
+               (
+               f
+               )
+               &gt;
+               load
+               (
+               e
+               )
+            , so f is decompressed and advance(f) is performed, which results in decompressing i. Because i corresponds to a genotype that is active in the population, i may generate decompression requests, and so decompression cannot progress down the
+         OG. In addition to advance(f), advance(c) is also performed, which results in the decompression of e because c has only one child with non-zero load.
+      
+      In Panel 4, because 
+            
+               C
+               (
+               V
+               )
+               &lt;
+               4
+             and 
+            
+               load
+               (
+               d
+               )
+               &gt;
+               load
+               (
+               i
+               )
+            , node g is decompressed and advance(g) and advance(d) are performed. Because g has two compressed children with non-zero load, decompression cannot be advanced
+         further down the OG; however, because d only has one compressed child with non-zero load (since g is now decompressed), then d is compressed and h is decompressed. At this point, 
+            
+               C
+               (
+               V
+               )
+               =
+               {
+               e
+               ,
+               g
+               ,
+               h
+               ,
+               i
+               }
+             and the application of Greedy-Load is complete.
+      
+      In more realistic simulation scenarios, the OG is both much wider and taller than presented in this simple example execution, so
+         we visualized the execution of Greedy-Load on more complicated OG topologies (see Additional file 1). In this animation, the evolution of the OG is visualized along with the set C(V) for scenarios with low and high recombination rates.
+      
+      Additional file 1. Animation of Greedy-Load. Visualization of Greedy-Load on OGs corresponding to high and low recombination scenarios
+         	Format: M4V 
+         	Size: 17MB Download file or  display content in a new window
+      Other compression algorithms
+      In order to measure the performance of Greedy-Load, we defined two additional compression
+         policies that make fast, but potentially poor (in terms of memory and execution speed),
+         explicit representation decisions. Unlike Greedy-Load, these simple comparison compression
+         algorithms or policies do not require knowledge of the entire operation graph to select
+         the explicitly stored genotypes. Current simulators store active genotypes that arise
+         during the course of a simulation; we refer to this policy as Store-Active. The alternative
+         is to store only the root genotype(s) in the operation graph, which we call Store-Root.
+         More formally, for an operation graph OG=(V,E,ℓ,w), we have: 
+      
+      •Store-Active: set C(V)=A(OG).
+      
+      •Store-Root: set C(V)={r:r is a root node in OG}.
+      
+      Implementation
+      We implemented a population genetic simulator and the compression algorithms in C++,
+         which can be used as a development library or a command line tool. It is important
+         to note that we used explicit memory management, rather than garbage collection, for
+         genotype data structures, so memory usage metrics are honest measurements of allocated
+         memory. The emphasis in this work is on the compression algorithm rather than the
+         implementation of a memory-bounded forward-time population genetic simulator. We did
+         not find any existing simulator with a software architecture that allows for integrating
+         (without completely overhauling the implementation) a memory management policy, such
+         as the ones we propose here: hence, our choice to implement our algorithms independently
+         of existing simulators. However, we still provide a command line tool which, in addition
+         to taking flexible input parameters, provides an example for how the compression techniques
+         in this paper may be integrated into a pre-existing simulator.
+      
+      To improve the performance of the population genetic simulation with a memory-managed
+         genotype heap, we implemented both partial and batch decompression. In partial decompression,
+         rather than uncompressing a 100,000 bp sequence to access only 10 bp, we implemented
+         intelligent decompression which could retrieve randomly accessed locations without
+         decompressing the entire sequence. Because each operation in the OG stores meta-data associated with its application (such as locations and mutations),
+         we implemented operations such that they can be applied on the entire sequence or
+         on a given index. In batch decompression, we implemented the population genetic simulator
+         such that it reduces the data requests of a particular genotype. For instance, during
+         a mutation event involving multiple base-pair changes, the genotype is uncompressed
+         once and used repeatedly rather than uncompressed with each base pair change.
+      
+      Because calculating load on the OG may be a costly exponential calculation, we tracked the number of data
+         requests per operation as a proxy for load. For all operations in the OG, the number of data requests are set initially to zero and increment during the population
+         genetic simulation. The number of data requests increments by one when the population
+         genetic simulator requires the decompression of its corresponding genotype, which
+         may occur during the calculation of a mutation event, recombination event, or fitness
+         value. Data requests on compressed genotypes propagate up the OG to the most recent uncompressed operations. Consequently, genotypes with higher frequencies
+         in the population will tend to generate more data requests than low frequency genotypes,
+         and so we can use the number of data requests as a proxy for load. However, there may be operations with non-zero load but no data requests: for instance if during time period t an active genotype is not mutated or if partial decompression does not propagate
+         to both parents of a recombination event. Therefore, we maintain a boolean flag that
+         indicates if a particular operation is required for the decompression of some active
+         genotype, which we use in place of ‘non-zero load’. It is important to note that the calculation of this boolean flag requires O(n), where n is the number of nodes which are required for the decompression of some active genotypes.
+         Lastly, during the execution of Greedy-Load, the number of data requests for an operation
+         may be reset (step 1) or decremented (step 2), accordingly.
+      
+      To demonstrate that our approach is generally applicable to various choices of genotypes,
+         we implemented two very different genotype models: a DNA sequence (represented by
+         strings) and a regulatory pathway model(represented by graphs). In terms of memory
+         allocation, a DNA sequence of length L occupies L bytes and a pathway of k genes occupies roughly k2 bytes. For the DNA model, we implemented four evolutionary events (that is, operations
+         in the set): point mutations (u), sequence insertions (ui), sequence deletions (ud), and sequence crossover (c). Consequently, over the course of a simulation, the actual length of a DNA sequence
+         may change due to insertions and deletions. To our knowledge no other SNP-based compression
+         techniques (FREGENE or SimuPop) handl length variation.
+      
+      For the pathway model, we implemented binding site loss (ul) and gain (ug), similar to the model employed in [6]. More information regarding implementation details and software can be found in the
+         Additional file 2.
+      
+      Additionalfile 2. Supplementary information. Additional implementation and software details.
+         	Format: PDF 
+         	Size: 52KB Download file or  display content in a new windowThis file can be viewed with: Adobe Acrobat Reader
+      We verified the execution of the simulator using the DNA sequence genotype by comparing
+         the input mutation and recombination rates to the estimated mutation and recombination
+         rates inferred by the output sequences. In addition, we verified the measured sequence
+         polymorphism and diversity using the input population, sequence length, and mutation
+         rate. All simulations were run on a MacPro with two 2.26 GHz Quad-Core Intel Xeon
+         processors and 16 GB 1066 MHz DDR3 memory.
+      
+   
+

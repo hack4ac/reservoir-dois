@@ -1,0 +1,55 @@
+Methods
+   
+      Setting
+      We undertook a study comparing the proportion of men who were tested for HIV and STIs
+         before and after a sexual health practice nurse was introduced into a clinic (Clinic
+         A) with the aim of increasing HIV and STI testing. A comparison clinic (Clinic B),
+         a general practice also specializing in gay men’s health, but with no sexual health
+         nurse, was used as a control clinic. At Clinic A, clients were able to access the
+         sexual health nurse for testing either by appointment, or directly following a consultation
+         with their general practitioner if they recommended testing. Clinic A operated utilizing
+         the Australian government universal insurance scheme, Medicare, with no direct costs
+         to clients. Although Clinic B also used Medicare, clients had to pay some additional
+         consultation fees. In addition, the sexual health nurse provided HIV chronic disease
+         care, whereby HIV positive MSM could visit the nurse every three months for a range
+         of services, including, but not limited to, the collection of routine HIV serologic
+         monitoring tests and STI testing. At Clinic B, all HIV and STI testing was carried
+         out by general practitioners only. At each clinic the routine practice was for patients
+         to self-collect anal and urine samples.
+      
+      Study design
+      We compared the proportion of men who were tested at each clinic in the 24&nbsp;months
+         prior to the intervention (Period 1: 1st October 2006 to 30th September 2007; and Period 2: 1st October 2007 to 30th September 2008) and the 12&nbsp;months after (Period 3: 1st October 2008 to 30th September 2009) the sexual health nurse was introduced. The two periods prior to
+         the intervention, Periods 1 and 2 were included to establish whether there was a background
+         increase in testing prior to the introduction of the nurse.
+      
+      Data extraction
+      The total number of MSM attending each clinic was retrieved from each clinics electronic
+         patient database. The number of HIV positive MSM attending each clinic was obtained
+         by counting the number of men who had at least one HIV viral load assay in each period.
+         Men who had an HIV viral load test performed at any visit over the three periods were
+         included as HIV positive. However, if an individual had a negative HIV antibody test
+         at an earlier visit before they had HIV viral load tests, they were deemed to be HIV
+         negative for any prior visits.
+      
+      HIV viral load tests and the number of HIV and STI tests undertaken during these periods
+         and at both clinics was obtained from the Victorian Primary Care Network for Sentinel
+         Surveillance of STIs and Blood Borne Viruses [16]. The tests included serology for HIV antibodies and syphilis enzyme-linked immunoassay
+         (EIA), a urine specimen for chlamydia; and a rectal swab for chlamydia and gonorrhoea.
+         The Victorian Primary Care Network for Sentinel Surveillance of STIs and Blood Borne
+         Viruses [16] does not routinely collect data for pharyngeal gonorrhoea testing; therefore it was
+         not included in the analysis. An episode of complete testing was defined as the collection
+         of serology for HIV antibodies (for HIV negative MSM); syphilis EIA; a urine test;
+         and an anal swab on the same date.
+      
+      Analysis
+      MSM were stratified by HIV status and analyzed separately using SPSS v.18. The proportion
+         of men who were tested for each STI or for an episode of complete testing was calculated
+         for each clinic and time periods. If an individual attended and was tested more than
+         once in the same period he was only counted once. Chi-squared (χ2) was used to test for differences in proportions of men who had each test or a complete
+         episode of testing. If a man presented in multiple periods the visits were considered
+         to be independent observations and so were included once for every period they attended
+         in. The Alfred Hospital Research Ethics Committee granted approval for this study.
+      
+   
+

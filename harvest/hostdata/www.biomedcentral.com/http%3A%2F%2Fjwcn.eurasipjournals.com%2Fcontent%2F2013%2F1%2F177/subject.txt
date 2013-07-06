@@ -1,0 +1,1 @@
+IoT, Conditional observation, Resource observation, REST, CoAP

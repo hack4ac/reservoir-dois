@@ -1,0 +1,49 @@
+Methods
+   
+      We searched Medline (1950 to present), EMBASE (1947 to present), Scopus (1823 to present),
+         CINAHL (1937 to present) and Global health (1910 to present). Results were limited
+         to peer-reviewed publications in English. Search terms and Medical Subject Headings
+         (MeSH) for nosocomial organisms and antibiotic resistance were combined with search
+         and MeSH terms for healthcare settings and mathematical models as follows:
+      
+      •Nosocomial infections in general (e.g.”healthcare-associated infection$” or “hospital-acquired infection$”)
+      
+      OR
+      •Nosocomial organisms (e.g. “C. difficile” or “Staphylococcus aureus”)OR Antimicrobial resistance AND Nosocomial (e.g. “hospital$” or “healthcare”)
+      
+      AND
+      •Mathematical modelling or economic evaluation model (e.g. “stochastic” or “deterministic”AND“model”)
+      We decided not to use search terms for nosocomial infection types (e.g. surgical site
+         infections or urinary tract infections), since our review focuses on the transmission
+         of infections from one individual to another, which cannot generally be accurately
+         represented without knowing the causative organism.
+      
+      The complete search strategy is provided in the Additional file 1. All databases were search identically, with exception of the MeSH terms, which were
+         altered to the subject-heading dictionary used in each particular database. The final
+         search was conducted on 11 December 2011. Each title and abstract in the search result
+         was independently screened by EvK and at least one of the other authors. Full text
+         evaluation was conducted by EvK and in case of uncertainty, discussion took place
+         with JR.
+      
+      Additional file 1. Search terms MEDLINE.
+         	Format: DOCX 
+         	Size: 82KB Download file or  display content in a new window
+      Inclusion criteria
+      Eligible studies had to fulfil the following criteria: 1) mathematical modelling of
+         HCAI transmission and/or the dynamics of antimicrobial resistance; 2) dynamic transmission
+         models only (i.e. a model which tracks the number of individuals (or proportion of
+         a population) carrying or infected with a pathogen over time, while capturing the
+         effect of contact between individuals on transmission [9]); 3) a primary focus on HCAI transmission in healthcare settings.
+      
+      Exclusion criteria
+      Studies were excluded if they did not involve: 1) human to human transmission; or
+         did involve 2) within host transmission only; 3) pharmacodynamics and pharmacokinetics
+         of drugs (e.g. the impact of antibiotic exposure, exploring antibiotic tolerance and
+         investigating fitness), 4) animal transmission of HCAI; 5) community transmission
+         of pathogens spread in the healthcare environment as well, where community spread
+         was the focus of the paper (e.g. SARS epidemics); or 6) literature review without
+         new primary studies. Moreover, no editorials or letters to editors were included,
+         except if a new mathematical model was introduced.
+      
+   
+

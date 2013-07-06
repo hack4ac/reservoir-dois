@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Despite efforts to promote HIV counseling and testing (HCT) among couples, few couples know their own or their partners’ HIV status. We assessed trends in HCT uptake among married individuals in Rakai district, southwestern Uganda.
+
+				
+				
+					
+						Methods
+
+					We analysed data for 21,798 married individuals aged 15-49 years who were enrolled into the Rakai Community Cohort Study (RCCS) between 2003 and 2009. Married individuals were interviewed separately but were retrospectively linked to their partners at analysis. All participants had serologic samples obtained for HIV testing, and had the option of receiving HCT together (couples’ HCT) or separately (individual HCT). Individuals were categorized as concordant HIV-positive if both partners had HIV; concordant HIV-negative if both did not have HIV; or HIV-discordant if only one of the partners had HIV. We used  χ 
+						 2  tests to assess linear trends in individual and couples’ HCT uptake in the entire sample and conducted multinomial logistic regression on a sub-sample of 10,712 individuals to assess relative risk ratios (RRR) and 95% Confidence Intervals (95% CI) associated with individual and couples’ HCT uptake. Analysis was done using STATA version 11.0.
+
+				
+				
+					
+						Results
+
+					Uptake of couples’ HCT was 27.2% in 2003/04, 25.1% in 2005/06, 28.5% in 2006/08 and 27.8% in 2008/09 ( χ 
+						 2  for trend = 2.38;  P  = 0.12). Uptake of individual HCT was 57.9% in 2003/04, 60.2% in 2005/06, 54.0% in 2006/08 and 54.4% in 2008/09 ( χ 
+						 2  for trend = 8.72;  P  = 0.003). The proportion of couples who had never tested increased from 14.9% in 2003/04 to 17.8% in 2008/09 ( χ 
+						 2  for trend = 18.16;  P  < 0.0001). Uptake of couples’ HCT was significantly associated with prior HCT (Adjusted [Adj.] RRR = 6.80; 95% CI: 5.44, 8.51) and being 25-34 years of age (Adj. RRR = 1.81; 95% CI: 1.32, 2.50). Uptake of individual HCT was significantly associated with prior HCT (Adj. RRR = 6.26; 95% CI: 4.24, 9.24) and the female partner being HIV-positive (Adj. RRR = 2.46; 95% CI: 1.26, 4.80).
+
+				
+				
+					
+						Conclusion
+
+					Uptake of couples’ HCT remained consistently low (below 30%) over the years, while uptake of individual HCT declined over time. These findings call for innovative strategies to increase demand for couples’ HCT, particularly among younger couples and those with no prior HCT.
+
+				
+			
+		

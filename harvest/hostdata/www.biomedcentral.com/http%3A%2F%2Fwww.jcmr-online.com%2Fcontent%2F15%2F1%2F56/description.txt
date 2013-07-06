@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Quantitative measurements in the myocardium may be used to detect both focal and diffuse disease processes that result in an elevation of T1 and/or extracellular volume (ECV) fraction. Detection of abnormal myocardial tissue by these methods is affected by both the accuracy and precision. The sensitivity for detecting abnormal elevation of T1 and ECV is limited by the precision of T1 estimates which is a function of the number and timing of measurements along the T1-inversion recovery curve, the signal-to-noise ratio (SNR), the tissue T1, and the method of fitting.
+
+				
+				
+					
+						Methods
+
+					The standard deviation (SD) of T1 and ECV estimates are formulated and SD maps are calculated on a pixel-wise basis using the Modified Look-Locker Inversion recovery (MOLLI) method. SD estimates are validated by numerical simulation using Monte-Carlo analysis and with phantoms using repeated trials. SD estimates are provided for pre- and post-contrast optimized protocols for a range of T1s and SNRs. In-vivo examples are provide for normal, myocarditis, and HCM in human subjects. The formulation of SD maps was extended to R1 and ECV.
+
+				
+				
+					
+						Results
+
+					The measured myocardial SNR ranged from 23 to 43 across the heart using the specific T1-mapping protocol in this study. In this range of SNRs, the estimated SD for T1 was approximately 20-45 ms for pre-contrast myocardial T1 around 1000 ms, and was approximately 10-20 ms for post contrast T1 around 400 ms. The proposed estimate of SD was an unbiased estimate of the standard deviation of T1 validated by numerical simulation and had > 99% correlation with phantom measurements. The measured SD maps exhibited variation across the heart due to drop off in surface coil sensitivity as expected for the variation in SNR. Focal elevation in T1 and ECV was shown to have statistical significance on a pixel-wise basis for in-vivo examples.
+
+				
+				
+					
+						Conclusions
+
+					Pixel-wise estimates of T1 mapping errors have been formulated and validated, and the formulation has been extended to ECV. The ability to quantify the measurement error has potential to determine the statistical significance of subtle abnormalities that arise due to diffuse disease processes involving fibrosis and/or edema and is useful both as a confidence metric for overall quality, and in optimization and comparison of imaging protocols.
+
+				
+			
+		

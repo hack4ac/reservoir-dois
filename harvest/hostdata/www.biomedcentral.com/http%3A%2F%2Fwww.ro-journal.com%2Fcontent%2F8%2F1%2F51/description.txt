@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In order to benefit from the highly conformal irradiation of tumors in ion radiotherapy, sophisticated treatment planning and simulation are required. The purpose of this study was to investigate the potential of MRI for ion radiotherapy treatment plan simulation and adaptation using a classification-based approach.
+
+				
+				
+					
+						Methods
+
+					Firstly, a voxelwise tissue classification was applied to derive pseudo CT numbers from MR images using up to 8 contrasts. Appropriate MR sequences and parameters were evaluated in cross-validation studies of three phantoms. Secondly, ion radiotherapy treatment plans were optimized using both MRI-based pseudo CT and reference CT and recalculated on reference CT. Finally, a target shift was simulated and a treatment plan adapted to the shift was optimized on a pseudo CT and compared to reference CT optimizations without plan adaptation.
+
+				
+				
+					
+						Results
+
+					The derivation of pseudo CT values led to mean absolute errors in the range of 81 - 95 HU. Most significant deviations appeared at borders between air and different tissue classes and originated from partial volume effects. Simulations of ion radiotherapy treatment plans using pseudo CT for optimization revealed only small underdosages in distal regions of a target volume with deviations of the mean dose of PTV between 1.4 - 3.1% compared to reference CT optimizations. A plan adapted to the target volume shift and optimized on the pseudo CT exhibited a comparable target dose coverage as a non-adapted plan optimized on a reference CT.
+
+				
+				
+					
+						Conclusions
+
+					We were able to show that a MRI-based derivation of pseudo CT values using a purely statistical classification approach is feasible although no physical relationship exists. Large errors appeared at compact bone classes and came from an imperfect distinction of bones and other tissue types in MRI. In simulations of treatment plans, it was demonstrated that these deviations are comparable to uncertainties of a target volume shift of 2 mm in two directions indicating that especially applications for adaptive ion radiotherapy are interesting.
+
+				
+			
+		

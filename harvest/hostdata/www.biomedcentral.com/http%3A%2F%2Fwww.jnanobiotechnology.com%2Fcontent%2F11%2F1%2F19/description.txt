@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Small interfering RNA (siRNA) has attracted attention in the field of nucleic acid medicine as a RNA interference (RNAi) application that leads to gene silencing due to specific messenger RNA (mRNA) destruction. However, since siRNA is unstable in blood and unable to cross the cell membrane, encapsulation of siRNA into a carrier is required.
+
+				
+				
+					
+						Results
+
+					
+					In this study, we used a carrier that combined Z HER2 -displaying bio-nanocapsule (derived from hepatitis B virus surface antigen) and liposomes in a complex in order to investigate the feasibility of effective and target-cell-specific RNAi applications. As a result, by observing RNAi only in HER2-expressing breast cancer cells, using our proposed methodology, we successfully demonstrated target-cell-specific delivery and effective function expression of siRNA.
+
+				
+				
+					
+						Conclusions
+
+					
+					These findings show that, in the field of nucleic acid medicine, Z HER2 -BNC/LP can be a useful carrier for siRNA delivery, and could also become a useful tool for gene silencing and to accomplish protein knock-down.
+
+				
+			
+		

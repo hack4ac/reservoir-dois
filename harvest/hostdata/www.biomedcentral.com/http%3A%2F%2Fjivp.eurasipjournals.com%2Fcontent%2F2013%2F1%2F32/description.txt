@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Compression of encrypted data draws much attention in recent years due to the security concerns in a service-oriented environment such as cloud computing. We propose a scalable lossy compression scheme for images having their pixel value encrypted with a standard stream cipher. The encrypted data are simply compressed by transmitting a uniformly subsampled portion of the encrypted data and some bitplanes of another uniformly subsampled portion of the encrypted data. At the receiver side, a decoder performs content-adaptive interpolation based on the decrypted partial information, where the received bit plane information serves as the side information that reflects the image edge information, making the image reconstruction more precise. When more bit planes are transmitted, higher quality of the decompressed image can be achieved. The experimental results show that our proposed scheme achieves much better performance than the existing lossy compression scheme for pixel-value encrypted images and also similar performance as the state-of-the-art lossy compression for pixel permutation-based encrypted images. In addition, our proposed scheme has the following advantages: at the decoder side, no computationally intensive iteration and no additional public orthogonal matrix are needed. It works well for both smooth and texture-rich images.
+
+			
+		

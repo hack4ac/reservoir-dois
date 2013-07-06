@@ -1,0 +1,82 @@
+Methods
+   
+      We conducted a prospective study of hospitalised patients at the University Hospital
+         Marienhospital Herne, Germany. 121&nbsp;T and 121 German patients without Turkish migration
+         background (G) filled in a questionnaire during their hospital stay.
+      
+      Study population
+      The University Hospital Marienhospital Herne is part of the medical centre of the
+         Ruhr – University Bochum, Germany. It is a 575 bed tertiary hospital with more than
+         20,000 admissions per year. The study was carried out at the larger of the two sites
+         of the hospital with 362 beds. The following medical departments are located at this
+         site: Internal Medicine, Nephrology, Pulmonology and Sleep Medicine, Gastroenterology,
+         Cardiology and Angiology, Anaesthesiology, Oncology and Haematology, Geriatrics and
+         Early Rehabilitation, General- and Abdominal Surgery, Vascular Surgery, Hand Surgery,
+         Radiotherapy, Radiology, Gynaecology and Obstetrics including a unit specialised in
+         diseases of the breast, the Newborn-Ward, the Interdisciplinary Intensive Care Unit,
+         Central Patients Admission Unit and Palliative Care.
+      
+      Inclusion criteria
+      Adult patients (aged ≥18&nbsp;years) were prospectively included into the study between
+         the second and third inpatient day. Informed consent was a precondition for participation.
+         Patients were defined as having a Turkish migration background if they had migrated
+         from Turkey to the current territory of the Federal Republic of Germany after 1949
+         or were born in Germany as Turkish citizens or were born in Germany as German Citizens
+         but had at least one parent who migrated from Turkey after 1949 or was born as a Turkish
+         Citizen in Germany [9]. T were identified among hospital admissions by an onomastic method [10] according to Sauer et al. [11]. Turkish migration background was confirmed before administration of the questionnaire.
+         G served as controls since difficulties of communication are also frequently reported
+         by native hospital patients and might not only be due to migration background or lacking
+         language skills. A formalised assessment for dementia or cognitive deficits was not
+         part of the study. However, patients under guardianship or subject to legal incapacitation
+         as well as other patients lacking the competence to consent to study inclusion in
+         a legally valid manner were not included into the study. For ethical reasons and patient
+         comfort inclusion of patients was only done during weekdays at regular working hours
+         (8&nbsp;am to 6&nbsp;pm) and did not interfere with medical diagnostics or treatment. To determine
+         the sample size required for detecting a medium effect size with an Alpha error of
+         5% a prospective power calculation was performed [12] assuming a sigma of 1.2 in both groups. To obtain a power of 80% the inclusion of
+         92 patients in each group would be necessary.
+      
+      Development and administration of a questionnaire
+      A specific questionnaire was developed for a reliable quantification of the interaction
+         between patients and physicians. If applicable the items of the questionnaire were
+         shaded in 5 progressive grades to allow a more precise quantification and better comparability
+         (e.g. 1 = very dissatisfied, 2 = dissatisfied, 3 = neither satisfied nor dissatisfied,
+         4 = satisfied, 5 = very satisfied). Two bilingual translators converted the questionnaire
+         from the German into the Turkish language. After a third translator had consented
+         to it the questionnaire was tested with regard to its comprehensibility in a pilot
+         test with patients from each group (T, G) and optimized thereafter. The following
+         features were included in both versions of the questionnaire: migration background,
+         demographic features and school education. Other items vary according to the patient’s
+         ethnicity: 3 (T) items assessed language preferences during different activities of
+         daily life (see Table&nbsp;1), 5 (T) or 1 (G) items assessed linguistic proficiency (see Table&nbsp;2), 5 (T) or 4 (G) items assessed the interaction between patient and physician (see
+         Table&nbsp;3), 2 (T,G) items assessed the flow of information concerning diagnostic or therapeutic
+         procedures (see Table&nbsp;4) and 3 (T) items assessed translation aspects (see Table&nbsp;5).
+      
+      Table 1. Language most currently spoken by patients with Turkish migration background
+      Table 2. Self-rated German and Turkish linguistic proficiency and literacy
+      Table 3. Interaction between patient and physician in charge
+      Table 4. Obtaining informed consent for invasive diagnostic or therapeutic procedures
+      Table 5. Translation of information concerning invasive diagnostic or therapeutic procedures
+      After obtaining informed consent for study participation the questionnaire was completed
+         by the study participants in the German (G) or Turkish (T) language depending on which
+         group they belonged to. A bilingual person was available to help physically disabled
+         or illiterate persons fill in the test.
+      
+      Analysis
+      Analyses were conducted using SPSS (version 20.0.0; SPSS Inc, Chicago, USA). To compare
+         numerical data the Student T test was chosen. Categorical data were compared using
+         the Fisher's exact test. A binary logistic regression analysis was performed to assess
+         the effect of different explanatory variables on the quality of the reception of medical
+         information by T (Question: “How well did you understand what the physician told you?”).
+         For the purpose of the regression analysis we divided each of the relevant explanatory
+         variables into two categories (patient’s nationality: German and Turkish-German vs.
+         Turkish; patient’s country of birth: Turkey vs. Germany; language spoken at home or
+         during leisure activities: German or Turkish and German vs. Turkish or Kurdish; German
+         language and literacy, German language in daily activities as well as Turkish language
+         and literacy: “very bad”, “bad” or “average” vs. “good” or “very good”. The response
+         variable (quality of the reception of information) itself was categorised into “not
+         at all”, “a little” and “mediocre” vs. “well” and “very well”. The study was approved
+         by the ethics committee of the medical faculty of the Ruhr-University Bochum, Germany.
+      
+   
+

@@ -1,0 +1,1 @@
+parametric generalized vector mixed quasivariational inequality problem, parametric gap function, upper semicontinuity, outer-continuity, outer-openness, lower semicontinuity, Hausdorff lower semicontinuity, continuity, H-continuity

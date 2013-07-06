@@ -1,0 +1,88 @@
+Methods
+   
+      Venom-gland transcriptome sequencing
+      We followed the approach of Rokyta et al. [17] for the preparation and sequencing of the venom gland. We sequenced RNA from the
+         venom glands of an adult female C. horridus from Bradford County, Florida. The animal weighed 1,134.7 g with a snout-to-vent
+         length of 108 cm and a total length of 116 cm. We stimulated transcription in the
+         glands by means of venom extraction under anesthesia [100]. The snake was anesthetized with a propofol injection (10 mg/kg) and exposure to
+         isoflurane gas, and venom expulsion was initiated by means of electrostimulation.
+         After allowing four days for transcription to be maximized [101], the animal was euthanized by injection of sodium pentobarbitol (100 mg/kg), and
+         its venom glands were removed and transferred into RNAlater. The above techniques
+         were approved by the Florida State University Institutional Animal Care and Use Committee
+         (IACUC) under protocol #0924.
+      
+      Sequencing and nonnormalized cDNA library preparation were performed by the HudsonAlpha
+         Institute for Biotechnology Genomic Services Laboratory (http://www.hudsonalpha.org/gsl/ webcite). Transcriptome sequencing was performed essentially as described by Mortazavi et
+         al. [63] in a modification of the standard Illumina methods described in detail in Bentley
+         et al. [102]. Total RNA was reduced to poly-A+ RNA with oligo-dT beads. Two rounds of poly-A+
+         selection were performed. The purified mRNA was then subjected to a mild heat fragmentation
+         followed by random priming for first-strand synthesis. Standard second-strand synthesis
+         was followed by standard library preparation with the double-stranded cDNA as input
+         material. This approach is similar to that of Illumina’s TruSeq RNA-seq library preparation
+         kit. Sequencing was performed in one lane on the Illumina HiSeq 2000 with 100-base-pair
+         paired-end reads.
+      
+      Transcriptome assembly
+      We followed the iterative transcriptome assembly approach of Rokyta et al. [17]. The majority of our read pairs had overlapping 3’ ends, so we merged these pairs
+         into longer composite reads and updated their phred quality scores accordingly [17,51]. We also checked for and deleted any adapter sequences. Only these long, high-quality
+         merged reads were used for assembly. We first eliminated extremely high-abundance
+         transcripts by running the Extender program as a de novo assembler on a set of 1,000 random reads, as described by Rokyta et al. [17]. Full-length coding sequences were identified with blastx searches as described below.
+         The resulting unique sequences were used as templates in a reference-based assembly
+         with NGen3.1 with a 98% minimum match percentage. Ten million of the unassembled (i.e.,
+         unfiltered) reads were used in a de novo transcriptome assembly with NGen3.1 with the default settings for high-stringency,
+         de novo transcriptome assembly for long Illumina reads, including default quality trimming.
+         The high-stringency setting corresponded to a minimum match percentage of 93%, and
+         we retained contigs comprising ≥200 reads. Any resulting contigs with full-length
+         coding sequences were identified by means of blastx searches (see below). We performed
+         two more iterative rounds of this filtering and de novo NGen assembly to yield the final set of contigs. We checked for duplicates by assembling
+         all of the contigs with the SeqMan module of the DNAStar Lasergene software suite.
+         We had several levels of quality control to prevent sequencing errors from being incorporated
+         into our final sequences. We only used reads that passed Illumina’s quality filter
+         and that were merged into overlapping, composite reads. All of our de novo assemblies with NGen used the default quality end trimming, and we only retained
+         contigs with substantial coverage (≥200 reads).
+      
+      We used blastx searches as implemented in mpiblast version 1.6.0 (http://www.mpiblast.org/ webcite) for identification and annotation of our contigs. Contig sequences were searched
+         against the NCBI nonredundant protein database (nr) with an E-value cutoff of 10 −4, and only the best 10 matches were retained. For toxin identification, hit descriptions
+         were searched for a set of keywords based on known snake-venom toxins and protein
+         classes; any sequence matching these keywords was checked for a full-length putative-toxin
+         encoding sequence. The remaining contigs were screened for those whose match lengths
+         were ≥90% of the length of at least one of their database matches. This step was intended
+         to eliminate fragmented or partial sequences before attempting annotation. Each annotated
+         sequence was checked and confirmed by hand in the SeqBuilder module of the DNAStar
+         Lasergene software suite.
+      
+      We estimated transcript abundances using high-stringency reference-based assemblies
+         in NGen3.1 with a minimum match percentage of 95. Ten million of the merged reads
+         were mapped onto the full-length, annotated transcripts, and the percentage of reads
+         mapping to each transcript was used as a proxy for abundance. To compare nontoxin
+         expression levels across species, we aligned each species’ reads against both their
+         own and the other species’ annotated nontoxin transcripts using reference-based assembly
+         in NGen3.1 with a minimum match percentage of 95. For each species, we used 10 million
+         reads, after first filtering reads mapping to toxin contigs.
+      
+      Analysis of molecular-evolutionary patterns
+      Relationships among toxins within toxin families were determined by means of maximum-likelihood
+         phylogeny estimation with PAUP*, version 4.0b10 [103] and the iterative search strategy described by Rokyta et al. [104]. All alignments were constructed with ClustalW [105]. Evolutionary models were selected using MrModelTest version 2 with Akaike Information
+         Criterion values. Nodal support was estimated by means of posterior clade probabilities
+         using MrBayes version 3.1.2 [106]. Markov chain Monte Carlo searches were run for 10 million generations with four
+         chains, the temperature parameter set to 0.2, and samples taken every 1,000 generations.
+         Samples from the first one million generations were discarded as burn-in. To infer
+         duplication and loss events on the estimated phylogenies by reconciling them with
+         the known three-species phylogenies, we used Notung 2.6 [107,108].
+      
+      To compare molecular-evolutionary patterns of toxins to nontoxins, we identified orthologous
+         pairs of sequences from our two species by means of a reciprocal-blast analysis. We
+         constructed nucleotide and amino-acid sequence databases for each species, excluding
+         mitochondrially encoded sequences, and blasted each sequence from each species against
+         the database generated for the other species. We performed blastn and blastp searches
+         for each sequence with an E-value cutoff of 10−6. For blastn searches, we used the entire sequence, including untranslated regions.
+         Putatively orthologous pairs were only retained if the two constituent sequences were
+         each other’s best matches for both the nucleotide-based and amino-acid-sequence-based
+         analyses. The coding sequences of retained pairs were aligned using ClustalW [105]. Alignments with more than 24 gapped positions in the coding sequences were excluded
+         from further consideration to avoid considering potentially incorrectly annotated
+         sequences. For the remaining orthologous pairs, we estimated the pairwise synonymous
+         (dS) and nonsynonymous (dN) substitution rates and the pairwise ratios of nonsynonymous to synonymous substitution
+         rates (dN/dS) with codeml from PAML version 4.4 [109,110].
+      
+   
+

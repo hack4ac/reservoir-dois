@@ -1,0 +1,1 @@
+Forward and reverse dosimetry, Dermal exposure, Skin penetration kinetics, PBPK

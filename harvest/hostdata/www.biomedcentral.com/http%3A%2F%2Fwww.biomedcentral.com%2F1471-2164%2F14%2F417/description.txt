@@ -1,0 +1,26 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Nilaparvata lugens  (the brown planthopper, BPH) and  Laodelphax striatellus  (the small brown planthopper, SBPH) are two of the most important pests of rice. Up to now, there was only one mitochondrial genome of rice planthopper has been sequenced and very few dependable information of mitochondria could be used for research on population genetics, phylogeographics and phylogenetic evolution of these pests. To get more valuable information from the mitochondria, we sequenced the complete mitochondrial genomes of BPH and SBPH. These two planthoppers were infected with two different functional  Wolbachia  (intracellular endosymbiont) strains ( w Lug and  w Stri). Since both mitochondria and  Wolbachia  are transmitted by cytoplasmic inheritance and it was difficult to separate them when purified the  Wolbachia  particles, concomitantly sequencing the genome of  Wolbachia  using next generation sequencing method, we also got nearly complete mitochondrial genome sequences of these two rice planthoppers. After gap closing, we present high quality and reliable complete mitochondrial genomes of these two planthoppers.
+
+				
+				
+					
+						Results
+
+					The mitogenomes of  N .  lugens  (BPH) and  L .  striatellus  (SBPH) are 17, 619 bp and 16, 431 bp long with A + T contents of 76.95% and 77.17%, respectively. Both species have typical circular mitochondrial genomes that encode the complete set of 37 genes which are usually found in metazoans. However, the BPH mitogenome also possesses two additional copies of the  trnC  gene. In both mitochondrial genomes, the lengths of the  atp8  gene were conspicuously shorter than that of all other known insect mitochondrial genomes (99 bp for BPH, 102 bp for SBPH). That two rearrangement regions ( trnC - trnW  and  nad6 - trnP - trnT ) of mitochondrial genomes differing from other known insect were found in these two distantly related planthoppers revealed that the gene order of mitochondria might be conservative in Delphacidae. The large non-coding fragment (the A+T-rich region) putatively corresponding responsible for the control of replication and transcription of mitochondria contained a variable number of tandem repeats (VNTRs) block in different natural individuals of these two planthoppers. Comparison with a previously sequenced individual of SBPH revealed that the mitochondrial genetic variation within a species exists not only in the sequence and secondary structure of genes, but also in the gene order (the different location of  trnH  gene).
+
+				
+				
+					
+						Conclusion
+
+					The mitochondrial genome arrangement pattern found in planthoppers was involved in rearrangements of both tRNA genes and protein-coding genes (PCGs). ...

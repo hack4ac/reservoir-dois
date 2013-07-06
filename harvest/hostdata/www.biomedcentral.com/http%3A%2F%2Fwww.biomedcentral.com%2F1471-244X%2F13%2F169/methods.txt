@@ -1,0 +1,75 @@
+Methods
+   
+      A conceptual review of institutionalization in psychiatry was conducted. To synthesize
+         concepts of the phenomenon ‘institutionalization’, the principles of conceptual reviews
+         as described by Lilford et al. 
+         				[14] were followed. Unlike a standard systematic review, the aim of a conceptual review
+         is not to review all literature but to search widely using various databases and sources;
+         building in safety nets to minimize potential biases (e.g. multidisciplinary study
+         teams) and incorporating some overlap in the various stages of the review process
+         so that the precise direction of the review can be clarified. For the purpose of this
+         paper, the concept of institutionalization described by Erving Goffman in 1961 
+         				[1] was selected as the starting point to the diverse and extensive literature because
+         Goffman’s definition of psychiatric hospitals as ‘total institutions’ was influential
+         and still remains strongly in the minds of sociologists, psychiatrists, and service
+         user advocates 
+         				[15].
+      
+      To commence, electronic searches were performed and the literature known to the authors
+         was also considered. The databases searched were: Pubmed, Web of Science, PsychINFO,
+         and Scopus as they are widely considered as the most relevant databases for publications
+         in the fields of psychology, psychiatry, and other medical disciplines. For each database,
+         searches were performed using the term “institution* AND severe mentally ill*”, seeking
+         for all literature since Goffman’s work on mental institutions from January 1961 to
+         February 2012. This was later supplemented through additional searches using more
+         psychiatric institutionalization specific terms: (psychiatr* institutionalization
+         AND mental illness) and (mental institution* AND psychiatr*). The titles and abstracts
+         of all identified papers were then reviewed for their relevance. To search widely,
+         the reference lists of all identified relevant papers were also examined to uncover
+         new potential references that were not included in the selected databases. Therefore,
+         although the focus of the review is on the field of psychiatry, some papers also tap
+         into other disciplines such as history, law and sociology if there was a direct link
+         to psychiatry found in the papers by the authors. Full papers were read if necessary
+         to determine their significance before discarding. The concepts uncovered from an
+         initial search of the literature guided further more specific searches around those
+         concepts.
+      
+      Identified articles were eligible for this study if they met at least one of the following
+         two inclusion criteria: A) mentioning the characteristics, experiences, and/or the
+         functions of adult psychiatric institutions and institutionalization, B) reporting
+         the effect of institutionalization. However, only those papers were included that
+         did not meet any of the following two exclusion criteria: First, papers were excluded
+         if studies about psychiatric hospitals were not based in countries that had experienced
+         major mental health care reforms involving deinstitutionalization during the second
+         half of the 20th century. The reason for excluding such papers is because countries that had not undergone
+         the process of deinstitutionalization at the time may operate on a different organization
+         of mental health care system 
+         				[16]. Second, papers were excluded if studies focus mostly on psychiatric reforms or the
+         process of deinstitutionalization. Third, papers were also excluded if institutionalization
+         of older adults, children or intellectually disabled were examined, since the review
+         focused on the concept of institutionalization for the core group of patients of working
+         age.
+      
+      Thematic analysis, a method used for identifying patterns of meaning, was employed
+         to synthesize the findings 
+         				[17]. Information on the characteristics and functions of psychiatric institutions was
+         extracted from all identified papers and was then analysed in chronological order.
+         This analytic approach was chosen in order to reflect historical trends in the development
+         of psychiatric services. Analysis was regularly reviewed through weekly meetings between
+         WSC and SP, and findings were then presented to the study team and alternative interpretations
+         discussed, in order to minimize any potential biases. Identified categories were then
+         refined, subsumed within existing categories or deleted. The study team comprised
+         a clinical psychiatrist (SD), a research psychologist (RMcC), a psychiatrist who is
+         both a clinician and an academic (SP), and a public health researcher who is also
+         trained as a mental health clinician (WSC). The team drew on their professional experience
+         in various clinical settings, background knowledge of different countries’ health
+         care systems and familiarity with conducting conceptual reviews. The study group was
+         asked to comment on the preliminary themes, the initial draft of this review and to
+         identify any further relevant literature that was not included. The study team’s expertise
+         was utilized to identify patterns as well as to combine related subject matters through
+         discussions. Findings were then grouped based on the underlying concepts which appeared
+         to guide them. The discussions with the study team provided a validity check on the
+         identified themes.
+      
+   
+

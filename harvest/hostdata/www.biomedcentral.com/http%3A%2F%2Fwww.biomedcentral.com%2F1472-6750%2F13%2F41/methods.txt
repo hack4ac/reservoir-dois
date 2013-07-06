@@ -1,0 +1,105 @@
+Methods
+   
+      Preparation and solubilization of mitochondria
+      Mitochondria were isolated from Saccharomyces cerevisiae wild type strain D273-10B as described [45,46], resuspended in SIB buffer [20&nbsp;mM HEPES-KOH (pH&nbsp;7.5), 80&nbsp;mM KCl, 5&nbsp;mM MgCl2, 2&nbsp;mM potassium phosphate (pH&nbsp;7.5), 250&nbsp;mM sucrose, and 0.3% (w/v) bovine serum albumin
+         (BSA, fatty acid-free)], frozen in liquid nitrogen and stored at −80°C until use.
+         For solubilization, mitochondria pellets were resuspended to a concentration of 1&nbsp;mg
+         mitochondrial protein ml-1 in either SIB buffer adjusted to pH&nbsp;8.0 or SB buffer [50&nbsp;mM Tris (pH&nbsp;8.0), 200&nbsp;mM
+         NaCl]. For detergent solubilization, DDM was added to final concentrations ranging
+         from 0.4 to 6.0% (w/v) as indicated. For SMA solubilization, lyophilized 3:1 SMA copolymer
+         (Malvern Cosmeceutics Ltd, UK) was reconstituted as a stock of 25&nbsp;mg&nbsp;ml-1 in 50&nbsp;mM Tris (pH&nbsp;8.0) as described [25] and added to samples at final concentrations ranging from 1&nbsp;g SMA : 8&nbsp;g mitochondrial
+         protein to 2&nbsp;g SMA : 1&nbsp;g mitochondrial protein as indicated. For both DDM and SMA
+         solubilization, samples were incubated at 26°C for 20&nbsp;min, centrifuged (20,000 × g,
+         10&nbsp;min, 4°C) and the resulting supernatants containing solubilized membrane proteins
+         were collected. Further purification steps of SMA-treated samples for particular applications
+         are described below.
+      
+      Measurement of membrane potential
+      The relative membrane potential (∆ψm) of isolated mitochondria was assayed with the fluorescent potentiometric probe tetramethyl
+         rhodamine methyl ester (TMRM, Molecular Probes) as described [47] using a Spex Fluorolog 3–22 spectroflorometer (Horiba Jobin-Yvon). Mitochondria were
+         diluted to a concentration of 0.1&nbsp;mg&nbsp;ml-1 in SIB lacking BSA with 100 nM TMRM (quenching mode) and kinetics measurements were
+         taken (λex = 547&nbsp;nm, λem = 570&nbsp;nm) with constant stirring of the sample. Prior to time course measurements,
+         respiratory substrate (2.5&nbsp;mM malate and 2.5&nbsp;mM pyruvate) and 2&nbsp;mM ATP were added
+         to establish a maximal ∆ψm. Subsequent additions included DDM at a final concentration of 0.4% (w/v), the SMA
+         copolymer at a final concentration of 1&nbsp;g SMA : 1&nbsp;g mitochondrial protein, or an equivalent
+         volume of SMA buffer only. At the end of each time course, the potassium ionophore
+         valinomycin was added to a final concentration of 2.5&nbsp;μM to completely collapse the
+         ∆ψm.
+      
+      Native gel electrophoresis and western blotting
+      For BN-PAGE analysis, mitochondria were prepared as above, but resuspended in 50&nbsp;mM
+         Tris (pH&nbsp;8.0) prior to DDM and SMA solubilization. 5X BN-PAGE sample buffer [50&nbsp;mM
+         Trizma, 500&nbsp;mM 6-aminohexanoic acid, 10% (v/v) glycerol, 2% (w/v) Serva Blue G] was
+         added to supernatants, and 12&nbsp;μl of each sample were loaded onto 4-15% precast polyacrylamide
+         Mini-Protean TGX gels (BioRad). The cathode buffer contained 190&nbsp;mM glycine, 23&nbsp;mM
+         Tris (pH&nbsp;8.0) and 0.002% (w/v) Serva Blue G and the anode buffer consisted of 25&nbsp;mM
+         Trizma (pH&nbsp;8.0) [33]. Following electrophoresis, gels were destained in 50% (v/v) methanol, 10% (v/v)
+         glacial acetic acid and subsequently washed several times in water before visualization.
+      
+      For immunodetection of mitochondrial proteins, samples were resuspended in SIB and
+         solubilized with DDM or SMA as indicated. Supernatants were treated with equivalent
+         volumes of 2X sample buffer [140&nbsp;mM Trizma, 20% (v/v) glycerol, 4% (w/v) sodium dodecyl
+         sulfate, 0.05% (w/v) bromophenol blue, 0.25&nbsp;M dithiothreitol] and resolved by electrophoresis
+         on 12% SDS-PAGE gels. Following transfer onto nitrocellulose membranes, Western blotting
+         was performed with primary antibodies against the Sdh3 subunit of respiratory Complex
+         II (Pacific Immunology) or against the Tim50 subunit of the TIM23 Complex (a gift
+         from Dr. Dejana Mokranjac) and Amersham ECL Plex Cy5-conjugated secondary antibodies.
+         Immunoblots were imaged on a BioRad Pharos Plus Molecular Imager using the Cy5 setting
+         (635&nbsp;nm laser excitation, 695&nbsp;nm emission filter).
+      
+      Electron microscopy
+      For TEM imaging, SMA-solubilized mitochondria were filtered (0.22&nbsp;μm) and purified
+         by size exclusion chromatography on an AKTA Purifier system (GE Healthcare) using
+         a Superdex 200 10/300 GL column equilibrated with 50&nbsp;mM Tris (pH&nbsp;8.0) and 200&nbsp;mM NaCl.
+         Purified samples were adsorbed for 30&nbsp;sec onto carbon-coated, 400-mesh copper grids
+         (Ted Pella, Inc.) made hydrophilic by glow discharge, washed with three drops of distilled
+         water and stained with 1% uranyl acetate. Images were acquired using an AMT XR-40
+         (2048 × 2048 pixel) camera mounted on a Tecnai Biotwin G2 Spirit transmission electron
+         microscope operated at 80&nbsp;kV.
+      
+      Complex IV activity assays and spectrophotometric measurement of cytochromes
+      Respiratory Complex IV (cytochrome c oxidase) activity of solubilized samples was
+         determined spectrophotometrically as described [48,49]. Equine cytochrome c (Sigma) was reduced in the presence of ascorbate, purified by
+         gel filtration on a Sephadex G-50 column, and quantified by absorbance at 550&nbsp;nm (ϵ550nm = 27.6&nbsp;mM-1&nbsp;cm-1) [48]. To prepare samples for activity assays, mitochondria were incubated with 1% (w/v)
+         DDM, with SMA at a concentration of 2&nbsp;g SMA : 1&nbsp;g mitochondrial protein, or with SMA
+         buffer only (mock SMA incubation) and treated as described above. For SMA-solubilized
+         and mock incubation experiments, samples were filtered through a 0.4&nbsp;μm membrane to
+         remove fragmented mitochondrial particulates that could contribute to enzyme activity.
+         120&nbsp;μl reaction mixtures containing assay buffer [50&nbsp;mM potassium phosphate (pH&nbsp;7.4)
+         and 50&nbsp;μM EDTA] with 30&nbsp;μM reduced cytochrome c were added to a quartz cuvette (path
+         length 1&nbsp;cm) and the reaction was initiated by the addition of 20&nbsp;μl of mitochondrial
+         sample. Cytochrome c oxidation kinetics were monitored by the reduction of absorbance
+         at 550&nbsp;nm on an Ultrospec 2100 pro spectrophotometer over 180&nbsp;s with 5&nbsp;s measurement
+         intervals. Complex IV enzymatic rates were calculated from the difference in absorbance
+         at 550&nbsp;nm over the linear range (first 20&nbsp;sec). For activity measurements of samples
+         fractionated by gel filtration, SMA-solubilized particles were prepared as above and
+         subjected to size exclusion chromatography on a Superdex 200 10/300 GL column equilibrated
+         with assay buffer. Complex IV activity was measured as above except that 1&nbsp;ml fractions
+         were measured and 30&nbsp;μM of reduced cytochrome c was added to initiate the reaction.
+         In all cases, parallel reactions containing 4&nbsp;mM potassium cyanide were assayed to
+         confirm specific Complex IV activity.
+      
+      To assay the cytochrome content of DDM- and SMA-treated mitochondria, samples were
+         diluted 2X in buffer [50&nbsp;mM Tris (pH&nbsp;8.0) 200&nbsp;mM NaCl] in a 1&nbsp;ml quartz cuvette (path
+         length 1&nbsp;cm) and absorbance spectra were taken from 500 to 650&nbsp;nm. Spectra of oxidized
+         cytochromes of respiratory chain enzymes were recorded first, followed by spectra
+         of fully reduced cytochromes in the presence of 3&nbsp;mM sodium dithionite. The difference
+         spectrum (reduced – oxidized) was used to calculate the concentration of cytochrome
+         a + a3 of Complex IV by the peak of the alpha absorption band (604&nbsp;nm) normalized by the
+         isobestic point (630&nbsp;nm) using the differential extinction coefficient value ∆ϵ603-630nm = 24&nbsp;mM-1&nbsp;cm-1[42,43].
+      
+      Thin layer chromatography
+      Isolated mitochondria were incubated with SMA at a concentration of 2&nbsp;g SMA : 1&nbsp;g
+         mitochondrial protein as above and subjected to filtration followed by incubation
+         with a chloroform, methanol and water mixture (final volume ratio of 1:2:1.6) to extract
+         lipids. Extraction was carried out for 1&nbsp;h, followed by treatment with additional
+         chloroform and salt (final volume ratio of 1:1:1.25). Phases were separated by low
+         speed centrifugation and extracted lipids were then collected, dried down, and resuspended
+         in 15&nbsp;μl of chloroform. The entire volume was then spotted onto a silica gel plate
+         (Analtech). As references, 1&nbsp;μl each of POPC, POPE, and tetraoleoyl-CL (Avanti Polar
+         Lipids) were also spotted. Plates were placed in a pre-equilbrated tank containing
+         solvent (chloroform, ethanol, water and triethylamine at volume ratios of 30:35:4:32)
+         for 1.5&nbsp;h [50] and visualized by aerospray with molybdenum blue spray reagent (Sigma) [51].
+      
+   
+

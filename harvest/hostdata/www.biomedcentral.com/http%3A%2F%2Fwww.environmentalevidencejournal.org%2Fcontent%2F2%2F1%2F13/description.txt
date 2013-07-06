@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The translocation of plants or animals between populations has been used in conservation to reinforce populations of threatened species, and may be used in the future to buffer species’ ranges from the anticipated effects of environmental change. This population admixture can result in outbreeding, and the resulting “hybrid” offspring can be either fitter (heterosis) or less fit (outbreeding depression) than their parents. Outbreeding depression has the potential to undermine conservation plans that mix populations of declining or threatened species.
+
+				
+				
+					
+						Methods
+
+					We searched for literature documenting phenotypic responses to intraspecific outbreeding between natural populations of animal and plant species. Outbreeding responses were summarised as log-response ratios that compared hybrid with mid-parent phenotypes (528 effect sizes from 98 studies). These data included effect sizes from both fitness components (survival, viability and fecundity traits) and other traits (e.g. morphological, physiological, defence), and were pooled using Bayesian mixed-effects meta-analysis.
+
+				
+				
+					
+						Results
+
+					There was no overall effect of outbreeding on hybrid phenotypes (overall pooled effect = +2.61% phenotypic change relative to parents, 95% credible interval (CI) −1.03–6.60%). However, fitness component traits responded significantly more negatively to outbreeding than traits less directly linked with fitness. Our model predicted a significant 6.9% F1 generation benefit to outcrossing through non-fitness traits (CI 2.7–11.2%), but no significant benefit to these traits in the F2 (3.5%; CI −4.3–12.2%). Fitness component traits were predicted to suffer a cost (−8.8%) relative to parents in the F2 (CI −14.1– − 2.5%), but not in the F1 (+1.3%; CI −2.1–5.4%). Between-study variation accounted for 39.5% of heterogeneity in outbreeding responses, leaving 27.1% of heterogeneity between effect sizes within studies and 33.4% attributable to measurement error within effect sizes.
+
+				
+				
+					
+						Conclusions
+
+					Our study demonstrates consistent effects of trait type on responses to intraspecific outbreeding, and indicates the potential for outbreeding depression in the F2. However, our analyses also reveal significant heterogeneity in outbreeding responses within and among studies. Thus, outbreeding costs will not always occur. Conservation practitioners may be able to anticipate when such outbreeding depression should arise using an existing decision-making framework that takes into account the context of hybridising populations.
+
+				
+			
+		

@@ -1,0 +1,19 @@
+Abstract
+In this paper, we study a class of parametric generalized vector mixed quasivariational inequality problems (in short, (MQVIP)) in Hausdorff topological vector spaces. The upper semicontinuity, closedness, the outer-continuity and the outer-openness of the solution set are obtained. Moreover, a key assumption is introduced by virtue of a parametric gap function. Then, by using the key assumption, we establish that the condition ( 
+    H 
+    h 
+ 
+ ( 
+ 
+    γ 
+    0 
+ 
+ , 
+ 
+    μ 
+    0 
+ 
+ ) 
+ ) is a sufficient and necessary condition for the lower semicontinuity, the Hausdorff lower semicontinuity, the continuity and Hausdorff continuity of solutions for (MQVIP). The results presented in this paper are new and extend some main results in the literature.
+MSC: 
+90C31, 49J53, 49J40, 49J45.

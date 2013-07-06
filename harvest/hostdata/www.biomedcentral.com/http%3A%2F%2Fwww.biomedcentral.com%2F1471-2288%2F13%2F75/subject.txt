@@ -1,0 +1,6 @@
+Bonferroni procedure, Generalized linear model, Multiple coding, Parametric bootstrap, Permutation, p
+				v
+					a
+					l
+					u
+					e, Resampling procedure

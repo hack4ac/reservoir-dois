@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Influenza viruses are characterized by their highly variable surface proteins HA and NA. The third surface protein M2 is a nearly invariant protein in all Influenza A strains. Despite extensive studies in other animal models, this study is the first to describe the use of recombinant M2 protein and a peptide coding for the extracellular part of the M2 protein (M2e) to vaccinate poultry.
+
+				
+				
+					
+						Methods
+
+					Four groups of layer chickens received a prime-boost vaccination with recombinant M2 protein, M2e, a tetrameric construct from M2e peptide bound to streptavidin and a control tetrameric construct formulated with Stimune adjuvant.
+
+				
+				
+					
+						Results
+
+					We determined the M2-specific antibody (Ab) responses in the serum before vaccination, three weeks after vaccination and two weeks after booster, at days 21, 42 and 56 of age. The group vaccinated with the M2 protein in combination with Stimune adjuvant showed a significant Ab response to the complete M2 protein as compared to the other groups. In addition an increased Ab response to M2e peptide was found in the group vaccinated with the M2e tetrameric construct. None of the vaccinated animals showed seroconversion to AI in a commercial ELISA. Finally no Ab’s were found that bound to M2 expressed on  in vitro  AI infected MDCK cells.
+
+				
+				
+					
+						Conclusion
+
+					Although Ab’s are formed against the M2 protein and to Streptavidin bound M2e peptide in a tetrameric conformation these Ab’s do not recognize of M2 on the virus or on infected cells.
+
+				
+			
+		

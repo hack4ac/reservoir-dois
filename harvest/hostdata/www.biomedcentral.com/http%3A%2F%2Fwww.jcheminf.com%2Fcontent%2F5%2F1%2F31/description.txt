@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					The World Anti-Doping Agency (WADA) publishes the Prohibited List, a manually compiled international standard of substances and methods prohibited in-competition, out-of-competition and in particular sports. It would be ideal to be able to identify all substances that have one or more performance-enhancing pharmacological actions in an automated, fast and cost effective way. Here, we use experimental data derived from the ChEMBL database (~7,000,000 activity records for 1,300,000 compounds) to build a database model that takes into account both structure and experimental information, and use this database to predict both on-target and off-target interactions between these molecules and targets relevant to doping in sport.
+
+				
+				
+					
+						Results
+
+					
+					The ChEMBL database was screened and eight well populated categories of activities (K i , K d , EC50, ED50, activity, potency, inhibition and IC50) were used for a rule-based filtering process to define the labels “active” or “inactive”. The “active” compounds for each of the ChEMBL families were thereby defined and these populated our bioactivity-based filtered families. A structure-based clustering step was subsequently performed in order to split families with more than one distinct chemical scaffold. This produced refined families, whose members share both a common chemical scaffold and bioactivity against a common target in ChEMBL.
+
+				
+				
+					
+						Conclusions
+
+					
+					We have used the Parzen-Rosenblatt machine learning approach to test whether compounds in ChEMBL can be correctly predicted to belong to their appropriate refined families. Validation tests using the refined families gave a significant increase in predictivity compared with the filtered or with the original families. Out of 61,660 queries in our Monte Carlo cross-validation, belonging to 19,639 refined families, 41,300 (66.98%) had the parent family as the top prediction and 53,797 (87.25%) had the parent family in the top four hits. Having thus validated our approach, we used it to identify the protein targets associated with the WADA prohibited classes. For compounds where we do not have experimental data, we use their computed patterns of interaction with protein targets to make predictions of bioactivity. We hope that other groups will test these predictions experimentally in the future.
+
+				
+			
+		

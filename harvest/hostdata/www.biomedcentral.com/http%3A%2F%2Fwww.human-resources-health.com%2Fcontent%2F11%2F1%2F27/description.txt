@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Unemployment among health professionals in Serbia has risen in the recent past and continues to increase. This highlights the need to understand how to change policies to meet real and projected needs. This study identified variables that were significantly related to physician and nurse employment rates in the public healthcare sector in Serbia from 1961 to 2008 and used these to develop parameters to model physician and nurse supply in the public healthcare sector through to 2015.
+
+				
+				
+					
+						Methods
+
+					The relationships among six variables used for planning physician and nurse employment in public healthcare sector in Serbia were identified for two periods: 1961 to 1982 and 1983 to 2008. Those variables included: the annual total national population; gross domestic product adjusted to 1994 prices; inpatient care discharges; outpatient care visits; students enrolled in the first year of medical studies at public universities; and the annual number of graduated physicians. Based on historic trends, physician supply and nurse supply in the public healthcare sector by 2015 (with corresponding 95% confidence level) have been modeled using Autoregressive Integrated Moving Average (ARIMA) / Transfer function (TF) models.
+
+				
+				
+					
+						Results
+
+					The ARIMA/TF modeling yielded stable and significant forecasts of physician supply (stationary R 2  squared = 0.71) and nurse supply (stationary R 2  squared = 0.92) in the public healthcare sector in Serbia through to 2015. The most significant predictors for physician employment were the population and GDP. The supply of nursing staff was, in turn, related to the number of physicians. Physician and nurse rates per 100,000 population increased by 13%. The model predicts a seven-year mismatch between the supply of graduates and vacancies in the public healthcare sector is forecasted at 8,698 physicians - a net surplus.
+
+				
+				
+					
+						Conclusion
+
+					The ARIMA model can be used to project trends, especially those that identify significant mismatches between forecasted supply of physicians and vacancies and can be used to guide decision-making for enrollment planning for the medical schools in Serbia. Serbia needs an inter-sectoral strategy for HRH development that is more coherent with healthcare objectives and more accountable in terms of professional mobility.
+
+				
+			
+		

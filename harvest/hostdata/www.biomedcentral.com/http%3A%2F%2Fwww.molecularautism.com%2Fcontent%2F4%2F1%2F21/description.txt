@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Candidate genes associated with idiopathic forms of autism overlap with other disorders including fragile X syndrome. Our laboratory has previously shown reduction in fragile X mental retardation protein (FMRP) and increase in metabotropic glutamate receptor 5 (mGluR5) in cerebellar vermis and superior frontal cortex (BA9) of individuals with autism.
+
+				
+				
+					
+						Methods
+
+					In the current study we have investigated expression of four targets of FMRP and mGluR5 signaling - homer 1, amyloid beta A4 precursor protein (APP), ras-related C3 botulinum toxin substrate 1 (RAC1), and striatal-enriched protein tyrosine phosphatase (STEP) - in the cerebellar vermis and superior frontal cortex (BA9) via SDS-PAGE and western blotting. Data were analyzed based on stratification with respect to age (children and adolescents vs. adults), anatomic region of the brain (BA9 vs. cerebellar vermis), and impact of medications (children and adolescents on medications (n = 4) vs. total children and adolescents (n = 12); adults on medications (n = 6) vs. total adults (n = 12)).
+
+				
+				
+					
+						Results
+
+					There were significant increases in RAC1, APP 120 kDa and APP 80 kDa proteins in BA9 of children with autism vs. healthy controls. None of the same proteins were significantly affected in cerebellar vermis of children with autism. In BA9 of adults with autism there were significant increases in RAC1 and STEP 46 kDa and a significant decrease in homer 1 vs. controls. In the vermis of adult subjects with autism, RAC1 was significantly increased while APP 120, STEP 66 kDa, STEP 27 kDa, and homer 1 were significantly decreased when compared with healthy controls. No changes were observed in vermis of children with autism. There was a significant effect of anticonvulsant use on STEP 46 kDa/β-actin and a potential effect on homer 1/NSE, in BA9 of adults with autism. However, no other significant confound effects were observed in this study.
+
+				
+				
+					
+						Conclusions
+
+					Our findings provide further evidence of abnormalities in FMRP and mGluR5 signaling partners in brains of individuals with autism and open the door to potential targeted treatments which could help ameliorate the symptoms of autism.
+
+				
+			
+		

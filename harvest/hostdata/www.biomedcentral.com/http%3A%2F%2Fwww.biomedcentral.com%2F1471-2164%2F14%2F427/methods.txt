@@ -1,0 +1,120 @@
+Methods
+   
+      Protein sequence data set
+      The raw protein sequence data set included 259,778 protein sequences from 18 species,
+         including seven Plasmodium species (P. falciparum, P. vivax, P. knowlesi, P. yoelii, P. berghei, P. chabaudi, P. gallinaceum), three related Apicomplexan parasites (Theileria parva, Toxoplasma gondii, Cryptosporidium parvum), seven other, well-studied model organisms (Drosophila melanogaster, Caenorhabditis elegans, Monosiga brevicollis, Saccharomyces cerevisiae, Arabidopsis thaliana, Chlamydomonas reinhardtii, Escherichia coli), and human. Protein sequences were obtained from various sources as summarized in
+         Additional file 6. The rationale for including additional species besides Plasmodium was that on the one hand we hoped to improve the sensitivity of the clustering algorithm
+         through the transitivity principle and that on the other hand we expected that functional
+         insights could be gleaned from functionally characterized non-Plasmodium proteins that cluster with uncharacterized Plasmodium proteins.
+      
+      Additional file 6. Species and data sources of the proteins classified in this study.
+         	Format: PDF 
+         	Size: 61KB Download file or  display content in a new windowThis file can be viewed with: Adobe Acrobat Reader
+      P. gallinaceum gene prediction
+      Because gene annotations for P. gallinaceum were not available when this study was initiated, P. gallinaceum protein-coding genes were predicted using our own homology-based gene predictor genBlastG
+         (version 1.28) [70]. P. gallinaceum supercontigs (4,996) were obtained from the Sanger FTP site (http://sanger.ac.uk/pub/pathogens/Plasmodium/gallinaceum/ webcite) and annotated with genBlastG using protein sequences from the well-curated P. falciparum gene set (PlasmoDB 6.0) as query (parameters: -c 0.5 -s 0 -r 1 -gff -pro -b). This
+         resulted in 3,141 predicted P. gallinaceum protein-coding gene models. It is important to note that this P. gallinaceum gene set was created solely for the purpose of comparative gene family classification
+         and should be considered highly preliminary. While P. gallinaceum protein-coding genes with sufficient sequence similarity to P. falciparum proteins are expected to be well represented, genes or exons with low similarity
+         might be absent or mispredicted. Also, the currently low sequencing coverage of the
+         P. gallinaceum genome (three-fold) means that many gene models will be missing.
+      
+      Gene model improvement
+      Besides predicting gene models for P. gallinaceum, we also improved existing gene model annotations for the genomes of P. vivax, P. knowlesi, P. chabaudi, P. berghei, and P. yoelii using a previously developed homology-based gene model improvement pipeline [12,71]. Briefly, protein sequences of all protein-coding P. falciparum genes were used as query to run both genBlastG [70] and GeneWise [72] against the other Plasmodium genomes. To ensure the quality of predicted gene models, only predictions that encoded
+         for protein sequences with high global sequence identity (PID &gt; = 60) with the query
+         gene were kept. If multiple predictions overlapped by more than 5% of their coding
+         exons, only the prediction with the highest PID to the query was kept (filtration
+         step). In a subsequent merging step, predicted and existing gene models were merged
+         into a hybrid gene set, retaining predictions that (a) did not overlap with existing
+         gene models or (b) showed a PID improvement of at least 5% over overlapping existing
+         gene models. As in the filtration step, existing and predicted gene modes were considered
+         as overlapping if more than 5% of their coding exons overlapped. This hybrid gene
+         set then served as the basis for the subsequent protein sequence clustering step.
+      
+      Hierarchical clustering
+      The raw set of 259,778 protein sequences was filtered to retain only longest isoforms,
+         which reduced the number of protein sequences to 171,476. Low-complexity regions were
+         masked with TANTAN [73] (parameters: -p –s 0.99 –r 0.005) before BLAST analysis because low-complexity filtering
+         as performed by BLAST was found to be insufficient to mask more complex repeats, causing
+         clustering of non-homologous proteins. NCBI BLASTP version 2.2.25+ (http://blast.ncbi.nlm.nih.gov webcite) (parameters: -evalue 100 -num_descriptions 2000 -outfmt 6 -word_size 2 -lcase_masking)
+         was then used to compare protein sequences in an all-vs.-all pairwise manner, resulting in a total of 24,206,683 HSPs. HSPs were then filtered
+         to retain only the best HSP (= lowest E-value) per protein sequence pair, resulting
+         in 12,224,106 symmetrified best HSPs. E-values were transformed into positive dissimilarity
+         values for hierarchical clustering using the formula 200-min(200, -log10(E-value/100)), whereas E-values of 0 were assigned the minimum dissimilarity value
+         of 0. Hierarchical clustering was performed using MC-UPGMA (version 1.0.0) [28] obtained from http://www.protonet.cs.huji.ac.il/mcupgma/ webcite (parameters: -max_distance = 200 -iterations = 100).
+      
+      Cluster extraction
+      Cluster extraction from the hierarchical tree was performed using custom Perl scripts
+         (Figure&nbsp;6). Starting at a leaf node corresponding to a known gene family member, we moved up
+         the hierarchical tree until specificity (= TP/(TP + FP)) dropped below 0.1 or sensitivity
+         (= TP/(TP + FN)) reached the maximum value of 1.0 (i.e. all known family members are contained within this subtree). For each internal node
+         visited during this bottom-up tree traversal we computed and noted its Jaccard index
+         (= TP/(TP + FP + FN)). The above procedure was repeated for each known member of a
+         gene family. Finally, the internal node with the highest Jaccard index was returned
+         as representative gene cluster for this gene family. Annotated pseudogenes or proteins
+         of non-reference species were not considered when computing specificity, sensitivity,
+         and Jaccard indices. Defined reference species for each gene family are shown in Table&nbsp;1 and correspond to species that have gene numbers shown in parentheses.
+      
+      Figure 6. Gene family classification strategy. (A) Jaccard index (J) as measure of overlap between a trusted reference gene family (right
+         ellipse) and a predicted gene family (left ellipse). (B) Proteins of a known reference gene family (black) are hierarchically clustered with
+         all other proteins of one ore more species (white). From the resulting hierarchical
+         tree the best matching cluster (= sub-tree with the highest Jaccard index, dashed
+         rectangle, here J = 0.83) is extracted to represent the gene family. All proteins
+         in this cluster will be predicted as members of this gene family.
+      
+      PIR conservation analysis
+      For each of the five pir subfamilies (bir, cir, yir, kir, vir), all members of a subfamily were globally aligned to all members of the other four
+         subfamilies. Global protein sequence alignment was performed with ClustalW (version
+         1.83) [74] using the default BLOSUM matrix and default parameters. The distribution of global
+         percent identity (PID) values shown in Figure&nbsp;1B was generated using the ‘boxplot’ function of R with the range parameter set to
+         2.5. The multiple sequence alignment shown in Figure&nbsp;1A was computed online at http://tcoffee.crg.cat webcite using T-Coffee with default parameters [75]. The alignment was then pruned and formatted with GeneDoc 2.7 [76].
+      
+      Pyst-a function and structure prediction
+      Domain annotations shown in Figure&nbsp;2A were generated with HMMER3 [77] (http://hmmer.janelia.org/ webcite) using HMMs downloaded from SUPERFAMILY version 1.75 [78] (http://supfam.cs.bris.ac.uk/SUPERFAMILY/downloads.html#Models webcite) and visualized with FeatureStack [79]. Downloaded HMMs were first converted into a HMM database using hmmpress (default parameters) and then searched against Plasmodium protein sequences using hmmscan (default parameters). The protein structure prediction of PF14_0604 was generated
+         using I-TASSER server [80,81] with default parameters. TM-score, RMSD, and PID correspond to values outputted by
+         I-TASSER, which used TM-align to compute these values [82]. Protein sequence alignment and secondary structure prediction were also obtained
+         from the I-TASSER output. Both predicted and template protein structures were rendered
+         with PyMOL (The PyMOL Molecular Graphics System, Version 1.3, Schrödinger, LLC).
+      
+      Identification and phylogenetic analysis of MC-TYR
+      PfMC-2TM, HYP2 and HYP8 protein sequences clustering together in the hierarchical
+         tree (Figure&nbsp;4) were aligned using the T-Coffee web service [75]. The MC-TYR domain was identified by manual inspection of the resulting multiple
+         sequence alignment. Transmembrane domains were predicted using the TMHMM standalone
+         version (v2.0c) [83] and the EBI Phobius Web server [37] (http://www.ebi.ac.uk/Tools/pfa/phobius webcite). Coloring of the MC-TYR multiple sequence alignment was performed with GeneDoc [76] using the ‘Shade 4 Levels’ option. The secondary structure of MC-TYR was predicted
+         with Jpred 3 [84] using the multiple sequence alignment of Figure&nbsp;4B as input. The phylogenetic tree shown in Figure&nbsp;3 was produced with MEGA5 [85] using maximum likelihood and 100 bootstrap iterations.
+      
+      Identification of WRD-A and WRD-B subdomains
+      Guided by local BLAST sequence similarities we compiled a hand-curated set of partial
+         SURFIN, PvSTP1, SICAvar, PfEMP1, and DBL-containing protein sequences. These sequences
+         were aligned using PSI-Coffee from the T-Coffee web site [75] with default parameters. Resulting multiple sequence alignments were manually curated
+         with GeneDoc 2.7 [76] and poorly aligned sequences were removed. Curated multiple sequence alignments representing
+         WRD-A (Additional file 7, 19 sequences) and WRD-B (Additional file 8, 32 sequences) subdomains were then converted into Stockholm format at http://myhits.isb-sib.ch/cgi-bin/reformat webcite and used as input for HMMER3 searches (default parameters). We also hand-curated
+         a multiple sequence alignment representing the complete WRD consisting of one WRD-A
+         and two WRD-B subdomains (Additional file 9). HMMER3 predictions were then visualized on top of gene models (Figure&nbsp;4A) using FeatureStack [79]. Only matches with an E-value of 0.01 or lower are shown. TM domains were identified
+         with TMHMM (v2.0c) [83]. Domain matches in intracellular regions of proteins shown in Figure&nbsp;4A were also identified with HMMER3 using Pfam v26.0 domains as input (E-Value ≤ 1e-10)
+         [86]. Annotated domains correspond to Pfam entries PF12887 (SICA_alpha), PF12878 (SICA_beta),
+         and PF05424 (Duffy_binding). Gene structures of PgSurf1 and PgSurf2 were manually curated based on the presence of two large open reading frames in both
+         genes, representing exon 1 and exon 2. Predicted protein sequences of PgSURF1 and
+         PgSURF2 are provided in Additional file 10.
+      
+      Additional file 7. Multiple sequence alignment underlying the WRD-A domain.
+         	Format: STOCKHOLM 
+         	Size: 3KB Download file or  display content in a new window
+      Additional file 8. Multiple sequence alignment underlying the WRD-B domain.
+         	Format: STOCKHOLM 
+         	Size: 2KB Download file or  display content in a new window
+      Additional file 9. Multiple sequence alignment underlying the complete WRD domain.
+         	Format: STOCKHOLM 
+         	Size: 7KB Download file or  display content in a new window
+      Additional file 10. Protein sequences of the two newly discovered SURFIN proteins in P. gallinaceum (PgSURF1 and PgSURF2).
+         	Format: FASTA 
+         	Size: 4KB Download file or  display content in a new window
+      Data access
+      We set up a project Web page (http://genome.sfu.ca/projects/gfc-plasmodium webcite) providing clustering results for all Plasmodium gene families examined in this study. For each gene family, this data includes: cluster
+         dendrogram (Newick format); sequence similarity matrix (tab-delimited format); list
+         of protein accessions and descriptions (tab-delimited format); protein sequences (multi-fasta
+         format); and images of annotated gene models in form of both a static and an interactive
+         HTML page. These images also contain cluster dendrograms and intraerythrocytic expression
+         profiles for P. falciparum and P. vivax proteins.
+      
+   
+

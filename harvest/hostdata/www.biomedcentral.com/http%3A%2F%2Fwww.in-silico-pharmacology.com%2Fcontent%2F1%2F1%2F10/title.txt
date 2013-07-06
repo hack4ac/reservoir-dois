@@ -1,0 +1,1 @@
+A framework incorporating the impact of exposure scenarios and application conditions on risk assessment of chemicals applied to skin

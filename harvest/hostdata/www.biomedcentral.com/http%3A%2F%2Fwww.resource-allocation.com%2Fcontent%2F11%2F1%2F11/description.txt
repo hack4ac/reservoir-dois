@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					As fiscal constraints dominate health policy discussions across Canada and globally, priority-setting exercises are becoming more common to guide the difficult choices that must be made. In this context, it becomes highly desirable to have accurate estimates of the value of specific health care interventions.
+Economic evaluation is a well-accepted method to estimate the value of health care interventions. However, economic evaluation has significant limitations, which have lead to an increase in the use of Multi-Criteria Decision Analysis (MCDA). One key concern with MCDA is the availability of the information necessary for implementation. In the Fall 2011, the Canadian Physiotherapy Association embarked on a project aimed at providing a valuation of physiotherapy services that is both evidence-based and relevant to resource allocation decisions. The framework selected for this project was MCDA. We report on how we addressed the challenge of obtaining some of the information necessary for MCDA implementation.
+
+				
+				
+					
+						Methods
+
+					MCDA criteria were selected and areas of physiotherapy practices were identified. The building up of the necessary information base was a three step process. First, there was a literature review for each practice area, on each criterion. The next step was to conduct interviews with experts in each of the practice areas to critique the results of the literature review and to fill in gaps where there was no or insufficient literature. Finally, the results of the individual interviews were validated by a national committee to ensure consistency across all practice areas and that a national level perspective is applied.
+
+				
+				
+					
+						Results
+
+					Despite a lack of research evidence on many of the considerations relevant to the estimation of the value of physiotherapy services (the criteria), sufficient information was obtained to facilitate MCDA implementation at the local level.
+
+				
+				
+					
+						Conclusions
+
+					The results of this research project serve two purposes: 1) a method to obtain information necessary to implement MCDA is described, and 2) the results in terms of information on the benefits provided by each of the twelve areas of physiotherapy practice can be used by decision-makers as a starting point in the implementation of MCDA at the local level.
+
+				
+			
+		

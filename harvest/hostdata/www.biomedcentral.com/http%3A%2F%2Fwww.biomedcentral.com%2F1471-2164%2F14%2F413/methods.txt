@@ -1,0 +1,83 @@
+Methods
+   
+      Cell culture and treatment
+      Rat AR-5 amygdalar and IVB hypothalamic cell lines were used in this experiment. AR-5
+         and IVB cells were cultured in phenol red-free DMEM/F12 media (Hyclone) supplemented
+         with 10% newborn calf serum (NCS) (Gemini Bioproducts), 2&nbsp;mM&nbsp;L-glutamine, 1&nbsp;mM sodium
+         pyruvate, 0.1&nbsp;mM nonessential amino acids, and 100 U/mL penicillin/streptomycin (all
+         from Cellgro, Mediatech Inc.).
+      
+      For the microarray experiment, 105 cells were plated on Nunc 6-well plates (Nalge Nunc International). After 24&nbsp;hours,
+         cells were washed with PBS (137&nbsp;mM NaCl, 2.7&nbsp;mM KCl, 4.3&nbsp;mM Na2HPO4 and 1.47&nbsp;mM KH2PO4; pH&nbsp;7.4) and maintained in media containing charcoal-stripped NCS for 48&nbsp;hours.
+      
+      RNA isolation
+      Total RNA was extracted using Tri-reagent® (MRC Inc.) according to manufacturer’s
+         protocol. Briefly, cells were suspended in 1&nbsp;mL of Tri-reagent and incubated at room
+         temperature for 5&nbsp;minutes. Subsequently, 0.2&nbsp;mL of chloroform was added and the homogenate
+         was shaken vigorously for 15&nbsp;seconds and incubated at room temperature for 10&nbsp;minutes.
+         Samples were centrifuged at 12,000&nbsp;g for 15&nbsp;minutes at 4°C. The aqueous phase was
+         then combined with equal volume of isopropanol, incubated at room temperature for
+         10&nbsp;minutes and centrifuged at 12,000&nbsp;g for 15&nbsp;minutes at 4°C. The resulting RNA pellet
+         was washed with 1&nbsp;mL of 75% ethanol, centrifuged (at 7500&nbsp;g, 5&nbsp;min, 4°C), air-dried
+         for 10&nbsp;minutes and dissolved in 20&nbsp;μL of nuclease-free water (Sigma). The RNA concentration
+         was measured using a Bio-tek plate reader, and RNA integrity was assessed using an
+         Agilent2100 RNA nano-chip.
+      
+      Gene expression analysis
+      Sample labeling, hybridization and data extraction was performed by the UTSW microarray
+         core facility; the Affymetrix rat genome 230 2.0 array was used. ArrayStar (DNASTAR,
+         Inc.) was used to obtain the gene list and compare the relative gene expression between
+         the AR-5 and IVB cell lines. The experiment was performed in triplicate, and genes
+         that were consistently expressed in the two cell lines at a 95% confidence level were
+         analyzed further. A hierarchical clustering method was used to identify functional
+         groups of genes that are abundant in each cell line.
+      
+      Measure of differential expression was calculated by setting the IVB expression levels
+         as baseline and is expressed as fold difference. Genes expressed at 2-fold or greater
+         were considered to be expressed at a higher level in the AR-5 and genes expressed
+         at 0.5 fold or less were considered to be abundant in the IVBs.
+      
+      The gene expression data was combined with the information from the Gene Ontology
+         (GO) database, using the Database for Annotation, Visualization and Integrated Discovery
+         (DAVID) bioinformatics database [9,10]. DAVID is a functional annotation tool that allows the investigator to assign empirically
+         determined biological functions to a large set of gene list. The GO database (a tool
+         within DAVID) was used to identify biological processes associated with the genes
+         in the 95% confidence level that met the 2-fold cutoff criteria. To search for reported
+         physical and/or functional associations between the enriched protein coding genes,
+         the data was analyzed using the Search Tool for the Retrieval of Interacting Genes/Proteins
+         (STRING) database [11].
+      
+      Validation of microarray results by RTqPCR
+      Complementary DNA (cDNA) was synthesized using the Verson cDNA kit (Thermo Fisher
+         Scientific), following the manufacturer’s protocol with the following modifications.
+         A 1&nbsp;μg sample of total RNA was used as the template, reverse gene specific primers
+         were used and cDNA was synthesized at 47.8°C for 1&nbsp;hour. RTqPCR was performed using
+         the BIORAD thermocycler to compare the expression levels of MT-CO1, MT-CO2, MT-CYB,
+         MT-ND1, MT-ND2 and MT-ND3 between the two cell lines; 60S ribosomal protein L27a (RpL27a)
+         was used as the reference gene. Primers used for each gene can be found in Table&nbsp;1.
+      
+      Table 1. List of primers used to verify the expression of 6 mitochondrial genes identified
+            in the array
+      The cycling parameters were: initial melting step at 95°C for 15&nbsp;sec, and amplification
+         at 95°C for 5&nbsp;sec, then 60°C for 30&nbsp;sec. The amplification steps were repeated for
+         a total of 40&nbsp;cycles.
+      
+      The ΔΔC(t) method was used to obtain the fold difference. The C(t) values for IVBs
+         were used as the reference value and the data was normalized to RpL27a.
+      
+      Statistical analysis
+      Three biological replicates were analyzed for each cell line. A statistical cutoff
+         of 5% False Discovery Rate (FDR) was generated with a moderate t-test with Benjamini
+         Hochberg multiple testing correction. A 2-fold cutoff was also applied to identify
+         differentially expressed genes.
+      
+      For the RTqPCR data, the data represents the average of 11 biological replicates,
+         the statistical significance was determined by performing one-tailed student’s t-test
+         and p ≤ 0.05 was considered significant.
+      
+      To measure gene-enrichment in biological processes, Expression Analysis Systematic
+         Explorer (EASE) score was used, which is a modified Fisher Exact p-value. An EASE
+         score of &lt; 0.05 was used to identify significantly enriched GO terms.
+      
+   
+

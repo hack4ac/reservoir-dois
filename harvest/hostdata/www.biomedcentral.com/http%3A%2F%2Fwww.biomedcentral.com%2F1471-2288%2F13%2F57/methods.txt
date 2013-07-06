@@ -1,0 +1,2962 @@
+Methods
+   
+      Estimating approximate UNIREP power with estimated covariance and fixed means
+      By extending results in Muller et al. [5], the following lemma helps simplify the F approximations. Appendix B: Supporting lemmas and proofs contains all proofs.
+      
+      Lemma 1
+      The constant in the critical value of the UNIREP test statistic approximation introduced
+         by Muller et al. [5] is equal to 1,
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              λ
+                           
+                           
+                              ∗
+                              2
+                           
+                        
+                     
+                     
+                        
+                           
+                              λ
+                           
+                           
+                              ∗
+                              1
+                           
+                        
+                     
+                  
+                  
+                     
+                        ab
+                     
+                     
+                        
+                           
+                              ν
+                           
+                           
+                              ∗
+                              1
+                           
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                              ν
+                           
+                           
+                              ∗
+                              2
+                           
+                        
+                     
+                     
+                        b
+                        
+                           
+                              ν
+                           
+                           
+                              e
+                           
+                        
+                     
+                  
+                  =
+                  1
+                  .
+               (8)
+      
+      Thus,
+      
+         
+               
+                  
+                     
+                        
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       u
+                                    
+                                 
+                                 ≤
+                                 t
+                              
+                           
+                        
+                        
+                           ≈
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                             λ
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             y
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       /
+                                       (
+                                       ab
+                                       )
+                                    
+                                    
+                                       
+                                          
+                                             λ
+                                          
+                                          
+                                             ∗
+                                             2
+                                          
+                                       
+                                       
+                                          
+                                             y
+                                          
+                                          
+                                             ∗
+                                             2
+                                          
+                                       
+                                       /
+                                       
+                                          
+                                             b
+                                             
+                                                
+                                                   ν
+                                                
+                                                
+                                                   e
+                                                
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 ≤
+                                 t
+                              
+                           
+                           
+                        
+                        
+                           
+                        
+                     
+                     
+                        
+                        
+                           =
+                           
+                              
+                                 F
+                              
+                              
+                                 F
+                              
+                           
+                           
+                              
+                                 t
+                                 ;
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       ∗
+                                       1
+                                    
+                                 
+                                 ,
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       ∗
+                                       2
+                                    
+                                 
+                                 ,
+                                 
+                                    
+                                       ω
+                                    
+                                    
+                                       ∗
+                                    
+                                 
+                              
+                           
+                           .
+                           
+                        
+                     
+                  
+               (9)
+      
+      For known covariance and means, the power approximations for the Box, Geisser-Greenhouse,
+         rank-adjusted Huynh-Feldt, and uncorrected tests are all of the form
+      
+      
+         
+               
+                  
+                  P
+                  =
+                  1
+                  −
+                  
+                     
+                        F
+                     
+                     
+                        F
+                     
+                  
+                  
+                  
+                     
+                        
+                        
+                           
+                              F
+                           
+                           
+                              F
+                           
+                           
+                              −
+                              1
+                           
+                        
+                        
+                        
+                           
+                              1
+                              
+                              −
+                              α
+                              ;
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    1
+                                 
+                              
+                              
+                              ·
+                              ab
+                              ,
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    2
+                                 
+                              
+                              
+                              ·
+                              b
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    e
+                                 
+                              
+                           
+                        
+                        ;
+                        
+                           
+                              e
+                           
+                           
+                              3
+                           
+                        
+                        ·
+                        ab
+                        ,
+                        
+                           
+                              e
+                           
+                           
+                              4
+                           
+                        
+                        ·
+                        
+                           
+                              ν
+                           
+                           
+                              e
+                           
+                        
+                        b
+                        ,
+                        
+                           
+                              tr
+                              
+                                 
+                                    Δ
+                                 
+                              
+                           
+                           
+                              
+                                 
+                                    λ
+                                 
+                                 ¯
+                              
+                              /
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    5
+                                 
+                              
+                           
+                        
+                     
+                  
+                  .
+               (10)
+      
+      Here, 
+            
+               
+                  
+                     λ
+                  
+                  ¯
+               
+             is equal to tr(Σ∗)/b with b equal to the rank of Σ∗, and 
+            
+               
+                  
+                     ω
+                  
+                  
+                     ∗
+                  
+               
+               =
+               tr
+               
+                  
+                     Δ
+                  
+               
+               /
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ¯
+                     
+                     /
+                     
+                        
+                           e
+                        
+                        
+                           5
+                        
+                     
+                  
+               
+            . Table 1 contains values for e1 through e5 for the four UNIREP tests when 
+            
+               
+                  
+                     ∊
+                  
+                  
+                     d
+                  
+               
+               =
+               ∊
+               =
+               
+                  
+                     tr
+                  
+                  
+                     2
+                  
+               
+               (
+               
+                  
+                     Σ
+                  
+                  
+                     ∗
+                  
+               
+               )
+               /
+               b
+               tr
+               (
+               
+                  
+                     Σ
+                  
+                  
+                     ∗
+                  
+                  
+                     2
+                  
+               
+               )
+            , and 
+            
+               
+                  
+                     ∊
+                  
+                  
+                     n
+                  
+               
+               =
+               
+                  
+                     
+                        
+                           tr
+                        
+                        
+                           2
+                        
+                     
+                     (
+                     
+                        
+                           Σ
+                        
+                        
+                           ∗
+                        
+                     
+                     )
+                     +
+                     2
+                     tr
+                     (
+                     
+                        
+                           Σ
+                        
+                        
+                           ∗
+                        
+                     
+                     )
+                     tr
+                     
+                        
+                           Δ
+                           /
+                           a
+                        
+                     
+                  
+               
+               
+                  
+                     b
+                     
+                        
+                           tr
+                           (
+                           
+                              
+                                 Σ
+                              
+                              
+                                 ∗
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           +
+                           2
+                           tr
+                           (
+                           
+                              
+                                 Σ
+                              
+                              
+                                 ∗
+                              
+                           
+                           Δ
+                           /
+                           a
+                           )
+                        
+                     
+                  
+               
+            . The expressions for ∊d and ∊n were derived using the properties described in Lemma B.1.
+      
+      Table 1. Sphericity multipliers for UNIREP power approximations for fixed means
+      In practice, some elements of 
+            
+               {
+               
+                  
+                     e
+                  
+                  
+                     1
+                  
+               
+               ,
+               
+                  
+                     e
+                  
+                  
+                     2
+                  
+               
+               ,
+               
+                  
+                     e
+                  
+                  
+                     3
+                  
+               
+               ,
+               
+                  
+                     e
+                  
+                  
+                     4
+                  
+               
+               ,
+               
+                  
+                     e
+                  
+                  
+                     5
+                  
+               
+               ,
+               tr
+               (
+               Δ
+               )
+               ,
+               
+                  
+                     λ
+                  
+                  ¯
+               
+               }
+             may be estimated and hence random. The random elements imply random power values,
+         as with estimated covariance and fixed means, 
+            
+               {
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+               
+               ,
+               Δ
+               }
+            , for 
+            
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+               
+               
+               =
+               
+               
+                  
+                     
+                        
+                           E
+                        
+                        ^
+                     
+                  
+                  
+                     ′
+                  
+               
+               
+                  
+                     E
+                  
+                  ^
+               
+               /
+               
+                  
+                     ν
+                  
+                  
+                     est
+                  
+               
+            , the unbiased restricted maximum likelihood (REML) estimator. A distinction must
+         be carefully maintained between the estimation study and target study. The estimation
+         study provides the covariance estimate and has sample size Nest, design matrix rank of rank (Xest), and νest=Nest−rank(Xest) degrees of freedom. The target study for which power is desired has sample size
+         N, rank (X) and νe=N−rank(X) degrees of freedom.
+      
+      The ML estimator from the Geisser-Greenhouse test, 
+            
+               
+                  
+                     ∊
+                  
+                  ^
+               
+               =
+               
+                  
+                     tr
+                  
+                  
+                     2
+                  
+               
+               (
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+               
+               )
+               /
+               [
+               b
+               tr
+               (
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+                  
+                     2
+                  
+               
+               )
+               ]
+            , is an obvious estimator for the target study’s ∊. For power analysis, a parallel estimator is available for ∊n:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              ∊
+                           
+                           ^
+                        
+                     
+                     
+                        n
+                     
+                  
+                  =
+                  
+                     
+                        
+                           
+                              tr
+                           
+                           
+                              2
+                           
+                        
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        )
+                        +
+                        2
+                        tr
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        )
+                        tr
+                        
+                           
+                              Δ
+                              /
+                              a
+                           
+                        
+                     
+                     
+                        b
+                        
+                           
+                              tr
+                              (
+                              
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       ^
+                                    
+                                 
+                                 
+                                    ∗
+                                 
+                                 
+                                    2
+                                 
+                              
+                              )
+                              +
+                              2
+                              tr
+                              (
+                              
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       ^
+                                    
+                                 
+                                 
+                                    ∗
+                                 
+                              
+                              Δ
+                              /
+                              a
+                              )
+                           
+                        
+                     
+                  
+                  .
+               (11)
+      
+      A better choice, given in the following lemma, uses a ratio of unbiased estimators.
+         The result generalizes the rank-adjusted Huynh-Feldt estimator for data analysis.
+         Appendix B: Supporting lemmas and proofs has derivations of moments as well as all
+         proofs.
+      
+      Lemma 2
+      For the non-null case, a ratio estimating ∊n in terms of correlated, but unbiased, estimators is [b]
+      
+      
+         
+               
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                              ∊
+                           
+                           ~
+                        
+                     
+                     
+                        n
+                     
+                  
+                  =
+                  
+                     
+                        
+                           
+                              ν
+                           
+                           
+                              est
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    est
+                                 
+                              
+                              +
+                              1
+                           
+                        
+                        
+                           
+                              tr
+                           
+                           
+                              2
+                           
+                        
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        )
+                        −
+                        2
+                        
+                           
+                              ν
+                           
+                           
+                              est
+                           
+                        
+                        tr
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                           
+                              2
+                           
+                        
+                        )
+                        +
+                        2
+                        
+                           
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    est
+                                 
+                              
+                              
+                                 
+                                    
+                                       
+                                          ν
+                                       
+                                       
+                                          est
+                                       
+                                    
+                                    +
+                                    1
+                                 
+                              
+                              −
+                              2
+                           
+                        
+                        tr
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        )
+                        tr
+                        
+                           
+                              Δ
+                              /
+                              a
+                           
+                        
+                     
+                     
+                        b
+                        
+                           
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    est
+                                 
+                                 
+                                    2
+                                 
+                              
+                              tr
+                              (
+                              
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       ^
+                                    
+                                 
+                                 
+                                    ∗
+                                 
+                                 
+                                    2
+                                 
+                              
+                              )
+                              −
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    est
+                                 
+                              
+                              
+                                 
+                                    tr
+                                 
+                                 
+                                    2
+                                 
+                              
+                              (
+                              
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       ^
+                                    
+                                 
+                                 
+                                    ∗
+                                 
+                              
+                              )
+                              +
+                              2
+                              
+                                 
+                                    
+                                       
+                                          ν
+                                       
+                                       
+                                          est
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                ν
+                                             
+                                             
+                                                est
+                                             
+                                          
+                                          +
+                                          1
+                                       
+                                    
+                                    −
+                                    2
+                                 
+                              
+                              tr
+                              (
+                              
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       ^
+                                    
+                                 
+                                 
+                                    ∗
+                                 
+                              
+                              Δ
+                              /
+                              a
+                              )
+                           
+                        
+                     
+                  
+                  .
+               (12)
+      
+      The corresponding estimator for the null case is 
+            
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ~
+                     
+                  
+                  
+                     r
+                  
+               
+               =
+               
+                  
+                     
+                        
+                           
+                              
+                                 ν
+                              
+                              
+                                 est
+                              
+                           
+                           +
+                           1
+                        
+                     
+                     b
+                     
+                        
+                           ∊
+                        
+                        ^
+                     
+                     −
+                     2
+                  
+               
+               /
+               
+                  
+                     b
+                     
+                        
+                           
+                              
+                                 ν
+                              
+                              
+                                 est
+                              
+                           
+                           −
+                           b
+                           
+                              
+                                 ∊
+                              
+                              ^
+                           
+                        
+                     
+                  
+               
+            , the rank-adjusted Huynh-Feldt sphericity estimator.
+      
+      For estimated covariance and fixed means, approximate estimated UNIREP power is
+      
+         
+               
+                  
+                  P
+                  =
+                  1
+                  −
+                  
+                     
+                        F
+                     
+                     
+                        F
+                     
+                  
+                  
+                     
+                        
+                        
+                           
+                              F
+                           
+                           
+                              F
+                           
+                           
+                              −
+                              1
+                           
+                        
+                        
+                           
+                              1
+                              
+                              −
+                              α
+                              ;
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    1
+                                 
+                              
+                              
+                              ·
+                              ab
+                              ,
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    2
+                                 
+                              
+                              
+                              ·
+                              b
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    e
+                                 
+                              
+                           
+                        
+                        ;
+                        
+                           
+                              e
+                           
+                           
+                              3
+                           
+                        
+                        
+                        ·
+                        ab
+                        ,
+                        
+                           
+                              e
+                           
+                           
+                              4
+                           
+                        
+                        
+                        ·
+                        
+                           
+                              ν
+                           
+                           
+                              e
+                           
+                        
+                        b
+                        ,
+                        
+                           
+                              tr
+                              
+                                 
+                                    Δ
+                                 
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          λ
+                                       
+                                       ^
+                                    
+                                 
+                                 ¯
+                              
+                              /
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    5
+                                 
+                              
+                           
+                        
+                     
+                  
+                  ,
+               (13)
+      
+      with 
+            
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ^
+                     
+                  
+                  ¯
+               
+               =
+               tr
+               (
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+               
+               )
+               /
+               b
+            , and e1 through e5 estimated if unknown (Table 1). Nearly every combination of 
+            
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ^
+                     
+                  
+                  
+                     n
+                  
+               
+            , 
+            
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ~
+                     
+                  
+                  
+                     n
+                  
+               
+            , 
+            
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ^
+                     
+                  
+                  
+                     d
+                  
+               
+            , 
+            
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ~
+                     
+                  
+                  
+                     r
+                  
+               
+            , 1 and 1/b was examined for each UNIREP test for the wide range of simulations discussed in
+         Muller et al. [5]. The values chosen provided the most accurate results. In retrospect, they are natural
+         choices as well.
+      
+      Approximate UNIREP power confidence intervals
+      The solution to the UNIREP problem parallels the solution to the univariate problem
+         in Taylor and Muller [16]. The methods apply to any general linear hypothesis, including one degree-of-freedom
+         contrasts, such as pair-wise group comparisons and differences in linear trend between
+         two groups. Tests giving scalar secondary parameters are also common for one-group
+         designs and two-group comparisons. For known covariance and means, e5 is defined to be ∊n (Table 1), and the noncentrality in equation 9 is 
+            
+               
+                  
+                     ω
+                  
+                  
+                     ∗
+                  
+               
+               =
+               
+                  
+                     tr
+                     
+                        
+                           Δ
+                        
+                     
+                  
+               
+               /
+               (
+               
+                  
+                     λ
+                  
+                  ¯
+               
+               /
+               
+                  
+                     ∊
+                  
+                  
+                     n
+                  
+               
+               )
+               =
+               
+                  
+                     tr
+                     
+                        
+                           Δ
+                        
+                     
+                  
+               
+               /
+               
+                  
+                     λ
+                  
+                  
+                     ∗
+                     1
+                  
+               
+             with 
+            
+               
+                  
+                     λ
+                  
+                  ¯
+               
+               =
+               tr
+               (
+               
+                  
+                     Σ
+                  
+                  
+                     ∗
+                  
+               
+               )
+               /
+               b
+             and 
+            
+               
+                  
+                     λ
+                  
+                  
+                     ∗
+                     1
+                  
+               
+               =
+               
+                  
+                     λ
+                  
+                  ¯
+               
+               /
+               
+                  
+                     ∊
+                  
+                  
+                     n
+                  
+               
+            . For 
+            
+               
+                  
+                     ∊
+                  
+                  
+                     n
+                  
+               
+               =
+               
+                  
+                     
+                        
+                           tr
+                        
+                        
+                           2
+                        
+                     
+                     (
+                     
+                        
+                           Σ
+                        
+                        
+                           ∗
+                        
+                     
+                     )
+                     +
+                     2
+                     tr
+                     (
+                     
+                        
+                           Σ
+                        
+                        
+                           ∗
+                        
+                     
+                     )
+                     tr
+                     
+                        
+                           Δ
+                           /
+                           a
+                        
+                     
+                  
+               
+               
+                  
+                     b
+                     
+                        
+                           tr
+                           (
+                           
+                              
+                                 Σ
+                              
+                              
+                                 ∗
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           +
+                           2
+                           tr
+                           (
+                           
+                              
+                                 Σ
+                              
+                              
+                                 ∗
+                              
+                           
+                           Δ
+                           /
+                           a
+                           )
+                        
+                     
+                  
+               
+            . Therefore, it follows that
+      
+      
+         
+               
+                  
+                     
+                        ω
+                     
+                     
+                        ∗
+                     
+                  
+                  =
+                  tr
+                  
+                     
+                        Δ
+                     
+                  
+                  ·
+                  
+                     
+                        tr
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 
+                                    ∗
+                                 
+                              
+                           
+                        
+                        +
+                        2
+                        tr
+                        
+                           
+                              Δ
+                              /
+                              a
+                           
+                        
+                     
+                     
+                        tr
+                        (
+                        
+                           
+                              Σ
+                           
+                           
+                              ∗
+                           
+                           
+                              2
+                           
+                        
+                        )
+                        +
+                        2
+                        tr
+                        
+                           
+                              
+                                 
+                                    ΔΣ
+                                 
+                                 
+                                    ∗
+                                 
+                              
+                              /
+                              a
+                           
+                        
+                     
+                  
+                  .
+               (14)
+      
+      For estimated covariance and fixed means, a ratio involving one biased and two unbiased
+         estimators (Lemma B.2) for estimating λ∗1 may be written as
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              λ
+                           
+                           ~
+                        
+                     
+                     
+                        ∗
+                        1
+                     
+                  
+                  =
+                  
+                     
+                        tr
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                           
+                              2
+                           
+                        
+                        )
+                        +
+                        2
+                        tr
+                        (
+                        Δ
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        /
+                        a
+                        )
+                     
+                     
+                        tr
+                        (
+                        
+                           
+                              
+                                 
+                                    Σ
+                                 
+                                 ^
+                              
+                           
+                           
+                              ∗
+                           
+                        
+                        )
+                        +
+                        2
+                        tr
+                        
+                           
+                              Δ
+                              /
+                              a
+                           
+                        
+                     
+                  
+                  .
+               (15)
+      
+      In parallel to the univariate setting, the distribution of 
+            
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     1
+                  
+               
+             can be approximated with a Satterthwaite approximation: 
+            
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     1
+                  
+               
+               
+                  
+                     ν
+                  
+                  
+                     ∗
+                  
+               
+               /
+               
+                  
+                     λ
+                  
+                  
+                     ∗
+                     1
+                  
+               
+               ∼
+               
+                  
+                     χ
+                  
+                  
+                     2
+                  
+               
+               
+                  
+                     
+                        
+                           ν
+                        
+                        
+                           ∗
+                        
+                     
+                  
+               
+             with 
+            
+               
+                  
+                     ν
+                  
+                  
+                     ∗
+                  
+               
+               =
+               
+                  
+                     b
+                     
+                        
+                           ν
+                        
+                        
+                           est
+                        
+                     
+                  
+               
+               ·
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ^
+                     
+                  
+                  
+                     d
+                  
+               
+               /
+               
+                  
+                     
+                        
+                           ∊
+                        
+                        ~
+                     
+                  
+                  
+                     n
+                  
+               
+            . Lower and upper tail probabilities, αL and αU, respectively, define the confidence coefficient, pCL=1−αL−αU. Also, 
+            
+               
+                  
+                     c
+                  
+                  
+                     αL
+                  
+               
+               =
+               
+                  
+                     F
+                  
+                  
+                     
+                        
+                           χ
+                        
+                        
+                           2
+                        
+                     
+                  
+                  
+                     −
+                     1
+                  
+               
+               
+                  
+                     
+                        
+                           α
+                        
+                        
+                           L
+                        
+                     
+                     ;
+                     
+                        
+                           ν
+                        
+                        
+                           ∗
+                        
+                     
+                  
+               
+             and 
+            
+               
+                  
+                     c
+                  
+                  
+                     αU
+                  
+               
+               =
+               
+                  
+                     F
+                  
+                  
+                     
+                        
+                           χ
+                        
+                        
+                           2
+                        
+                     
+                  
+                  
+                     −
+                     1
+                  
+               
+               
+                  
+                     1
+                     −
+                     
+                        
+                           α
+                        
+                        
+                           U
+                        
+                     
+                     ;
+                     
+                        
+                           ν
+                        
+                        
+                           ∗
+                        
+                     
+                  
+               
+            . Approximate confidence limits for the noncentrality may be calculated using the
+         following:
+      
+      
+         
+               
+                  
+                     
+                        
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       αL
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             λ
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       αU
+                                    
+                                 
+                              
+                           
+                           
+                           ≈
+                           
+                              
+                                 p
+                              
+                              
+                                 CL
+                              
+                           
+                           
+                        
+                     
+                  
+               (16)
+      
+      
+         
+               
+                  
+                     
+                        
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αL
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       1
+                                    
+                                    
+                                       
+                                          
+                                             λ
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αU
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                           
+                           ≈
+                           
+                              
+                                 p
+                              
+                              
+                                 CL
+                              
+                           
+                           
+                        
+                     
+                  
+               (17)
+      
+      
+         
+               
+                  
+                     
+                        
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       tr
+                                       
+                                          
+                                             Δ
+                                          
+                                       
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αL
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       tr
+                                       
+                                          
+                                             Δ
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             λ
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       tr
+                                       
+                                          
+                                             Δ
+                                          
+                                       
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αU
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                           
+                           ≈
+                           
+                              
+                                 p
+                              
+                              
+                                 CL
+                              
+                           
+                           
+                        
+                     
+                  
+               (18)
+      
+      
+         
+               
+                  
+                     
+                        
+                           Pr
+                           
+                              
+                                 
+                                    
+                                       tr
+                                       
+                                          
+                                             Δ
+                                          
+                                       
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αL
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       ω
+                                    
+                                    
+                                       ∗
+                                    
+                                 
+                                 &lt;
+                                 
+                                    
+                                       tr
+                                       
+                                          
+                                             Δ
+                                          
+                                       
+                                       
+                                          
+                                             c
+                                          
+                                          
+                                             αU
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   λ
+                                                
+                                                ~
+                                             
+                                          
+                                          
+                                             ∗
+                                             1
+                                          
+                                       
+                                       
+                                          
+                                             ν
+                                          
+                                          
+                                             ∗
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                           
+                           ≈
+                           
+                              
+                                 p
+                              
+                              
+                                 CL
+                              
+                           
+                           .
+                           
+                        
+                     
+                  
+               (19)
+      
+      Approximate lower and upper bounds are therefore 
+            
+               
+                  
+                     
+                        
+                           ω
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     L
+                  
+               
+               =
+               tr
+               
+                  
+                     Δ
+                  
+               
+               
+                  
+                     c
+                  
+                  
+                     αL
+                  
+               
+               /
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     1
+                  
+               
+               
+                  
+                     ν
+                  
+                  
+                     ∗
+                  
+               
+             and 
+            
+               
+                  
+                     
+                        
+                           ω
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     U
+                  
+               
+               tr
+               
+                  
+                     Δ
+                  
+               
+               
+                  
+                     c
+                  
+                  
+                     αU
+                  
+               
+               /
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     1
+                  
+               
+               
+                  
+                     ν
+                  
+                  
+                     ∗
+                  
+               
+            . The strict monotone dependence of the noncentral F function on the noncentrality ensures an approximate confidence interval for power.
+         Lower and upper bounds on power are, with e1 through e4 defined in Table 1 for 
+            
+               
+                  
+                     
+                        
+                           Σ
+                        
+                        ^
+                     
+                  
+                  
+                     ∗
+                  
+               
+            ,
+      
+      
+         
+               
+                  
+                  
+                     
+                        
+                           
+                              P
+                           
+                           ~
+                        
+                     
+                     
+                        L
+                     
+                  
+                  =
+                  1
+                  −
+                  
+                     
+                        F
+                     
+                     
+                        F
+                     
+                  
+                  
+                     
+                        
+                           
+                              F
+                           
+                           
+                              F
+                           
+                           
+                              −
+                              1
+                           
+                        
+                        
+                           
+                              1
+                              −
+                              α
+                              ;
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    1
+                                 
+                              
+                              ·
+                              ab
+                              ,
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    2
+                                 
+                              
+                              ·
+                              b
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    e
+                                 
+                              
+                           
+                        
+                        ;
+                        
+                           
+                              e
+                           
+                           
+                              3
+                           
+                        
+                        ·
+                        ab
+                        ,
+                        
+                           
+                              e
+                           
+                           
+                              4
+                           
+                        
+                        ·
+                        
+                           
+                              ν
+                           
+                           
+                              e
+                           
+                        
+                        b
+                        ,
+                        
+                           
+                              
+                                 
+                                    ω
+                                 
+                                 ~
+                              
+                           
+                           
+                              ∗
+                              L
+                           
+                        
+                     
+                  
+               (20)
+      
+      and
+      
+         
+               
+                  
+                  
+                     
+                        
+                           
+                              P
+                           
+                           ~
+                        
+                     
+                     
+                        U
+                     
+                  
+                  =
+                  1
+                  −
+                  
+                     
+                        F
+                     
+                     
+                        F
+                     
+                  
+                  
+                     
+                        
+                           
+                              F
+                           
+                           
+                              F
+                           
+                           
+                              −
+                              1
+                           
+                        
+                        
+                           
+                              1
+                              −
+                              α
+                              ;
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    1
+                                 
+                              
+                              
+                              ·
+                              ab
+                              ,
+                              
+                                 
+                                    e
+                                 
+                                 
+                                    2
+                                 
+                              
+                              
+                              ·
+                              b
+                              
+                                 
+                                    ν
+                                 
+                                 
+                                    e
+                                 
+                              
+                           
+                        
+                        ;
+                        
+                           
+                              e
+                           
+                           
+                              3
+                           
+                        
+                        ·
+                        ab
+                        ,
+                        
+                           
+                              e
+                           
+                           
+                              4
+                           
+                        
+                        ·
+                        
+                           
+                              ν
+                           
+                           
+                              e
+                           
+                        
+                        b
+                        ,
+                        
+                           
+                              
+                                 
+                                    ω
+                                 
+                                 ~
+                              
+                           
+                           
+                              ∗
+                              U
+                           
+                        
+                     
+                  
+                  .
+               (21)
+      
+      Taylor and Muller [16] recommended one-sided power confidence intervals by noting that “the change from
+         a one-sided to a two-sided confidence interval has little effect on the upper bound,
+         but a large effect on the lower bound”. Muller and Fetterman [20] provided examples of a one-sided power confidence interval in the univariate case.
+      
+      Approximate UNRIEP power confidence regions for power curves
+      The new methods allow calculating a confidence interval for a single power value.
+         The logic of a proof in Taylor and Muller ([16] equations 2.1-2.13 and surrounding text) guarantees that accurate confidence regions
+         are provided by the point-wise calculations. The proof may be sketched for the present
+         setting as follows. Equations 14-21 establish the validity of the approximate confidence
+         interval for a particular alternative hypothesis, as specified by the scalar constant
+         tr(Δ). The randomness in the noncentrality arises from a scalar random variable, 
+            
+               
+                  
+                     
+                        
+                           λ
+                        
+                        ~
+                     
+                  
+                  
+                     ∗
+                     1
+                  
+               
+            , analogous to a variance. Equation 19 describes a single event with a specified probability.
+         The inequality defining the event, and the associated probability, do not change for
+         different values of the scalar constant tr(Δ). The smooth and strictly monotone dependence of power on the noncentrality ensures
+         the validity of equations 20-21. The proof is completed by noting that the monotonicity
+         extends the simultaneity property to the power confidence region.
+      
+      Figure 1 gives an example plot of approximate power confidence regions surrounding the predicted
+         power curve for the rank-adjusted Huynh-Feldt test for ∊=0.720. Graphical representations such as Figure 1 help researchers accurately recognize the amount of uncertainty in their power calculation,
+         and lead to better decisions about design.
+      
+      Figure 1. Approximate 95% confidence region for predicted power of the rank-adjusted Huynh-Feldt
+            test of interaction over tr(Δ) with N = 10 and population ∊=0.720 for conditions described in Section ‘Simulation 1 with rank (X) = 1 (one-group repeated measures ANOVA)’.
+      
+      In some cases scientists prefer to consider sample size as a function of the pattern
+         of mean differences. The theory already presented allows plotting sample size as a
+         function of mean difference, albeit with a shift in algorithm. The power function
+         must be numerically inverted to solve for the sample size desired. Taylor and Muller
+         [16] outlined the steps of algorithm needed for the univariate case. Details are not presented
+         here for the sake of brevity.
+      
+   
+

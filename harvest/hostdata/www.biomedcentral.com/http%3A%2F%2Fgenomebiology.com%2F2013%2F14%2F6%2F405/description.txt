@@ -1,0 +1,6 @@
+
+Abstract
+
+Of the current next-generation sequencing technologies, SMRT sequencing is sometimes overlooked. However, attributes such as long reads, modified base detection and high accuracy make SMRT a useful technology and an ideal approach to the complete sequencing of small genomes.
+
+

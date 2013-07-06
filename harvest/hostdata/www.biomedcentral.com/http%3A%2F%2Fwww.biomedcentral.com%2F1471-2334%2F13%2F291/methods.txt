@@ -1,0 +1,100 @@
+Methods
+   
+      Epidemiological and environmental investigations were conducted at the apartment complex,
+         which consisted of four adjacent buildings. Two buildings were built in 2004; the
+         third and fourth buildings were built in 2006 and 2009, respectively. Occupancy of
+         the buildings began soon after construction of each was complete. An age of 62&nbsp;years
+         or older was required for residency. Single residents occupied most (&gt;90%) of the
+         340 apartment units at the complex and virtually all units were occupied by October,
+         2009. Common areas were available to residents (e.g., communal kitchens, laundry facilities,
+         and public restrooms). Medical services were not available onsite, but communal meals
+         and social gatherings occurred regularly.
+      
+      For case finding, we defined confirmed cases of LD as a diagnosis of clinical or radiographic
+         pneumonia and laboratory-confirmation of LD (i.e., urine antigen testing, culture
+         identification of Legionella from respiratory secretions, or a four-fold increase in serum antibody titer to L. pneumophila serogroup 1) between August 1, 2009 and December 31, 2009 among a resident of any
+         apartment building in the complex. Possible cases were defined similarly, but had
+         either incomplete (i.e., a single Legionella titer) or no specific laboratory testing for Legionella infection performed. Respiratory illnesses in persons with negative Legionella testing were considered non-cases.
+      
+      We initiated enhanced surveillance for LD using four strategies. First, we sent email
+         alerts to local hospital infection preventionists to inform them of the outbreak,
+         encourage Legionella-specific laboratory testing in patients with community-acquired pneumonia, and remind
+         them to report LD cases. Second, we requested lists of all laboratory-confirmed cases
+         of LD since August 1 from the city’s 12 largest hospitals. Third, we developed a decision
+         algorithm (Figure&nbsp;1) to identify suspect cases and standardize case classification. During the cohort
+         study (described below), we queried residents for three symptoms (fever, cough and
+         shortness of breath) since August 1, 2009. If the resident had any two of these symptoms,
+         a standardized interview followed. We offered urine antigen testing to individuals
+         with suspected pneumonia who had not had Legionella-specific testing; tests were conducted at the Maryland Department of Health and Mental
+         Hygiene’s public health laboratory. Two investigator-physicians reviewed and classified
+         medical records of patients with suspected LD using a standardized data abstraction
+         instrument. Fourth, residents' death certificates were also reviewed for diagnoses
+         of “pneumonia” and “Legionnaires’ disease”.
+      
+      Figure 1. Decision algorithm for Legionnaire’s disease case-finding and classification. * The decision courses based on interview data (left) and medical records (right)
+         are not necessarily mutually exclusive. Information for some subjects was gathered
+         in both tracts. † Data from patient interview. ‡ Data from medical records review § Suspect cases: a resident identified by case-finding who has entered the decision
+         algorithm because his/her illness is to be evaluated as a case of Legionnaire’s disease;
+         resident’s illness remains a suspect case until further categorized. ¶ Physicians reviewed available medical records for signs, symptoms, and diagnostic
+         testing (e.g., chest x-ray) to determine if subject possibly had pneumonia consistent
+         with Legionnaire’s disease. # Possible case: a subject whose illness has met all the criteria of a suspect case
+         is labeled a possible case while outstanding information or testing is collected.
+      
+      To estimate attack rates and identify transmission routes, we conducted a retrospective
+         cohort study among all 171 residents of the two affected buildings where LD cases
+         had occurred (A-1 and A-2). The exposure period for the study was defined as August
+         1 through the date of survey interview. After informed consent was obtained, a standardized
+         questionnaire was administered in person. We queried respondents about their demographic
+         characteristics, water exposures at the complex and within the community, signs or
+         symptoms of respiratory illness, healthcare use and diagnoses, smoking, and comorbid
+         conditions (asthma; chronic lung, kidney, and liver disease; diabetes mellitus; heart
+         disease or congestive heart failure; plus, immunocomprising conditions, including
+         cancer, immunosuppressive therapies, human immunodeficiency virus infection, and organ
+         transplant). Complaints about municipal water service interruptions and water quality
+         (i.e., taste, smell, and appearance) were also recorded. We made at least two attempts
+         on separate days to interview each resident; visitors were not included in the cohort
+         study.
+      
+      We maintained data in a Microsoft Access database (Microsoft Corp, Redmond, WA) and analyzed it in SAS version 9.2 (SAS Institute, Inc., Cary, NC). Attack rates (AR) for specific transmission
+         risk factors (present vs. absent) were compared to calculate relative risks (RR) with
+         95% confidence intervals (95% CIs) and Fisher’s exact tests. A p-value less than 0.10
+         was considered statistically significant because of the small number of LD cases.
+      
+      Our environmental investigation began with a physical inspection, noting the orientation
+         of the apartment buildings, the design of the individual apartment units, and points
+         of water use (e.g., showerheads, sink faucets) in each unit. Common areas where water
+         exposures might have occurred were also noted. Diagrams of the potable water system
+         were not available at this stage of the investigation.
+      
+      On October 17, we collected 103 samples from five apartments of LD patients in affected
+         buildings (A-1 and A-2) and three randomly-selected apartments of residents who had
+         not developed LD in A-2 and each unaffected buildings (U-1 and U-2). (A resident of
+         a randomly-selected apartment in A-1 developed LD after the apartment was sampled.)
+         Specific sampling locations in the apartments included showerheads, sink faucets in
+         kitchens and bathrooms, and water heater tanks (n = 56 samples). We also collected
+         samples from outdoor fire hydrants (n = 6), from the buildings’ water intake valves
+         (n = 19), and the sink faucets and water heating tanks of common areas in buildings
+         A-1 and A-2 (n = 22). We collected samples of municipal water and expansion tanks,
+         designed to absorb excess water pressure caused by thermal expansion or “water hammers”
+         (i.e., water pressure surges), on October 21 and October 24, respectively. Biofilm
+         swabs and one-liter bulk water samples were collected according to published procedures
+         [12]. Water temperatures and free chlorine concentrations (using N,N-diethyl-P-phenylenediamine
+         reagents) were measured in potable water systems during this sampling.
+      
+      At the CDC Legionella laboratory, bulk water samples were filtered through polycarbonate 0.2&nbsp;μm filters.
+         The filters were placed in 5&nbsp;ml of sterile water and vortexed for 60&nbsp;seconds. One
+         hundred μl of this suspension were placed on buffered charcoal-yeast extract media
+         with and without antibiotics. Plates were incubated at 95–98.6°F (35–37°C) in 2.5%
+         CO2 to culture Legionella. We also forwarded two patients’ clinical isolates to CDC.
+      
+      Serogrouping and determination of monoclonal antibody patterns [13,14] were performed on all isolates. In addition, sequence-based typing was used to create
+         seven-gene profiles (flaA, pilE, asd, mip, mompS, proA, and neuA) of the clinical
+         isolates and select environmental isolates [15-17]. Sequence-based typing results were compared for clinical and environmental isolates
+         to determine the source of the outbreak strain in the environment.
+      
+      This study was determined an emergency public health investigation exempt from institutional
+         review board (IRB) review; standard procedures to protect patient confidentiality
+         were followed.
+      
+   
+

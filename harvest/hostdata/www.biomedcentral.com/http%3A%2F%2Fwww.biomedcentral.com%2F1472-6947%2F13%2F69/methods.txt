@@ -1,0 +1,57 @@
+Methods
+   
+      Study identification and eligibility
+      The population
+      Studies of patient medication record or pharmacy order entry systems used in pharmacies
+         were included while studies about other clinical information systems and clinicians
+         other than pharmacists were excluded.
+      
+      The interventions
+      The interventions included alerts, warnings, or prompts about safety of medications,
+         appearing on ePMR systems during pharmacy order entry or at the point of dispensing
+         in the pharmacy. Examples are drug-drug interactions, therapeutic duplications, and
+         allergy alerts. Drug Utilisation Review (DUR) alerts generated for non-safety reasons
+         were excluded.
+      
+      The outcomes
+      The outcomes of interest included changes in medication error, morbidity, mortality
+         and adverse drug events. Studies with outcomes not related to safety were excluded.
+      
+      The study types
+      Studies that used comparative designs to evaluate the effectiveness of ePMR systems’
+         safety features and alerts at the point of pharmacy order entry were included. For
+         example, randomised controlled trials and before-after studies. Studies published
+         only in abstract form were excluded.
+      
+      Sources of information and search strategy
+      Literature searches were conducted in MEDLINE (1946 to March 2012), EMBASE (1980 to
+         March 2012), Inspec (1969 to March 2012), International Pharmaceutical Abstracts (1970
+         to March 2012), PsycINFO (1806 to March 2012) all on the OvidSP platform, and CINHAL
+         (1986 to March 2012) on EBSCOHOST platform. Secondary sources such as online database
+         Pharmacy Abstracts, COCHRANE database, website of the Agency for Healthcare Quality
+         (AHRQ), reference lists of included studies and Internet search engines were also
+         searched. Keywords for the searches included “alerts, warning, decision support, pharmacist,
+         pharmacy, expert system, pharmacy information systems, PMR systems and pharmacy order
+         entry”. The search terms were initially used in MEDLINE and tailored to other databases.
+         Citations were retrieved into Endnote X5. Details of the search strategy used for
+         the MEDLINE search are provided in the Appendix section.
+      
+      Study selection and data extraction
+      Two reviewers (OO and VG) independently screened the title and abstracts of articles
+         to identify studies, which met our inclusion criteria. The full articles for the potentially
+         relevant studies were retrieved and reviewed by three reviewers (OO, MB and AA) based
+         on study type, study design, participants, settings, eligible outcomes and interventions.
+         A hierarchical template was used to exclude non-relevant studies. No language restrictions
+         were applied to the study selection process. One investigator (OO) designed and used
+         a template to extract data from the articles included in the synthesis. Two reviewers
+         (MB and AA) verified the extracted data. We resolved discrepancies by discussion until
+         consensus was reached.
+      
+      Risk of bias in included studies
+      Two reviewers (OO and VG) independently assessed the quality of the included studies
+         using the Cochrane Collaboration’s risk of bias tool [31]. The studies included in the synthesis were assessed individually for selection bias,
+         allocation sequence concealment, blinding of participants and personnel, blinding
+         of outcome assessment, incomplete outcome data, selective reporting and other bias.
+      
+   
+

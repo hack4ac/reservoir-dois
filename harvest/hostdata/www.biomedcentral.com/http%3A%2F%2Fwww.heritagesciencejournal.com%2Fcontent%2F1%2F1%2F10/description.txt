@@ -1,0 +1,11 @@
+
+			
+				
+					Abstract
+
+				Excavating human skeletons is the closest archaeologists can get to the people who lived in the past. Once excavated the bones are often analysed chemically in order to yield as much information as possible. Most archaeometric analyses performed on samples of human skeletal remains have been performed on a single sample from a tooth or a long bone. In this paper we investigate how a suite of elements (Mg, Al, Ca, Mn, Fe, Zn, As, Sr, Ba, Hg and Pb) are distributed in two medieval skeletons excavated at the laymen cemetery at the Franciscan Friary in Svendborg, Denmark.
+The analyses have been performed using CV-AAS for Hg and ICP-MS for the rest of the elements. We find that in general Hg concentrations are highest in the trabecular tissues and in the abdomen region. Our data also show that the elements Al, Fe and Mn concentrate in the trabecular tissue and on the surfaces of the bones. The two individuals can be clearly distinguished by Principal Component Analysis of all the measured trace elements.
+Our data support a previously published hypothesis that the elemental ratios Sr/Ca, Ba/Ca and Mg/Ca are indicative of provenance. Aluminium, Fe and Mn can be attributed to various forms of diagenesis, while Hg is not present in sufficiently large amounts in the surrounding soil to allow diagenesis to explain the high Hg values in the trabecular tissue. Instead we propose that Hg must originate from decomposed soft tissue.
+
+			
+		

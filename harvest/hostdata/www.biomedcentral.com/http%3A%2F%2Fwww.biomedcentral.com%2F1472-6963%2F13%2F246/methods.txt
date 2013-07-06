@@ -1,0 +1,122 @@
+Methods
+   
+      Research was carried out in the European network on Medicine and Management (FP7 COST
+         action ISA0903; http://www.dr-in-mgmt.eu webcite) and includes Denmark, Germany, Greece, Netherlands, Poland, Portugal and Spain as
+         country cases. As Burau [10], p. 569 highlights, more diverse comparisons have created ‘a range of challenges
+         related to ensuring comparability, to comparing beyond the nation state, and to finding
+         appropriate data for comparison’. Wrede [46] argues that case-based methods may help to capture complexity and, furthermore, highlights
+         the benefits of interdisciplinary scholarship and methodological reflexivity. One
+         example of a case study method is the so-called ‘decentred comparative research’ [47,48] that is characterised by qualitative methodology and interpretative analysis based
+         on bottom-up developed categories and by high levels of sensitivity to the contexts.
+         This approach seems to be useful also for the purpose of our research, because it
+         minimises the constraints of research categories and theoretical bias, and therefore
+         provides most opportunity for exploring emergent modes of control.
+      
+      The conceptual model
+      The research design is a case-based comparison comprising hospital case studies from
+         seven European countries, namely Denmark, Germany, Greece, Netherlands, Poland, Portugal
+         and Spain. These countries were selected for two reasons: at first and foremost, they
+         represent a range of different health systems and economic and geopolitical conditions
+         in Europe that made it possible to analyse both general trends and specific determinants
+         of new modes of control. The cases also reflect existing expertise in the group of
+         authors, and are therefore suitable for context-sensitive, qualitative case-based
+         comparison.
+      
+      The hospitals selected for inclusion here have broadly similar characteristics: they
+         fall in the range of middle to large hospitals that are primarily public, have implemented
+         a wide range of new managerial controls and, on average, achieved high standards of
+         quality of the services provided when compared to other hospitals in the country.
+         This selection of cases allows us to explore similarities and differences in the emergent
+         patterns of control in relation to organisational settings without losing sight of
+         national (macro-level) institutions. Figure&nbsp;1 shows the conceptual model developed for our analysis.
+      
+      Figure 1. The conceptual model of researching control in hospitals.
+      We established an interdisciplinary research team comprising wide-ranging expertise
+         from health management, economics and medicine to social and political science as
+         well as from the different countries and from practice, research and policy. An interactive
+         and reflective approach was applied both to the development of instruments and the
+         analysis of data in comparative perspective: two workshops, each lasting a day and
+         a half, and additional virtual discussion and comments from additional experts in
+         the field were organised, providing the opportunity for an in-depth discussion and
+         validation of indicators and findings. The major categories are summarised below and
+         primarily include basic analytical categories drawn from the governance literature
+         (as described previously) and in addition, an empirical category developed from our
+         case study material.
+      
+      Governance: serves as an umbrella concept including different forms (hierarchy, market, network,
+         and professional self-governance), different sets of managerial and professional modes
+         of governing, and institutions and actors:
+      
+      ● Hierarchy: top-down exercised on levels of state and/or hospitals.
+      
+      ● Market: all forms of competition; privatisation; consumer/patient choice.
+      
+      ● Network: complex forms of governing with higher levels of negotiations and more plural stakeholders
+         involved, including among others, corporatist-style governance.
+      
+      ● Professional self-governance: the state has delegated regulatory powers and responsibility for public sector policy-making
+         to professional associations.
+      
+      Accountability structures: roughly described as ‘who does what, reporting to whom’.
+      
+      Coordination: serves as an empirical category, including coordination across the levels of the
+         hospital between top-down and bottom-up governing, and between managerial-organisational
+         and professional self-governing procedures.
+      
+      Research instruments and data collection
+      A Hospital Control Assessment Framework (H-CAF) [49] was developed that served as guidance for the collection of data in our different
+         countries. The H-CAF is a pioneering instrument, because no research exists that brings
+         cross-country comparison to the level of the organisation. It is based on a semi-structured,
+         extensive topic guide. Although the instrument is very detailed in order to assure
+         comparability between countries and in an interdisciplinary group of authors, it is
+         important to note that it served as a qualitative tool. Data were collected by the
+         respective country experts in the group of authors using different sources of information.
+         However, the assessment framework might serve as a pilot for developing a standardised
+         questionnaire for surveying a larger number of hospitals in future.
+      
+      Drawing on the conceptual model outlined in Figure&nbsp;1, the H-CAF comprises the following five categories:
+      
+      1. Key characteristics of the healthcare state and institutional contexts of hospital
+         governance (macro-level);
+      
+      2. Governance structures of the hospital (meso-level/organisation);
+      3. Financial/efficiency controls and managerial tools (organisational levels, accountability
+         and actors);
+      
+      4. Quality and safety controls and organisational-managerial tools (organisational
+         levels; accountability and actors);
+      
+      5. Professional/medical self-governing controls and tools (organisational levels;
+         accountability and actors) [49].
+      
+      A set of indicators was developed for each of the categories in order to specify the
+         different tools of control in hospitals and how they are applied. While category 1
+         focuses on the macro-level of healthcare states and category 2 on the meso-level of
+         organisations more generally, the remaining three categories seek to combine actor-centred
+         and organisational dimensions, asking ‘who is responsible’ and at ‘what level of the
+         organisation’. In relation to existing instruments [5,50], the innovative momentum of this instrument is a comparative analysis on the organisational
+         level that, firstly, pays greater attention to professional self-governance and the
+         connectedness between managerialism-professionalism, and, secondly, to actor-centred
+         governance and accountability structures.
+      
+      In every country included in our study, one hospital was selected as a case study
+         following the criteria defined above. The case studies were collected between September
+         and November 2011 and draw on document analysis and other secondary sources and expert
+         information in accordance with ethical guidelines of the COST action and the respective
+         national policies; ethics approval for expert information is not required in any of
+         the countries where it has been included in this study.
+      
+      A bottom-up approach and interpretative methodology were used to analyse the country
+         cases. The findings were discussed in an interactive workshop, as already mentioned,
+         firstly in relation to a single case study and then in comparative perspective. The
+         analysis followed three main steps: (1) identifying common trends across the case
+         studies, (2) describing the new emergent forms of control case by case and exploring
+         similar patterns, and (3) finally developing an analytical category that helps to
+         draw a comparative map of control across the levels and the substance of governance.
+         This complex analytical procedure helps to improve both comparability and context-sensitivity.
+         While the small-scale empirical basis (one case study per country) facilitates a qualitative
+         analysis, it also has a number of limitations that are explained in more detail in
+         the conclusion section.
+      
+   
+

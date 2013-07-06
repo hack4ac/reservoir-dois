@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Fibrosis poses a substantial setback in regenerative medicine. Histopathologically, fibrosis is an excessive accumulation of collagen affected by myofibroblasts and this can occur in any tissue that is exposed to chronic injury or insult. Transforming growth factor (TGF)-β1, a crucial mediator of fibrosis, drives differentiation of fibroblasts into myofibroblasts. These cells exhibit α-smooth muscle actin (α-SMA) and synthesize high amounts of collagen I, the major extracellular matrix (ECM) component of fibrosis. While hormones stimulate cells in a pulsatile manner, little is known about cellular response kinetics upon growth factor impact. We therefore studied the effects of short TGF-β1 pulses in terms of the induction and maintenance of the myofibroblast phenotype.
+
+				
+				
+					
+						Results
+
+					Twenty-four hours after a single 30 min TGF-β1 pulse, transcription of fibrogenic genes was upregulated, but subsided 7 days later. In parallel, collagen I secretion rate and α-SMA presence were elevated for 7 days. A second pulse 24 h later extended the duration of effects to 14 days. We could not establish epigenetic changes on fibrogenic target genes to explain the long-lasting effects. However, ECM deposited under singly pulsed TGF-β1 was able to induce myofibroblast features in previously untreated fibroblasts. Dependent on the age of the ECM (1 day versus 7 days’ formation time), this property was diminished.  Vice versa , myofibroblasts were cultured on fibroblast ECM and cells observed to express reduced (in comparison with myofibroblasts) levels of collagen I.
+
+				
+				
+					
+						Conclusions
+
+					We demonstrated that short TGF-β1 pulses can exert long-lasting effects on fibroblasts by changing their microenvironment, thus leaving an imprint and creating a reciprocal feed-back loop. Therefore, the ECM might act as mid-term memory for pathobiochemical events. We would expect this microenvironmental memory to be dependent on matrix turnover and, as such, to be erasable. Our findings contribute to the current understanding of fibroblast induction and maintenance, and have bearing on the development of antifibrotic drugs.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					During a Legionnaires’ disease (LD) outbreak, combined epidemiological and environmental investigations were conducted to identify prevention recommendations for facilities where elderly residents live independently but have an increased risk of legionellosis.
+
+				
+				
+					
+						Methods
+
+					Survey responses (n = 143) were used to calculate attack rates and describe transmission routes by estimating relative risk (RR) and 95% confidence intervals (95% CI). Potable water collected from five apartments of LD patients and three randomly-selected apartments of residents without LD (n = 103 samples) was cultured for  Legionella .
+
+				
+				
+					
+						Results
+
+					Eight confirmed LD cases occurred among 171 residents (attack rate = 4.7%); two visitors also developed LD. One case was fatal. The average age of patients was 70 years (range: 62–77). LD risk was lower among residents who reported tub bathing instead of showering (RR = 0.13, 95% CI: 0.02–1.09, P = 0.03). Two respiratory cultures were characterized as  L .  pneumophila  serogroup 1, monoclonal antibody type Knoxville (1,2,3), sequence type 222. An indistinguishable strain was detected in 31 (74%) of 42 potable water samples.
+
+				
+				
+					
+						Conclusions
+
+					Managers of elderly-housing facilities and local public health officials should consider developing a  Legionella  prevention plan. When  Legionella  colonization of potable water is detected in these facilities, remediation is indicated to protect residents at higher risk. If LD occurs among residents, exposure reduction, heightened awareness, and clinical surveillance activities should be coordinated among stakeholders. For prompt diagnosis and effective treatment, clinicians should recognize the increased risk and atypical presentation of LD in older adults.
+
+				
+			
+		

@@ -1,0 +1,83 @@
+Methods
+   
+      This monocentric prospective study included every prevalent and incident patient admitted
+         in Rouen University Hospital Hemodialysis Unit, from January 2009 through April 2010.
+         Patients with acute renal failure were excluded.
+      
+      All patients received dialysis with a Fresenius 5008 dialysis machine (Fresenius Medical
+         Care, Bad Homburg, Germany) and biocompatible high-flux membranes (Kuf &gt; 40&nbsp;ml/h/mmHg)
+         with surface area above 1.8&nbsp;m2. Prevalent patients had an AVF every time it was possible. For incident patients,
+         tunnelized catheters were placed in the days following the initiation of hemodialysis
+         and were converted to AVF as soon as possible. The traditional regimen consisted of
+         4 hours dialysis sessions, three times a week. Patients were treated with conventional
+         hemodialysis or hemodiafiltration. Blood flow rate and dialysate flow rate were 400
+         ml/min and 800 ml/min, respectively. The dialysis dose (Kt) was available for each
+         seance via the on-line clearance monitoring module (OCM), measuring ionic dialysance.
+         The volume of distribution of urea was estimated using bio-impedancemetry (BCM; body
+         composition monitor, Fresenius Medical care, Bad Homburg, Germany) [8]. For the patients on hemodiafiltration, the infusion volume was also collected. Isothermic
+         dialysis, by means of a blood temperature monitor (Module BTM, available on Fresenius
+         5008 machines), and isonatremic dialysis were systematically performed [9,10]. A dialysate calcium of 1.5&nbsp;mmol/l was used for the majority of patients, while 1.75&nbsp;mmol/l
+         was never used. The bicarbonate content of the dialysate was individualized and adjusted
+         to achieve a pre-dialysis bicarbonate level between 20 and 24 mmol/l.
+      
+      When malnutrition was diagnosed, patients received nutritional counselling from a
+         qualified dietician. Nutrition supplements were prescribed if nutritional counselling
+         did not achieve an increase in nutrient intake to a level covering minimum recommendations.
+         Intradialytic parenteral nutrition was prescribed in the patients who experienced
+         dietary support and/or oral supplement failure, in particular in hospitalized patients
+         with acute inflammatory state or inflammatory bowel disease (Smofkabiven 1100 kcal,
+         Fresenius Kabi, France, the dose was increased at 1600 kcal per dialysis session in
+         case of good tolerance). All patients received calcifediol once a week, the dose depending
+         on the severity of 25OH-vitamin D deficiency. Statins were systematically prescribed.
+      
+      For patients with high blood pressure (BP &gt; 140/90&nbsp;mmHg) despite antihypertensive
+         multitherapy, after reduction of the dry weight when necessary, ambulatory blood pressure
+         monitoring was performed to confirm hypertension before prescribing an additional
+         antihypertensive agent.
+      
+      Changes in the prescription of erythropoiesis stimulating agents (ESA), phosphate
+         binders and bicarbonate dialysate concentration were carried out every month in parallel.
+         Before adjusting ESA, intravenous iron supplementation was performed, if needed, to
+         reach a ferritinemia between 200 and 500 μg/l and transferrin saturation &gt; 20%.
+      
+      The following indicators were collected monthly: Hemoglobin, ESA dose, serum phosphorus,
+         calcium, albumin and bicarbonate concentrations. Unless specified, the following indicators
+         were recorded every quarter:
+      
+      Serum parathyroid hormone, serum 25OHvitD (every 6 months), serum β2-microglobulin.
+      Total cholesterol and LDL-cholesterol.
+      Technique of renal replacement therapy: hemodialysis, post-dilution on-line hemodiafiltration,
+         pre-dilution on-line hemodiafiltration, daily post-dilution on-line hemodiafiltration,
+         hemofiltration.
+      
+      Pre-dialysis systolic and diastolic BP of the 10 last dialysis sessions. The mean
+         of the 10 values was used to determine whether or not the target was achieved.
+      
+      Dialysis dose: On-line urea clearance estimation makes it possible to calculate the
+         dialysis dose Kt and thus allows for the estimation of the « single-pool » Kt/V for
+         each session [8]. Kt/VBCM of the 10 last dialysis sessions were collected. The mean of the 10 values was used
+         to determine whether or not the target was achieved (Kt/VBCM &gt; 1.4).
+      
+      Percentage of dialysis sessions with symptomatic intradialytic hypotension (IDH),
+         defined by a decline in BP associated with specific symptoms, with the need to stop
+         ultrafiltration and/or saline infusion, taking into account the last 10 sessions.
+      
+      Prevalence of conformity was defined by the percentage of patients who attained targets
+         for each indicator. Every quarter, the mean value and the prevalence of conformity
+         for each quality-of-care indicator were calculated in the global population and in
+         the patients who remained in the center between January 2009 and April 2010.
+      
+      This study did not require ethical approval according to French research legislation.
+      Targets, shown in Table&nbsp;1, were defined by international guidelines including KDOQI and EBPG guidelines, and
+         by evidence available in the literature in the absence of existing guidelines [5,11-13]. When conformity rates were below those found in guidelines or literature, a decision
+         was made to initiate corrective measures. For the main indicators, quarterly meetings
+         were organized, where individual corrective measures were decided for the patients
+         who did not attain the target.
+      
+      Table 1. Quality-of-care indicators, targets and references
+      Statistical analysis: Comparison between initial (January 2009) and follow-up (April
+         2010) conformity rates was made using chi-square analysis. P &lt; 0.05 was considered
+         to indicate significance.
+      
+   
+

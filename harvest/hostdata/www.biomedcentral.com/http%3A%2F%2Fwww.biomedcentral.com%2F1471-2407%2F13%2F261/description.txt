@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cell adhesion molecules (CAMs) are expressed ubiquitously. Each of the four families of CAMs is comprised of glycosylated, membrane-bound proteins that participate in multiple cellular processes including cell-cell communication, cell motility, inside-out and outside-in signaling, tumorigenesis, angiogenesis and metastasis. Intercellular adhesion molecule-2 (ICAM-2), a member of the immunoglobulin superfamily of CAMs, has six N-linked glycosylation sites at amino acids (asparagines) 47, 82, 105, 153, 178 and 187. Recently, we demonstrated a previously unknown function for ICAM-2 in tumor cells. We showed that ICAM-2 suppressed neuroblastoma cell motility and growth in soft agar, and induced a juxtamembrane distribution of F-actin  in vitro . We also showed that ICAM-2 completely suppressed development of disseminated tumors  in vivo  in a murine model of metastatic NB. These effects of ICAM-2 on NB cell phenotype  in vitro  and  in vivo  depended on the interaction of ICAM-2 with the cytoskeletal linker protein α-actinin. Interestingly, ICAM-2 did not suppress subcutaneous growth of tumors in mice, suggesting that ICAM-2 affects the metastatic but not the tumorigenic potential of NB cells. The goal of the study presented here was to determine if the glycosylation status of ICAM-2 influenced its function in neuroblastoma cells.
+
+				
+				
+					
+						Methods
+
+					Because it is well documented that glycosylation facilitates essential steps in tumor progression and metastasis, we investigated whether the glycosylation status of ICAM-2 affected the phenotype of NB cells. We used site-directed mutagenesis to express hypo- or non-glycosylated variants of ICAM-2, by substituting alanine for asparagine at glycosylation sites, and compared the impact of each variant on NB cell motility, anchorage-independent growth, interaction with intracellular proteins, effect on F-actin distribution and metastatic potential  in vivo .
+
+				
+				
+					
+						Results
+
+					The  in vitro  and  in vivo  phenotypes of cells expressing glycosylation site variants differed from cells expressing fully-glycosylated ICAM-2 or no ICAM-2. Most striking was the finding that mice injected intravenously with NB cells expressing glycosylation site variants survived longer (P ≤ 0.002) than mice receiving SK-N-AS cells with undetectable ICAM-2. However, unlike fully-glycosylated ICAM-2, glycosylation site variants did not completely suppress disseminated tumor development.
+
+				
+				
+					
+						Conclusions
+
+					Reduced glycosylation of ICAM-2 significantly attenuated, but did not abolish, its ability to suppress metastatic properties of NB cells.
+
+				
+			
+		

@@ -1,0 +1,104 @@
+Methods
+   
+      Study design and population
+      We analysed the data for 944 18 to 60-year-old Hindustani Surinamese participants
+         in a screening program for the DHIAAN study, a culturally targeted, lifestyle-intervention
+         trial. We use the term Hindustani Surinamese to refer to people with South Asian ancestral
+         origin who migrated to the Netherlands via Suriname and their offspring. The Hindustani
+         Surinamese are the descendants of the indentured labourers from North India – Uttar
+         Pradesh, Uttaranchal, and West Bihar – between 1873 and 1917. The two large migration
+         waves, around 1975 and 1980, of Hindustani Surinamese to the Netherlands were caused
+         mainly by the political situation in Suriname 
+         					[16].
+      
+      The methods of the study have been described elsewhere 
+         					[17]. In brief, potential participants were selected from 48 family physician lists in
+         The Hague by means of name analysis. All who were not already known to have diabetes
+         received an invitation followed by a written reminder and up to five contact attempts
+         by telephone. Volunteers could also make an appointment for the screening. The participation
+         rate was 21.8% (Figure&nbsp;
+         					1). Because oral glucose tolerance was only tested between 18 May 2009 and 19 April
+         2010, we only used data for those participating during this period (n = 968). Participants who had not completed the OGTT or whose HbA1c measurement was
+         missing were excluded, leaving 944 participants (Figure&nbsp;
+         					1).
+      
+      Figure 1. Flow diagram from eligibility assessment to inclusion in analyses. Legend: * All participants underwent an oral glucose tolerance test (OGTT) between
+         18 May 2009 and 19 April 2010. Oral glucose tolerance was no longer tested after April
+         2010.
+      
+      The Institutional Review Board of the Academic Medical Centre of the University of
+         Amsterdam approved the study. All participants provided written informed consent.
+      
+      Data collection
+      Participants completed a brief questionnaire about demographics (e.g. country of birth),
+         known risk factors (e.g. family history) and cardiovascular health. Furthermore, a
+         physical examination was carried out. Weight was recorded to the nearest 500 g. Height
+         and waist circumference were measured to the nearest 0.01 m. We calculated the body
+         mass index (BMI; kg/m2) from the weight and height. Blood pressure was measured with the participant in
+         the seated position (OmronM5-1, Omron, Hoofddorp, the Netherlands). A maximum of five
+         measurements were taken. We calculated the mean from the first two measurements with
+         less than 5 mmHg difference.
+      
+      We also asked the participants to donate a fasting blood sample and to undergo an
+         OGTT (the glucose load was 75 g). We analysed the following elements:
+      
+      1. Fasting plasma glucose. We used the hexokinase method. The samples were collected
+         in BD Vacutainers Fluoride/EDTA Tubes, centrifuged and analysed on a Roche Modular
+         Analytics P (Roche Diagnostics Nederland, Almere, The Netherlands) on the same day.
+      
+      2. HbA1c. We used high-performance liquid chromatography (DCCT aligned) and analysed
+         the samples on a Tosoh G7 analyser (Tosoh Europe BV, Amsterdam, The Netherlands),
+         and Menarini HA-8160 (A. Menarini Diagnostics Benelux NV, Valkenswaard, The Netherlands)
+         on the day of collection. The variation coefficients were 84 mmol/mol ± 2.0% and 33
+         mmol/mol ± 2.0%. The Hb variants HbS, HbD, and HbC were automatically reported. HbE
+         and HbJ were verified manually.
+      
+      3. Insulin. We used the sandwich immunoassay, analysed on a Roche Modular Analytics
+         E170 P (Roche Diagnostics Nederland, Almere, The Netherlands).
+      
+      Furthermore, a 2-h standard 75-g OGTT was performed. We used the HOMA Calculator (University
+         of Oxford) 
+         					[18] to determine the insulin sensitivity [in %; homeostasis model assessment (HOMA)-s]
+         and beta cell function (in %; HOMA-b) from fasting plasma glucose and insulin levels
+         (pmol/l).
+      
+      We used American Diabetes Association recommendations to classify prediabetes and
+         diabetes 
+         					[5,19]. We defined the criteria for diagnosing diabetes on the basis of the OGTT as a fasting
+         plasma glucose value of 126 mg/dl (7.0 mmol/l) or more and/or a 2-h postload glucose
+         value of 200 mg/dl (11.1 mmol/l). We defined the criteria for diagnosing prediabetes
+         as a fasting plasma glucose value of 100–125 mg/dl (5.6–6.9 mmol/l) and/or a 2-h postload
+         glucose value of 140–199 mg/dl (7.8–11.1 mmol/l) 
+         					[5,19]. Furthermore, the criterion for diagnosing of diabetes on the basis of the Hb1Ac
+         level was a value of 6.5% (48 mmol/mol) or more, and for prediabetes, an HbA1c level
+         of 5.7%-6.5% (39–48 mmol/mol).
+      
+      Statistical analysis
+      First, we described the population characteristics with medians plus interquartile
+         ranges or percentages. We also calculated the prevalence of diabetes and prediabetes.
+         We determined the overlap between the classifications for diabetes and prediabetes,
+         which we defined as the number of cases identified with both the HbA1c level and the
+         OGTT divided by all cases identified with the HbA1c level.
+      
+      Second, we calculated the area under the receiver-operator characteristic curve (AUROC)
+         and the 95% confidence intervals for HbA1c to identify OGTT-defined diabetes. We chose
+         the OGTT as a reference on the basis of the local recommendations at the time the
+         study was initiated. We identified the optimal HbA1c threshold for diabetes by interpolating
+         from the AUROC; we selected the point that maximised sensitivity and specificity by
+         inspecting the cross-tabulations of the sensitivity and specificity. We then calculated
+         the sensitivity, specificity, and positive predictive value (PPV) for HbA1c at the
+         recommended and optimal thresholds, with 95% confidence intervals based on bootstrap
+         methods using 2000 samples 
+         					[20]. After excluding participants with diabetes, we did the same for prediabetes.
+      
+      Third, we compared those with prediabetes or diabetes according to the recommended
+         thresholds for HbA1c with individuals who only met the recommended OGTT (but not HbA1c)
+         criteria. For this, we used Kruskal-Wallis tests and Mann–Whitney U tests. For reference,
+         we also presented the characteristics of participants whom we could not classify with
+         any of the tests. After excluding all participants with diabetes according to either
+         the HbA1c level or the OGTT, we did the same for prediabetes. We used SPSS 18.0 (Chicago,
+         Illinois) and R2.10.1 (R Foundation for Statistical Computing, 2009) for the statistical
+         analyses.
+      
+   
+

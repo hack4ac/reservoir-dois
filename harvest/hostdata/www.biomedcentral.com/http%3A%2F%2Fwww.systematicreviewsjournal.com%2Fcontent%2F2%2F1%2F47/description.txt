@@ -1,0 +1,28 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Type 2 diabetes mellitus (T2DM) results from insulin resistance and relative insulin deficiency. T2DM treatment is a step-wise approach beginning with lifestyle modifications (for example, diet, exercise), followed by the addition of oral hypoglycemic agents (for example, metformin). Patients who do not respond to first-line therapy are offered second-line therapy (for example, sulfonylureas). Third-line therapy may include insulin and/or dipeptidyl peptidase-4 (DPP-4) inhibitors.
+It is unclear whether DPP-4 inhibitors are safer and more effective than intermediate acting insulin for third-line management of T2DM. As such, our objective is to evaluate the comparative effectiveness, safety and cost-effectiveness of DPP-4 inhibitors versus intermediate acting insulin for T2DM patients who have failed both first- and second-line diabetes treatments.
+
+				
+				
+					
+						Design/Methods
+
+					Electronic searches of MEDLINE, Cochrane Central Register of Controlled Trials, EMBASE, and grey literature (for example, trial registries, public health websites) will be conducted to identify studies examining DPP-4 inhibitors compared with each other, intermediate acting insulin, no treatment, or placebo for adults with T2DM. The outcomes of interest include glycosylated hemoglobin (A1C) (primary outcome), as well as emergency department visits, physician visits, hospital admissions, weight gain, quality of life, microvascular complications, macrovascular complications, all-cause mortality, and cost (secondary outcomes). Randomized clinical trials (RCTs), quasi-RCTs, non-RCTs, controlled before-after, interrupted time series, cohort studies, and cost studies reporting data on these outcomes will be included. Eligibility will not be restricted by publication status, language of dissemination, duration of study follow-up, or time period of study conduct.
+Two reviewers will screen the titles and abstracts resulting from the literature search, as well as potentially relevant full-text articles, in duplicate. Data will be abstracted and quality will be appraised by two team members independently. Conflicts at all levels of screening and abstraction will be resolved through team discussion.
+Our results will be described narratively. Random effects meta-analysis and network meta-analysis will be conducted, if feasible and appropriate.
+
+				
+				
+					
+						Discussion
+
+					Our systematic review results can be used to determine the most effective, safe and cost-effective third-line strategies for managing T2DM. This information will be of great use to health ...

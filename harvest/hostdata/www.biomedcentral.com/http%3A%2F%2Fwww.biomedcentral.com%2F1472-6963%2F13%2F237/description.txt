@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Colposcopy, the key step in the management of women with abnormal Pap smear results, is a visual technique prone to observer variation, which implies the need for prolonged apprenticeship, continuous training, and quality assurance (QA) measures. Colposcopy QA programmes vary in level of responsibility of organizing subjects, geographic coverage, scope, model, and type of actions. The programmes addressing the clinical standards of colposcopy (quality of examination and appropriateness of clinical decisions) are more limited in space and less sustainable over time than those focused on the provision of the service (resources, accessibility, etc.). This article reports on the protocol of a QA programme targeting the clinical quality of colposcopy in a population-based cervical screening service in an administrative region of northern Italy.
+
+				
+				
+					
+						Methods/design
+
+					After a situation analysis of local colposcopy audit practices and previous QA initiatives, a permanent web-based QA programme was developed. The design places more emphasis on providing education and feedback to participants than on testing them. The technical core is a log-in web application accessible on the website of the regional Administration. The primary objectives are to provide (1) a practical opportunity for retraining of screening colposcopists, and (2) a platform for them to interact with colposcopists from other settings and regions through exchange and discussion of digital colposcopic images. The retraining function is based on repeated QA sessions in which the registered colposcopists log-in, classify a posted set of colpophotographs, and receive on line a set of personal feedback data. Each session ends with a plenary seminar featuring the presentation of overall results and an interactive review of the test set of colpophotographs. This is meant to be a forum for an open exchange of views that may lead to more knowledge and more diagnostic homogeneity. The protocol includes the criteria for selection of colpophotographs and the rationale for colposcopic gold standards.
+
+				
+				
+					
+						Discussion
+
+					This programme is an ongoing initiative open to further developments, in particular in the area of basic training. It uses the infrastructure of the internet to give a novel solution to technical problems affecting colposcopy QA in population-based screening services.
+
+				
+			
+		

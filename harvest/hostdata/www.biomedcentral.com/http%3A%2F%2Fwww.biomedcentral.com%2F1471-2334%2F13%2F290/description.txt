@@ -1,0 +1,18 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Inappropriate antibiotic prescribing for nonbacterial infections leads to increases in the costs of care, antibiotic resistance among bacteria, and adverse drug events. Acute respiratory infections (ARIs) are the most common reason for inappropriate antibiotic use. Most prior efforts to decrease inappropriate antibiotic prescribing for ARIs (e.g., educational or informational interventions) have relied on the implicit assumption that clinicians inappropriately prescribe antibiotics because they are unaware of guideline recommendations for ARIs. If lack of guideline awareness is not the reason for inappropriate prescribing, educational interventions may have limited impact on prescribing rates. Instead, interventions that apply social psychological and behavioral economic principles may be more effective in deterring inappropriate antibiotic prescribing for ARIs by well-informed clinicians.
+
+				
+				
+					
+						Methods/design
+
+					The Application of Behavioral Economics to Improve the Treatment of Acute Respiratory Infections (BEARI) Trial is a multisite, cluster-randomized controlled trial with practice as the unit of randomization. The primary aim is to test the ability of three interventions based on behavioral economic principles to reduce the rate of inappropriate antibiotic prescribing for ARIs. We randomized practices in a 2 × 2 × 2 factorial design to receive up to three interventions for non-antibiotic-appropriate diagnoses: 1) Accountable Justifications: When prescribing an antibiotic for an ARI, clinicians are prompted to record an explicit justification that appears in the patient electronic health record; 2) Suggested Alternatives: Through computerized clinical decision support, clinicians prescribing an antibiotic for an ARI receive a list of non-antibiotic treatment choices (including prescription options) prior to completing the antibiotic prescription; and 3) Peer Comparison: Each provider’s rate of inappropriate antibiotic prescribing relative to top-performing peers is reported back to the provider periodically by email. We enrolled 269 clinicians (practicing attending physicians or advanced practice nurses) in 49 participating clinic sites and collected baseline data. The primary outcome is the antibiotic prescribing rate for office visits with non-antibiotic-appropriate ARI diagnoses. Secondary outcomes will examine antibiotic prescribing more broadly. The 18-month intervention period will be followed by a one year follow-up period to ...

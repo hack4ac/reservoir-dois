@@ -1,0 +1,41 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Autosomal Emery-Dreifuss muscular dystrophy is caused by mutations in the lamin A/C gene ( LMNA ) encoding A-type nuclear lamins, intermediate filament proteins of the nuclear envelope. Classically, the disease manifests as scapulo-humeroperoneal muscle wasting and weakness, early joint contractures and dilated cardiomyopathy with conduction block; however, move variable skeletal muscle involvement can be present. Previously, we demonstrated increased activity of extracellular signal-regulated kinase (ERK) 1/2 in hearts of  Lmna 
+						 H222P/H222P  mice, a model of autosomal Emery-Dreifuss muscular dystrophy, and that blocking its activation improved cardiac function. We therefore examined the role of ERK1/2 activity in skeletal muscle pathology.
+
+				
+				
+					
+						Methods
+
+					Sections of skeletal muscle from  Lmna 
+						 H222P/H222P  mice were stained with hematoxylin and eosin and histological analysis performed using light microscopy. ERK1/2 activity was assessed in mouse tissue and cultured cells by immunoblotting and real-time polymerase chain reaction to measure expression of downstream target genes.  Lmna 
+						 H222P/H222P  mice were treated with selumetinib, which blocks mitogen-activated protein kinase/extracellular signal-regulated kinase kinase 1/2 that activates ERK1/2, from 16 to 20 weeks of age to assess the effects of treatment on muscle histology, ERK1/2 activity and limb grip strength.
+
+				
+				
+					
+						Results
+
+					We detected enhanced activation of ERK1/2 in skeletal muscle of  Lmna 
+						 H222P/H222P  mice. Treatment with selumetinib ameliorated skeletal muscle histopathology and reduced serum creatine phosphokinase and aspartate aminotransferase activities. Selumetinib treatment also improved muscle function as assessed by  in vivo  grip strength testing.
+
+				
+				
+					
+						Conclusions
+
+					Our results show that ERK1/2 plays a role in the development of skeletal muscle pathology in  Lmna 
+						 H222/H222P  mice. They further provide the first evidence that a small molecule drug may be beneficial for skeletal muscle in autosomal Emery-Dreifuss muscular dystrophy.
+
+				
+			
+		

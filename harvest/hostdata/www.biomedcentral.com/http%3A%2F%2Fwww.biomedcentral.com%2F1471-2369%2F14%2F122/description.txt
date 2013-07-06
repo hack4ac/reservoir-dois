@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cardiovascular morbidity and mortality remains excessive in patients with chronic kidney disease. The association of vascular changes with regulators of extraosseous calcification in this patient population is still under investigation. The aim of the present study was to investigate the associations of the calcification inhibitor fetuin-A, and the anti-osteoclastic factor osteoprotegerin (OPG) with vascular pathology in chronic hemodialysis patients.
+
+				
+				
+					
+						Methods
+
+					In this cross-sectional study including 81 stable chronic hemodialysis patients, we measured carotid-to-femoral pulse wave velocity (cfPWV) with applanation tonometry, reflecting arterial stiffness, and common carotid intima-media thickness (ccIMT), a surrogate of early atherosclerosis, as well as serum levels of fetuin-A and OPG. Co-morbidities, traditional cardiovascular risk factors, inflammatory markers and mineral-bone disease serology parameters were also recorded.
+
+				
+				
+					
+						Results
+
+					cfPWV correlated inversely with fetuin-A (r=−0.355, p=0.001) and positively with OPG (r=0.584, p<0.001). In multilinear regression analysis including age, gender, diabetes, cardiovascular disease, hypertension, pulse pressure, LDL, logCRP, both fetuin-A and OPG were independently associated with cfPWV (p=0.024 and p=0.041 respectively). ccIMT was negatively associated with fetuin-A (r=−0.312, p=0.005) and positively with OPG (r=0.521, p<0.0001); however these associations lost statistical significance after adjustment for age.
+
+				
+				
+					
+						Conclusion
+
+					In chronic hemodialysis patients both fetuin-A and OPG levels are independently associated with arterial stiffness but not with early atherosclerotic vascular changes.
+
+				
+			
+		

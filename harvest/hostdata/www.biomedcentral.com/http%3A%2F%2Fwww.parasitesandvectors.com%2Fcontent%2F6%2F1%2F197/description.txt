@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Ivermectin has longevity reducing effects in several insect species, including disease transmitting mosquitoes after feeding on hosts that have received ivermectin treatment. This has important implications in mosquito population control and thus the reduction of disease transmission. In addition, ivermectin could play an enormous role in mosquito control operations by its use in the female elimination process during mass-rearing, enabling the release of only sterile males in the context of the sterile insect technique (SIT).
+
+				
+				
+					
+						Methods
+
+					Blood meals were spiked with various toxicants and were then offered to adult  Anopheles arabiensis  and killing effects were observed. Varying concentrations of the most effective substance were then tested in subsequent trials to obtain an optimal dose for quick and total female elimination. The remaining males were mated with untreated virgin females to assess whether their mating efficiency had been compromised. The most promising substance at the optimal concentration was further tested on a larger number of adults, after they had been irradiated and partially sterilised as pupae with 70 Gy to evaluate the feasibility of the method in a mass-rearing, and SIT context. The males resulting from the latter trial were also checked for mating efficiency post treatments.
+
+				
+				
+					
+						Results
+
+					Ivermectin (Virbamec ® ) at a concentration of 7.5 ppm was chosen from the toxicants tested as sufficiently effective in eliminating all female  An. arabiensis  in 4 days, the shortest time required for female elimination of all chemicals tested. Mating efficiency of the non-blood feeding male mosquitoes was not compromised significantly compared to controls even when they were kept for a total of 4 days (from emergence) before theoretical release. The irradiation treatment did not affect overall female feeding behaviour in this setting, nor were the sterile males less competitive for mating with virgin females after the treatments than virgin sterile males that had not been in the ivermectin treatment environment.
+
+				
+				
+					
+						Conclusions
+
+					Spiking bloodmeals with ivermectin has shown potential as a viable treatment to eliminate female  An. arabiensis  from laboratory colonies although its practical use in a mass-rearing facility still needs to be tested.
+
+				
+			
+		

@@ -1,0 +1,824 @@
+Methods
+   
+      The impact of the registration uncertainty on the accumulated dose, and its estimated
+         response, can be studied by adding known uncertainties to the registrations used in
+         mapping the deformations. The simulations mimic a clinical workflow where a “plan
+         of the day” is tailored to the actual position of the CTV for the individual fractions.
+         The total accumulated effect, i.e. the estimated response for the dose mapped from
+         all fractions to a fixed reference geometry is scored for various degree of registration
+         uncertainties. As we are specifically interested in the effects of the registration
+         uncertainty we assume that the patient is imaged and setup without errors at each
+         fraction. According to the van Herk margin scheme [14] this means that we simulate a situation yielding only the random contribution from
+         DIR based dose mapping to the CTV to PTV margin. In a real clinical situation also
+         other sources of uncertainty must be considered. In section A we describe the simulation
+         framework and the modelling of the image registration uncertainty, and in section
+         B we apply the uncertainty model to a hypofractionated prostate treatment with spot
+         scanned protons.
+      
+      A. Simulation of a fractionated treatment with dose mapping uncertainties
+      A “plan of the day” is prepared for each of the N treatment fractions, and the fraction dose is mapped to a reference (fixed) image
+         set IF for evaluation of the cumulative radiation effect, see Figure&nbsp;1. For each fraction i a moving image set 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             is acquired, and the delivered fraction dose 
+            
+               
+                  d
+                  M
+                  
+                     i
+                  
+               
+             for fraction i is assumed to be calculated based on 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             It is further assumed that through the use of DIR, the transformation T(i)(r) that best align 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             with IF can be determined so that each point r in IF is mapped to a corresponding point in 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             by T(i) and by means of interpolation in 
+            
+               
+                  d
+                  M
+                  
+                     i
+                  
+               
+            , the dose is mapped from 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             to IF through
+      
+      
+         
+               
+                  
+                     
+                        d
+                        F
+                        
+                           i
+                        
+                     
+                     
+                        r
+                     
+                     =
+                     
+                        d
+                        M
+                        
+                           i
+                        
+                     
+                     
+                        
+                           
+                              T
+                              
+                                 i
+                              
+                           
+                           
+                              r
+                           
+                        
+                     
+                  
+               (1)
+      
+      to enable estimation of accumulated dose for all fractions through
+      
+         
+               
+                  
+                     
+                        D
+                        F
+                     
+                     
+                        r
+                     
+                     =
+                     
+                        
+                           ∑
+                           
+                              i
+                              =
+                              1
+                           
+                           N
+                        
+                        
+                           
+                              d
+                              F
+                              
+                                 i
+                              
+                           
+                        
+                     
+                     
+                        r
+                     
+                     =
+                     
+                        
+                           ∑
+                           
+                              i
+                              =
+                              1
+                           
+                           N
+                        
+                        
+                           
+                              d
+                              M
+                              
+                                 i
+                              
+                           
+                           
+                              
+                                 
+                                    T
+                                    
+                                       i
+                                    
+                                 
+                                 
+                                    r
+                                 
+                              
+                           
+                        
+                     
+                     .
+                  
+               (2)
+      
+      
+      Figure 1. Simulated clinical workflow. The flow chart to the right shows how the clinical workflow, listed to the left,
+         is simulated. The fraction dose is calculated on a randomly deformed virtual patient
+         model for which the exact image registration to the fixed geometry IF is known. A registration uncertainty can be added (the red part of the flow chart),
+         before the dose is mapped to IF where the radiation effect is accumulated.
+      
+      The dose distribution 
+            
+               
+                  
+                     d
+                     F
+                     
+                        i
+                     
+                  
+                  
+                     r
+                  
+               
+             will vary from fraction to fraction because of organ motion and the “plan of the
+         day” approach. We adopt a view where we with a given uncertainty can track the position
+         of a tissue element at all treatments and accumulate the radiobiological effect fraction
+         by fraction. The DF(r) then becomes a stochastic quantity.
+      
+      The resulting radiobiological effect was modelled based on the LQ-model [15]. The 4D dose distribution is thereby converted into a 3D equivalent fraction dose
+         
+            
+               
+                  
+                     d
+                     F
+                     eq
+                  
+                  
+                     r
+                  
+               
+            [16], calculated as the fraction dose giving the equivalent total radiobiological effect,
+         SF(r), by solving for 
+            
+               
+                  
+                     d
+                     F
+                     eq
+                  
+                  
+                     r
+                  
+               
+             from
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                           
+                              S
+                              F
+                           
+                           
+                              r
+                           
+                        
+                        
+                           =
+                           
+                              
+                                 ∏
+                                 
+                                    i
+                                    =
+                                    1
+                                 
+                                 N
+                              
+                              exp
+                           
+                           
+                              
+                                 −
+                                 α
+                                 
+                                    d
+                                    F
+                                    
+                                       i
+                                    
+                                 
+                                 
+                                    r
+                                 
+                                 −
+                                 β
+                                 
+                                    d
+                                    F
+                                    
+                                       i
+                                    
+                                 
+                                 
+                                    
+                                       r
+                                    
+                                    2
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                        
+                           =
+                           
+                              
+                                 
+                                    exp
+                                    
+                                       
+                                          −
+                                          α
+                                          
+                                             d
+                                             F
+                                             eq
+                                          
+                                          
+                                             r
+                                          
+                                          −
+                                          β
+                                          
+                                             d
+                                             F
+                                             eq
+                                          
+                                          
+                                             
+                                                r
+                                             
+                                             2
+                                          
+                                       
+                                    
+                                 
+                              
+                              N
+                           
+                           .
+                        
+                     
+                  
+               (3)
+      
+      
+      The total equivalent dose, 
+            
+               
+                  
+                     D
+                     F
+                     eq
+                  
+                  
+                     r
+                  
+                  =
+                  N
+                  
+                     d
+                     F
+                     eq
+                  
+                  
+                     r
+                  
+               
+             was used for analysis of the treatment DVHs. The tumour control probability, TCP,
+         was calculated directly from SF(r), c.f. [17,18]. The normal tissue complication probability, NTCP, was calculated using the Lyman
+         model [19] with parameters from Burman et al.[20] and Emami et al.[21]. Also the equivalent uniform dose, EUD [22], was calculated from 
+            
+               
+                  D
+                  F
+                  eq
+               
+            .
+      
+      Modelling the image registration uncertainty
+      The transformation T(i)(r) between the fixed image IF and the moving image 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+            , used by the dose mapping procedure in equation (1), was modelled through
+      
+      
+         
+               
+                  
+                     
+                        T
+                        
+                           i
+                        
+                     
+                     
+                        r
+                     
+                     =
+                     
+                        T
+                        0
+                        
+                           i
+                        
+                     
+                     
+                        r
+                     
+                     +
+                     
+                        T
+                        e
+                        
+                           i
+                        
+                     
+                     
+                        r
+                     
+                  
+               (4)
+      
+      where 
+            
+               
+                  T
+                  0
+                  
+                     i
+                  
+               
+             is the true transformation, and the transformation error 
+            
+               
+                  T
+                  e
+                  
+                     i
+                  
+               
+             models the registration uncertainty. Neither 
+            
+               
+                  T
+                  0
+                  
+                     i
+                  
+               
+             or 
+            
+               
+                  T
+                  e
+                  
+                     i
+                  
+               
+             are in general known for a clinical situation and thus T(i) have to be treated as a stochastic quantity for which we assume that 
+            
+               
+                  
+                     
+                        
+                           T
+                           e
+                           
+                              i
+                           
+                        
+                        
+                           r
+                        
+                     
+                  
+                  =
+                  0
+                  .
+               
+             Registration algorithms apply various regularisation techniques to produce a well
+         behaved and physically realistic transformation. Clearly, there is a local correlation
+         of the error for points close together whereas for points further apart the error
+         will be more uncorrelated. In modelling of 
+            
+               
+                  T
+                  e
+                  
+                     i
+                  
+               
+             this is mimicked by sampling uncorrelated errors at a sparse grid of control points
+         which by means of a 3D cubic B-Spline interpolation is applied to the denser dose
+         grid. The registration deviation amplitudes is sampled at the control points, independently
+         for each coordinate according to a multinormal distribution with zero mean and standard
+         deviation σe. A low resolution of the control points will produce a slowly varying vector field
+         and thus mimic a high degree of regularisation and vice versa for a high resolution
+         of the control points.
+      
+      Registration algorithms are often validated using landmarks where the distances between
+         known displacements of the landmarks and those calculated by the algorithm, which
+         in our case is equivalent to the absolute registration error 
+            
+               
+                  
+                     
+                        
+                           T
+                           e
+                           
+                              i
+                           
+                        
+                        
+                           r
+                        
+                     
+                  
+                  ,
+               
+             are compared. The relationship between the standard deviation of the control point
+         distribution, σe, and the mean absolute registration error, 
+            
+               
+                  
+                     
+                        
+                           
+                              T
+                              e
+                              
+                                 i
+                              
+                           
+                           
+                              r
+                           
+                        
+                     
+                  
+                  ,
+               
+             can be calculated using the B-Spline interpolation coefficients (independent of the
+         B-Spline resolution) and is found to be
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              T
+                              e
+                           
+                        
+                     
+                     ≈
+                     0.534
+                     
+                     
+                        σ
+                        e
+                     
+                  
+               (5)
+      
+      
+      B. Application of the simulation framework to a virtual prostate patient
+      The virtual patient model
+      The framework described in section A require a patient geometry, 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+            , and its deformation for every fraction 
+            
+               
+                  T
+                  0
+                  
+                     i
+                  
+               
+            . A single patient instance is defined as a patient with a unique geometry per fraction.
+         In the simulation we used ten different patient instances for evaluation of each parameter
+         combination. A male pelvic virtual patient was for this purpose constructed from average
+         data for 15 prostate patients treated in the supine position, see Figure&nbsp;2. The prostate was modelled as a sphere with radius rCTV = 2.5 cm located at 20 cm depth and the bladder as an ellipsoid with radii 3.0 cm,
+         4.0 cm and 2.5 cm in the lateral, superior-inferior and axial directions, respectively,
+         with a concave intrusion from the presence of the prostate. The rectum was modelled
+         by a curved cylinder with outer radius 1.4 cm and length 10.0 cm with wall thickness
+         0.4 cm [23]. Other anatomical details, such as the femoral heads, were not included since they
+         are in principle uncorrelated with the image registration dose mapping effects for
+         the prostate, bladder and rectum regions.
+      
+      Figure 2. The virtual patient and its deformation. The patient position and the coordinate system are indicated in the top left corner.
+         (a) 3D view of the virtual patient with the centre of the CTV at the origin. The black
+         arrows indicate the direction of the two incident scanned proton beams. (b) A slice at x = 0.0 cm of the virtual patient in which the prostate CTV has moved
+         0.5 cm versus the reference in (a) in the negative y-direction (Anterior-Posterior) causing an intrusion into the bladder
+         and an expansion of the rectum. (c) The CTV has moved 0.5 cm in the positive y-direction compressing the rectum and
+         decreasing the bladder intrusion.
+      
+      The prostate is assumed to be incompressible and change location (but not shape) as
+         the rectum and bladder change filling and shape. In prostate radiotherapy treatment
+         it is common to also irradiate the lower parts of the seminal vesicles to the same
+         dose as the prostate. The combined volume, prostate and lower parts of the vesicles,
+         will constitute a rather convex volume which we for simplicity model as a sphere shaped
+         CTV. We sample the displacement of the prostate centre for each fraction, 
+            
+               
+                  
+                     v
+                     CTV
+                     
+                        i
+                     
+                  
+                  ,
+               
+             according to a multinormal distribution with the standard deviations 0.4, 0.1 and
+         0.4 cm in the anterior-posterior, lateral and superior-inferior directions, respectively,
+         consistent with the literature [24]. The fixed geometry IF, into which the radiation effect is accumulated, is simply chosen to be the one with
+         zero displacement of the prostate, cf. Figure&nbsp;2a.
+      
+      A simple tissue deformation model was used to construct the true moving geometry 
+            
+               
+                  I
+                  M
+                  
+                     i
+                  
+               
+             from IF where the tissue displacement outside the prostate in IF is exponentially relaxed with the squared distance from the prostate edge according
+         to
+      
+      
+         
+               
+                  
+                     
+                        T
+                        0
+                        
+                           i
+                        
+                     
+                     
+                        
+                           
+                              v
+                              CTV
+                              
+                                 i
+                              
+                           
+                           ,
+                           r
+                        
+                     
+                     =
+                     
+                        v
+                        CTV
+                        
+                           i
+                        
+                     
+                     .
+                     exp
+                     
+                        
+                           −
+                           k
+                           ·
+                           
+                              
+                                 
+                                    
+                                       
+                                          r
+                                       
+                                       −
+                                       
+                                          r
+                                          CTV
+                                       
+                                    
+                                 
+                                 2
+                              
+                              
+                                 
+                                    
+                                       v
+                                       CTV
+                                    
+                                 
+                                 2
+                              
+                           
+                        
+                     
+                     
+                     
+                        r
+                     
+                     &gt;
+                     
+                        r
+                        CTV
+                     
+                     ,
+                  
+               (6)
+      
+      where T0 is the local displacement at position r. The relaxation parameter k was set to 0.1 to give reasonable volume differences in the rectum. The tissue displacement
+         according to equation (6) for a prostate displacement 
+            
+               
+                  
+                     
+                        v
+                        CTV
+                        
+                           i
+                        
+                     
+                  
+                  
+               
+             = 0.5 cm and k = 0.1 is shown in Figure&nbsp;3. The virtual patient is shown for two prostate displacements in Figure&nbsp;2b and c where the rectum and bladder are deformed according to the deformation model
+         in equation (6). The model does not assume anything about the reasons why the prostate
+         has moved, i.e. the motion can be seen as a consequence of the filling in the rectum
+         or the bladder.
+      
+      Figure 3. Tissue displacement model. The absolute value of the tissue displacement, |T0|, as a function of the distance |r| from the prostate centre, when a prostate with radius 2.5 cm is assumed to be displaced
+         0.5 cm. Inside the prostate, i.e. |r| &lt; rCTV, the displacement is constant. Outside the CTV, i.e. |r| &gt; rCTV, the displacement decreases exponentially and vanishes far from the prostate
+      
+      The dose grid resolution was set to 0.1 cm while two different grid sizes, 1.0 cm
+         and 3.0 cm, was used for the control points in the registration error. Analysis of
+         all T(i)(r), i.e. the patient model and the registration error, showed values of the Jacobian
+         determinant, J(T(i)(r), r), in the interval [0.4, 2.0] for the lower resolution indicating an inverse consistent
+         transform without folds or tears since J &gt; 0. The T(i)(r) produced using the higher control point resolution included small regions with negative
+         values of the J for 
+            
+               σ
+            e ≥ 0.5 cm indicating a transform that is not well regularised. It is desirable that
+         the accumulated dose is independent of the choice of reference image IF and this requires that J &gt; 0, which is not in general guaranteed by registration algorithms. The resulting
+         dose mapping uncertainty was very similar for both resolutions but slightly more sensitive
+         with respect to the image registration uncertainty for the 3.0 cm resolution. We have
+         therefore concentrated on results for the 3.0 cm resolution.
+      
+      Generation of treatment plans for simulation
+      The simulated treatments were assumed to be delivered with two opposed, scanned proton
+         beams, indicated by the arrows in Figure&nbsp;2a, aiming for a homogenous target dose.
+      
+      The PTV was constructed by adding a margin m isotropically around the CTV.
+      
+      Clinically relevant planning objectives were chosen from literature values for intermediate
+         risk patients for radiobiological evaluation of the prostate [25], see Table&nbsp;1, to optimise the spot weights and thus shape the proton dose distribution. Additionally,
+         an artificial OAR was created as a spherical shell around the PTV to suppress the
+         normal tissue dose. The target dose prescription was chosen to give a TCP of 80% since
+         the TCP curve is steep at that dose level and thus the TCP should be susceptible to
+         dose mapping uncertainties. However, because of the suggested low α/β there is a trend towards applying hypofractionated treatments, see e.g. Ritter [26]. Therefore, an aggressive hypofractionation scheme of 6.7 Gy × 5fx still aiming for
+         a TCP of 80% were chosen with the OAR planning objectives from Isacsson et al.[27] scaled with the new prescription dose. Zavgorodni [28] noted that it might be important to take the variable fraction dose into account,
+         as in equation (3), when accumulating the dose for normal tissue and tumours with
+         low α/β, such as the prostate, and for hypofractionated treatments.
+      
+      Table 1. Summary of the treatment planning objectives and the radiobiological parameters used
+            in the evaluation
+      The “plan of the day” treatment scenario described above requires a tailored dose
+         distribution for each target position for all patient instances, i.e. 
+            
+               
+                  d
+                  M
+                  
+                     i
+                  
+               
+             in equation (1). To save computation time and make the result less dependent of the
+         intrinsic details of the optimiser we displace the dose distribution according to
+         the fraction specific CTV displacement. This results in one optimisation per margin
+         size and spot size regimen.
+      
+      The scanned proton dose distribution was calculated using an in-house pencil beam
+         algorithm with the depth dose and lateral scattering calculated according to Bortfeld
+         [29] and Russell et al.[30], respectively. Our normal beam model (NBM) parameters are based on data from Kimstrand
+         et al.[31]. Dose mapping in the presence of a sharp penumbra will be sensitive to the registration
+         uncertainty, especially for targets where the loss of dose coverage can greatly affect
+         the outcome. Dose distributions were therefore also generated according to a sharp
+         penumbra beam model (SBM) whose in-air spot sizes are smaller and with zero divergence
+         thus producing a sharper penumbra. The spot sizes of SBM correspond approximately
+         to what modern commercial proton machines can deliver, e.g. see [32]. The penumbra width is often reported as the distance that the dose falls from 80%
+         to 20% of the target dose and here they were 1.16 and 0.88 cm for NBM and SBM respectively
+         in the directions perpendicular to the beam axis. The spot size increase with treatment
+         depth, due to multiple scatter of the protons, and note that a shallower target will
+         have a sharper penumbra and thus more sensitive to dose mapping uncertainties.
+      
+   
+

@@ -1,0 +1,1 @@
+An iterative algorithm to approximate a common element of the set of common fixed points for a finite family of strict pseudo-contractions and of the set of solutions for a modified system of variational inequalities

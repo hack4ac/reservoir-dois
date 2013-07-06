@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The protective effect of Erythropoietin (EPO) analogue rHuEPO on acute renal injury induced by exhaustive exercise had been reported. The purpose of this study is to probe into the protective effect of EPO on chronic renal injury induced by repeated exhaustive exercise for four weeks.
+
+				
+				
+					
+						Methods
+
+					Eighty adult male Sprague–Dawley rats were used in this experiment. The animals were randomly allocated to one of four groups: control (C), exhaustive exercise test (ET), ET plus EPO pre-treatement (ET+EPO) and ET+EPO plus LY294002 pretreatment (ET+EPO+LY).
+
+				
+				
+					
+						Results
+
+					Compared with the rats in control group, there was considerable damage in kidney cells in rats of ET group as revealed by histological and ultrastructural examinations. However, treatment with EPO during the training, the exhaustive running distance was significant increased ( P  < 0.01), and the pathological changes of kidney cell were much less compared with those of rats without EPO intervention. When LY294002, a specific inhibitor of phospholipids phthalocyanine inositol 3-kinase, was added to the EPO treated rats, the injury changes of renal cell were becoming more pronounced.
+
+				
+				
+					
+						Conclusions
+
+					The protective effect of EPO on chronic renal injury induced by repeated exhaustive exercise was demonstrated in the present study. We proposed that the effect could be due to inhibiting the cell apoptosis and blocking the formation of interstitial fibrosis via activation of the PI3K/Akt pathway, thus plays role in the endogenous protection of the kidney injury.
+
+				
+			
+		

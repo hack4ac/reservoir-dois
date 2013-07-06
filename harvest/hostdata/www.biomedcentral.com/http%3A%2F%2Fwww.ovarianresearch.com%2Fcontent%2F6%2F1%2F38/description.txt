@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Our work has been carried out in the context of the therapeutic failure in ovarian carcinoma, which remains the leading cause of death by gynecologic malignancy. In these tumours, recurrence and subsequent acquired chemoresistance constitute major hurdles to successful therapy. Here we studied the interest of a member of the tripentone chemical family, MR22388, for the treatment of chemoresistant ovarian cancer cells.
+
+				
+				
+					
+						Findings
+
+					
+					MR22388 activity has been assessed  in vitro  on cisplatin-resistant (SKOV3 and IGROV1-R10) ovarian cancer cell lines by conventional analysis, alone or combined to a BH3-mimetic molecule, ABT-737. MR22388 exerts its activity on cisplatin resistant cells, and we showed that it induces a decrease of the Mcl-1 anti-apoptotic protein expression. Considering our previous work demonstrating that the efficiency of Bcl-x L  targeting strategies is conditioned to the concomitant inhibition of Mcl-1 we studied the interest of the association of this MR22388 with ABT-737, and showed that this combination was highly cytotoxic in chemoresistant cells.
+
+				
+				
+					
+						Conclusions
+
+					
+					This work thus opens new perspectives for the use of this promising molecule for the treatment of highly chemoresistant ovarian cancer cells and for sensitization of emerging Bcl-x L  targeting strategies such as the use of BH3-mimetic molecules.
+
+				
+			
+		

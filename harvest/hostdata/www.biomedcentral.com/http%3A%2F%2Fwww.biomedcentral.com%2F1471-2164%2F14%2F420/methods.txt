@@ -1,0 +1,60 @@
+Methods
+   
+      Generating HMM profiles
+      Previously identified putative orthologs that were present in the common ancestor
+         of the bilaterians Homo sapiens, Drosophila melanogaster, and Caenorhabditis elegans were used as a focus for the present study [2,4]. For each of those families described, additional members belonging to various bilaterians
+         that had well annotated genomes were collected from databases such as NCBI refseq
+         [30] and Swissprot [31]. Both, similarity based searches as well as key-word based searches were used to
+         retrieve the sequences. These families were further augmented with additional validated
+         gene members described in the literature [3,4,32-34]. These sequences were aligned using the MUSCLE multiple sequence aligner program.
+         The Hidden–Markov model (HMM) profiles for each of these families were created with
+         the hmmbuild option of the HMMER 3.0 [35] package. The reference sequences were obtained from diverse taxa in order to make
+         the profiles more representative of the genomes chosen for study.
+      
+      Obtaining eukaryotic protein datasets
+      The protein datasets of completely sequenced organisms representing all major eukaryotic
+         clades were downloaded from NCBI, Ensembl, JGI, and Sanger. The downloaded genomes
+         were then categorized into various class/phyla based on NCBI taxonomy information.
+         Complete lists of the included species are given in Additional file 5, and the sources for these genomes along with their build numbers are provided in
+         Additional file 6. The obtained genomes were sorted taxonomically into 4 groups as protists, plants,
+         fungi and metazoans.
+      
+      HMM profile search
+      Whole predicted proteomes of the various species were scanned with all created HMM
+         profiles using the hmmsearch option of the HMMER 3.0 package using minimum e-value threshold of 0.001. A loop
+         written in Bash script was used to complete the reiterative hmmsearch procedure and the processing of results. For each HMM-genome pair, sequence hits
+         were sorted based on the score for the full sequence and then on the best domain score.
+         Only those sequences that had scores greater than 100 were chosen to be used in BLAST
+         searches (standalone BLAST version 2.2.25. from NCBI) [7].
+      
+      BLAST search
+      Standalone BLAST was performed using the chosen sequences against a local sequence
+         database consisting only of the well annotated, complete set of genes from Homo sapiens, Drosophila melanogaster, and Caenorhabditis elegans. Subsequently, no more than 3 best hits from these focused BLAST results were scanned
+         for accession numbers that matched a master list of such numbers. This master list
+         was constructed using only those genes from the three reference organisms that were
+         members of a given HMM profile/family. This pairwise process was repeated for each
+         profile and each genome. Only the sequences that identified the correct family as
+         verified by the master list accession numbers were chosen as family members.
+      
+      Increasing specificity
+      The process was repeated two more times after adding the identified members from the
+         previous round to generate a new HMM profile for the family. In order to increase
+         the specificity of ortholog detection, during the second round, separate HMM profiles
+         were generated for each of four taxonomic clades protists, fungi, plants, and metazoans.
+         For those families for which the sequence data was not available for different clades,
+         general profiles were again used in the second round after updating the HMM profile
+         with new sequences.
+      
+      We carefully re-examined all the species lacking families that were otherwise present
+         in closely related species of the group/clade. To make sure that these families were
+         likely to be missing rather than just difficult to identify not because of the poor
+         quality of the proteome or poor annotation, we performed a focused blastp/tblastn
+         search of these proteomes/genomes using sequences from closely related species. If
+         no members were found after two rounds of HMM profile search and focussed BLAST search,
+         the family was declared missing from the species. All the sequences identified as
+         orthologs in the respective family were then catalogued. Those families that had multiple
+         members were then analysed to determine whether they were truly parologous or just
+         duplicate sequences by aligning them using clustalw software [36].
+      
+   
+

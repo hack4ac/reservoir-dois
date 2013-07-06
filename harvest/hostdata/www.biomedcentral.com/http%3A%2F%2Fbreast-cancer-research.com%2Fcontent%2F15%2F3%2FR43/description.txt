@@ -1,0 +1,24 @@
+
+Abstract
+
+Introduction
+
+Percent mammographic density (PMD) is a strong and highly heritable risk factor for breast cancer. Studies of the role of PMD in familial breast cancer may require controls, such as the sisters of cases, selected from the same 'risk set' as the cases. The use of sister controls would allow control for factors that have been shown to influence risk of breast cancer such as race/ethnicity, socioeconomic status and a family history of breast cancer, but may introduce 'overmatching' and attenuate case-control differences in PMD.
+
+
+Methods
+
+To examine the potential effects of using sister controls rather than unrelated controls in a case-control study, we examined PMD in triplets, each comprised of a case with invasive breast cancer, an unaffected full sister control, and an unaffected unrelated control. Both controls were matched to cases on age at mammogram. Total breast area and dense area in the mammogram were measured in the unaffected breast of cases and a randomly selected breast in controls, and the non-dense area and PMD calculated from these measurements.
+
+
+Results
+
+The mean difference in PMD between cases and controls, and the standard deviation (SD) of the difference, were slightly less for sister controls (4.2% (SD = 20.0)) than for unrelated controls (4.9% (SD = 25.7)). We found statistically significant correlations in PMD between cases ( n = 228) and sister controls ( n = 228) (r = 0.39 (95% CI: 0.28, 0.50;  P <0.0001)), but not between cases and unrelated controls ( n = 228) (r = 0.04 (95% CI: -0.09, 0.17;  P = 0.51)). After adjusting for other risk factors, square root transformed PMD was associated with an increased risk of breast cancer when comparing cases to sister controls (adjusted odds ratio (inter-quintile odds ratio (IQOR) = 2.19, 95% CI = 1.20, 4.00) or to unrelated controls (adjusted IQOR = 2.62, 95% CI = 1.62, 4.25).
+
+
+Conclusions
+
+The use of sister controls in case-control studies of PMD resulted in a modest attenuation of case-control differences and risk estimates, but showed a statistically significant association with risk and allowed control for race/ethnicity, socioeconomic status and family history.
+
+
+

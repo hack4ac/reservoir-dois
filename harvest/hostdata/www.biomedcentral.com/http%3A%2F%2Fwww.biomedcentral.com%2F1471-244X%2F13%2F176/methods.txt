@@ -1,0 +1,312 @@
+Methods
+   
+      Study setting
+      The study will be run at the Connecticut Mental Health Center (CMHC) and its affiliated
+         satellite clinics throughout the greater New Haven area. The expected duration of
+         the study is 5 years. The study has been approved by The Yale University School of
+         Medicine Human Investigation Committee (HIC#1207010507), and registered at ClinicalTrials.gov
+         (NCT01866098). The study will be conducted in accordance with the Declaration of Helsinki
+         and the International Conference on Harmonization (ICH) - Good Clinical Practice (GCP)
+         guidelines for clinical trials.
+      
+      Study population
+      One hundred and forty four patients with SMI will be recruited from the CMHC and its
+         affiliated satellite clinics throughout the greater New Haven area. All participants
+         will be carefully assessed by physical examinations and laboratory findings. Any medical
+         problem that needs immediate attention will be referred to each participant’s own
+         primary care physician. All potential subjects will meet with study staff for intake
+         and evaluation sessions to determine eligibility prior to enrollment. Eligibility
+         will be determined through participant report, chart review, and communication with
+         their CMHC clinician/psychiatrist, and this will be completed by the Principal Investigator
+         (PI) and research coordinator.
+      
+      Recruitment process
+      Subjects will be recruited through on-site flyers and clinician referrals. The study
+         will also be announced to all the psychiatrists who are attending physicians at the
+         sites, as well as the administrative heads of each clinic through team meetings and
+         email lists. Subjects will be prescreened for eligibility.
+      
+      Retention strategy
+      Based on our experience with this population, and the existing literature, we will
+         implement strategies to minimize attrition. These strategies are: 1) Provider relationship:
+         The clinicians who work in the treatment sites will be thoroughly informed about the
+         study methodology, as well as the study's risks and benefits. The bulk of recruitment
+         will be from the CMHC, where the PI has administrative responsibilities, and has direct
+         access to clinicians, as well as patients. 2) Information: During the consent process,
+         patients will be informed in detail about the risks, benefits, duration, and requirements
+         of the study, as well as the importance of completing follow-ups. Subjects will also
+         be fully informed about the possibility of being assigned to the placebo control group.
+         3) Flexible scheduling: Assessment appointments will be made around subjects’ schedules,
+         including before or after hours, or right before/after clinical appointments at the
+         same site. Calibrated portable scales will be used for off-site appointments. 4) Transportation:
+         If transportation is not available, bus tokens, bus passes, and city transportation
+         for disabled subjects, when necessary, will be provided. Regular shuttles between
+         sites will be accessible to subjects for appointments. 5) Missed appointments: Participants
+         will receive early reminders both through study staff and from their clinicians. We
+         will discuss missed appointments with the participants, provide alternatives, and
+         express our appreciation of their efforts at every step. 6) Monetary reinforcement:
+         We are going to utilize an incrementally increasing monetary compensation as the participant
+         moves through the study. Every milestone assessment payment will be more than the
+         previous one. Immediate cash payments will be disbursed instead of checks. 7) Lost
+         to follow-up: In case of difficulty contacting subjects, we will utilize clinicians’
+         help and schedule clinical appointment times based on prior permission from subjects
+         during consent. Assessments in these cases can be done right before or after the clinical
+         appointment instead of scheduling future appointments. If time or other considerations
+         prevent the subject from completing the entire assessment, we will prioritize obtaining
+         subjects’ weight, which is the primary outcome measure, and they will still be partially
+         compensated. 8) Further participant refusal for assessments: After inquiring about
+         the reasons for discontinuing participation in the study, if we cannot solve the immediate
+         problem, we will consider the refusal temporary and situational, and ask for permission
+         to re-contact at a later date. If the patient refuses re-contact, however, we will
+         consider them to have withdrawn from the study. 9) Monitoring Retention: We will implement
+         review of each patient’s participation and risk for loss to follow-up at each team
+         meeting in order to proactively problem solve and implement retention strategies.
+      
+      Inclusion/exclusion criteria
+      Inclusion criteria
+      1). Ages 18 to 75 years old
+      2). Meet DSM-IV criteria for schizophrenia, schizoaffective disorder, bipolar disorder,
+         major depression, or another psychotic disorder based on SCID interview
+      
+      3). BMI of 28 or over
+      4). On a stable dose of antipsychotic medication; i.e. at least one month with no
+         dose change, and three months from an antipsychotic switch
+      
+      5). Deemed to be symptomatically stable by the clinical staff for the past two months
+      6). Over 7% total body weight increased on antipsychotics for the subjects within
+         first year of illness
+      
+      Exclusion criteria
+      1). Meet criteria for current opiate abuse or dependence (confirmed by positive urine
+         drug screen for opiates or, if suspected by study doctor via patient history and or
+         suspicion of occult opiate use, a naloxone challenge will be performed.)
+      
+      2). Current history of dementia or mental retardation
+      3). Not capable of giving informed consent for participation in the study
+      4). Women who are pregnant or breast-feeding
+      5). Physical conditions affecting body weight (e.g. Cushing’s disease, polycystic
+         ovary syndrome)
+      
+      6). Diabetes Mellitus (defined as prescribed an anti-diabetic medication for diabetes
+         or a hemoglobin A1c level &gt; 7 confirmed by primary care physician at screening)
+      
+      7). Severe liver dysfunction (serum aminotransferases greater than three times normal),
+         acute infectious hepatitis, liver failure.
+      
+      Study design
+      After screening for eligibility and signing the informed consent, eligible subjects
+         will be randomized to active Naltrexone 25 mg, Naltrexone 50 mg, or placebo groups
+         in a 1:1:1 ratio using a computer randomization procedure at the CMHC research pharmacy,
+         blind to both research team and subjects. Separate randomization schedules will be
+         applied based on gender and antipsychotic agent to yield an equal number of male and
+         female subjects in each arm. This is to control for possible differential gender effects
+         of Naltrexone on weight as well as differences brought on by higher and lower weight
+         liability medications.
+      
+      Subjects will take the study medication daily for 52 weeks. Compliance will be monitored
+         by pill counts as well as 25 mg riboflavin added to the capsules which provides florescence
+         to urine under Wood’s lamp (UV or black light) [37,38]. Subjects will be given a study identification card listing the fact that they may
+         be taking naltrexone and this card will include the study emergency cell phone number
+         which will be available 24 hours a day, 7 days per week in case of an emergency. Subjects
+         will be seen weekly for the first 4 weeks of the study; thereafter they will be seen
+         on a bi-weekly (every other week) basis to be assessed (i.e. weight, side effect check,
+         paper questionnaires) throughout the remaining 48 weeks of treatment (Table&nbsp;1).
+      
+      Table 1. Study flow
+      Clinical and biochemical assessments
+      1). Intake interview including demographics, clinical history, and The Mini-International
+         Neuropsychiatric Interview to ascertain diagnosis.
+      
+      2). Urine toxicology (Utox) screen to rule out substance use and pregnancy tests for
+         female subjects.
+      
+      3). Weight (Wt) to the nearest 0.1kg and height (ht) will be measured to calculate
+         BMI. Waist circumference (wc) will be measured with a tape measure placed on the midpoint
+         between iliac crest and lowest rib rounded to the nearest 5 mm. Our lab has established
+         procedures for wc measurement (Interrater ICC = 95%). Resting blood pressure (bp)
+         and pulse will be measured.
+      
+      4). Laboratory testing: All blood sampling is done via an indwelling 21 gauge Intracath
+         catheter placed in an arm or hand vein. Fasting blood samples are obtained from free-flowing
+         blood, taking care to discard fluid from the dead space of the system prior to sampling
+         and to leave the dead space filled with heparinized saline (50 units/ml) after sampling.
+         Blood will be drawn by an institutionally credentialed phlebotomist at the CMHC.
+      
+      a. Fasting glucose and insulin: Plasma glucose will be analyzed by the glucose oxidase
+         method (Yellow Springs Instruments, Ohio). Plasma immunoreactive insulin concentrations
+         will be determined with a double antibody radioimmunoassay (Diagnostic, Webster, TX).
+      
+      a. Lipid Profile: Total cholesterol (Total-C), High-density lipoprotein (HDL-C), and
+         triglycerides (TG). Blood will be collected into vacutainers containing no additive.
+         Serum cholesterol (Total-C, HDL-C) and TG will be determined by standard enzymatic
+         procedures (Sigma, St. Louis, MO).
+      
+      a. Blood will be collected into vacutainers containing EDTA. Assays of HbA1c will
+         be performed using an Ames DCA 2000 analyzer (Miles, Inc., Elkhart, IN).
+      
+      a. Serum leptin, ghrelin, peptite YY, adiponectin, high sensitivity C-reactive protein
+         (CRP), interleukin 6, interleukin-1B, interleukin-18, tumor necrosis factor alpha
+         levels (TNF-α) will be assayed by Yale Center for Clinical Investigation core laboratories.
+      
+      5). Brief Psychiatric Rating Scale (BPRS): This is one of the most frequently used
+         overall measure of schizophrenia symptoms. It will be utilized to demonstrate that
+         the naltrexone does not cause any worsening of the illness symptoms apart from the
+         usual fluctuations of the natural course [39].
+      
+      6). Positive and Negative Syndrome Scale (PANSS): This is a widely used scale to assess
+         the severity of positive and negative symptoms observed in psychosis [40].
+      
+      7). Beck Depression Inventory (BDI): 21-item version is a widely used measure of the
+         features and symptoms of depression. The BDI taps a broad range of negative affect
+         – not just depression – and is a highly efficient measure for detecting fluctuations
+         in broad psychopathology and distress [41].
+      
+      8). Three Factor Eating Questionnaire, also known as the Eating Inventory (TFEQ) is
+         a measure of eating behaviors with three factors: dietary (cognitive) restraint, disinhibition,
+         and hunger [42]. The TFEQ is a frequently used measure in obesity trials. The TFEQ has clinical utility
+         to assess changes during treatment as well as treatment outcomes [43]. A 24hr food recall is administered subsequent to TFEQ in our lab protocol.
+      
+      9). The Questionnaire on Craving for Sweet or Rich Foods (QCSRF): The QCSRF is a two
+         factor, nine-item scale assessing the presence of cravings for rich and sweet foods
+         and has been found to have good psychometric properties [44].
+      
+      10). The Yale Physical Activity Survey (YPAS): is an interview-administered questionnaire
+         that assesses activity participation in number of hours/week in different categories
+         (i.e. work, recreation, exercise) and takes about 20 minutes to complete [45,46].
+      
+      11). Resting Metabolic Rate (RMR): In our experience, this group of subjects does
+         not tolerate indirect calorimetry measurements well even with portable devices. Instead,
+         we will utilize the Mifflin-St. Jeor predictive formula, which is shown to be highly
+         predictive of indirect calorimeter measured RMR, and is best among the available formulas
+         for this specific population [47].
+      
+      12). Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q-18): The Q-LES-Q-18
+         is specifically designed to use with schizophrenia patients and focuses on patient’s
+         subjective perception of various aspects of their life [48].
+      
+      13). SF-36 Health Related Quality of Life Questionnaire (SF-36): a 36-item short-form
+         was constructed to survey health status in the Medical Outcomes Study [49]. The SF-36 was designed for use in clinical practice and research, health policy
+         evaluations, and general population surveys. This instrument is validated for use
+         in patients with schizophrenia [50].
+      
+      14). UKU Side Effect Checklist (UKU): This is a comprehensive rating scale developed
+         for psychotropic drugs and a cross-sectional study of side effects in neuroleptic-treated
+         patients [51]. Common adverse events related to naltrexone will be added to this scale, as needed.
+      
+      15). Columbia-Suicide Severity Rating Scale (C-SSRS): This is a scale developed for
+         use in clinical trials of psychoactive agents for the FDA to be used for safety tracking
+         of medications for suicidality [52].
+      
+      16). Calgary Depression Scale for Schizophrenia (CDSS): This scale is specifically
+         designed for the assessment of depression in schizophrenia and has been used widely
+         [53].
+      
+      17). The Fagerström Test for Nicotine Dependence (FTND): This is a scale used to assess
+         nicotine dependence [54].
+      
+      18). Cognitive Battery. The Brief Assessment of Cognition in Schizophrenia (BACS):
+         Given the cognitive impairment of schizophrenia, careful assessment of cognition is
+         necessary for determining the feasibility of using any medication in this population.
+         This is a widely used cognitive battery developed to assess cognition repeatedly in
+         patients with schizophrenia. It was found to be as reliable, sensitive as a standard
+         battery of tests that requires longer time to administer [55,56].
+      
+      Statistical analysis
+      Sample size and power calculation
+      The aim of this study is to compare the efficacy of two different doses of naltrexone
+         to placebo. In our pilot study, an effect size of 1.53 (Cohen’s D) was achieved. The
+         power analysis assumes a similar weight loss difference between naltrexone and the
+         placebo groups, a two-tailed 0.05 significance level, 0.80 power, and the worst case
+         scenario of male subjects not responding to naltrexone at all. A three group power
+         analysis with a significance level of 0.05 (two sided) was conducted using GPower
+         3.03 software [57] after Cohen’s D was converted to an F value. Then, the sample size was adjusted for
+         post hoc analyses to detect a 1.52 kg difference (1⁄2 SD of naltrexone group in pilot
+         study) between naltrexone 25 mg and 50 mg doses, as well as between the two genders.
+         We will follow our protocol for retaining subjects in the study very closely in order
+         to reduce attrition. However, since this is an unusually long study for this cohort,
+         we will inflate our sample size to adjust for 32% attrition, which was the intervention
+         dropout rate in our similar studies over one year. Thus the total sample size will
+         be 144, with 48 subjects in each arm, which achieves a power of 0.81 if the pilot
+         results hold.
+      
+      Data analysis
+      Data will be double entered into databases and concordance will be double-checked.
+         Hard copy documents will be examined to verify questionable observations. Missing
+         data will be examined for each variable. Histograms, normal probability plots, and
+         numerical summaries (skewness, kurtosis) will be used to examine distributional assumptions
+         required for the mixed model analysis described below.
+      
+      Transformations such as the logarithm, square root, and reciprocal will be considered
+         in the event the normality assumption is inadequate. Residual analysis will also be
+         performed to evaluate distributional variance and linearity assumptions. For all analyses,
+         an alpha threshold of 5% (two-sided) will be used to test for statistical significance
+         and will be performed using SAS v9.3 (SAS Institute, Cary, NC).
+      
+      Analyses will be performed according to the intent-to-treat (ITT) principle where
+         data from any randomized subjects will be analyzed. We will calculate descriptive
+         statistics for participants at baseline, and compare naltrexone to placebo participants
+         using analysis of variance (ANOVA) for normally distributed covariates and chi-square
+         tests for categorical covariates. The impact of baseline variables that demonstrate
+         clinically relevant group differences will be assessed in supportive analyses using
+         covariate adjustment.
+      
+      Approach to missing data
+      The primary analysis method will use a likelihood-based mixed model, which accommodates
+         incomplete observations and operates under the assumption that the missing data is
+         missing at random (MAR). Missing data patterns, time to withdrawal and reasons for
+         dropout will be compared between two naltrexone and placebo groups. T-tests, cross-tabulations,
+         and logistic regression will be used to evaluate whether withdrawal is dependent on
+         any observed variables. Finally, should missing data patterns and reasons for missing
+         data suggest a bias or confounding, we will conduct sensitivity analyses using pattern
+         mixture models to examine the influence that dropout bias (informative missingness)
+         may have on treatment differences. Multiple imputation (MI) will also be used in the
+         case of data not MAR. Sensitivity analyses will be performed secondarily among study
+         completers.
+      
+      Hypothesis testing
+      The primary goal of this study is to compare the weight changes resulting from two
+         different doses of naltrexone compared to placebo. The primary ITT analysis will employ
+         a linear mixed effects model (LMM) to determine the effect of treatment status (between-subjects
+         for: naltrexone 25 mg/50 mg vs. placebo) on the trajectory of weight change over time
+         (within-subjects for: study time points). The interaction between treatment and time
+         will be modeled and interpreted using graphical displays and post-hoc contrasts on
+         least square means. The latter will include estimation of group contrasts at each
+         time point and polynomial (linear, etc.) contrasts for time within each group. However,
+         the primary contrasts will be each dose compared with control at 52 weeks. Because
+         the outcome data are correlated (i.e., weight assessed from the same subject at different
+         time points), weight over time will be modeled through the inclusion of random subject
+         effects and/or structured variance-covariance matrices, with the best-fitting structure
+         determined by Bayesian-Schwartz Information criteria (BIC). Supportive analyses will
+         also include covariate adjustment for clinically significant variables (as determined
+         from baseline evaluations and also other treatment variables, such as sessions attended).
+         The above model will be fit using SAS PROC MIXED (Cary, NC), using restricted maximum
+         likelihood (REML). The proportion of subjects achieving 5% weight loss will be compared
+         between the treatment groups with the Fisher’s Exact test. The effect of treatment
+         assignment on the secondary outcomes, such as BMI, waist circumference, serum lipid
+         profile, fasting glucose, and HbA1c will be evaluated using the linear mixed modeling
+         approach described above. Type 1 error for secondary outcomes will be adjusted using
+         the Bonferroni correction, basing the adjustment on the number of conceptually related
+         statistical tests.
+      
+      Other outcomes
+      Schizophrenia symptoms (BPRS), depression (BDI, CDSS), dietary consumption (TFEQ),
+         exercise (YPAS), quality of life (Q-LES-Q and SF-36), cognition (BACS) and metabolism/inflammation
+         markers will be obtained. Summary statistics (frequencies, percentages, means and
+         standard deviations, and medians and interquartile ranges) will be calculated for
+         naltrexone vs. placebo at each time point. Appropriate parametric (for normally distributed
+         data) and non-parametric (deviation from normality in data distribution) approaches
+         will be used to ascertain clinically meaningful group differences at each time point.
+         Depending upon the distribution of these outcomes, the effect of naltrexone vs. placebo
+         on change over time in each outcome will also be examined with GLMM, making appropriate
+         model selections for either binary or continuous outcomes.
+      
+      Using UKU Side Effect Checklist and C-SSRS, we will list and summarize side effects
+         and suicidal tendencies reported in each treatment group. Medication changes that
+         could not be avoided during the study will be examined in three groups: no change,
+         change from a higher weight liability to a lower weight liability medication, and
+         vice versa. Weight liability rankings of antipsychotics will be based on earlier reviews
+         [10,58]. Distributions of all variables will be evaluated for normality. Alternative statistical
+         approaches such as transformations or non-parametric tests will be used, as required.
+      
+   
+

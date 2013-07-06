@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Neural-cadherin (N-cadherin) is one of the most important molecules involved in tissue morphogenesis, wound healing, and the maintenance of tissue integrity. Recently, the cleavage of N-cadherin has become a focus of attention in the field of cancer biology. Cadherin and their ectodomain proteolytic shedding play important roles during cancer progression. The aims of this study are to investigate the serum soluble N-cadherin (sN-CAD) levels in patients with malignant bone and soft tissue tumors, and to evaluate the prognostic significance of the sN-CAD levels.
+
+				
+				
+					
+						Methods
+
+					We examined the level of serum sN-CAD using an ELISA in 80 malignant bone and soft tissue tumors (bone sarcoma, n = 23; soft tissue sarcoma, n = 50; metastatic cancer, n = 7) and 87 normal controls. The mean age of the patients was 51 years (range, 10–85 years) and the mean follow-up period was 43 months (range, 1–115 months).
+
+				
+				
+					
+						Results
+
+					The median serum sN-CAD level was 1,267 ng/ml (range, 135–2,860 ng/ml) in all patients. The mean serum sN-CAD level was 1,269 ng/ml (range, 360–2,860 ng/ml) in sarcoma patients, otherwise 1,246 ng/ml (range, 135–2,140 ng/ml) in cancer patients. The sN-CAD levels in patient were higher than those found in the controls, who had a median serum level of 108 ng/ml (range, 0–540 ng/ml). The patients with tumors larger than 5 cm had higher serum sN-CAD levels than the patients with tumors smaller than 5 cm. The histological grade in the patients with higher serum sN-CAD levels was higher than that in the patients with lower serum sN-CAD levels. A univariate analysis demonstrated that the patients with higher serum sN-CAD levels showed a worse disease-free survival rate, local recurrence-free survival rate, metastasis-free survival rate, and overall survival rate compared to those with lower serum sN-CAD levels. In the multivariate analysis, sN-CAD was an independent factor predicting disease-free survival.
+
+				
+				
+					
+						Conclusions
+
+					sN-CAD is a biomarker for malignant bone and soft tissue tumors, and a potentially valuable pre-therapeutic prognostic factor in patients with bone and soft tissue sarcoma.
+
+				
+			
+		

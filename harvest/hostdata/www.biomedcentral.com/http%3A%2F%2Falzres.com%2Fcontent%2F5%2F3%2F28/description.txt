@@ -1,0 +1,24 @@
+
+Abstract
+
+Introduction
+
+Despite the extensive mechanistic and pathological characterization of the amyloid precursor protein (APP)/presenilin-1 (PS-1) knock-in mouse model of Alzheimer's disease (AD), very little is known about the AD-relevant behavioral deficits in this model. Characterization of the baseline behavioral performance in a variety of functional tasks and identification of the temporal onset of behavioral impairments are important to provide a foundation for future preclinical testing of AD therapeutics. Here we perform a comprehensive behavioral characterization of this model, discuss how the observed behavior correlates with the mechanistic and pathological observations of others, and compare this model with other commonly used AD mouse models.
+
+
+Methods
+
+Four different groups of mice ranging across the lifespan of this model (test groups: 7, 11, 15, and 24 months old) were run in a behavioral test battery consisting of tasks to assess motor function (grip strength, rotor rod, beam walk, open field ambulatory movement), anxiety-related behavior (open field time spent in peripheral zone vs. center zone, elevated plus maze), and cognitive function (novel object recognition, radial arm water maze).
+
+
+Results
+
+There were no differences in motor function or anxiety-related behavior between APP/PS-1 knock-in mice and wild-type counterpart mice for any age group. Cognitive deficits in both recognition memory (novel object recognition) and spatial reference memory (radial arm water maze) became apparent for the knock-in animals as the disease progressed.
+
+
+Conclusion
+
+This is the first reported comprehensive behavioral analysis of the APP/PS1 knock-in mouse model of AD. The lack of motor/coordination deficits or abnormal anxiety levels, coupled with the age/disease-related cognitive decline and high physiological relevance of this model, make it well suited for utilization in preclinical testing of AD-relevant therapeutics.
+
+
+

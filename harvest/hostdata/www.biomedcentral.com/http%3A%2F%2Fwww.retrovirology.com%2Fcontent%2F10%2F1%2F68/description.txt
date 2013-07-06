@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Elite controllers or suppressors have the remarkable capacity to maintain HIV-1 plasma RNA levels below the limit of detection of clinical assays (<50 copies/mL) without therapy and have a lower frequency of latently infected cells compared to chronic progressors. While it is unclear how this reduced seeding of the reservoir is achieved, it is possible that effective CTL responses play an in important role in limiting the size of the latent reservoir.
+
+				
+				
+					
+						Results
+
+					Herein, we demonstrate that primary CD8 +  T cells from HLA-B*57/5801 elite suppressors were able to efficiently eliminate resting and activated primary CD4 +  T cells shortly after viral entry and prior to productive infection. CD8 +  T cells from elite suppressors were significantly more effective at eliminating these cells than CD8 +  T cells from chronic progressors.
+
+				
+				
+					
+						Conclusions
+
+					Nonproductively infected CD4 +  T cells may represent a subpopulation of cells that are precursors to latently infected cells; therefore, the effective elimination of these cells may partially explain why elite suppressors have a much lower frequency of latently infected cells compared to chronic progressors. Thus, a vaccine strategy that elicits early and potent CD8 +  T cell responses may have the capacity to limit the seeding of the latent reservoir in HIV-1 infection.
+
+				
+			
+		

@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Chronic diseases may influence patients taking major life changing decisions (MLCDs) concerning for example education, career, relationships, having children and retirement. A validated measure is needed to evaluate the impact of chronic diseases on MLCDs, improving assessment of their life-long burden. The aims of this study were to develop a validated questionnaire, the “Major Life Changing Decision Profile” (MLCDP) and to evaluate its psychometric properties.
+
+				
+				
+					
+						Methods
+
+					50 interviews with dermatology patients and 258 questionnaires, completed by cardiology, rheumatology, nephrology, diabetes and respiratory disorder patients, were analysed for qualitative data using Nvivo8 software. Content validation was carried out by a panel of experts. The first version of the MLCDP was completed by 210 patients and an iterative process of multiple Exploratory Factor Analyses and item prevalence was used to guide item reduction. Face validity and practicability was assessed by patients.
+
+				
+				
+					
+						Results
+
+					48 MLCDs were selected from analysis of the transcripts and questionnaires for the first version of the MLCDP, and reduced to 45 by combination of similar themes. There was a high intraclass correlation coefficient (0.7) between the 13 members of the content validation panel. Four more items were deleted leaving a 41-item MLCDP that was completed by 210 patients. The most frequently recorded MLCDs were decisions to change eating habits (71.4%), to change smoking/drinking alcohol habits (58.5%) and not to travel or go for holidays abroad (50.9%).
+Factor analysis suggested item number reduction from 41 to 34, to 29, then 23 items. However after taking into account item prevalence data as well as factor analysis results, 32 items were retained. The 32-item MLCDP has five domains education (3 items), job/career (9), family/relationships (5), social (10) and physical (5). The MLCDP score is expressed as the absolute number of decisions that have been affected.
+
+				
+				
+					
+						Conclusions
+
+					The 32-item (5 domains) MLCDP has been developed as an easy to complete generic tool for use in clinical practice and for quality of life and epidemiological research. Further validation is required.
+
+				
+			
+		

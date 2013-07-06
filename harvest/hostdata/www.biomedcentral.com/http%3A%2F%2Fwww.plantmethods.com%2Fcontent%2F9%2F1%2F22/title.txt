@@ -1,0 +1,1 @@
+A simple in vitro method to measure autophosphorylation of protein kinases

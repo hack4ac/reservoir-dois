@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Depression is characterised partly by blunted reactions to reward. However, tasks probing this deficiency have not distinguished insensitivity to reward from insensitivity to the prediction errors for reward that determine learning and are putatively reported by the phasic activity of dopamine neurons. We attempted to disentangle these factors with respect to anhedonia in the context of stress, Major Depressive Disorder (MDD), Bipolar Disorder (BPD) and a dopaminergic challenge.
+
+				
+				
+					
+						Methods
+
+					Six behavioural datasets involving 392 experimental sessions were subjected to a model-based, Bayesian meta-analysis. Participants across all six studies performed a probabilistic reward task that used an asymmetric reinforcement schedule to assess reward learning. Healthy controls were tested under baseline conditions, stress or after receiving the dopamine D 2  agonist pramipexole. In addition, participants with current or past MDD or BPD were evaluated. Reinforcement learning models isolated the contributions of variation in reward sensitivity and learning rate.
+
+				
+				
+					
+						Results
+
+					MDD and anhedonia reduced reward sensitivity more than they affected the learning rate, while a low dose of the dopamine D 2  agonist pramipexole showed the opposite pattern. Stress led to a pattern consistent with a mixed effect on reward sensitivity and learning rate.
+
+				
+				
+					
+						Conclusion
+
+					Reward-related learning reflected at least two partially separable contributions. The first related to phasic prediction error signalling, and was preferentially modulated by a low dose of the dopamine agonist pramipexole. The second related directly to reward sensitivity, and was preferentially reduced in MDD and anhedonia. Stress altered both components. Collectively, these findings highlight the contribution of model-based reinforcement learning meta-analysis for dissecting anhedonic behavior.
+
+				
+			
+		

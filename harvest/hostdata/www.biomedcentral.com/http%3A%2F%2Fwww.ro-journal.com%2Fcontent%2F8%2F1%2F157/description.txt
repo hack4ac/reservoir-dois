@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					To evaluate the efficacy and toxicity of fractionated stereotactic radiotherapy (FSRT) in patients with residual nasopharyngeal carcinoma (NPC).
+
+				
+				
+					
+						Methods
+
+					
+					From January 2000 to December 2009, 136 NPC patients with residual lesions after primary radiotherapy (RT) were treated by FSRT. The total dose of primary RT was 68.0-78.0 Gy (median, 70.0 Gy). The median time from the primary RT to FSRT was 24.5 days. Tumor volumes for FSRT ranged from 0.60 to 77.13 cm3 (median, 13.45 cm3). The total FSRT doses were 8.0-32.0Gy (median, 19.5 Gy) with 2.0-10.0 Gy per fraction.
+
+				
+				
+					
+						Results
+
+					
+					Five-year local failure-free survival (LFFS), freedom from distant metastasis (FFDM), overall survival (OS), and disease free survival (DFS) rates for all patients were 92.5%, 77.0%, 76.2%, and 73.6%, respectively. No statistical significant differences were found in LFFS, DFS and OS in patients with stage I/II versus stage III/ IV diseases. Nineteen patients exhibited late toxicity. T stage at diagnosis was a significant prognostic factor for OS and DFS. Age was a prognostic factor for OS.
+
+				
+				
+					
+						Conclusion
+
+					
+					FSRT after external beam radiotherapy provides excellent local control for patients with residual NPC. The incidence of severe late toxicity is low and acceptable. Further investigation of optimal fractionation regimens will facilitate reduction of long-term complications.
+
+				
+			
+		

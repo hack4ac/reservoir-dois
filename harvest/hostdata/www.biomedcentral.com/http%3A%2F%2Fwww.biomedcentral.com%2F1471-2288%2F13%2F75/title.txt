@@ -1,0 +1,1 @@
+Correction of the significance level when attempting multiple transformations of an explanatory variable in generalized linear models

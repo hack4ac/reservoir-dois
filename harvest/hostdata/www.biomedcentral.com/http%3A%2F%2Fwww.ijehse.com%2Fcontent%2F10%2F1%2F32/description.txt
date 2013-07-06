@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Developing a water quality index which is used to convert the water quality dataset into a single number is the most important task of most water quality monitoring programmes. As the water quality index setup is based on different local obstacles, it is not feasible to introduce a definite water quality index to reveal the water quality level.
+
+				
+				
+					
+						Findings
+
+					In this study, an innovative software application, the Iranian Water Quality Index Software (IWQIS), is presented in order to facilitate calculation of a water quality index based on dynamic weight factors, which will help users to compute the water quality index in cases where some parameters are missing from the datasets.
+
+				
+				
+					
+						Conclusion
+
+					A dataset containing 735 water samples of drinking water quality in different parts of the country was used to show the performance of this software using different criteria parameters. The software proved to be an efficient tool to facilitate the setup of water quality indices based on flexible use of variables and water quality databases.
+
+				
+			
+		

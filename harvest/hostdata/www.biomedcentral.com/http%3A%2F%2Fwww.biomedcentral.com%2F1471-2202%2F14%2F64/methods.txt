@@ -1,0 +1,152 @@
+Methods
+   
+      Participants
+      Eleven healthy adults aged 22–36 years without a history of upper limb injury or neurological
+         disorder participated in the study. All participants were right hand dominant (mean
+         laterality quotient, 72.5 ± 14.5) according to the 10-item version of the Edinburgh
+         Handedness Inventory [29]. Prior to the experiment, all participants completed the adult safety screening questionnaire
+         to determine their suitability for TMS and tDCS application [30]. All participants gave written informed consent prior to participation in the study,
+         which was approved by the Deakin University Human Research Ethics Committee. All experiments
+         were conducted according to the standards established by the Declaration of Helsinki.
+      
+      Experimental approach
+      Using a randomized, cross-over design; each participant was exposed to 13 minutes
+         of sham, unilateral-anodal or bilateral tDCS applied at 1.0 mA (25 cm2 electrodes, current density 0.040 mA/cm2). In all tDCS conditions, the anode was placed over the “hot spot” of the non-dominant
+         extensor carpi radialis longus (ECRL) muscle as determined by TMS. The order of these
+         conditions were counterbalanced and randomized across participants, with a one weeks
+         rest between each condition. A purpose made Excel macro was used to randomize each
+         experimental condition. This was a double-blinded trial as the investigator performing
+         the experimental treatment and evaluation along with the participant, was not aware
+         of which tDCS condition was being applied. This was achieved as the tDCS machine used,
+         allowed for the use of a code to determine whether tDCS was active or inactive (sham).
+         Within the sham condition, 50% of the unilateral stimulation and 50% of the bilateral
+         stimulation was randomized for sham stimulation. Single and paired-pulse TMS was used
+         to assess the after-effects of unilateral, bilateral or sham stimulation on corticomotor
+         excitability of the right M1 and motor function of the non-dominant left ECRL. Ten
+         single-pulse (130% of active motor threshold [AMT]), 10 paired-pulse (70% of AMT)
+         and 10 test (test-intensity set to produce MEPs of ~1 mV) TMS stimuli were applied
+         over the cortical area for the left ECRL at baseline, immediately following, 30 and
+         60 minutes post tDCS, with the order of TMS stimuli (single, paired-pulse or test)
+         prior to and following tDCS, randomized throughout the trials (30 trials in total
+         for each time point). Motor function was measured at each of these time points in
+         all conditions by having participants complete a Purdue pegboard test with their left
+         hand only. Figure&nbsp;1 displays a schematic representation of the experimental protocol with measures obtained
+         before and after tDCS. Importantly, all electrophysiological measures for each time
+         point were measured prior to the performance of the pegboard, as post MEP facilitation
+         and the effectiveness of SICI has been shown to be modulated immediately following
+         the completion of the pegboard test [25].
+      
+      Figure 1. Schematic representation of the experimental protocol with measures obtained before,
+            immediately after (0 min), 30 and 60 minutes after tDCS. Time-course measures included assessments of MMAX, active motor threshold (AMT), cortical excitability (130% AMT), short-interval intracortical
+         inhibition (SICI) and motor function (pegboard).
+      
+      Motor function
+      The Purdue pegboard was used to assess manual dexterity of the participants’ non-dominant
+         left hand. The task involved picking up small pegs from a well and placing them as
+         quickly as possible in a vertical array of holes using only the index finger and thumb.
+         Motor function was quantified by recording the time taken to complete the left hand
+         side of the peg board. Each participant was tested three times at each time point
+         with the average time recorded.
+      
+      Transcranial direct current stimulation of primary motor cortex
+      Sham, unilateral and bilateral stimulation was delivered by a battery driven constant-current
+         transcranial direct current stimulator (NeuroConn, Ilmenau, Germany) via a pair of
+         conductive rubber electrodes, each positioned inside a saline-soaked surface sponge
+         electrode (25 cm2). During unilateral stimulation, the anode was fixed with two straps over the optimal
+         cortical representation of the left ECRL muscle as identified by TMS over the right
+         cortex, and the cathode (25 cm2) was placed over the left contralateral supra orbital area. During bilateral stimulation,
+         the anode was placed over the cortical representation of the left ECRL and the cathode
+         was placed over the cortical representation of the right ECRL. For the sham condition,
+         both unilateral and bilateral (50% each) sham stimulation was applied according to
+         the electrode positioning above. In order to obtain the participants perception of
+         discomfort throughout the tDCS conditions, discomfort was assessed using a visual
+         analogy scale (VAS), with “no discomfort” at one end of a 100-mm line and “extremely
+         uncomfortable” at the other, during the first three minutes of cortical stimulation.
+      
+      Transcranial magnetic stimulation and electromyography
+      Focal TMS was used to measure corticomotor excitability and SICI of the contralateral
+         ECRL. Specifically, TMS was applied over the right M1 using a BiStim unit attached
+         to two Magstim. 2002 stimulators (Magstim Co, Dyfed, UK) to produce MEPs in the non-dominant left ECRL.
+         A figure-eight coil, with an external loop diameter of 9 cm, was held over the right
+         M1 at the optimum scalp position to elicit MEPs in the left ECRL. The induced current
+         in the brain flowed in a posterior-to-anterior direction. Sites near the estimated
+         centre of the ECRL were explored to determine the optimal site at which the largest
+         MEP amplitude was obtained, and this area was marked by a small ‘x’ in permanent marker.
+         To ensure consistency throughout the study period and reliability of coil placement,
+         the participant and researcher maintained the mark between experimental conditions.
+         Care was taken by the researcher to ensure that the coil was held over the same position
+         on the scalp so that the same area of the M1 was stimulated for all experimental conditions.
+         All TMS measures were taken during weak voluntary contraction, by having the participant
+         hold their hand in line with their wrist (neutral position). Root mean square (rms)
+         electromyography (EMG) of the ECRL was obtained prior to each TMS stimulus to ensure
+         that there were no changes in pre-stimulus rmsEMG which may have altered the MEP amplitude.
+         AMT was determined as the minimum stimulus intensity that produced a small MEP (200
+         μV in 5 out of 10 consecutive trials) during isometric contraction of the ECRL at 5
+         ± 2% of maximal rmsEMG activity. A constant level of contraction was maintained with
+         reference to an oscilloscope (HAMEG, Mainhausen, Germany) that displayed the rmsEMG
+         signal in front of the participant. The stimulus intensity started at 50% of maximum
+         stimulator output (MSO) and was altered in increments of ± 1% of MSO until the appropriate
+         threshold level was achieved. All MEP amplitudes were evaluated using an in test-stimulus
+         intensity of 130% AMT.
+      
+      Surface electromyography (sEMG) activity was recorded from the left ECRL muscle using
+         bipolar Ag-AgCl electrodes. These electrodes were placed on the ECRL muscle, with
+         an inter-electrode distance (centre to centre) of 2 cm with a muscle belly-tendon
+         montage. A grounding strap placed around the wrist was used as a common reference
+         for all electrodes. All cables were fastened with tape to prevent movement artifact.
+         The area of electrode placement was shaven to remove fine hair, rubbed with an abrasive
+         skin rasp to remove dead skin, and then cleaned with 70% isopropyl alcohol. The exact
+         sites were marked with a permanent marker by tracing around the electrode, and this
+         was maintained for the entire three week period by both the researcher and participant
+         to ensure consistency of electrode placement relative to the innervation zone. An
+         impedance meter was used to ensure impedance did not exceed 10 kΩ prior to testing. sEMG signals were amplified (x100-1000), band pass filtered (high
+         pass at 13 Hz, low pass at 1000 Hz), digitized online at 2 kHz for 500 ms, recorded
+         and analyzed using Power Lab 4/35 (AD Instruments, Bella Vista, Australia).
+      
+      Short-Interval Intracortical Inhibition (SICI)
+      The protocol for SICI included 10 unconditioned stimuli, with a test intensity set
+         to produce MEPs of ~1 mV in the ECRL and 10 conditioned stimuli, with a conditioning
+         stimulus intensity set at 70% of AMT to induce SICI. Both AMT and the test stimulus
+         intensity were adjusted at each time point following the removal of tDCS, if required,
+         to ensure that AMT (% MSO) and the test MEP amplitudes were similar (1 mV) prior to
+         and following tDCS. An inter-stimulus interval (ISI) of 3 ms between the conditioning
+         and test stimulus was used [31]. Single and paired-pulse stimuli were presented according to a predetermined randomization
+         protocol, with a 6–9 second time period between each stimulus.
+      
+      Maximal compound muscle action potential
+      Direct muscle responses were obtained from the left ECRL muscle by supramaximal electrical
+         stimulation (pulse width 1 ms) of the brachial plexus (Erbs point) under resting conditions
+         (DS7A, Digitimer, UK). The site of stimulation that produced the largest M-wave was
+         located by positioning the bipolar electrodes in the supraclavicular fossa. An increase
+         in current strength was applied to the brachial plexus until there was no further
+         increase observed in the amplitude of the sEMG response (MMAX). To ensure maximal responses, the current was increased an additional 20% and the
+         average MMAX was obtained from five stimuli, with a period of 6–9 seconds separating each stimulus.
+         MMAX was recorded at baseline and at each time point following the removal of tDCS for
+         each condition, to ensure that there were no changes in peripheral muscle excitability
+         that could influence MEP amplitude.
+      
+      Data analyses
+      Pre-stimulus rmsEMG activity was determined in the ECRL 100 ms prior to each TMS stimulus
+         during each condition. Any pre-stimulus rmsEMG that exceeded 5 ± 2% maximal rmsEMG
+         were discarded and the trial repeated. The peak-to-peak amplitude of MEPs evoked as
+         a result of stimulation was measured in the ECRL muscle contralateral to the cortex
+         being stimulated in the period 10–50 ms after stimulation. MEP amplitudes were analyzed
+         using LabChart 7.3.6 software (ADInstruments, Bella Vista, NSW, Australia) after each
+         stimulus was automatically flagged with a cursor, providing peak-to-peak values in
+         mV and were then normalized to MMAX. Average MEP amplitudes were obtained for each trial for single, paired-pulse and
+         test TMS for each stimulation block (30 trials for each time point) separately. SICI
+         was quantified by dividing the average paired-pulse MEP by the average single-pulse
+         MEP (test-intensity set to produce MEPs of 1 mV) and multiplying by 100.
+      
+      Statistical analysis
+      A split-plot in time, repeated measures ANOVA was used to compare the effect of each
+         tDCS condition (sham, unilateral and bilateral) on corticomotor plasticity and motor
+         function. When appropriate, univariate and post-hoc (LSD) analyses for pair wise comparisons
+         of means for each dependent measure were used when significant interactions were found.
+         Pearson’s correlations (r) were calculated to assess the association between M1 plasticity
+         and motor performance. For all tests, the Huynh-Feldt correction was applied if the
+         assumption of sphericity was violated. Alpha was set at P ≤ 0.05, and all results
+         are displayed as means ± SEM.
+      
+   
+

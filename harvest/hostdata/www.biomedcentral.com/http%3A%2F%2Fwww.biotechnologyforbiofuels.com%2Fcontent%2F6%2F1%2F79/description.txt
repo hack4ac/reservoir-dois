@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					On-site cellulase production using locally available lignocellulosic biomass (LCB) is essential for cost-effective production of 2 nd -generation biofuels. Cellulolytic enzymes (cellulases and hemicellulases) must be produced in fed-batch mode in order to obtain high productivity and yield. To date, the impact of the sugar composition of LCB hydrolysates on cellulolytic enzyme secretion has not been thoroughly investigated in industrial conditions.
+
+				
+				
+					
+						Results
+
+					The effect of sugar mixtures (glucose, xylose, inducer) on the secretion of cellulolytic enzymes by a glucose-derepressed and cellulase-hyperproducing mutant strain of  Trichoderma reesei  (strain CL847) was studied using a small-scale protocol representative of the industrial conditions. Since production of cellulolytic enzymes is inducible by either lactose or cellobiose, two parallel mixture designs were performed separately. No significant difference between inducers was observed on cellulase secretion performance, probably because a common induction mechanism occurred under carbon flux limitation. The characteristics of the enzymatic cocktails did not correlate with productivity, but instead were rather dependent on the substrate composition. Increasing xylose content in the feed had the strongest impact. It decreased by 2-fold cellulase, endoglucanase, and cellobiohydrolase activities and by 4-fold β-glucosidase activity. In contrast, xylanase activity was increased 6-fold. Accordingly, simultaneous high β-glucosidase and xylanase activities in the enzymatic cocktails seemed to be incompatible. The variations in enzymatic activity were modelled and validated with four fed-batch cultures performed in bioreactors. The overall enzyme production was maintained at its highest level when substituting up to 75% of the inducer with non-inducing sugars.
+
+				
+				
+					
+						Conclusions
+
+					The sugar substrate composition strongly influenced the composition of the cellulolytic cocktail secreted by  T. reesei  in fed-batch mode. Modelling can be used to predict cellulolytic activity based on the sugar composition of the culture-feeding solution, or to fine tune the substrate composition in order to produce a desired enzymatic cocktail.
+
+				
+			
+		

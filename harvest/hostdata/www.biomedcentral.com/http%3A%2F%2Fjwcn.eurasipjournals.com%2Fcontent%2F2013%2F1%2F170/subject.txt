@@ -1,0 +1,1 @@
+Distributed video conference; Service architecture; Distributed architecture; Overlay network; P2P; IMS; LTE; WiMAX; NGN; ALM; 4G

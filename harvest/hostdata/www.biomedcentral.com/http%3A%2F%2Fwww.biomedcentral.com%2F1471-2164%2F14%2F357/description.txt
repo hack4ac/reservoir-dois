@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Genomic sequence assemblies are key tools for a broad range of gene function and evolutionary studies. The diploid amphibian  Xenopus tropicalis  plays a pivotal role in these fields due to its combination of experimental flexibility, diploid genome, and early-branching tetrapod taxonomic position, having diverged from the amniote lineage ~360 million years ago. A genome assembly and a genetic linkage map have recently been made available. Unfortunately, large gaps in the linkage map attenuate long-range integrity of the genome assembly.
+
+				
+				
+					
+						Results
+
+					We laser dissected the short arm of  X. tropicalis  chromosome 7 for next generation sequencing and computational mapping to the reference genome. This arm is of particular interest as it encodes the sex determination locus, but its genetic map contains large gaps which undermine available genome assemblies. Whole genome amplification of 15 laser-microdissected 7p arms followed by next generation sequencing yielded ~35 million reads, over four million of which uniquely mapped to the  X. tropicalis  genome. Our analysis placed more than 200 previously unmapped scaffolds on the analyzed chromosome arm, providing valuable low-resolution physical map information for  de novo  genome assembly.
+
+				
+				
+					
+						Conclusion
+
+					We present a new approach for improving and validating genetic maps and sequence assemblies. Whole genome amplification of 15 microdissected chromosome arms provided sufficient high-quality material for localizing previously unmapped scaffolds and genes as well as recognizing mislocalized scaffolds.
+
+				
+			
+		

@@ -1,0 +1,1 @@
+Grid computing, Data federation, Metadata federation, Resource federation, webDAV, Single sign-On, Identity federation centralized security, Identity management, Trust delegation, Interoperability, Uniform access, Information extraction, Knowledge extraction

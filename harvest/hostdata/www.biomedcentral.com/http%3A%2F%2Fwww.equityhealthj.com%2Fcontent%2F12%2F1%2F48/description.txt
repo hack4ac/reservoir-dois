@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Introduction
+
+					Cycling is a major activity for adolescents in Canada and potential differences exist in bicycling-related risk and experience of injury by population subgroup. The overall aim of this study was to inform health equity interventions by profiling stratified analytic methods and identifying potential inequities associated with bicycle-related injury and the use of bicycle helmets among Canadian youth. The two objectives of this study were: (1) To examine national patterns in bicycle ridership and also bicycle helmet use among Canadian youth in a stratified analysis by potentially vulnerable population subgroups, and (2) To examine bicycling-related injury in the same population subgroups of Canadian youth in order to identify possible health inequities.
+
+				
+				
+					
+						Methods
+
+					Data for this study were obtained from the 6 th  cycle (2009/10) of the Health Behaviour in School-aged Children (HBSC) study, which is a general health survey that was completed by 26,078 students in grades 6–10 from 436 Canadian schools. Based on survey responses, we determined point prevalence for bicycle ridership, bicycle helmet use and relative risks for bicycling-related injury.
+
+				
+				
+					
+						Results
+
+					Three quarters of all respondents were bicycle riders (n=19,410). Independent factors associated with bicycle ridership among students include being male, being a younger student, being more affluent, and being a resident of a small town. Among bicycle riders, 43% (95%CI ± 0.6%) reported never wearing and 32% (± 0.6%) inconsistently wearing a helmet. Only 26% (± 0.5%) of students reported always wearing a bicycle helmet. Helmets were less frequently used among older students and there were also important patterns by sex, geographic location and socioeconomic status. Adjusting for all other demographic characteristics, boys reported 2.02-fold increase (95% CI: 1.61 to 1.90) and new immigrants a 1.35-fold increase (95%CI: 1.00 to1.82) in the relative risk of bicycling-related injury in the past 12 months, as compared to girls and students born in Canada. The relative risk of injury did not vary significantly by levels of socioeconomic status.
+
+				
+				
+					
+						Conclusions
+
+					Troubling disparities exist in bicycle use, bicycle helmet use and bicycling-related injuries across specific population subgroups. Bicycle safety and injury prevention initiatives should be informed by disaggregated analyses and the context of bicycle-related health differences should be further examined.
+
+				
+			
+		

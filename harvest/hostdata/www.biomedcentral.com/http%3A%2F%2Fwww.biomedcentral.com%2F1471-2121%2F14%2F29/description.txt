@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Two pathways are responsible for the majority of regulated protein catabolism in eukaryotic cells: the ubiquitin-proteasome system (UPS) and lysosomal self-degradation through autophagy. Both processes are necessary for cellular homeostasis by ensuring continuous turnover and quality control of most intracellular proteins. Recent studies established that both UPS and autophagy are capable of selectively eliminating ubiquitinated proteins and that autophagy may partially compensate for the lack of proteasomal degradation, but the molecular links between these pathways are poorly characterized.
+
+				
+				
+					
+						Results
+
+					Here we show that autophagy is enhanced by the silencing of genes encoding various proteasome subunits (α, β or regulatory) in larval fat body cells. Proteasome inactivation induces canonical autophagy, as it depends on core autophagy genes  Atg1 ,  Vps34 ,  Atg9 ,  Atg4  and  Atg12 . Large-scale accumulation of aggregates containing p62 and ubiquitinated proteins is observed in proteasome RNAi cells. Importantly, overexpressed Atg8a reporters are captured into the cytoplasmic aggregates, but these do not represent autophagosomes. Loss of  p62  does not block autophagy upregulation upon proteasome impairment, suggesting that compensatory autophagy is not simply due to the buildup of excess cargo. One of the best characterized substrates of UPS is the α subunit of hypoxia-inducible transcription factor 1 (HIF-1α), which is continuously degraded by the proteasome during normoxic conditions. Hypoxia is a known trigger of autophagy in mammalian cells, and we show that genetic activation of hypoxia signaling also induces autophagy in Drosophila. Moreover, we find that proteasome inactivation-induced autophagy requires  sima , the Drosophila ortholog of  HIF-1α .
+
+				
+				
+					
+						Conclusions
+
+					We have characterized proteasome inactivation- and hypoxia signaling-induced autophagy in the commonly used larval Drosophila fat body model. Activation of both autophagy and hypoxia signaling was implicated in various cancers, and mutations affecting genes encoding UPS enzymes have recently been suggested to cause renal cancer. Our studies identify a novel genetic link that may play an important role in that context, as HIF-1α/sima may contribute to upregulation of autophagy by impaired proteasomal activity.
+
+				
+			
+		

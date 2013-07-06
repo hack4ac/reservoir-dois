@@ -1,0 +1,127 @@
+Methods
+   
+      Ethics statement
+      The Yellow Sea Fisheries Research Institute’s animal care and use committee waived
+         the need for ethical approval, as this is not required in China.
+      
+      Experimental animals
+      Japanese flounders with an average weight of 200&nbsp;g were obtained from Haiyang Fisheries
+         Company in Yantai and raised in a breeding tank with seawater (20°C). For cloning
+         and tissue expression analysis, RNA was extracted from 13 tissues (brain, gill, skin,
+         muscle, fin, heart, liver, spleen, eye, pituitary, kidney, head kidney, and intestine)
+         from three individuals. For the bacterial challenge experiment, RNA was extracted
+         from three tissues (liver, spleen, and kidney) from three individuals.
+      
+      Bacterial challenge
+      The bacterium Vibrio anguillarum, which is pathogenic in Japanese flounders, was cultured at 28°C to mid-logarithmic
+         growth on 2216E medium, centrifuged to collect the bacteria and suspended in 0.9%
+         saline 
+         					[21,22]. A cell counter was used to measure the number of bacteria in the suspension. A final
+         concentration of 7 × 106&nbsp;cfu of V. anguillarum was used for each injection, and 0.9% saline was used as the negative control. At
+         6&nbsp;h, 12&nbsp;h, 24&nbsp;h, 48&nbsp;h, 72&nbsp;h and 96&nbsp;h post-injection, three individuals from each time
+         point were sacrificed and tissues were used for RNA extraction. For the negative control,
+         tissues were taken 12&nbsp;h after the saline injection.
+      
+      RNA extraction
+      Total RNA was isolated from 500&nbsp;mg powdered fish tissues by homogenization in 5&nbsp;mL
+         TRIzol (Invitrogen), held at room temperature for 5&nbsp;min. An aliquot of chloroform
+         (1&nbsp;mL) was added to each extract, and the resulting mixture was centrifuged (10&nbsp;min,
+         13,000&nbsp;g). The aqueous layer was transferred to a clean tube, and the RNA firstly
+         precipitated by the addition of 3&nbsp;mL isopropanol, and then pelleted by centrifugation
+         (15&nbsp;min, 13,000&nbsp;g). The RNA pellet was washed twice with 75% ethanol and re-suspended
+         in diethylpyrocarbonate-treated water. After DNA removal (Turbo DNA-free kit, Ambion),
+         RNA integrity was detected using agarose gel electrophoresis, and the concentration
+         of RNA was quantified spectrophotometrically.
+      
+      Cloning of PoAkirin1
+      Based on the turbot Akirin1 gene sequence, primers (AKI-R-S1 and AKI-R-A1) were designed
+         to amplify a conservative fragment. The 5′ and 3′ fragments of PoAkirin1 gene were
+         amplified from the flounder full-length cDNA Library (a mix of liver, spleen and kidney).
+      
+      Sequence analysis
+      Translation was performed using DNASTAR software. The conserved domain analysis and
+         BLAST analysis was performed at 
+         					http://blast.ncbi.nlm.nih.gov/Blast.cgi webcite, containing blastn, blastp and tblastp. The PSORT II server (http://psort.ims.u-tokyo.ac.jp webcite) was used to predict the putative nuclear localization signal (NLS). The alignment
+         of Akirins from different species was performed using the ClustalW alignment program,
+         and the phylogenetic tree was constructed on the basis of the proportion of the amino
+         acid differences (p-distances) determined by the neighbor-joining method 
+         					[23] using MEGA 3 software 
+         					[24]. The following proteins were used in the alignment: AAF50569 [Drosophila melanogaster], AAN12062 [D. melanogaster], ADK27484 [Scophthalmus maximus], BAI49701 [Marsupenaeus japonicus], ADK26453 [Gallus gallus], NP_001161992 [Salmo salar], ACV49724 [Oncorhynchus mykiss], ACV49723 [O. mykiss], ACV49722 [O. mykiss], ACV49721 [O. mykiss], ACV49720 [O. mykiss], ACV49719 [O. mykiss], ACV49718 [O. mykiss], ACV49717 [O. mykiss], ACV49716 [Salmo trutta], ACV49715 [S. trutta], ACV49714 [S. trutta], ACV49712 [S. trutta], ACV49710 [S. trutta], ACV49708 [S. salar], ACV49706 [S. salar], ACV49704 [S. salar], ACV49702 [S. salar], ACV49700 [Salvelinus alpinus], ACV49697 [S. alpinus], ACV49696 [S. alpinus], ADK39312 [Caligus rogercresseyi], NP_001107272 [Danio rerio], NP_001007187 [D. rerio], NP_988914 [Xenopus (Silurana) tropicalis], NP_001085484 [Xenopus laevis], NP_001025225 [Rattus norvegicus], DAA31047 [Bos taurus], DAA26175 [B. taurus], XP_002715780 [Oryctolagus cuniculus], XP_002714617 [O. cuniculus], XP_002708555 [O. cuniculus], XP_002708554 [O. cuniculus], XP_002736520 [Saccoglossus kowalevskii], AAH97074 [D. rerio], AAH03291 [Mus musculus], AAH61612 [X. tropicalis], CAM16479 [M. musculus], AAI19746 [Homo sapiens], AAH05051 [H. sapiens], NP_001103557 [B. taurus], NP_001016080 [X. tropicalis], NP_001035003 [R. norvegicus], and AEO17042 [Ovis aries].
+      
+      Quantitative real-time RT-PCR (RT-qPCR)
+      The RT-qPCR protocol adhered to the ‘Minimum Information for Publication of Quantitative
+         Real-time PCR experiment guidelines 
+         					[25]. The relative mRNA steady-state level was measured by RT-qPCR. The total RNA from
+         different tissues was prepared using the TRIzol reagent. The cDNA was synthesized
+         from each RNA sample (500&nbsp;ng) using a PrimeScript® RT reagent kit (Takara, China),
+         following manufacturer’s protocol. RT-qPCR was conducted on an Applied Biosystems
+         7500 Real-Time PCR System with SYBR® Premix Ex Taq™ (Takara, China). Genes encoding
+         β-actin (for normal tissue types and infected kidney), a-tubulin (for infected spleen)
+         and glyceraldehyde-3-phosphate dehydrogenase (for infected liver) were selected for
+         normalization, as their expressions have been reported to be stable 
+         					[26-28]. The RT-qPCR primer pairs were designed to generate a product size of 150–250&nbsp;bp
+         and a Tm of 60 ±1°C. cDNA from 13 normal and infected tissues was chosen for the detection
+         of PoAkirin1, PoHEPN and PoC1q expression, using the gene-specific primers AKI-R-S1,
+         AKI-R-A1 (for PoAkirin1); HEPN-R-S1, HEPN-R-A1 (for PoHEPN); and C1q-R-S1, C1q-R-A1
+         (for PoC1q) (Table&nbsp;
+         					1). The primers β-actin-s1, β-actin-a1, GAP-S1, GAP-A1, and TUBA-S1 and TUBA-A1 were
+         used to amplify the β-actin, a-tubulin, and glyceraldehyde-3-phosphate dehydrogenase
+         fragments, respectively (Table&nbsp;
+         					1). PCR efficiency (E) of these primers were between 92 and 110% and correlation coefficient
+         (R2) ranged from 0.991 to 0.998.
+      
+      Table 1. Oligonucleotide primers used in this study
+      RT-PCR was carried out with a 1&nbsp;μl cDNA sample, 10&nbsp;μl SYBR® Premix Ex Taq™, 0.4&nbsp;μl
+         ROX Reference Dye II, 0.4&nbsp;μl PCR forward/reverse primers (10&nbsp;μM) and 7.8&nbsp;μl nuclease-free
+         water. The thermo-cycling conditions for the reaction were as follows: 95°C for 30&nbsp;s,
+         followed by 40&nbsp;cycles of 95°C for 15&nbsp;s and 61°C for 34&nbsp;s. The reaction was carried
+         out with triplicate with duplicates of each sample. Data (normalized Ct values) from
+         the treated and control tissues templates were compared, and the 2-ΔΔCT method was
+         selected for relative quantification. All data were expressed as the mean ± S.D. and
+         analyzed by one-way analysis of variance to determine significant differences between
+         samples, using SPSS 16.0. Values were considered statistically significant when P &lt; 0.05
+         or P &lt; 0.01.
+      
+      Plasmid construction
+      Using the sequences of the open reading frames (ORFs) of the PoAkirin1, PoHEPN and
+         PoC1q genes, primers were designed to construct pGEX4T-1-PoAkirin1 (for expression
+         in E. coli), pET30a-PoHEPN (for expression in E. coli), pGBKT7-PoAkirin1 (for Yeast two-hybrid assay), pGADT7-PoAkirin1 (for Yeast two-hybrid
+         assay), pGBKT7-PoC1q (for Yeast two-hybrid assay), pGADT7-PoHEPN-M1 (for Yeast two-hybrid
+         assay), pGADT7-PoHEPN-M2 (for Yeast two-hybrid assay), and pGADT7-PoHEPN-M3 (for Yeast
+         two-hybrid assay) vectors. The primer sequences and restriction sites corresponding
+         to the vectors are shown in Table&nbsp;
+         					1 and Table&nbsp;
+         					2. The mutation vectors pGADT7-PoHEPN-M1, pGADT7-PoHEPN-M2, and pGADT7-PoHEPN-M3 mutation
+         vectors were constructed according to the model in Figure&nbsp;
+         					1.
+      
+      Table 2. Primer names and restriction sites used to construct the expression vectors
+      Yeast two-hybrid screening and mating assays
+      The pGBKT7-PoAkirin1 plasmid and DNA plasmids for cDNA library clones were individually
+         transformed into Saccharomyces cerevisiae strain Y2HGold and S. cerevisiae strain Y187, following the manufacturer's instructions in the Matchmaker™ Gold Yeast
+         Two-Hybrid System User Manual. Approximately 1 × 107 library clones were screened by yeast mating with selection by growth for 3–5&nbsp;days
+         at 30°C on agar media lacking Leu and Trp, but with X-α-galactosidase and Aureobasidin
+         A.
+      
+      Recombinant protein expression in Escherichia coli
+      The recombinant plasmids pGEX4T-1-PoAkirin1, pET30a-PoHEPN, pGEX4T-1, and pET30a were
+         transformed into E. coli BL21(DE3) competent cells. After growth at 37°C, 1.0&nbsp;mM IPTG was added to the transformed
+         cells and incubation continued for 4&nbsp;h. Sodium dodecyl sulfate polyacrylamide gel
+         electrophoresis (SDS-PAGE) analysis of total proteins was used to detect recombinant
+         protein expression. No IPTG and cells transformed with pGEX-4&nbsp;T-1 or pET30a and induced
+         with IPTG were used as negative controls.
+      
+      Western blotting analysis
+      The protein concentrations of the samples were determined using an Enhanced BCA Protein
+         Assay Kit (Beyotime Institute of Biotechnology, China). Recombinant PoHEPN and PoAkirin1
+         were serially diluted (to 5&nbsp;ng) and separated by 12% SDS-PAGE and transferred to a
+         BioTrace NT Nitrocellulose Transfer Membrane (PALL, USA). The membranes were blocked
+         and then incubated with a 1&nbsp;μg/mL dilution of the primary antibody (monoclonal antibodies
+         against His or GST (glutathione-S-transferase; Uscn Life Science Inc., Wuhan, China)).
+         After washing, the membranes were incubated with the secondary antibody, horseradish
+         peroxidase-conjugated goat anti-mouse IgG (1:1,000 dilutions) (Beyotime Institute
+         of Biotechnology, China). Reactive proteins were detected using chemiluminescence
+         (ECL Western Blotting Analysis System, Thermo Fisher Scientific Inc., IL, USA).
+      
+   
+

@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					A comprehensive system for facial animation of generic 3D head models driven by speech is presented in this article. In the training stage, audio-visual information is extracted from audio-visual training data, and then used to compute the parameters of a single joint audio-visual hidden Markov model (AV-HMM). In contrast to most of the methods in the literature, the proposed approach does not require segmentation/classification processing stages of the audio-visual data, avoiding the error propagation related to these procedures. The trained AV-HMM provides a compact representation of the audio-visual data, without the need of phoneme (word) segmentation, which makes it adaptable to different languages. Visual features are estimated from the speech signal based on the inversion of the AV-HMM. The estimated visual speech features are used to animate a simple face model. The animation of a more complex head model is then obtained by automatically mapping the deformation of the simple model to it, using a small number of control points for the interpolation. The proposed algorithm allows the animation of 3D head models of arbitrary complexity through a simple setup procedure. The resulting animation is evaluated in terms of intelligibility of visual speech through perceptual tests, showing a promising performance. The computational complexity of the proposed system is analyzed, showing the feasibility of its real-time implementation.
+
+				
+			
+		

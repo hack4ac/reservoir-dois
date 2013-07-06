@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The nature of the heteroatom substitution in the nitrogen of a 3-aza-Cope system is explored.
+
+				
+				
+					
+						Results
+
+					While N-propargyl isoxazolin-5-ones suffer 3-aza-Cope rearrangements at 60°C, the corresponding N-propargyl pyrazol-5-ones need a higher temperature of 180°C for the equivalent reaction. When the propargyl group is substituted by an allyl group, the temperature of the rearrangement for both type of compounds is less affected by the nature of the heteroatom present. Treatment with a base, such as ethoxide, facilitates the rearrangement, and in the case of isoxazol-5- ones other ring opening reactions take precedence, involving N–O ring cleavage of the 5-membered ring. However when base-catalysed decomposition is prevented by substituents, products arising from a room temperature aza-Cope rearrangement are isolated. A possible mechanistic pathway based on free energies derived from density functional calculations involving cyclic intermediates is proposed.
+
+				
+				
+					
+						Conclusions
+
+					The nature of the heteroatom substitution in the nitrogen of a 3-aza-Cope system leads to a remarkable difference in the energy of activation of the reaction.
+
+				
+			
+		

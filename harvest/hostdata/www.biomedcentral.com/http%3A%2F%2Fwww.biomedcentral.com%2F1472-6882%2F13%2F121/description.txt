@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Egyptians recognized the healing power of herbs and used them in their medicinal formulations. Nowadays, “Attarin” drug shops and the public use mainly the Unani medicinal system for treatment of their health problems including improvement of memory and old age related diseases. Numerous medicinal plants have been described in old literature of Arabic traditional medicine for treatment of Alzheimer’s disease (AD) (or to strengthen memory).
+
+				
+				
+					
+						Methods
+
+					In this study, some of these plants were evaluated against three different preliminary bioassays related to AD to explore the possible way of their bio-interaction. Twenty three selected plants were extracted with methanol and screened  in vitro  against acetylcholinesterase (AChE) and cycloxygenase-1 (COX-1) enzymes. In addition, anti-oxidant activity using DPPH was determined.
+
+				
+				
+					
+						Results
+
+					Of the tested plant extracts;  Adhatoda vasica  and  Peganum harmala  showed inhibitory effect on AChE at IC 50  294 μg/ml and 68 μg/ml respectively. Moreover,  A. vasica  interacted reversibly with the enzyme while  P. harmala  showed irreversible inhibition.  Ferula assafoetida  (IC 50  3.2 μg/ml),  Syzygium aromaticum  (34.9 μg/ml) and  Zingiber officinalis  (33.6 μg/ml) showed activity against COX-1 enzyme. Potent radical scavenging activity was demonstrated by three plant extracts  Terminalia chebula  (EC 50  2.2 μg/ml),  T. arjuna  (3.1 μg/ml) and  Emblica officinalis  (6.3 μg/ml) . 
+					
+
+				
+				
+					
+						Conclusion
+
+					Interestingly, differential results have been obtained which indicate the variability of the mode of actions for the selected plants. Additionally, the reversible interaction of  A. vasica  against AChE and the potent activity of  F. assafoetida  against COX-1 make them effective, new and promising agents for treatment of AD in the future, either as total extracts or their single bioactive constituents.
+
+				
+			
+		

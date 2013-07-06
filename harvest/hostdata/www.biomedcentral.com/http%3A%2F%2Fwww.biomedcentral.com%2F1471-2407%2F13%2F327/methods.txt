@@ -1,0 +1,52 @@
+Methods
+   
+      Cell lines and reagents
+      Cervical cancer cell lines HeLa, CaSki, C33A and SiHa (American Type Culture Collection,
+         Rockville, Md., USA) (cell line authentication was done by in-house STR DNA profiling
+         analysis) were employed in this study. They were maintained in Dulbecco’s Modified
+         Eagle Medium (DMEM) (Invitrogen, Carlsbad, CA) supplemented with 10% (v/v) fetal bovine
+         serum (Gibco), 100 units/ml penicillin/streptomycin (Gibco) at 37°C in an incubator
+         with humidified atmosphere of 5% CO2 and 95% air. AMPK activators AICAR, A23187 and metformin and AKT inhibitor LY294002
+         were obtained from Tocris Bioscience (Bristol, UK). FOXM1 inhibitor Thiostrepton was
+         purchased from Calbiochem (La Jolla, CA, USA).
+      
+      Plasmids and cell transfection
+      To study the effects of enforced FOXM1 expression, the FOXM1c-expressing plasmid pcDNA3–FOXM1c
+         was used because the c isoform has higher transactivating activity and is expressed
+         dominantly in cells as well as tissues. Whereas, the pcDNA3 empty vector was used
+         in mock transfections as control. Besides, the vector-based shRNA plasmid pTER–FOXM1
+         was used to knockdown endogenous FOXM1. All of these plasmids had been described previously
+         [18]. As controls in knockdown assays, the p-super GFP and pcDNA3 vectors were used in
+         mock transactions. To knockdown human FOXO3a, the TriFECTa RNAi Kit which contains
+         three siRNAs targeting human FOXO3a was purchased from IDT (Integrated DNA Technologies,
+         Inc., Iowa, USA). Cell transfection was carried out using LipofectAMINETM 2000 (Invitrogen)
+         according to the manufacturer’s instructions. Expression patterns were analyzed by
+         Western blotting. The parental vector pEGFP-C1 was used as empty vector control.
+      
+      Cell proliferation assay
+      Cell proliferation kit (XTT) (Roche, Basel, Switzerland) was used to measure cell
+         viability according to the manufacturer’s protocol. Three independent experiments
+         were performed in triplicates.
+      
+      RNA extraction and quantitative reverse transcriptase–PCR (Q-PCR)
+      According to the instruction of the manufacturer, total RNA was extracted using TRIzol
+         reagent (Invitrogen). Complementary DNA (cDNA) was subsequently synthesized using
+         a reverse transcription reagent kit (Applied Biosystems, Foster City). The expression
+         level of FOXM1 was then evaluated by q-PCR in an ABI PRISM™ 7500 system (Applied Biosystems) using
+         Taqman® Gene expression Assays; human FOXM1 (Assay ID: Hs00153543_m1). The human 18S rRNA (Assay ID: Hs99999901_m1) was used as an internal control.
+      
+      Western blot analysis
+      Proteins in cell lysates were separated by 10% SDS-PAGE and transferred to polyvinylidene-difluoride
+         (PVDF) membranes. The membranes were blotted with 5% skimmed milk and subsequently
+         probed overnight at 4°C with primary antibodies specific for p-AMPKα, AMPKα, p-AKT,
+         AKT, p-FOXO3a, FOXO3a (Cell Signaling, Beverly, MA, USA), FOXM1 (Santa Cruz Biotechnology,
+         Inc., Santa Cruz, CA, USA) and β-actin (Sigma-Aldrich, St. Louis, MO, USA) and then
+         incubated with horseradish peroxidase conjugated goat anti-rabbit or anti-mouse secondary
+         antibody (Amersham, Uppsala, Sweden). Immunodetection was performed with enhanced
+         chemiluminescent reagent solution (AmershamTM ECLTM) and visualized using medical X-ray film.
+      
+      Data analysis
+      Student’s t test was applied to the data analysis. All data were expressed as mean ± SEM. P-value of less than 0.05 was considered as significant.
+      
+   
+

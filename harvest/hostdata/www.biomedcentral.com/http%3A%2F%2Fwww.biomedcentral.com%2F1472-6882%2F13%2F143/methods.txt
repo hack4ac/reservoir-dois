@@ -1,0 +1,291 @@
+Methods
+   
+      Chemicals
+      All the chemicals used in these assays were of high quality. Na2CO3, ascorbic acid, gallic acid, rutin, Folin-Ciocalteu’s phenol reagent, NaNO2, AlCl3.6H2O, rutin, 2, 2-Diphenyl-1-Picrylhydrazyl (DPPH), 2,2- azino-bis (3-ethylbanzthiazoline-6-
+         sulphonic acid (ABTS), potassium oxidopersulphate, H2SO4, ammonium molybdate, riboflavin, phenazine methosulphate (PMS), nitroblue tetrazolium
+         (NBT), H2O2, 2- deoxyribose, ferric chloride, potassium chloride, trichloroacetic acid (TCA),
+         thiobarbituric acid (TBA), potassium ferricynide, Mayer’s reagent, NaOH, FeCl3 were obtained from Sigma Chemicals Co. (St. Louis, MO, USA). Solvents and other reagents
+         were of analytical grade.
+      
+      Collection of plant
+      Collection of the plant material was made in March 2011 from village Lehtrar, Tehsil
+         Kotli Sattian of Pakistan. After identification a voucher specimen (# 032564) was
+         deposited at the Herbarium of Pakistan Museum of Natural History, Islamabad.
+      
+      Preparation of extract
+      Powder of dried leaves (500&nbsp;g) was extracted with 95% methanol twice (2000&nbsp;ml for
+         each) for 48&nbsp;h with occasional shaking and filtered. Extract was dried at 40°C under
+         reduced pressure giving a yield of 12.2% to that of the powder (Panchun Scientific
+         Co., Kaohsiung, Taiwan). Extract was suspended in 50&nbsp;ml of distilled water and fractions
+         were made by adding solvents (200&nbsp;ml twice) successively with increasing polarity
+         i.e., n-hexane, chloroform, ethyl acetate, n-butanol and shake vigorously. The layers were separated accordingly and the soluble
+         remainder was used as residual aqueous fraction. Fractions were dried with the yields
+         n-hexane (7.5%), chloroform (3.4%), ethyl acetate (8.9%), n- butanol (7.8%) and residual aqueous fraction (10.7%) to that of the methanol extract
+         [21].
+      
+      Phytochemical screening
+      The methanol extract of M. royleanus was analyzed by LC-MS to get the fingerprint of compounds it carries and was found
+         to carry number of compounds (retention time: 0.5-45&nbsp;min, m/z “mass” restriction:
+         100-3200&nbsp;Da, peak height &gt; 500 counts, relative height: &gt; 2.5%, limit to largest:
+         300 compounds). Dried sample of methanol extract (~15&nbsp;mg), was dissolved 1&nbsp;ml of methanol
+         (15&nbsp;mg/ml). It was spun down to remove particles and 10&nbsp;μl was injected under C18
+         or HILIC chromatography and positive (C18) or negative (C18/HILIC) ionization (targeting
+         flavonoids and phenolic acids).
+      
+      Qualitative determination of the chemical constituents
+      Presence of alkaloids, anthraquinones, cardiac glycosides, coumarins, flavonoids,
+         saponins, phlobatannins, tannins and terpenoids in the extract and various fractions
+         was confirmed individually by following standard procedures.
+      
+      Test for alkaloids
+      Mixture of methanol extract of M. royleanus leaves and its various derived fractions (0.4&nbsp;g) in 8&nbsp;ml of 1% HCl was warmed on
+         water bath. After filtration 2&nbsp;ml filtrate from the extract and each fraction was
+         allowed to react with few drops of potassium mercuric iodide and with potassium bismuth,
+         separately. Turbidity or precipitation formation was considered as a confirmation
+         for presence of alkaloids [22].
+      
+      Test for saponins
+      The criterion of oil emulsion formation of saponins was used for the screening of
+         saponins [22]. Briefly, extract and various fractions (20&nbsp;mg) suspended in 20&nbsp;ml of distilled water
+         and boiled for 5&nbsp;min. In 10&nbsp;ml of the above filtrate 5&nbsp;ml of distilled water was added
+         and mixed well to develop the froth. Development of emulsion after mixing the froth
+         with olive oil confirmed the existence of saponins.
+      
+      Test for terpenoids
+      Briefly, 2&nbsp;ml of chloroform was mixed with 5&nbsp;ml (1&nbsp;mg/ml) of each sample in a test
+         tube then 3&nbsp;ml of concentrated H2SO4 was added to develop the color. Exhibition of reddish brown coloration at the interface
+         confirmed the presence of terpenoids [22].
+      
+      Test for anthraquinones
+      To a volume of 6&nbsp;ml of 1% HCl, 200&nbsp;mg of each sample was added separately and boiled.
+         Benzene (5&nbsp;ml) was mixed with the filtrate and after separation of benzene layer 2&nbsp;ml
+         of 10% ammonia solution was lowered. Development of pink, violet or red color in the
+         ammonical phase indicated the existence of anthraquinones [22].
+      
+      Cardiac glycosides determination
+      An aliquot of 5&nbsp;ml of methanol extract of M. royleanus leaves and its various fractions (10&nbsp;mg/ml in methanol) were added in the sequence
+         of glacial acetic acid (2&nbsp;ml) and FeCl3 solution (one drop). Concentrated H2SO4 (1&nbsp;ml) was added and the formation of brown ring at the interface confirmed the presence
+         of cardiac glycosides [23].
+      
+      Test for coumarins
+      In a vial having 300&nbsp;mg/ml of the extract and each fraction was plugged with filter
+         paper dipped in 1&nbsp;N NaOH and boiled in a boiling water bath for few minutes. Yellow
+         fluorescence of filter paper under UV light confirmed the presence of coumarins [23].
+      
+      Test for phlobatannins
+      An amount of 80&nbsp;mg of the extract and various fractions was boiled in 1% HCl. Development
+         of red precipitate indicated the existence of phlobatannins [23].
+      
+      Test for flavonoids
+      Mixture of methanol extract and various fractions of M. royleanus leaves were prepared by adding 50&nbsp;mg of each sample to 100&nbsp;ml of distilled water
+         and filtered. An aliquot of 5&nbsp;ml of dilute ammonia solution was mixed with 10&nbsp;ml of
+         the filtrate. Appearance of yellow coloration by addition of few drops of concentrated
+         sulfuric acid indicated the presence of flavonoid [24].
+      
+      Test for tannins
+      A mixture was prepared by mixing 50&nbsp;mg of methanol extract and each fraction in 20&nbsp;ml
+         of distilled water and boiled. Appearance of brownish green or blue-black coloration
+         after mixing few drops of 0.1% FeCl3 confirmed the existence of tannins [24].
+      
+      Quantitative determination of the chemical constituents
+      Quantification of alkaloids
+      Quantification of alkaloids was performed by following the method reported previously
+         (22). Each fraction (50&nbsp;mg) was mixed with 200&nbsp;ml of acetic acid (10%) in ethanol;
+         the beaker was covered and incubated for 4&nbsp;h. The mixture was concentrated up to one
+         third of its total volume. Ammonium hydroxide was added drop wise in the mixture until
+         it formed precipitate. The precipitate was washed with ammonium hydroxide and then
+         filtered. The filtrate (alkaloids) was calculated as percentage of the dried fraction.
+      
+      Quantification of tannins
+      For quantification of tannins each fraction (50&nbsp;mg) was suspended in 100&nbsp;ml of distilled
+         water, it was shaken for 1&nbsp;h in a mechanical shaker and then filtered. Each sample
+         (5&nbsp;ml) was added with ferric chloride (2&nbsp;ml) in hydrochloric acid (0.1&nbsp;N) and potassium
+         ferricyanide (0.008&nbsp;M). Absorbance was taken at 120&nbsp;nm within 10&nbsp;min and tannins contents
+         were calculated as percentage of the dried fraction (24).
+      
+      Quantification of saponins
+      Methanol extract and each fraction (50&nbsp;mg) were mixed in 100&nbsp;ml of ethanol (20%).
+         It was kept on heating for 4&nbsp;h with continuous stirring at 55°C, than diluted with
+         diethyl ether (20&nbsp;ml) and washed with 5% sodium chloride. Saponins were estimated
+         as percentage of the dried fraction (22).
+      
+      Estimation of leaf protein
+      For the determination of leaf protein content, monobasic sodium phosphate (16&nbsp;ml)
+         and dibasic sodium phosphate (84&nbsp;ml) was combined to get the desire pH (7.5) of phosphate
+         buffer.
+      
+      Reagent 1: Sodium carbonate (2&nbsp;g), sodium chloride (0.4&nbsp;g) 0.1&nbsp;N and Na-K tartarate
+         1&nbsp;g was dissolved in distilled water (100&nbsp;ml).
+      
+      Reagent 2: Copper sulphate 0.5&nbsp;g was mixed in distilled water (100&nbsp;ml).
+      Reagent 3: Solution A (50&nbsp;ml) and solution B (1&nbsp;ml) both were mixed in a flask.
+      Reagent 4: Folin phenol reagent was added to distilled water (1:1 ratio).
+      Fresh leaves (0.1&nbsp;g) were homogenized in 1&nbsp;ml of phosphate buffer (pH&nbsp;7.5). The homogenate
+         was centrifuged for 10&nbsp;min at 3000&nbsp;rpm. The 0.1&nbsp;ml of supernatant was taken in a test
+         tube and finally volume was raised by adding distilled water up to 1&nbsp;ml. Reagent D
+         (0.1&nbsp;ml) was mixed after shaking for 10&nbsp;min. After 30&nbsp;min of incubation, absorbance
+         of each sample was taken at 650&nbsp;nm and protein content was measured with help of standard
+         (BSA) (23).
+      
+      Sugar estimation
+      Fresh plant material was used to estimate the sugar content; plant material was homogenized
+         and then treated with concentrated sulphuric acid. The sample was incubated for 4&nbsp;h
+         at 25°C. Optical density of each sample was observed at 420&nbsp;nm (24).
+      
+      Total phenolic content
+      Briefly, a mixture was prepared by adding 9&nbsp;ml of distilled water and 1&nbsp;ml of each
+         sample. To the mixture 1&nbsp;ml of Folin-Ciocalteu’s phenol reagent was added followed
+         by the addition of 10&nbsp;ml of Na2CO3 solution and total volume was made to 25&nbsp;ml by adding distilled water. The optical
+         density was determined after 90&nbsp;min at 750&nbsp;nm at 23°C. Quantity of total phenolics
+         was determined as mg of gallic acid equivalent (GAE) per g of dried sample. For blank
+         distilled water was used [25].
+      
+      Total flavonoid content
+      According to this method [26], 0.3&nbsp;ml of the filtrate the extract and each fraction (50&nbsp;mg) in 10&nbsp;ml of 80% methanol
+         was mixed with a reagent; 3.4&nbsp;ml of 30% methanol, 0.15&nbsp;ml of NaNO2 (0.5&nbsp;M) and 0.15&nbsp;ml of AlCl3.6H2O (0.3&nbsp;M). Then NaOH was added properly mixed. Absorbance was recorded at 506&nbsp;nm after
+         5&nbsp;min of mixing. Total flavonoid content was calculated as mg of rutin equivalent
+         per g of dried extract or fraction.
+      
+      In vitro antioxidant assays
+      
+      A stock solution (1&nbsp;mg/ml) of the methanol extract and each fraction was prepared
+         in 95% methanol and diluted accordingly for various antioxidant and reducing assays.
+         Antioxidant power of each assay was compared with the efficacy of standard chemicals.
+      
+      DPPH radical scavenging activity
+      Antioxidant potential of the extract and each fraction was assessed by using 1,1-diphenyl
+         1-2-picryl-hydrazyl (DPPH) assay [27]. DPPH (2.4&nbsp;mg) was dissolved in 100&nbsp;ml of methanol and diluted with methanol to obtain
+         an absorbance of about 0.98 (± 0.02) at 517&nbsp;nm. An aliquot of 0.01&nbsp;ml of the extract
+         and each fraction at different concentrations of 25-250&nbsp;μg/ml was added in 3&nbsp;ml of
+         the DPPH solution. After incubation for 15&nbsp;min in dark; absorbance of the mixture
+         was determined at 517&nbsp;nm. Following formula was applied to determine the DPPH radical
+         scavenging activity;
+      
+      
+         
+            
+         
+      
+      IC50 is the concentration value which scavenged 50% of the DPPH radicals. Ascorbic acid
+         and rutin were used as reference compounds [28,29].
+      
+      Superoxide radical scavenging
+      Procedure of Beauchamp and Fridovich [30] was followed to determine the scavenging potential of the extract and fractions with
+         respect to superoxide radicals. Briefly, 0.5&nbsp;ml of 50&nbsp;mM phosphate buffer (pH&nbsp;7.6),
+         0.3&nbsp;ml of 50&nbsp;mM riboflavin, 0.25&nbsp;ml of 20&nbsp;mM phenazine methosulphate (PMS) and 0.1&nbsp;ml
+         of 0.5&nbsp;mM nitro blue tetrazolium (NBT) were mixed, before the addition of 100&nbsp;μl of
+         the methanol extract and each fraction at varying concentrations of 25-250&nbsp;μg/ml.
+         Mixture was illuminated in the fluorescent light for 20&nbsp;min and 560&nbsp;nm wave length
+         was used to record the absorbance of the mixture. The percent inhibition was calculated
+         by using the following formula:
+      
+      
+         
+            
+         
+      
+      Reference compound used was ascorbic acid in this assay.
+      Total antioxidant capacity
+      Phosphomolybdate assay system was used to determine the total antioxidant activity
+         of the methanol extract and various fractions [31]. To a reagent solution; sulphuric acid (0.6&nbsp;M), sodium phosphate (28&nbsp;mM) and ammonium
+         molybdate (4&nbsp;mM); 100&nbsp;μl of each sample was added and incubated at 95°C in a water
+         bath for 90&nbsp;min. After cooling to room temperature; absorbance was recorded at 765&nbsp;nm
+         against reagent blank. Total antioxidant capacity of the ascorbic acid was also estimated
+         for reference. The total antioxidant capacity was determined by using following formula:
+      
+      
+         
+            
+         
+      
+      Reducing assays
+      Hydroxyl radical scavenging
+      A method described earlier was adapted to assess the hydroxyl radical scavenging ability
+         of various samples [32]. Briefly, reagent solution was prepared by sequential addition of ferric chloride
+         (10&nbsp;mM), 0.25&nbsp;ml of 2-deoxyribose (2.8&nbsp;mM) in 50&nbsp;mM phosphate buffer (pH&nbsp;7.4), 0.1&nbsp;ml
+         of 1&nbsp;mM (1:1; v/v) EDTA solution and 0.1&nbsp;ml of 10&nbsp;mM H2O2. A volume of 0.1&nbsp;ml of the extract and various fractions was individually added to
+         0.01&nbsp;ml of reagent solution. Then 0.1&nbsp;ml of ascorbate (1&nbsp;mM) was added and incubated
+         at 37°C for 1&nbsp;h. In the mixture thiobarbituric acid (TBA) 0.5%; w/v in 1&nbsp;ml of 50&nbsp;mM
+         NaOH and 1&nbsp;ml of 10%&nbsp;w/v trichloroacetic acid (TCA) was added and cooled to room temperature
+         after incubation in a boiling water bath for 15&nbsp;min. Intensity of chromogen was read
+         at 532&nbsp;nm. The hydroxyl radical scavenging activity was estimated as;
+      
+      
+         
+            
+         
+      
+      Hydrogen peroxide scavenging
+      Methods described previously [33-35] were followed to determine the ability of extract and various fractions to scavenge
+         H2O2. Hydrogen peroxide (2&nbsp;mM) working solution was made by mixing with 50&nbsp;mM phosphate
+         buffer (pH&nbsp;7.4). Reaction mixture was prepared by the addition of 0.1&nbsp;ml of extract
+         and each fraction with 0.4&nbsp;ml of 50&nbsp;mM phosphate buffer (pH&nbsp;7.4) followed by the addition
+         of 0.6&nbsp;ml of 50&nbsp;mM H2O2 and allowed to stand for 10&nbsp;min. At 230&nbsp;nm absorbance of the mixture was recorded.
+         Following equation was used to determine the capacity to scavenge H2O2;
+      
+      
+         
+            
+         
+      
+      ABTS radical scavenging
+      Method of Re et al. [36] was used for the ABTS radical scavenging activity of the extract and each fraction.
+         For the development of ABTS radicals potassium persulfate (2.45&nbsp;mM) solution was mixed
+         with ABTS (7 nM) and incubated overnight in the dark to get a dark colored solution.
+         The standard solution of ABTS was diluted by the addition of 60% methanol to have
+         an absorbance of 0.70 (± 0.02) at 745&nbsp;nm at 30°C. An aliquot of 0.3&nbsp;ml of extract
+         or fraction was mixed with 1&nbsp;ml of ABTS and absorbance was recorded after one minute.
+         Reducing capacity was determined according to the formula:
+      
+      
+         
+            
+         
+      
+      Reduction of Fe3+ to Fe2+
+      Reducing capability of the extract and each fraction was estimated by following the
+         method of Oyaizu [37]. A volume of 2&nbsp;ml of 0.2&nbsp;M phosphate buffer (pH&nbsp;6.6) and 2&nbsp;ml of potassium ferricyanide
+         was mixed with 2&nbsp;ml of the extract and each fraction (10&nbsp;mg/ml) and incubated for
+         at 50°C for 20&nbsp;min. From the reaction mixture 2&nbsp;ml was taken after the addition of
+         2&nbsp;ml of 10% TCA and was mixed with 0.4&nbsp;ml of 0.1% ferric chloride and 2&nbsp;ml of distilled
+         water. After 10&nbsp;min of incubation optical density of the chromogen formed was read
+         at 700&nbsp;nm. High reducing power ability was associated with high absorbance values.
+         Reducing power of ascorbic acid was considered as reference.
+      
+      In vitro anti-lipid peroxidation assay
+      
+      Standard method for estimation of TBARS was used to assay the degree of lipid peroxidation
+         [38]. The study procedure for the animal care and experimentation was permitted by Ethical
+         Committee of Quaid-i-Azam University Islamabad. From freshly excised liver of rat
+         10× homogenate was made in cold phosphate buffer saline (pH&nbsp;7.4). Extract and each
+         fraction were added to 100&nbsp;μl of (15&nbsp;mM) ferrous sulphate followed by addition of
+         3&nbsp;ml of homogenate. After incubation for 30&nbsp;min; 0.1&nbsp;ml of this reaction mixture was
+         mixed with 1.5&nbsp;ml of 10% TCA. After 10&nbsp;min of incubation it was filtered and supernatant
+         was added in a tube having 1.5&nbsp;ml of 0.67% TBA (in 50% acetic acid) and placed in
+         a boiling water bath for 30&nbsp;min. Concentration of chromogen formed was measured at
+         535&nbsp;nm. Anti-lipid peroxidation was assessed by using the following formula:
+      
+      
+         
+            
+         
+      
+      Anti-hemolytic activity
+      Anti-hemolytic activity was assessed by following the spectrophotometric method [39]. From a normal healthy individual 5&nbsp;ml of blood was taken and centrifuged at 1500&nbsp;rpm
+         for 3&nbsp;min. Pellet of blood was washed three times in sterile phosphate buffer saline
+         solution (pH&nbsp;7.2). The pellet was re-suspended in normal 0.5% saline solution. A volume
+         of 0.5&nbsp;ml of the extract and various fractions (10, 50, 100, 200, 250&nbsp;μg/ml in saline)
+         were added in 0.5&nbsp;ml of cell suspension. After incubation the mixture at 37°C for
+         30&nbsp;min it was centrifuged at 1500&nbsp;rpm for 10&nbsp;min. Anti-hemolytic activity was assessed
+         by measuring the absorbance at 540&nbsp;nm. For positive and negative control distilled
+         water and phosphate buffer saline were used respectively. The study protocol was in
+         compliance with Helsinki Declaration.
+      
+      Statistical analysis
+      In vitro and other parametric assays were performed in triplicate and results are shown as
+         mean ± SD. Antioxidant potential of different assays was determined as IC50 values by applying Graph pad prism 5-software. Statistical significance was determined
+         among various treatments with one way ANOVA test. A statistical significance of P &lt; 0.05
+         or P &lt; 0.01 was considered to be significant.
+      
+   
+

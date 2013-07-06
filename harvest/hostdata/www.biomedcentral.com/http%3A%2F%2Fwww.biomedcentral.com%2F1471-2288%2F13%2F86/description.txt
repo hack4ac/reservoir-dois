@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					PubMed translations of OvidSP Medline search filters offer searchers improved ease of access. They may also facilitate access to PubMed’s unique content, including citations for the most recently published biomedical evidence. Retrieving this content requires a search strategy comprising natural language terms (‘textwords’), rather than Medical Subject Headings (MeSH). We describe a reproducible methodology that uses a validated PubMed search filter translation to create a textword-only strategy to extend retrieval to PubMed’s unique heart failure literature.
+
+				
+				
+					
+						Methods
+
+					We translated an OvidSP Medline heart failure search filter for PubMed and established version equivalence in terms of indexed literature retrieval. The PubMed version was then run within PubMed to identify citations retrieved by the filter’s MeSH terms ( Heart failure, Left ventricular dysfunction,  and  Cardiomyopathy) . It was then rerun with the same MeSH terms restricted to searching on title and abstract fields (i.e. as ‘textwords’). Citations retrieved by the MeSH search but not the textword search were isolated. Frequency analysis of their titles/abstracts identified natural language alternatives for those MeSH terms that performed less effectively as textwords. These terms were tested in combination to determine the best performing search string for reclaiming this ‘lost set’. This string, restricted to searching on PubMed’s unique content, was then combined with the validated PubMed translation to extend the filter’s performance in this database.
+
+				
+				
+					
+						Results
+
+					The PubMed heart failure filter retrieved 6829 citations. Of these, 834 (12%) failed to be retrieved when MeSH terms were converted to textwords. Frequency analysis of the 834 citations identified five high frequency natural language alternatives that could improve retrieval of this set ( cardiac failure ,  cardiac resynchronization ,  left ventricular systolic dysfunction, left ventricular diastolic dysfunction , and  LV dysfunction) . Together these terms reclaimed 157/834 (18.8%) of lost citations.
+
+				
+				
+					
+						Conclusions
+
+					MeSH terms facilitate precise searching in PubMed’s indexed subset. They may, however, work less effectively as search terms prior to subject indexing. A validated PubMed search filter can be used to develop a supplementary textword-only search strategy to extend retrieval to PubMed’s unique content. A PubMed heart failure search filter is available on the CareSearch website ( http://www.caresearch.com.au ) providing access to both indexed and non-indexed heart failure evidence.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Myocardial T 1  and T 2  mapping using cardiovascular magnetic resonance (CMR) are promising to improve tissue characterization and early disease detection. This study aimed at analyzing the feasibility of T 1  and T 2  mapping at 3 T and providing reference values.
+
+				
+				
+					
+						Methods
+
+					Sixty healthy volunteers (30 males/females, each 20 from 20–39 years, 40–59 years, 60–80 years) underwent left-ventricular T 1  and T 2  mapping in 3 short-axis slices at 3 T. For T 2  mapping, 3 single-shot steady-state free precession (SSFP) images with different T 2  preparation times were acquired. For T 1  mapping, modified Look-Locker inversion recovery technique with 11 single shot SSFP images was used before and after injection of gadolinium contrast. T 1  and T 2  relaxation times were quantified for each slice and each myocardial segment.
+
+				
+				
+					
+						Results
+
+					Mean T 2  and T 1  (pre-/post-contrast) times were: 44.1 ms/1157.1 ms/427.3 ms (base), 45.1 ms/1158.7 ms/411.2 ms (middle), 46.9 ms/1180.6 ms/399.7 ms (apex). T 2  and pre-contrast T 1  increased from base to apex, post-contrast T 1  decreased. Relevant inter-subject variability was apparent (scatter factor 1.08/1.05/1.11 for T 2 /pre-contrast T 1 /post-contrast T 1 ). T 2  and post-contrast T 1  were influenced by heart rate (p < 0.0001, p = 0.0020), pre-contrast T 1  by age (p < 0.0001). Inter- and intra-observer agreement of T 2  (r = 0.95; r = 0.95) and T 1  (r = 0.91; r = 0.93) were high. T 2  maps: 97.7% of all segments were diagnostic and 2.3% were excluded (susceptibility artifact). T 1  maps (pre-/post-contrast): 91.6%/93.9% were diagnostic, 8.4%/6.1% were excluded (predominantly susceptibility artifact 7.7%/3.2%).
+
+				
+				
+					
+						Conclusions
+
+					Myocardial T 2  and T 1  reference values for the specific CMR setting are provided. The diagnostic impact of the high inter-subject variability of T 2  and T 1  relaxation times requires further investigation.
+
+				
+			
+		

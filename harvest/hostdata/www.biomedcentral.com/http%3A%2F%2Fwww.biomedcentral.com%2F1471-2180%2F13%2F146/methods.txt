@@ -1,0 +1,177 @@
+Methods
+   
+      Sample collection
+      Samples for geochemical and microbiological analysis were collected from 25 observation
+         wells located in the east-central Illinois region of the Mahomet (Figure&nbsp;1). These wells draw groundwater from one of two sedimentary horizons, the younger,
+         shallower Glasford formation or the older, deeper Banner formation. Wells were screened
+         at the bottom of the respective formation over a span of 1.5&nbsp;m at depths ranging from
+         41&nbsp;m to 117&nbsp;m below ground surface. These formations are comprised of unconsolidated
+         sands and gravels that were deposited as glacial outwash during the Pleistocene era
+         and are interbedded with confining layers of glacial till that serve as aquitards
+         [23]. The bedrock underlying the north-central part of our sampling area is composed of
+         pyritic coal and shale, whereas bedrock to the south and east is largely carbonate
+         [17]. Locally, saline groundwater from the coal and shale passes upward and mixes with
+         the dilute, meteoric groundwater of the shallower aquifers. Groundwater in this area
+         of the Mahomet contains little modern recharge and no evidence exists of any anthropogenic
+         contaminants [22].
+      
+      Figure 1. Map of the east-central Illinois region of the Mahomet aquifer showing the location
+            of the wells sampled in this study.
+      Before filtering suspended cells from groundwater or deploying in situ “traps” of
+         sterilized sediment to sample attached microbes, stagnant water was pumped out of
+         the well at a rate of 8&nbsp;L&nbsp;min-1 using a Grundfos® Redi-Flo II electric submersible pump. During pumping, the pH, temperature and electrical
+         conductivity were monitored using an Oakton pH/CON 300 Meter (Oakton Instruments,
+         Vernon Hills, IL) and recorded at three minute intervals. No samples were taken until
+         readings for all three parameters stabilized for three consecutive measurements. All
+         groundwater samples for geochemical analyses were filtered in the field using a 0.2&nbsp;μm
+         pore size Supor-200® polyethersulfone membrane (Pall Life Sciences). For analysis of dissolved inorganic
+         carbon (DIC), 3&nbsp;mL of groundwater was collected using a degassed syringe, then injected
+         into a stoppered 70&nbsp;mL serum bottle previously purged using O2-free, ultrapure N2 gas and 2&nbsp;g of crystalline phosphoric acid (H3PO4). Samples for dissolved organic carbon (DOC) analyses were stored in amber glass
+         bottles and preserved using sulfuric acid (0.5%&nbsp;v/v). Samples were stored on water
+         ice in a sealed cooler for transport to the lab and kept refrigerated until they could
+         be analyzed.
+      
+      Microbial cells suspended in groundwater were filtered from two liters of groundwater
+         using a 90&nbsp;mm Supor-200® filtration membrane. After collecting duplicate filters and immediately freezing
+         them on dry-ice, an in situ sediment trap containing sterilized aquifer solids (see
+         Additional file 1) was lowered into each well where it could be colonized by native microbes [15]. Sediment traps were lowered to the depth of the screened interval of each well and
+         retrieved after 98 to 137&nbsp;days of incubation, allowing active microbial populations
+         to colonize the initially-sterile solids [24]. Upon retrieval, sediment samples were immediately placed into separate sterile Whirl-Pak® bags and stored in coolers filled with dry ice. All microbiological samples (filters
+         and sediments) were transported to the laboratory within four hours whereupon they
+         were transferred to a -80°C freezer and stored awaiting further analysis.
+      
+      Additional file 1: Table S1. Energy available for microbial respiration. Figure S1. Collectors curves showing how the total richness of the bacterial community increases
+         with greater sampling depth. Figure S2. Collectors curves showing how the total richness of the archaeal community increases
+         with greater sampling depth. Figure S3. Available energy (∆GA) for either the anaerobic oxidation of methane (AOM) or methanogenesis with increasing
+         amounts of dihydrogen (H2) in Mahomet aquifer groundwater. Figure S4. Multidimensional scaling (MDS) ordination of the Bray-Curtis coefficients of similarity
+         for attached microbial communities in the Mahomet aquifer. Figure S5. Multidimensional scaling (MDS) ordination of the Bray-Curtis coefficients of similarity
+         for suspended microbial communities in the Mahomet aquifer.
+         	Format: DOCX 
+         	Size: 460KB Download file or  display content in a new window
+      Aqueous concentrations of methane and hydrogen in groundwater were determined using
+         passive diffusion sampling [25]. In situ gas samplers were equilibrated in an individual well for at least one week
+         and then retrieved. Triplicate samples of dissolved gases were immediately injected
+         into stoppered, N2-purged serum bottles for storage. The concentrations of major anions (F–, Cl–, Br–, NO3–, PO43–, SO42–) in groundwater samples were measured using a Metrohm Advanced ion chromatograph
+         with a detection limit of 10&nbsp;μM (Metrohm USA, Houston, TX). DOC analyses were performed
+         at the Illinois Sustainable Technology Center using a Shimadzu TOC-VCPN carbon analyzer
+         with a detection limit of 0.4&nbsp;mg&nbsp;kg–1.
+      
+      Methane and DIC concentrations were measured using an SRI 8610 gas chromatograph (SRI
+         International, Menlo Park, CA) coupled to a thermal conductivity detector (TCD) and
+         a flame ionization detector (FID). TCD measurements were used to determine DIC and
+         dissolved methane concentrations greater than &gt;100&nbsp;μM, while the FID was used to measure
+         methane &lt;100&nbsp;μM. Hydrogen concentrations were determined using the same GC equipped
+         with a reducing gas detector (RGD). The RGD detector produced reliable concentration
+         measurements down to 0.5 nM. Gas phase concentrations of CO2, methane and hydrogen within the passive diffusion samplers were converted to aqueous
+         phase concentrations using the temperature-corrected Ostwald coefficient [26], taking into account the total dissolved gas pressure in the system as measured using
+         a Hydrolab MiniSonde 4a® (Hach Hydromet, Loveland, CO).
+      
+      Energy available for microbial respiration
+      The thermodynamic energy available (∆GA) to particular functional groups of microbes through respiration was calculated according
+         to the equation:
+      
+      
+         
+               
+                  
+                     ∆
+                     
+                        G
+                        r
+                     
+                     =
+                     ∆
+                     
+                        G
+                        °
+                     
+                     
+                        
+                        T
+                     
+                     +
+                     RT
+                     l
+                     n
+                     
+                        
+                           ∏
+                           i
+                        
+                        
+                           
+                              
+                                 
+                                    
+                                       y
+                                       i
+                                    
+                                    ×
+                                    
+                                       m
+                                       i
+                                    
+                                 
+                              
+                              
+                                 v
+                                 i
+                              
+                           
+                        
+                     
+                  
+               (1)
+      
+      Where ∆G°T is the standard state free energy change at temperature T (K), R is the universal gas constant, and yi, mi, and vi are the activity coefficients, molal concentrations, and reaction coefficients of
+         the species involved in the redox reaction. The ∆GA for a particular functional group of microbes is equal to the amount of free energy
+         released by that group’s respiratory reaction (∆Gr). The amount ∆Gr is equal to the sum of the electron donating (∆Gdon) and electron accepting (∆Gacc) half-reactions, and the available energy (∆GA) is therefore the inverse of the energy released (-∆Gr) [27]. The energy available from electron donating and accepting half-reactions was calculated
+         in The Geochemist’s Workbench® using the “thermo.dat” database of thermodynamic data compiled by Lawrence Livermore
+         National Laboratory [28]. Activity coefficients (yi) were calculated from the overall chemical composition of the groundwater using the
+         extended Debye-Hückel equation [29].
+      
+      Molecular assays and sequence analyses
+      Total DNA was extracted from each sediment trap and each filter membrane collected
+         from the wells following the method of Tsai and Olson [30] with some minor modifications (see Additional file 1). DNA extracts were used to amplify 16S rRNA genes using bacterial (i.e., 8&nbsp;F and
+         787R) and archaeal (i.e., 25&nbsp;F and 958R)-specific primers (see Additional file 1). Amplification products were cloned into pCR4.1 TOPO TA vector following the manufacturer’s
+         instructions (Invitrogen™, Carlsbad, CA). Clones were sequenced using the BigDye® Terminator sequencing chemistry (Applied Biosystems, Foster City, CA) as described
+         elsewhere [31]. A minimum of 192 clones per sample were processed in this study. Raw sequence data
+         was checked for quality and assembled into contigs using Sequencher® v4.10.1 (Gene Codes Corp, Ann Arbor, MI), and then screened for chimeras using Bellerophon
+         [32]. For the phylogenetic analyses bacterial and archaeal sequences were aligned using
+         the algorithm implemented in the program Mothur [33] against a high-quality reference alignment selected from the Greengenes 16S rRNA
+         gene database [34]. Unique, chimera-free reference sequences were chosen from the 12 October 2010 release
+         of Greengenes using ARB [35]. Cloned sequences from the Mahomet that aligned poorly to the reference database
+         or contained ambiguous base calls were discarded. The phylogeny of archaeal and bacterial
+         16S rRNA gene sequences was classified in Mothur using the “Hugenholtz” taxonomic
+         nomenclature in Greengenes [34]. Phylogenetic trees were constructed in ARB by adding cloned sequences to the Greengenes
+         reference tree [36] using the ARB parsimony algorithm [35].
+      
+      The community richness of bacteria and archaea in the Mahomet was estimated using
+         Mothur [33]. 16S rRNA gene sequences were clustered into operational taxonomic units (OTUs) based
+         on an average nucleotide similarity at fixed cutoffs. Sequences with an average nucleotide
+         similarity of 97% were binned together into a single OTU. The similarity of individual
+         communities of bacterial and archaeal members across the Mahomet was quantified using
+         the Bray-Curtis coefficient [37]. Archaeal and bacterial communities were grouped together for these analyses on the
+         basis of sample type (attached or suspended) and geochemical zone [15,17,18].
+      
+      Bacterial and archaeal community composition differences were quantified by calculating
+         the Bray-Curtis similarity coefficient and using multidimensional scaling (MDS) to
+         create a two dimensional visualization of the extent to which communities differ from
+         one another. MDS graphs were plotted using a non-metric configuration in which the
+         distance between any two points is inversely proportional to their similarity. All
+         MDS analyses were performed using the Primer-6 software package (Primer-E Ltd., Plymouth,
+         UK). The overall similarity of the bacterial and archaeal communities within groups
+         of wells was calculated using the analysis of similarity (ANOSIM) [38]. Specifically, R-values (RANOSIM) were used to establish the dissimilarity of different paired-groups of microbial
+         communities (e.g. communities from no sulfate vs. high sulfate groundwater). RANOSIM &gt; 0.75 indicate two microbial communities (i.e. the attached and suspended communities
+         from various wells in an aquifer) have characteristic structures largely distinct
+         from one another [39]. A value of RANOSIM between 0.25 and 0.75 indicates communities within each group cluster separately
+         from those in the other, with some overlap, while an RANOSIM &lt; 0.25 indicates communities in one group are almost indistinguishable from those
+         in the other. SIMPER (similarity percentage) was used to calculate the extent to which
+         individual OTUs contribute to the dissimilarity groups sets and to rank the populations
+         from most to least responsible for the differences between groups [40,41]. Representative sequences from each OTU were identified using Mothur and identified
+         using the Greengenes reference taxonomy as described above. Representative sequences
+         were deposited in GenBank under accession numbers KC604413 to KC604575 and KC604576
+         to KC607489.
+      
+   
+

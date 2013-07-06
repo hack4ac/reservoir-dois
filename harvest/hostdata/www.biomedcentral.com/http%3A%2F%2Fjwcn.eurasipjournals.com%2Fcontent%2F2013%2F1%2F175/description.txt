@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				An embedded monitoring network system is based on the visual principle of compound eye, which meets the acquirements in field angle, detecting efficiency, and structural complexity of panoramic monitoring network. Three fixed wide-angle cameras are adopted as sub-eyes, and a main camera is installed on a high-speed platform. The system ensures the continuity of tracking with high sensitivity and accuracy in a field of view (FOV) of 360 × 180°. In the non-overlapping FOV of the sub-eyes, we adopt Gaussian background difference model and morphological algorithm to detect moving targets. However, in the overlapping FOV, we use the strategy of lateral inhibition network which improves the continuity of detection and speed of response. The experimental results show that our system locates a target within 0.15 s after it starts moving in the non-overlapping field; when a target moves in the overlapping field, it takes 0.23 s to locate it. The system reduces the cost and complexity in traditional panoramic monitoring network and lessens the labor intensity in the field of monitoring.
+
+			
+		

@@ -1,0 +1,41 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					A total of 22 priority countries have been identified by the WHO that account for 90% of pregnant women living with HIV. Nigeria is one of only 4 countries among the 22 with an HIV testing rate for pregnant women of less than 20%. Currently, most pregnant women must access a healthcare facility (HF) to be screened and receive available prevention of mother-to-child HIV transmission (PMTCT) interventions. Finding new approaches to increase HIV testing among pregnant women is necessary to realize the WHO/ President's Emergency Plan for AIDS Relief (PEPFAR) goal of eliminating new pediatric infections by 2015.
+
+				
+				
+					
+						Methods
+
+					
+					This cluster randomized trial tests the comparative effectiveness of a congregation-based Healthy Beginning Initiative (HBI) versus a clinic-based approach on the rates of HIV testing and PMTCT completion among a cohort of church attending pregnant women. Recruitment occurs at the level of the churches and participants (in that order), while randomization occurs only at the church level. The trial is unblinded, and the churches are informed of their randomization group. Eligible participants, pregnant women attending study churches, are recruited during prayer sessions. HBI is delivered by trained community health nurses and church-based health advisors and provides free, integrated on-site laboratory tests (HIV plus hemoglobin, malaria, hepatitis B, sickle cell gene, syphilis) during a church-organized ‘baby shower.’ The baby shower includes refreshments, gifts exchange, and an educational game show testing participants’ knowledge of healthy pregnancy habits in addition to HIV acquisition modes, and effective PMTCT interventions. Baby receptions provide a contact point for follow-up after delivery. This approach was designed to reduce barriers to screening including knowledge, access, cost and stigma. The primary aim is to evaluate the effect of HBI on the HIV testing rate among pregnant women. The secondary aims are to evaluate the effect of HBI on the rate of HIV testing among male partners of pregnant women and the rate of PMTCT completion among HIV-infected pregnant women.
+
+				
+				
+					
+						Discussion
+
+					
+					Results of this study will provide further understanding of the most effective strategies for increasing HIV testing among pregnant women in hard-to-reach communities.
+
+				
+				
+					
+						Trial Registration
+
+					
+					Clinicaltrials.gov,  NCT01795261 
+					
+
+				
+			
+		

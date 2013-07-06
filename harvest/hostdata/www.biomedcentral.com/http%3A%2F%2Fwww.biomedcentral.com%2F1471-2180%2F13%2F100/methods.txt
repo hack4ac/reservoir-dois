@@ -1,0 +1,105 @@
+Methods
+   
+      Mice
+      Specific-pathogen-free, 3 to 5 week old C3H/HeN (C3H) and severe combined immunodeficient
+         (SCID) C3H/Smn.CIcrHsd-Prkdcscid (C3H-scid) mice were obtained from Frederick Cancer Research Center (Frederick, MD) and Harlan
+         Sprague Dawley, Inc. (Indianapolis, IN), respectively. Pregnant Swiss outbred Crl:CD1(ICR)
+         mice were obtained from Charles River Laboratories (Hollister, CA). Mice were infected
+         by subdermal inoculation of mid-log phase B. burgdorferi in 0.1 ml culture medium on the dorsal thoracic midline. Mice were killed by carbon
+         dioxide narcosis and exsanguination by cardiocentesis. Infection status of mice was
+         confirmed at necropsy by culture of the urinary bladder and sub-inoculation site,
+         as described [4]. Animal use was approved by the University of California Davis Animal Care and Use
+         Committee. University of California Davis has a Public Health Service Animal Welfare
+         Assurance on file and is fully accredited by the Association for the Assessment and
+         Accreditation of Laboratory Animal Care International.
+      
+      Histopathology
+      Joint (knee and tibiotarsus) and heart tissues were fixed in neutral buffered formalin,
+         demineralized, paraffin-embedded, sectioned, and stained with hematoxylin and eosin.
+         Tissues were blindly evaluated and tibiotarsal arthritis severity was scored on a
+         scale of 0 (negative), 1 (mild), 2 (moderate) or 3 (severe). Based upon extensive
+         use of this scoring system, a score of 3 is generally limited to SCID mice, and a
+         score of 1–2 is typical of immunocompetent C3H mice [4,34,35]. The prevalence of carditis was also blindly recorded, but a severity score is not
+         possible with carditis, due to variation in severity among mice within a particular
+         treatment group, thereby precluding accurate scoring [34].
+      
+      Bacterial strains
+      Low passage infectious B. burgdorferi s.s. strain B31-A3 (wild-type) was acquired from D. Scott Samuels, University of
+         Montana, and utilized as both a wild-type control and for genetic manipulation. B31-A3
+         is a clonal isolate of B31 MI, the prototype B31 strain utilized for genome sequencing
+         [36,37]. An additional B31-A3 variant, B. burgdorferi B31-A3-lp28-1-G, containing a gentamicin resistance gene on lp28-1 [38], was provided by D. Scott Samuels (originally from P. Rosa, Rocky Mountain Laboratories).
+         Spirochetes were grown in modified Barbour Stoenner Kelly (BSKII) medium [39] with 6% rabbit serum. Inocula were enumerated by dark-field microscopy using a Petroff-Hausser
+         chamber immediately prior to use, and serial 10-fold dilutions were prepared for evaluating
+         median infectious doses. For isolation of transformants, spirochetes were cultured
+         on semi-solid gelatin-free BSKII medium supplemented with 1.7% dissolved agarose plus
+         appropriate antibiotic (50 μg/ml streptomycin or 40 μg/ml gentamicin). Escherichia coli cloning strain TOP10F’ (Invitrogen, Inc., CA), was grown in Luria-Bertani broth under
+         aerobic conditions at 37°C. Transformed E. coli were selectively cultured in broth medium with 50 μg/ml spectinomycin.
+      
+      Genetic modification of B. burgdorferi
+      Arp null mutants (Δarp) were constructed by exchange of the arp open reading frame (ORF) with a mutagenic cassette via homologous recombination.
+         The mutagenic cassette consisted of a streptomycin-spectinomycin resistance cassette,
+         flaB-aadA (kindly provided by D. Scott Samuels, University of Montana, Missoula, MT), flanked
+         by regions of the B. burgdorferi B31-A3 plasmid lp28-1 that flanked the arp gene at both the 5′ and 3′ regions. Single Overlap Extension PCR (SOEing) was used
+         to join each part of the mutagenic cassette through primers containing overlapping
+         homology (Table&nbsp;4). First, the 5′ flanking region (258bp) was amplified using primers ARP01 and the
+         SOEing primer ARP02, which included homology to the 5′ region of the flaB-aadA PCR product. The flaB-aadA product (1199bp) was amplified using primers ARP03 and the SOEing primer ARP04, which
+         included homology to the 5′ region of the 3′ region PCR product. The 3′ flanking region
+         (1309bp) was amplified using primers ARP05 and ARP06. Each part was gel purified using
+         the Qiagen Gel Extraction Kit (Qiagen Inc., Valencia, CA). SOEing was performed using
+         a 2μl aliquot of each part mixed with 0.5 μl (10 μM) each of primers ARP01 and ARP06
+         to produce a fragment that was 2766bp in length. The resulting mutagenic cassette
+         was cloned into the 3.9kb commercial vector, pCR2.1 TOPO (Invitrogen Corp., Carlsbad,
+         CA) to produce a 7.5 kb suicide vector, “pKH-1”. Plasmid DNA of pKH-1 (5–10 μg) was
+         electroporated into wild-type B. burgdorferi using the previously described protocol [40]. Transformants were selected by plating onto semi-solid BSKII medium (gelatin-free
+         BSKII medium supplemented with 1.7% dissolved agarose and 50 μg/ml streptomycin).
+         Clones that survived antibiotic selection were analyzed by PCR to confirm allele exchange
+         using a combination of primers exterior and interior of the integration site (Table&nbsp;4). PCR was performed to confirm the absence of the arp gene in several potential mutants. Plasmid profiling of Δarp mutants was performed
+         by PCR as previously described [28] to select mutants that contained important plasmids, including cp9 (rev), cp26 (ospC), cp32-1 (BBP33), cp32-2/7 (BBO32), cp32-3 (ospG), cp32-6 (BBM32), cp32-8 (BBL32-34), cp32-9 (BBN32-33), lp17 (BBD12-13), lp21 (BBU06-07),
+         lp25 (pncA), lp28-1 (vlsE), lp28-3 (BBH17), lp28-4 (non-coding region), lp36 (BBK12), lp38 (ospD), lp54 (ospA), and lp56 (BBQ67), using previously published primers [28,41]. One of the Δarp clones (Δarp3) that retained the same complete set of plasmids as
+         the wild-type isolate was used in further experiments.
+      
+      Table 4. Primers for construction of the arp mutagenic cassette and verification of allelic exchange
+      The Δarp3 clone was complemented with a whole lp28-1 plasmid that contained the arp gene and a selection marker for gentamicin (lp28-1-G). This plasmid was knocked in
+         to replace the endogenous lp28-1 (where arp was deleted), as previously published [38]. Plasmid DNA containing lp28-1-G was purified from B. burgdorferi B31-A3-lp28-1-G, electroporated into B31-Δarp3 spirochetes, and then complemented
+         transformants were selected with gentamicin. A series of PCRs using diagnostic primers
+         (Table&nbsp;1) were used to identify clones that had undergone successful plasmid exchange of lp28-1
+         arp::aadA with lp28-1G by confirming the presence of the arp operon. Plasmid profiling was performed and the complemented isolate B31-Δarp3-2.2
+         (Δarp3-lp28-1-G) was used for further analysis.
+      
+      Quantitative PCR
+      DNA was extracted from sub-inoculation site, heart base, ventricular muscle, quadriceps
+         muscle and right tibiotarsus (integument removed), and samples were subjected to real-time
+         Q-PCR. In addition to the site of inoculation, four additional sites were evaluated,
+         based upon previous studies demonstrating that they all become consistently infected
+         [22], but manifest different patterns of inflammation. Heart base is the site where carditis
+         occurs, whereas cardiac ventricular muscle develops minimal or no inflammation [34]. In addition, the tibiotarsal joint typically develops arthritis, whereas the adjacent
+         quadriceps femoris muscle develops minimal or no inflammation [42]. Quantification of gene copies was based upon copy number per mg of tissue weight,
+         as previously described [22]. DNA was extracted from samples using the DNeasy tissue kit, according to the manufacturer’s
+         instructions for tissues or insects (QIAGEN, Valencia, CA). In addition, DNA from
+         B. burgdorferi cultured from mouse tissues was extracted for verification of genetic status of isolates.
+         Three oligonucleotides, two primers and a probe, for the B. burgdorferi flaB and the arp genes were used, as previously described [19].
+      
+      Serology
+      Immune sera were generated in C3H mice inoculated with 105 wild-type, Δarp3, or Δarp3 + lp28-1G spirochetes at 60 days of infection. Infection
+         was verified by culture, and individual sera were tested by enzyme linked immunosorbent
+         assay (ELISA) to verify the appropriate presence or absence of Arp-reactive antibody.
+         Three-fold dilutions (starting at 1:300) of immune sera were titrated by ELISA for
+         antibody to B. burgdorferi B31 lysates and recombinant Arp, as described [11]. Samples were tested in duplicate, and each assay included uninfected mouse serum
+         as a negative control and wild-type infected mouse serum as a positive control.
+      
+      Tick acquisition and transmission
+      Ixodes scapularis ticks were acquired from Durland Fish, Yale University, as a single cohort of larvae
+         from a pathogen-free laboratory-reared colony. In order to determine the ability of
+         ticks to acquire infection, 40 larval ticks were placed on each mouse infected with
+         either wild-type or Δarp3 spirochetes. Replete (fed) ticks were collected as cohorts
+         from each mouse and allowed to harden and molt into nymphal ticks. Randomly selected
+         ticks from each mouse/tick cohort were tested for flaB and arp by Q-PCR. Remaining nymphal ticks in each cohort were placed on naïve C3H mice to
+         assess the relative ability of infected nymphal ticks to transmit wild-type or Δarp3
+         spirochetes.
+      
+      Statistical analysis
+      Multiple comparison analyses were performed using independent samples t-test or one-way analysis of variance, followed by post-hoc pair-wise comparisons
+         (Tukey’s HSD test) (PASW Statistics v. 18.0). Calculated P values ≤ 0.05 were considered significant. The median infectious dose (ID50) was calculated using the method of Reed and Muench [43].
+      
+   
+

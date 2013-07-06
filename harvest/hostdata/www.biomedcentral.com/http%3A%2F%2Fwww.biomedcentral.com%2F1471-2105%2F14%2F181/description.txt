@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					A large-scale, highly accurate, machine-understandable drug-disease treatment relationship knowledge base is important for computational approaches to drug repurposing. The large body of published biomedical research articles and clinical case reports available on MEDLINE is a rich source of FDA-approved drug-disease indication as well as drug-repurposing knowledge that is crucial for applying FDA-approved drugs for new diseases. However, much of this information is buried in free text and not captured in any existing databases. The goal of this study is to extract a large number of accurate drug-disease treatment pairs from published literature.
+
+				
+				
+					
+						Results
+
+					In this study, we developed a simple but highly accurate pattern-learning approach to extract treatment-specific drug-disease pairs from 20 million biomedical abstracts available on MEDLINE. We extracted a total of 34,305 unique drug-disease treatment pairs, the majority of which are not included in existing structured databases. Our algorithm achieved a precision of 0.904 and a recall of 0.131 in extracting all pairs, and a precision of 0.904 and a recall of 0.842 in extracting frequent pairs. In addition, we have shown that the extracted pairs strongly correlate with both drug target genes and therapeutic classes, therefore may have high potential in drug discovery.
+
+				
+				
+					
+						Conclusions
+
+					We demonstrated that our simple pattern-learning relationship extraction algorithm is able to accurately extract many drug-disease pairs from the free text of biomedical literature that are not captured in structured databases. The large-scale, accurate, machine-understandable drug-disease treatment knowledge base that is resultant of our study, in combination with pairs from structured databases, will have high potential in computational drug repurposing tasks.
+
+				
+			
+		

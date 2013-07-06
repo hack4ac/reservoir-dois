@@ -1,0 +1,76 @@
+Methods
+   
+      Plant material and phenotyping
+      The initial germplasm panel consisted of 192 genotyped barley accessions representing
+         a survey of the breeding history of the Mediterranean basin, as well as of NW Europe
+         and was described in full by Comadran et al. (2009).
+      
+      The whole set of accessions was sown in November 2004 in Foradada (Spain, 41°39’N,
+         01°29’E) following an augmented cyclical design with an incomplete block size of 60.
+         Each incomplete block was planted in 5 rows of 12 columns and included 4 checks, each
+         replicated three times with one located in each column in a diagonal fashion at fixed
+         intervals. We used four incomplete blocks to sow one of full replicate of all 192
+         entries and used a fifth incomplete block with a random selection of 48 entries to
+         provide partial replication. The four checks (a local landrace, a local old variety,
+         a local modern variety and the improved variety ‘Rihane’) were used to detect and
+         correct for any spatial variation across rows and column and the partial replication
+         provided an estimate of the trial error. Plots were 6 m2 and were grown according to local management practice in terms of sowing rate, weed
+         and disease control, and fertilizer inputs. Minimum and maximum temperatures were
+         recorded daily during the growing season (Figure&nbsp;1a). Winter survival was evaluated at the end of March 2005 by visual estimation on
+         a 0–5 scale (5 = complete survival), using half-scores when needed, as described in
+         Figure&nbsp;1b [34]. The experiment was repeated in the growing season 2007/08 at Fiorenzuola d’Arda
+         (Italy, 44°55’N, 9°53’E) but differed in that each entry was sown in plots of two
+         1m long rows in a two-replicate randomised complete block design and the same observations
+         were recorded. The entries included the cultivars ‘Nure’ (winter) and ‘Tremois’ (spring),
+         which have been extensively trialled at the research station of Fiorenzuola d’Arda
+         and represent standards of frost tolerance and susceptibility respectively, that can
+         therefore be used to judge the severity of stress.
+      
+      Genotyping
+      As four genotypes (‘Hanna’, ‘Pioneer’, ‘Regina’ and ‘Tipper’) were clearly phenotypically
+         different from what they were expected to be and two (‘Zephyr’ and a Jordanian landrace)
+         were duplicated in the panel, we extracted 186 DNA samples from leaf tissue of two-week-old
+         single plants using the DNeasy Plant DNA miniprep kit (Qiagen, Hilden, Germany), and
+         genotyped them with Barley Oligo Pooled Array 1 (BOPA1, consisting of 1536 SNPs) using
+         the Illumina GoldenGate platform [20]. We adopted the genetic map published with the BOPA1 platform as the genetic framework
+         for the association analyses [20]. Furthermore, genotypes and SNP markers with more than 10% of missing data and minimum
+         allele frequency (MAF) &lt;10% were removed from the dataset and omitted from further
+         analyses, leaving a data set for further analysis consisting of 184 accessions (‘Alexis’
+         and ‘Tichedrett’ were removed) with genotypic data for 1,307 SNPs. The QMVREPLACE
+         procedure, implemented in Genstat v.14 (VSN International), which replaces missing
+         marker scores with one scores from the most similar genotype(s), was used to impute
+         missing genotypic data, using the default values. The Turkish two-rowed facultative
+         line ‘Tokak’ and the elite two-rowed winter line ‘Intro’ are used in the results and
+         discussion sections as reference cultivar genotypes with maximum cold tolerance scores
+         in our trial conditions.
+      
+      Statistical analysis and GWA mapping
+      DARwin v.5.0 [38] (http://darwin.cirad.fr/ webcite) was used to construct a Neighbour Joining Tree from the genotypes of the 184 barley
+         accessions using simple matching of the SNPs. Linkage Disequilibrium and haplotype
+         analyses of the positive SNPs in relation to germplasm clusters were performed with
+         HAPLOVIEW v.4.2 (http://www.broadinstitute.org/haploview/haploview webcite). Best linear unbiased predictions (BLUPs) of the cold resistance for each accession
+         were calculated using the Restricted Maximum Likelihood (REML) directive in Genstat
+         v.14 (VSN International). In the model, checks were fitted as a fixed effect, and
+         columns, rows and test entries were fitted as random effects. From the variance components
+         obtained by REML, repeatability (H2) was estimated as H2 = [σ2g / (σ2g + σ2e)], where σ2e, is the residual variance component and σ2g is the genotypic variance component. The BLUPs for each accession were classified
+         according to their geographic origin, growth habit and ear morphology (Additional
+         file 4 Table S4), the main drivers of genetic divergence of barley germplasm, and tested
+         for significant differences by Analysis of Variance using Genstat v.14 (VSN International).
+         Genome Wide Association Scans (GWAS) were carried out by using a mixed linear model
+         with terms to account for genetic relatedness due to historical population substructure
+         and/or kinship [43]. We therefore used either the Eigenstrat relationship model with PCA scores included
+         as a random matrix that approximates kinship [44] or a kinship matrix [43], again as a random term, to correct for population substructure in the association
+         mapping routines implemented in Genstat v.14 (VSN International). TASSEL v. 3.0 [45] was used to estimate the kinship matrix (K) from a stratified subset of 631 random
+         markers spaced approximately 2cM apart and with unique map positions so that we did
+         not over-estimate sub-population divergence. For comparison, we also conducted GWAS
+         without any correction for population substructure. In all scans, a threshold of (−log10p ≥ 3) was set for identifying significant SNP associations. Significant SNPs mapping
+         within 5 cM of each other were considered as being linked to the same QTL and the
+         highest was chosen as representing the QTL.
+      
+      Additional file 4. Table S4. Germplasm list of the 184 barley lines assembled into the GWAS population providing
+         country and region of origin, growth habit, spike morphology and frost tolerance genotypic
+         means used in this paper.
+         	Format: XLSX 
+         	Size: 20KB Download file or  display content in a new window
+   
+

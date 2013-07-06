@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					In this paper, we consider a system of cognitive radios that collaborate with each other with the aim of detecting the random waveforms being emitted from licensed users. We study the problem of fusing the statistics from collaborating sensors, assuming that they send their statistics to a base station, where the final decision is made. The main contribution of this work is the derivation of a cognitive detector based on the generalized likelihood ratio test and the use of  spatial signatures , a novel concept that allows the detector to capture the spatial correlation inherently embedded in measurements coming from neighboring sensors. The problem is formulated in terms of a model order detection problem, where a set of active and inactive sensors can be distinguished, thus allowing the detector to operate with a rank-reduced version of the observed covariance matrix. Since the estimation of this matrix may be a challenge in large-scale networks, we study the application of  shrinkage  techniques to cope with the problem of having more sensors than available observations. Finally, we analyze the performance of the proposed detection scheme in the presence of log-normal shadowing effects and noise power uncertainties, the latter due to presence of interferences. For the proposed detector, numerical results are drawn, showing a significant gain in performance compared to traditional approaches.
+
+				
+			
+		

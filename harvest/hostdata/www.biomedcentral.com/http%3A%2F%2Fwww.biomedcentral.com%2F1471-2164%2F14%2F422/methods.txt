@@ -1,0 +1,88 @@
+Methods
+   
+      Bacterial selected strains, culture media, growth conditions and isolation of mycobacteria
+         genomic DNA
+      
+      Sixty-one M. tuberculosis clinical isolates were used in this work. The 61 isolates comprised 17 Beijing and
+         44 non-Beijing strains. Among the 17 Beijing strains 8 (NHN5, HM77, HM903, HM764,
+         990172, W4, N4 and CAM22) from Europe were previously selected as representative of
+         this genotype using several typing methods. These 8 strains were selected as they
+         share 80% or more of identity with Beijing strains from Shanghai area, China. The
+         rest of the strains, each representing a different cluster, were selected for their
+         high number copies of IS6110 (ten or more) and were collected from Hospital Universitario Miguel Servet (HMS),
+         Hospital Clínico Universitario Lozano-Blesa (HCU) from Zaragoza and Hospital General
+         San Jorge from Huesca (Spain). Finally, M. tuberculosis H37Rv and M. tuberculosis GC1237 were used as control strains. An internal control, HMS 1301, was included
+         in the study as its IS6110-RFLP is identical to GC1237 control strain. Mycobacterial strains were grown at 37°C
+         in Middlebrook 7H9 broth supplemented with ADC and 0.05% Tween 80. More information
+         of the clinical isolates used in this work is included in Additional file 1: Table S1.
+      
+      Isolation of genomic DNA
+      Genomic DNA of mycobacterial strains was isolated using the CTAB method as previously
+         described by van Soolingen et al. [47].
+      
+      Localization of the copies of IS6110 insertion sequence in the eight Beijing strains selected as representative strains
+         of this genotype
+      
+      The first step of this work was to localize copies of IS6110 in the 8 representative Beijing strains by two methods, both based on PCR. A first
+         research was conducted by Ligation-mediated PCR (LMPCR) as previously described by
+         Prod’hom et al. [48]. Briefly, genomic DNA was digested with SalI enzyme and the digestions were then subjected to PCR with ISA1 or ISA3 specific
+         primers for IS6110 directed outwards [45] and the common linker primer SALGD (Additional file 1: Table S2). PCR products were purified using GFX PCR DNA gel band purification kit
+         (Amersham Pharmacia Biotech) and the restriction enzyme ExoSAP-IT® (Affymetrix). The
+         amplified products were sequenced with the corresponding oligonucleotides and when
+         a match was found, additional primers (Additional file 1: Table S2) were designed and used with the 8 strains to verify whether the point
+         of insertion was present in other of the 8 strains. These primers amplify the completed
+         sequence of IS6110 and approximately 300&nbsp;bp of both flanking sequences (Additional file 1: Table S2).
+      
+      Secondly, PCRs were performed with specific primers (Additional file 1: Table S2), designed in a previous study for amplifying the locations of IS6110 in 210, W [31] and GC1237 strains [10]. PCRs were carried out in a total volume of 25 μl, containing 50&nbsp;ng of DNA, 2.5 μl
+         of 10x PCR buffer, 200 μM dNTPs, 12.5 pmol of each primer and 1 U Taq Gold polymerase
+         (Roche). Before the amplification, the template was initially denatured by incubation
+         at 94°C for 9&nbsp;min then the amplification was performed for 35&nbsp;cycles of 94°C for 30&nbsp;s,
+         corresponding annealing temperature for 30&nbsp;s, and 72°C for 1 to 2&nbsp;min depending on
+         the amplified product. After the last cycle, the samples were incubated at 72°C for
+         10&nbsp;min.
+      
+      The genomes of H37Rv and GC1237 were used as control in both cases.
+      Sequence analysis of points of insertion of IS6110 in the DNA database and in the available literature
+      
+      The points of insertion of IS6110 of the reference sequenced strains: Beijing (210, 02_1987, 94_M4241A, HN878, R1207,
+         T85, X-122, W and W-148 ) and non-Beijing (98-R604 INH-RIF-EM, BTB05-552, BTB05-559,
+         C, CDC1551, CDC1551A, CPHL_A, EAS054, F11, GM 1503, K85, KZN 605, KZN R506, KZN V2475,
+         KZN 1435, KZN 4207, NCGM 2209, str.Haarlem, S96-129, SUMu001, SUMu002, SUMu003, SUMu004,
+         SUMu005, SUMu006, SUMu007, SUMu008, SUMu009, SUMu010, SUMu011, SUMu012, T17, T46 and
+         T92) were obtained comparing the flanking regions of each IS6110 in the genome sequences with the reference strain H37Rv using NCBI genetic sequence
+         database (GeneBank) (http://www.ncbi.nlm.nih.gov/genome/166 webcite).
+      
+      Moreover, available literature was analyzed to identify any further point of insertion
+         of this sequence not described in the DNA database [10,11,13,16-18,22-24,27-35].
+      
+      After this sequence analysis, when a point of insertion of IS6110 of a Beijing strain (of GeneBank or available literature) was found outside of the
+         amplified regions of our primer collection, additional primers were designed and included
+         in the collection (Additional file 1: Table S2). In addition, flanking primers of DK regions [28] were designed to detect whether these frequent locations of IS6110 in LCS were also present in the HCS selected in this study. Moreover, the primers
+         designed for the study of locations of IS6110 in clinical isolates of M. bovis with human host [22] were also included to study whether preferred locations of IS6110 in these M. bovis strains were also present in the selected M. tuberculosis strains.
+      
+      Localization and analysis of copies of IS6110 in the sixty-one selected clinical isolates
+      
+      The localization of copies of IS6110 in the 61 clinical isolates was carried out by PCR as previously describe in this
+         work with all the pairs of oligonucleotides of the generated primer collection (Additional
+         file 1: Table S2). H37Rv and GC1237 were used as external controls and HMS 1301 as internal
+         control as this strain presents the same IS6110-RFLP as GC1237. The 8 representative Beijing strains studied before in this work
+         by LMPCR and specific PCR were again included in this part of the study. The PCR products
+         which might include an IS6110 were sequenced with IS61 and IS62 primers (Additional file 1: Table S2).
+      
+      Determination of direct repeats (DR) and analysis of the flanking regions of each
+         copy of IS6110 in the genomes
+      
+      The DRs generated by the mechanism of the transposition of IS6110 were determined with the sequence analysis of the flanking regions of each copy of
+         IS6110 in the genomes.
+      
+      Dendrogram based on the points of insertion of IS6110
+      The informatic analysis of spoligotyping results is carried out by Bionumerics program
+         and is based in presence/absence or numerical analysis 1/0 of a specific sequence
+         of M. tuberculosis. Based on this idea, all the obtained IS-locations were arranged in columns on an
+         excel sheet and the 61 strains (also the two controls GC1237 and H37Rv) were arranged
+         in rows. When a strain presented a point of insertion, it was given the number 1 and
+         if not, it was assigned the number 0. After that, the data was introduced in SpolDB4
+         database as a new informatic event, included to the IS6110-RFLP and the spoligotyping of each strain and analyzed by Bionumerics program.
+      
+   
+

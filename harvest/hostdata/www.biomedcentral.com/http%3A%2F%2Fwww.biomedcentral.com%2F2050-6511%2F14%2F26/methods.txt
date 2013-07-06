@@ -1,0 +1,138 @@
+Methods
+   
+      This single center study was conducted at Profil Institute for Clinical Research (Chula
+         Vista, CA, USA) and was conducted in accordance with Good Clinical Practice and the
+         principles of the Declaration of Helsinki. The study protocol and subject information
+         were reviewed and approved by Biomedical Research Institute of America investigational
+         reviewer board (San Diego, CA, USA) and all subjects provided written, informed consent
+         prior to start of study-related procedures.
+      
+      Subjects
+      Ten healthy male and female subjects followed by a separate group of 6 subjects with
+         T2DM were enrolled in this study. Enrollment of women was restricted to those who
+         were postmenopausal or surgically sterile. All subjects gave written informed consent
+         prior to participation in any study-related procedures. Healthy subjects were required
+         to be 18–55&nbsp;years of age, and have a body mass index (BMI) of 19.0 to 30.0&nbsp;kg/m2 inclusive. Subjects with T2DM were required to be 30–60&nbsp;years of age, have a BMI
+         of 22–35&nbsp;kg/m2, to be healthy other than having been diagnosed with T2DM at least 6&nbsp;months prior
+         to entry in the study, and to have been maintained on a stable treatment regimen for
+         at least 3&nbsp;months. Diabetic subjects were required to have hemoglobin A1c (HbA1c)
+         ≤10% and fasting plasma glucose &lt;280&nbsp;mg/dL at screening. Participants with diabetes
+         were required to be on a stable treatment regimen using a single oral antidiabetic
+         agent (either sulfonylureas, rosiglitazone, metformin or acarbose) or management by
+         diet and exercise. All T2DM subjects also had to be willing and medically able to
+         discontinue their diabetes medications for up to 72&nbsp;h during each treatment period.
+         Subjects were excluded if they had been taking diuretics, corticosteroids or other
+         medications that might result in electrolyte depletion; had required insulin during
+         the last 3&nbsp;months; had significant renal disease; or if their participation would
+         have resulted in donation of blood in excess of 550&nbsp;mL within an 8-week period.
+      
+      Study design
+      This double-blind, randomized, placebo-controlled, single escalating-dose crossover
+         study was conducted in two parts: Part A consisted of a randomized, dose-escalation
+         in healthy subjects; Part B was of similar design, but conducted in subjects with
+         T2DM and included an evaluation of pharmacodynamics using a 50&nbsp;g oral glucose tolerance
+         test (OGTT).
+      
+      Part A
+      Ten healthy subjects were evaluated in 5 study sessions, each separated by approximately
+         2&nbsp;weeks. At each study session, subjects received either an oral dose of remogliflozin
+         etabonate or placebo after an overnight fast. Remogliflozin etabonate doses were 20&nbsp;mg,
+         50&nbsp;mg, 150&nbsp;mg, 500&nbsp;mg and 1000&nbsp;mg. Over the course of participation in the study,
+         each subject received 4 of the 5 active remogliflozin etabonate doses and 1 dose of
+         placebo (4:1 active to placebo ratio per treatment period). The available safety and
+         PK results from each dosing period were evaluated before proceeding to the next dose
+         level.
+      
+      Part B
+      Six subjects with T2DM received two doses of remogliflozin etabonate and a placebo
+         dose, in a randomized, dose escalating, crossover design, along with an oral glucose
+         load on three study sessions separated by 7–14&nbsp;days. Full PK and safety profiles were
+         measured on Day 1 of each dosing period. The doses selected for this portion of the
+         study, 50&nbsp;mg and 500&nbsp;mg, were based on data obtained in Part A. In each dosing period,
+         subjects were assigned to active vs placebo in a 2:1 ratio.
+      
+      All subjects were admitted to the unit two nights prior to receiving study drug to
+         establish baseline safety parameters and fluid intake levels over a 36&nbsp;h period. Subjects
+         remained in the unit for at least 24&nbsp;h after doses were administered for monitoring
+         of clinical laboratory parameters exploratory biomarkers, vital signs, ECGs and adverse
+         events. While confined to the clinical research unit, all subjects received meals
+         standardized with respect to calories, fat, protein, carbohydrate, and sodium content;
+         however, detailed dietary information was not captured in this study. In Part A, subjects
+         were dosed following an overnight fast; lunch and dinner were provided at 4 and 10&nbsp;h
+         after dosing, respectively. Fifteen&nbsp;minutes after dosing in each treatment period
+         in Part B, a fasting OGTT was performed using 50&nbsp;g glucose (administered as 50&nbsp;g Glucola™).
+         A 50&nbsp;g glucose load was chosen since the OGTT was being performed in subjects already
+         known to have diabetes. The glucose drink was consumed by subjects within approximately
+         5&nbsp;minutes. Blood samples for the measurement of glucose, insulin, and intact glucagon-like
+         peptide 1 (GLP-1) were collected for 24&nbsp;hours following dose administration. Provided
+         that there were no safety or tolerability concerns, subjects were released from the
+         clinic on day 2 of each treatment period until their return for the next treatment
+         or follow-up period. Each subject was involved in the study for approximately 8&nbsp;weeks
+         (from screening to follow-up).
+      
+      Pharmacokinetic assessments
+      Blood collections and analysis
+      On each dosing day, a series of 2.0&nbsp;mL blood samples were collected at pre-dose and
+         10, 20, 30 and 45&nbsp;min, and 1, 1.25, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 16, and 24&nbsp;h post-dose
+         for the determination of remogliflozin etabonate, remogliflozin and GSK279782 in plasma
+         by using high-performance liquid chromatography with tandem mass spectrometry (MS/MS)
+         as described [23].
+      
+      Pharmacokinetic calculations
+      Non-compartmental PK analysis of plasma concentration–time data was performed using
+         WinNonlin Version 4.1 (Pharsight Corporation, Mountainview, CA, USA). The Cmax and Tmax were obtained directly from the data. Areas under the plasma concentration–time curves
+         from time zero to the last quantifiable time point (AUC[0–last]) and extrapolated to infinity (AUC[0–∞]) were calculated using the log-linear trapezoidal method. The terminal plasma elimination
+         rate-constant (λz) was estimated from log-linear regression analysis of the terminal
+         phase of the plasma concentration–time curve, and the T½ was calculated as T½ = ln2/λz. Ratios of AUC(0–∞) remogliflozin to AUC(0–last) remogliflozin etabonate were calculated including molecular weight corrections.
+      
+      Pharmacodynamic assessments
+      Plasma pharmacodynamics
+      Blood samples for glucose were taken at 0 (pre-dose), and 1, 2, 4, 8 and 12&nbsp;h after
+         dosing in each treatment period (Part A). For Part B, blood samples for glucose, insulin
+         and GLP-1 were taken at check-in on day -2, and at 0 h (pre-dose), and 0.5, 1, 1.5,
+         2, 4&nbsp;h (prior to lunch), 4.5, 5, 6, 8, 10, 12 and 24&nbsp;h after dosing on day 1 of each
+         treatment period.
+      
+      Glucose and insulin sample handling
+      For glucose, plasma was analyzed using a YSI 2300 Glucose Analyzer (Yellow Springs
+         International Life Sciences, Yellow Springs, OH, USA). For insulin, plasma was rapidly
+         prepared and frozen at -70°C until analyzed by LabCorp (San Diego, CA, USA) using
+         a chemiluminescent immunometric assay method (Siemen’s Immulite 2000 analyzer with
+         Immulite Insulin Kit L2KIN2).
+      
+      GLP-1 sample handling
+      For assay of intact GLP-1, blood was collected into a chilled EDTA tube and protease
+         inhibitors (DPP4 inhibitor obtained from EMD Millipore, St. Charles, MO) were immediately
+         added. Samples were then spun down and plasma split into two separate tubes and frozen
+         at -70°C until analyzed by Pathway Diagnostics (Malibu, CA, USA) by ELISA (kit # EGLP-35&nbsp;K,
+         EMD Millipore). The lowest level of intact GLP-1 this assay can detect is 2 pM (with
+         a minimum plasma sample size of 0.4&nbsp;mL).
+      
+      Urine pharmacodynamics
+      Sample collection
+      Urine samples were collected at pre-dose, and over a series of intervals (0–2, 2–4,
+         4–6, 6–8, 8–12 and 12–24&nbsp;h post-dose) for the analysis of creatinine, glucose and
+         electrolytes (Na, K and Cl). All fluid intake was recorded, as well as urine volume,
+         over the 24&nbsp;hours before and after dosing in each treatment period. Urine was tested
+         for protein on the first morning void of day -1 and 24&nbsp;h after dosing.
+      
+      Calculations
+      Creatinine clearance (CLCR) was calculated as the amount of creatinine excreted in 24&nbsp;h (Ae0–24 h) divided by the mean of the pre-dose and 24-h post-dose plasma creatinine levels.
+         The percentage of filtered glucose excreted in the urine for each individual time
+         period was calculated as the amount of glucose excreted during that time period divided
+         by (CLCR × PG × time interval length), where CLCR is the creatinine clearance for the time interval, PG is the plasma glucose concentration
+         closest to the midpoint of the time interval, and the time interval is the period
+         (min) of urine collection (CLCR × PG represents the glucose filtered load). For the 24-h period, the percentage of
+         filtered glucose excreted was calculated as the amount of glucose excreted over 24&nbsp;h
+         divided by the sum over the individual time intervals of (CLCR × PG × time interval length).
+      
+      Statistical analysis
+      Safety and pharmacodynamic data were summarized using descriptive statistics. This
+         was a small exploratory study and no formal hypothesis-testing was conducted. Dose
+         proportionality with respect to Cmax, and AUC was assessed using the power model y = α doseβ, where y = Cmax or AUC, and α denotes a random subject effect. The exponent β in the power model
+         will be estimated by regressing the loge-transformed PK parameters on loge dose, i.e. ln(PK parameter) = ln(α) + β * ln(dose). Dose proportionality implied
+         that β = 1 and was assessed by estimating β and its corresponding 90% confidence interval.
+         The power model was fitted by restricted maximum likelihood using SAS Proc Mixed.
+      
+   
+

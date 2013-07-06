@@ -1,0 +1,1321 @@
+Methods
+   
+      The proposed algorithm can be briefly summarised as follows. We first take the list
+         of candidate outliers to be those experimental samples whose expressions are larger
+         than the maximum expression of control samples. For the situation when control samples
+         also contain outliers, see section ‘’Allowing control samples to contain outliers
+         for a description of the necessary extension. The samples in the candidate list are
+         sorted in an ascending order. The algorithm then updates the tight cluster of non-outliers
+         by testing sequentially the samples in the updated candidate list of outliers. The
+         test is terminated when a significant deviation between a candidate sample and the
+         tight cluster is detected. We now give the steps in more statistical detail. First,
+         let us introduce some notation. Let x denote the control samples and y the experimental samples of a gene or a probe set (we drop the gene subscript i for simplicity). The proposed DOG algorithm has the following steps: 
+      
+      1. Candidate outlier: Given the union of x and y, z≡x∪y, we divide z into the candidate outlier set z+=⇑{zj+∈z|zj+&gt; max(x)} and the non-outlier set 
+         				
+            
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               =
+               {
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ∈
+               z
+               |
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ≤
+               max
+               (
+               x
+               )
+               }
+             where ⇑ sorts the elements of a set in an ascending order.
+      
+      2. Detection: Given a critical tail probability α and the corresponding threshold tα[24]. The first element in z+, 
+         				
+            
+               
+                  
+                     z
+                  
+                  
+                     1
+                  
+                  
+                     +
+                  
+               
+            , is classified as the first outlier if 
+      
+      
+         
+               
+                  
+                     t
+                     =
+                     
+                        
+                           
+                              
+                                 z
+                              
+                              
+                                 1
+                              
+                              
+                                 +
+                              
+                           
+                           −
+                           μ
+                        
+                        
+                           σ
+                        
+                     
+                     &gt;
+                     
+                        
+                           t
+                        
+                        
+                           α
+                        
+                     
+                  
+               
+         
+      
+       in which case the algorithm terminates and z+ is the set of outliers. We use a default value of α=0.05. The parameters μ and σ2 are posterior mean and posterior variance derived of the tight cluster. Details of
+         estimating μ and σ are given below.
+      
+      3. Absorption: On the other hand if t≤tα, we move z1+ to the tight cluster of non-outliers, z−←z−∪z1+ and z+←z+∖z1+.
+      
+      4. Estimating the parameters of the tight cluster: The parameters μ and β=σ−2 are updated using iterative Bayesian learning, i.e., by maximising the posterior probability 
+         				[24]. Given 
+         				
+            
+               z
+               ∼
+               N
+               (
+               μ
+               ,
+               1
+               /
+               β
+               )
+             with conjugate priors 
+         				
+            
+               μ
+               ∼
+               N
+               (
+               
+                  
+                     μ
+                  
+                  
+                     0
+                  
+               
+               ,
+               1
+               /
+               
+                  
+                     σ
+                  
+                  
+                     0
+                  
+                  
+                     2
+                  
+               
+               )
+             and σ2=1/β∼IG(a,b), the log-posterior is 
+      
+      
+         
+               
+                  
+                     
+                        
+                           log
+                           P
+                           (
+                           θ
+                           |
+                           
+                              
+                                 z
+                              
+                              
+                                 −
+                              
+                           
+                           ,
+                           α
+                           )
+                           ∝
+                           log
+                           ℒ
+                           (
+                           
+                              
+                                 z
+                              
+                              
+                                 −
+                              
+                           
+                           |
+                           μ
+                           ,
+                           
+                              
+                                 σ
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           +
+                           log
+                           IG
+                           (
+                           
+                              
+                                 σ
+                              
+                              
+                                 2
+                              
+                           
+                           |
+                           a
+                           ,
+                           b
+                           )
+                        
+                     
+                     
+                        
+                           
+                           +
+                           log
+                           N
+                           (
+                           μ
+                           |
+                           
+                              
+                                 μ
+                              
+                              
+                                 0
+                              
+                           
+                           
+                              
+                                 σ
+                              
+                              
+                                 0
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                        
+                     
+                  
+               (2)
+      
+      where 
+      
+         
+               
+                  
+                     
+                        
+                           
+                              log
+                              ℒ
+                              (
+                              
+                                 
+                                    z
+                                 
+                                 
+                                    −
+                                 
+                              
+                              |
+                              μ
+                              ,
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    2
+                                 
+                              
+                              )
+                              ∝
+                              log
+                              β
+                              /
+                              2
+                              −
+                              
+                                 
+                                    ∑
+                                 
+                                 
+                                    
+                                       
+                                          z
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    ∈
+                                    
+                                       
+                                          z
+                                       
+                                       
+                                          −
+                                       
+                                    
+                                 
+                              
+                              β
+                              
+                                 
+                                    (
+                                    
+                                       
+                                          z
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    −
+                                    μ
+                                    )
+                                 
+                                 
+                                    2
+                                 
+                              
+                              /
+                              2
+                           
+                        
+                        
+                           
+                              log
+                              IG
+                              (
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    2
+                                 
+                              
+                              |
+                              a
+                              ,
+                              b
+                              )
+                              ∝
+                              a
+                              log
+                              b
+                              +
+                              (
+                              a
+                              +
+                              1
+                              )
+                              log
+                              β
+                              −
+                              bβ
+                           
+                        
+                        
+                           
+                              log
+                              N
+                              (
+                              μ
+                              |
+                              
+                                 
+                                    μ
+                                 
+                                 
+                                    0
+                                 
+                              
+                              ,
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    0
+                                 
+                                 
+                                    2
+                                 
+                              
+                              )
+                              ∝
+                              −
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    0
+                                 
+                                 
+                                    2
+                                 
+                              
+                              
+                                 
+                                    (
+                                    μ
+                                    −
+                                    
+                                       
+                                          μ
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                    )
+                                 
+                                 
+                                    2
+                                 
+                              
+                              /
+                              2
+                           
+                        
+                     
+                  
+               
+         
+      
+       and θ=(μ,β) and 
+         				
+            
+               α
+               =
+               (
+               
+                  
+                     μ
+                  
+                  
+                     0
+                  
+               
+               ,
+               
+                  
+                     σ
+                  
+                  
+                     0
+                  
+                  
+                     2
+                  
+               
+               ,
+               a
+               ,
+               b
+               )
+            . Suppose n is the number of expressions in the tight cluster for the current iteration. For
+         simplicity, we set μ0=med(z−), a=1, b is set to be the maximum variance of expressions calculated gene by gene. To simplify
+         the notation, we let 
+         				
+            
+               
+                  
+                     β
+                  
+                  
+                     0
+                  
+               
+               =
+               
+                  
+                     σ
+                  
+                  
+                     0
+                  
+                  
+                     −
+                     2
+                  
+               
+            . β0 is updated recursively but we set its initial value to be 
+         				
+            
+               
+                  
+                     β
+                  
+                  
+                     0
+                  
+                  
+                     (
+                     1
+                     )
+                  
+               
+               =
+               0
+               .
+               1
+            . The maximum a posteriori probability procedure then gives the updates 
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              μ
+                              =
+                              
+                                 
+                                    β
+                                    
+                                       
+                                          ∑
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    
+                                       
+                                          z
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    +
+                                    
+                                       
+                                          β
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                    
+                                       
+                                          μ
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                 
+                                 
+                                    βn
+                                    +
+                                    
+                                       
+                                          β
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                 
+                              
+                              ;
+                              
+                              1
+                              /
+                              β
+                              =
+                              
+                                 
+                                    
+                                       
+                                          ∑
+                                       
+                                       
+                                          j
+                                       
+                                    
+                                    
+                                       
+                                          (
+                                          
+                                             
+                                                z
+                                             
+                                             
+                                                j
+                                             
+                                          
+                                          −
+                                          μ
+                                          )
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    +
+                                    2
+                                    b
+                                 
+                                 
+                                    n
+                                    +
+                                    2
+                                    a
+                                    +
+                                    2
+                                 
+                              
+                              ;
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    z
+                                 
+                                 
+                                    j
+                                 
+                              
+                              ∈
+                              
+                                 
+                                    z
+                                 
+                                 
+                                    −
+                                 
+                              
+                              
+                              1
+                              /
+                              
+                                 
+                                    β
+                                 
+                                 
+                                    0
+                                 
+                              
+                              =
+                              
+                                 
+                                    
+                                       
+                                          (
+                                          μ
+                                          −
+                                          
+                                             
+                                                μ
+                                             
+                                             
+                                                0
+                                             
+                                          
+                                          )
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    /
+                                    2
+                                    +
+                                    b
+                                 
+                                 
+                                    a
+                                    +
+                                    1
+                                 
+                              
+                              
+                              .
+                           
+                        
+                     
+                  
+               
+         
+      
+       Repeat 3 and 4 until the first outlier (with the lowest expression) is detected or
+         until all candidate outliers have been classified as non-outliers.
+      
+      5. Classification: A gene for which the set z+ is non-empty is classified as a hDEG.
+      
+      The summary statistic for a gene is taken to be the average of the outlier statistics
+         
+         				
+            
+               
+                  
+                     ∑
+                  
+                  
+                     j
+                     ∈
+                     
+                        
+                           z
+                        
+                        
+                           +
+                        
+                     
+                  
+               
+               
+                  
+                     t
+                  
+                  
+                     j
+                  
+               
+               /
+               |
+               
+                  
+                     z
+                  
+                  
+                     +
+                  
+               
+               |
+            . We use the average as opposed to the sum of outlier contributions as we prioritise
+         the detection of hDEGs with few outliers.
+      
+      Remark 1
+      We allow the hyperparameters μ0 to be evaluated directly from the dataset. We set 
+         					
+            
+               
+                  
+                     β
+                  
+                  
+                     0
+                  
+                  
+                     (
+                     1
+                     )
+                  
+               
+             to be 0.1, β0 is then updated iteratively in the algorithm. We desire the tight cluster variance
+         prior to be densely distributed around the small values, thus we choose a=1 and b to be the maximum gene sample variance. In practice, we found that a large b and a small a≤1 optimise detection rates.
+      
+      Remark 2
+      It is clear that for a finite replicate number, the difference in mean and variance
+         of the tight cluster at two sequential steps are bounded. Asymptotically, as the sample
+         size increases at each iteration, these differences converge toward zero since the
+         posterior mean and variance converge toward the sample mean and variance and the tight
+         cluster only absorbs probable null samples. This then guarantees asymptotic algorithmic
+         convergence. Convergence of parameters in step 4 for each iteration follow from standard
+         Bayesian results 
+         					[25].
+      
+      Cumulative Matthews correlation coefficient
+      We compare COPA, OS, ORT, MOST and LSOSS using the cumulative Matthews correlation
+         coefficient (cMCC) which is the area under Matthews correlation coefficient (MCC,
+         
+         					[26,27]) in the interval 
+         					
+            
+               [
+               0
+               ,
+               
+                  
+                     p
+                  
+                  
+                     ∗
+                  
+               
+               ]
+            : 
+      
+      
+         
+               
+                  
+                     
+                        ρ
+                     
+                     ̄
+                  
+                  =
+                  
+                     
+                        ∫
+                     
+                     
+                        0
+                     
+                     
+                        
+                           
+                              p
+                           
+                           
+                              ∗
+                           
+                        
+                     
+                  
+                  
+                     
+                        ρ
+                     
+                     
+                        p
+                     
+                  
+                  dp
+                  ,
+               (3)
+      
+      the MCC ρp is defined as: 
+      
+      
+         
+               
+                  
+                     
+                        
+                           ρ
+                        
+                        
+                           p
+                        
+                     
+                     
+                     =
+                     
+                     
+                        
+                           T
+                           
+                              
+                                 P
+                              
+                              
+                                 p
+                              
+                           
+                           ×
+                           T
+                           
+                              
+                                 N
+                              
+                              
+                                 p
+                              
+                           
+                           −
+                           F
+                           
+                              
+                                 P
+                              
+                              
+                                 p
+                              
+                           
+                           ×
+                           F
+                           
+                              
+                                 N
+                              
+                              
+                                 p
+                              
+                           
+                        
+                        
+                           
+                              
+                                 (
+                                 T
+                                 
+                                    
+                                       P
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 
+                                 +
+                                 
+                                 F
+                                 
+                                    
+                                       P
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 )
+                                 (
+                                 T
+                                 
+                                    
+                                       P
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 
+                                 +
+                                 
+                                 F
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 )
+                                 (
+                                 T
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 +
+                                 F
+                                 
+                                    
+                                       P
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 )
+                                 (
+                                 T
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 +
+                                 F
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       p
+                                    
+                                 
+                                 )
+                              
+                           
+                        
+                     
+                  
+               
+         
+      
+       Here, TPp, TNp, FPp and FNp represent the numbers of true positives (true hDEGs), true negatives (true non-hDEGs),
+         false positives and false negatives respectively. These four quantities are determined
+         based on a pre-defined critical p-value, i.e. p∈(0,p⋆].
+      
+      Total classification accuracy
+      The total classification accuracy is defined as 
+      
+         
+               
+                  
+                     
+                        T
+                        
+                           
+                              N
+                           
+                           
+                              p
+                           
+                        
+                        +
+                        T
+                        
+                           
+                              P
+                           
+                           
+                              p
+                           
+                        
+                     
+                     
+                        T
+                        
+                           
+                              N
+                           
+                           
+                              p
+                           
+                        
+                        +
+                        T
+                        
+                           
+                              F
+                           
+                           
+                              P
+                           
+                        
+                        +
+                        T
+                        
+                           
+                              P
+                           
+                           
+                              p
+                           
+                        
+                        +
+                        F
+                        
+                           
+                              P
+                           
+                           
+                              p
+                           
+                        
+                     
+                  
+               (4)
+      
+      where TPp, TNp, FPp and FNp have been defined above.
+      
+      Receiver operating characteristic (ROC) analysis
+      Receiver Operating Characteristic (ROC) 
+         					[28] analysis has been used widely in outlier detection 
+         					[11-13] for evaluating a classification model when varying the classification threshold,
+         thus it is a useful tool for analysing the robustness of a classifier. As the threshold
+         varies, the sensitivity 
+         					
+            
+               
+                  
+                     
+                        
+                           T
+                           
+                              
+                                 P
+                              
+                              
+                                 p
+                              
+                           
+                        
+                        
+                           T
+                           
+                              
+                                 P
+                              
+                              
+                                 p
+                              
+                           
+                           +
+                           F
+                           
+                              
+                                 N
+                              
+                              
+                                 p
+                              
+                           
+                        
+                     
+                  
+               
+             and the false positive rate 
+         					
+            
+               
+                  
+                     1
+                     −
+                     
+                        
+                           T
+                           
+                              
+                                 N
+                              
+                              
+                                 p
+                              
+                           
+                        
+                        
+                           T
+                           
+                              
+                                 N
+                              
+                              
+                                 p
+                              
+                           
+                           +
+                           F
+                           
+                              
+                                 P
+                              
+                              
+                                 p
+                              
+                           
+                        
+                     
+                  
+               
+             change accordingly. The ROC curve is then generated by linking all the pairs of false
+         positive rates and sensitivities corresponding to a set of thresholds. The ROC curve
+         of a desirable classifier is close to the top-left corner. In particular, we limit
+         the false positive rate to less and equal to 5% as rates above this correspond to
+         critical p values that are too large to be of practical relevance. We also calculate the area
+         under a ROC curve (AUC) for quantitative evaluation. A large AUC value of close to
+         1 indicates a good classifier. As we truncate the false positive rate at an upper
+         limit of 5%, we scale the AUC by this limit so that the best possible partial AUC
+         value is one.
+      
+      Allowing control samples to contain outliers
+      In order for DOG to detect hDEGs when outliers are present in control samples, we
+         can modify it slightly. Rather than using 
+         					
+            
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               =
+               {
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ∈
+               z
+               |
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ≤
+               max
+               (
+               x
+               )
+               }
+             in the first step of the algorithm, we can use instead the rth (default is 90th) percentile of the control samples as the separation between samples belonging to
+         the tight cluster and candidate outliers. Suppose the 90th percentile of the control samples is denoted by ς, the selection of zj− now follows 
+         					
+            
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               =
+               {
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ∈
+               z
+               |
+               
+                  
+                     z
+                  
+                  
+                     j
+                  
+                  
+                     −
+                  
+               
+               ≤
+               ς
+               }
+            . In practice, the rth percentile can be specified subjectively by the modeller.
+      
+      Significance analysis for real data
+      Existing literature on algorithms such as COPA, OS and ORT typically omits statistical
+         significance when analysing real data. Here we propose a simple method for significance
+         analysis. We assume that control samples contain no outliers. For each algorithm,
+         we create new control and experimental replicates of a gene under the null hypothesis
+         by sampling with replacement from only the control expressions of that gene. This
+         is repeated 100 times to augment the set of null control and experimental samples.
+         The null t statistics are then calculated for all genes. The p value for each gene is then calculated as the proportion of null statistics across
+         all genes that exceed its observed t statistic.
+      
+      Experimental design
+      We first look at two simulated scenarios for comparing the algorithms. For both scenarios,
+         the tight cluster of control samples and non-outlier experimental samples are drawn
+         randomly from a Gaussian distribution with a mean of ten and a standard deviation
+         of one. Both control and experimental categories have 30 replicates. The outliers
+         are generated by adding distances to the maximum expression of the tight cluster.
+         The distances are called marginal null-outlier distances in that such a distance measures
+         the gap between the tight cluster and the first outlier which is closest to the tight
+         cluster. The marginal oull-outlier distances are sampled from a Gaussian distribution
+         centered at two and with a standard deviation 0.2. Similar to examples seen in 
+         					[10], we generate 10,000 non-DEGs which gives us 10,000 null t statistics and corresponding p-values for the hDEGs. This approach is applied to each algorithm. All simulations
+         are repeated 100 times. In the first scenario, we evaluate the algorithms for a single
+         hDEG. In addition, we vary the number of outliers from one to nine. In the second
+         scenario, we generate 50 non-DEGs and 50 hDEGs and vary the number of outliers from
+         one to five. We also look at extensions of the single-hDEG experiment for testing
+         DOG with regard to deviations from the model assumptions. We then apply the algorithms
+         to the histological breast cancer dataset (GDS3139 - 
+         					[29]) which was downloaded from the gene expression omnibus (GEO, http://www.ncbi.nlm.nih.gov/geo webcite). It contains 22,283 genes for 14 breast cancer patients and 15 non-cancer women.
+         The age of non-cancer women was matched with that of cancer patients. For evaluation
+         and comparison of algorithms, we use the cumulative Matthews correlation coefficient
+         (cMCC) and the total classification accuracy (with a critical p-value threshold of 0.01). We also carry out receiver operating characteristic (ROC)
+         analysis 
+         					[28] for variable critical p-value thresholds. Details of cMCC and ROC analyses have been given above.
+      
+   
+

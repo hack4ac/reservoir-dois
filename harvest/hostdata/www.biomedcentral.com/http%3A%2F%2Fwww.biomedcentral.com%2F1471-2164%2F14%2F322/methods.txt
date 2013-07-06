@@ -1,0 +1,114 @@
+Methods
+   
+      Plant material
+      Resistant and susceptible soybean genotypes to M. javanica, PI 595099 (PI) and BRSMG 250 ‘Nobreza’, respectively, were used to assess the RKN-induced
+         changes during incompatible and compatible reactions. The main resistance sources
+         that compose PI 595099 pedigree are shown in Additional files 5 and 6.
+      
+      Additional file 5. Genealogic tree of soybean line PI 595099. The ancestors presented in the genealogy of the soybean line PI 595099 are published
+         in Crop Science from 1964 to 1997.
+         	Format: JPEG 
+         	Size: 133KB Download file or  display content in a new window
+      Additional file 6. Reaction of the main soybean genotypes used as source of resistance to Meloidogyne javanica, M. incognita and M. arenaria in PI 595099 pedigree. 1 Resistant; 2 Moderately resistant; 3 Susceptible.
+         	Format: TIFF 
+         	Size: 104KB Download file or  display content in a new window
+      Nematode inoculation
+      Soybean seed was sown in sterilized sand (120°C for 30&nbsp;min) and germinated in an acclimatized
+         chamber under a 16-hour-photoperiod at 27 ± 2°C. After a 72&nbsp;h period the plantlets
+         were transplanted to test pots containing 300&nbsp;mL of sterile substrate (2 soil: 1 sand).
+         Eight days after transplanting the soybean plants were inoculated with 500&nbsp;J2 of M. javanica per plant.
+      
+      Histological experiments
+      Five infected soybean root samples were randomly collected from each time point (1,
+         2, 4, 6 and 8 DAI) and stained with industrial food colorant [69]. The presence of juveniles in the roots was registered through a stereo microscope
+         (SQF-F; Tecnival, Argentina) with a 30x magnification and statistically analyzed according
+         to a generalized linear model (GLM) with Poisson error as a function of time point
+         and genotype. In addition, gall number, egg masses and total population were estimated
+         after 45&nbsp;days of inoculation in each genotype in order to evaluate the nematode reproduction.
+         The experiment was performed as a randomized complete block design with five replications
+         per period. The averages between genotypes were compared in relation to gall number,
+         egg masses and number of J2 and eggs (total population). Statistical analysis was carried out using the free
+         R programming language (http://www.r-project.org/ webcite) with significance level of 5%, and the averages were compared using Kruskal-Wallis
+         non-parametric method.
+      
+      Pyrosequencing
+      Root sections of five independent biological replicates, from soybean resistant line
+         PI 595099 inoculated and mock-inoculated with 500&nbsp;J2 of M. javanica, were collected at each time point (0, 6, 12&nbsp;h, 1, 2, 4, 6 and 8 DAI). Mock-inoculated
+         roots were treated the same as inoculated roots except no J2 nematodes were added and RNA samples were taken from soybean roots of both treatments.
+         Tissues of all time intervals were pooled and total RNA was extracted using Trizol
+         reagent (Invitrogen Life Technologies, Ambion®, UK) according to the manufacturer’s
+         instructions. The single RNA pool of both inoculated and mock-inoculated control samples
+         was then subjected to large-scale pyrosequencing using a 454 GLX titanium sequencer
+         employing a single run. We deposited the raw sequence data in SRA, under accession
+         number SRA069880. Transcript sequences cited in the manuscript are already included
+         in the public database Phytozome, Glycine max reference genome release 1.0 (http://www.phytozome.net webcite).
+      
+      Assembly of transcript reads
+      Raw 454 sequencing reads were processed with est2assembly pipeline [16] and the assembly of transcript reads was carried out by a guided assembly approach
+         using the soybean reference genome [70]. Mapping against the reference genome was done using the PASA software [17]. Additionally, for the non–aligned EST sequences a de novo transcript assembly was performed with Mira Assembler 3.4.0 using default parameters
+         and the resulting clusters were used as input for a second PASA run.
+      
+      Gene expression analyses
+      Gene expression analysis was carried out using the “gene counts” obtained by summing
+         the number of sequences mapping to exons within each gene model in the Glyma 1.0 Soybean
+         reference genome release at Phytozome. For genes with multiple transcripts, we took
+         only one transcript to represent the gene. For the contrast of the gene counts between
+         inoculated and mock-inoculated samples we applied a statistical test implemented in
+         the glm edgeR software [20,71], which uses a negative binomial distribution to model the digital gene expression
+         across conditions based on generalized linear models (glms) suitable for multifactor
+         experiments of any complexity. Genes possibly undergoing transcriptional changes were
+         selected within a raw p–value cutoff of 0.1 and imposing that the sum of the gene
+         counts to each gene were greater or equal to 5.
+      
+      Aware that the absence of sequenced mRNA sample replicates (technical or biological)
+         implies in limitations to test differential expression based on sequence data we looked
+         for indications that the sequence data regarding the “gene counts” fitted very properly
+         by 1) carry out a descriptive analysis of the sequence data to obtain indications
+         that those gene counts were, for each sample, correlated at some acceptable level
+         so that the comparisons across treatments within the only one sequencing run show
+         small deviations from uniformity; 2) admit a reasonable estimation of global biological
+         variation (BCV) across all genes, then insert these estimation as the dispersion (BCV^2)
+         into the edgeR data object containing the experiment design matrix; 3) proceed to
+         statistical model fitting, and 4) isolate a large subset of genes based on raw p-values
+         to perform a ranked analysis of fold changes in association with gene ontology (GO)
+         terms.
+      
+      Functional annotation
+      Comparative analyses for functional annotation were carried out using the soybean
+         gene coordinates taken from Phytozome v7.0. When necessary, manual annotation of selected
+         genes was performed by transferring best similarity search results using the program
+         BLAST [72] against Arabidopsis proteins obtained from The Arabidopsis Information Resource blast
+         datasets (TAIR 10). For selected gene families specialized databases, like Pfam [73] and PeroxiBase [44], were used to improve annotation.
+      
+      Mapping between Phytozome’s gene model identifiers and GO terms was performed using
+         Glycine max GO annotation file downloaded from agriGO download center [74] and Biomart resource at Phytozome. FUNC package [21] was used for detecting significant associations between PI 595099 gene sets and GO
+         annotations. Additional redundancy removal and visualization of significant associations
+         was performed using the web tool REViGO [22].
+      
+      In order to capture prominent functional patterns we also categorized the set of differentially
+         expressed genes based on the presence of domains annotated according to Pfam classification
+         [73] using the InterproScan software. Pfam signatures were mapped to GO terms to detect
+         cases of strict functional implications of sets of predicted domains using the Pfam2GO
+         mapping of external classification systems to GO provided by the Gene Ontology Consortium
+         [75]. When the mapping was not obtained thorugh these means, we used data about recorded
+         unintegrated domains as provided by SuperFamily [76] or Panther [77] databases to infer the GO annotation.
+      
+      Internet resources
+      Phytozome, http://www.phytozome.net webcite (May 23, 2011)
+      
+      Cytochrome P450 database, http://drnelson.uthsc.edu/CytochromeP450.html webcite (May 23, 2011)
+      
+      PeroxiBase, http://peroxibase.toulouse.inra.fr webcite (May 23, 2011)
+      
+      PredGPI, http://gpcr2.biocomp.unibo.it/gpipe webcite (May 23, 2011)
+      
+      SignalP, http://www.cbs.dtu.dk/services/SignalP webcite (May 23, 2011)
+      
+      agriGO, http://bioinfo.cau.edu.cn/agriGO webcite (May 23, 2011)
+      
+      REViGO, http://revigo.irb.hr webcite (May 23, 2011)
+      
+      Soybase, http://www.soybase.org webcite (Oct 31, 2012)
+      
+   
+

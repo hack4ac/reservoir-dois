@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					It has been reported that hyperglycemia following hypoglycemia produces an ischemia-reperfusion-like effect in type 1 diabetes. In this study the possibility that GLP-1 has a protective effect on this phenomenon has been tested.
+
+				
+				
+					
+						Methods
+
+					15 type 1 diabetic patients underwent to five experiments: a period of two hours of hypoglycemia followed by two hours of normo-glycemia or hyperglycemia with the concomitant infusion of GLP-1 or vitamin C or both. At baseline, after 2 and 4 hours, glycemia, plasma nitrotyrosine, plasma 8-iso prostaglandin F2alpha, sCAM-1a, IL-6 and flow mediated vasodilation were measured.
+
+				
+				
+					
+						Results
+
+					After 2 h of hypoglycemia, flow mediated vasodilation significantly decreased, while sICAM-1, 8-iso-PGF2a, nitrotyrosine and IL-6 significantly increased. While recovering with normoglycemia was accompanied by a significant improvement of endothelial dysfunction, oxidative stress and inflammation, a period of hyperglycemia after hypoglycemia worsens all these parameters. These effects were counterbalanced by GLP-1 and better by vitamin C, while the simultaneous infusion of both almost completely abolished the effect of hyperglycemia post hypoglycemia.
+
+				
+				
+					
+						Conclusions
+
+					This study shows that GLP-1 infusion, during induced hyperglycemia post hypoglycemia, reduces the generation of oxidative stress and inflammation, improving the endothelial dysfunction, in type 1 diabetes. Furthermore, the data support that vitamin C and GLP-1 may have an additive protective effect in such condition.
+
+				
+			
+		

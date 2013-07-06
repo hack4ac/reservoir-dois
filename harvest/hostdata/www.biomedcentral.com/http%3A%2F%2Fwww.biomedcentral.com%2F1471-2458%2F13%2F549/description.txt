@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Southeast Asia has been identified as a potential epicentre of emerging diseases with pandemic capacity, including highly pathogenic influenza. Cambodia in particular has the potential for high rates of avoidable deaths from pandemic influenza due to large gaps in health system resources. This study seeks to better understand the course and cost-of-illness for cases of highly pathogenic avian influenza in Cambodia.
+
+				
+				
+					
+						Methods
+
+					We studied the 18 laboratory-confirmed cases of avian influenza subtype H5N1 identified in Cambodia between January 2005 and August 2011. Medical records for all patients were reviewed to extract information on patient characteristics, travel to hospital, time to admission, diagnostic testing, treatment and disease outcomes. Further data related to costs was collected through interviews with key informants at district and provincial hospitals, the Ministry of Health and non-governmental organisations. An ingredient-based approach was used to estimate the total economic cost for each study patient. Costing was conducted from a societal perspective and included both financial and opportunity costs to the patient or carer. Sensitivity analysis was undertaken to evaluate potential change or variation in the cost-of-illness.
+
+				
+				
+					
+						Results
+
+					Of the 18 patients studied, 11 (61%) were under the age of 18 years. The majority of patients (16, 89%) died, eight (44%) within 24 hours of hospital admission. There was an average delay of seven days between symptom onset and hospitalisation with patients travelling an average of 148 kilometres (8-476 km) to the admitting hospital. Five patients were treated with oseltamivir of whom two received the recommended dose. For the 16 patients who received all their treatment in Cambodia the average per patient cost of H5N1 influenza illness was US$300 of which 85.0% comprised direct medical provider costs, including diagnostic testing (41.2%), pharmaceuticals (28.4%), hospitalisation (10.4%), oxygen (4.4%) and outpatient consultations (0.6%). Patient or family costs were US$45 per patient (15.0%) of total economic cost.
+
+				
+				
+					
+						Conclusion
+
+					Cases of avian influenza in Cambodia were characterised by delays in hospitalisation, deficiencies in some aspects of treatment and a high fatality rate. The costs associated with medical care, particularly diagnostic testing and pharmaceutical therapy, were major contributors to the relatively high cost-of-illness.
+
+				
+			
+		

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Several factors may influence kinetic data measurements, including body conformation and body mass. In addition, gender differences in gait pattern have been observed in healthy humans. Therefore, the aim of this study was to compare the kinetic and temporospatial parameters in clinically healthy male and female cats using a pressure-sensitive walkway. Eighteen crossbreed adult cats were divided into two groups: G1 had ten male cats (nine neutered) aged from 1 to 4 years and body mass 3.1-6.8 kg; G2 had eight spayed female cats, aged from 1 to 6 years and body mass 3.3-4.75 kg. The data from the first five valid trials were collected for each cat. A trial was considered valid if the cat maintained a velocity between 0.54-0.74 m/s and acceleration from -0.20 to 0.20 m/s 2 . The peak vertical force (PVF), vertical impulse (VI), gait cycle time, stance time, swing time, stride length, and percentage body weight distribution among the four limbs were determined. In addition, the lengths of each forelimb and each hind limb were measured using a tape with the animal standing.
+
+				
+				
+					
+						Results
+
+					No significant differences were observed in each group in either the forelimbs or the hind limbs or between the left and right sides for any of the variables. For both groups, the PVF (%BW), the VI, and the percentage body weight distribution were higher at the forelimbs than the hind limbs. The stride length was larger for males; however, the other kinetic and temporospatial variables did not show any statistically significant differences between the groups. The lengths of the forelimbs and hind limbs were larger in the male cats. There was a significant moderate positive correlation between the stride length and the length of the limbs.
+
+				
+				
+					
+						Conclusions
+
+					In conclusion, the only difference observed between male and female cats was the stride length, and this was due to the greater body size of male cats. This difference did not affect other temporospatial or kinetics variables.
+
+				
+			
+		

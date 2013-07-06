@@ -1,0 +1,88 @@
+Methods
+   
+      Design
+      This is a prospective cross-sectional cohort study. The medical records of two no-trauma
+         ICUs were reviewed in search of adult patients with an ICU stay ≥24 between December
+         1, 2005 and December 1, 2006. Twenty-four months after discharge, all survivors were
+         contacted by phone. All living patients who agreed to participate were included in
+         the study.
+      
+      Study population
+      The study included patients from two ICUs: a 31-bed, closed ICU in a private hospital;
+         and an 18-bed, open ICU in a university hospital. Patients with ICU stay &lt; 24&nbsp;hours
+         were excluded. If the patient was readmitted to the ICU during the year in review,
+         only data relating to the first admission were considered. The number of readmissions
+         was measured only for sample characterization.
+      
+      Assessment of PFS
+      PFS was assessed by the Karnofsky Performance Status Scale, which emphasizes physical
+         performance and dependency. As a means to monitor the results obtained with the Karnosfky
+         scale (since it is expected that poor physical status will entail decreased ability
+         to perform ADLs), the Lawton-Instrumental Activities of Daily Living (IADL) Scale
+         [23-26] was also applied. Karnofsky and Lawton scores were determined during ICU admission
+         (K-ICU and L-ICU) and after 24&nbsp;months (K-24mo and L-24mo).
+      
+      Data collection
+      Daily records made by ICU physicians and fellows during the admission were reviewed.
+         The following data were collected: baseline characteristics, age, gender, body mass
+         index (BMI), pre-existing diseases, type of admission (medical, planned surgery or
+         unplanned surgery), acute physiologic and chronic health evaluation (APACHE II) score
+         at 1st ICU-day, and diagnosis on ICU admission. K-ICU score, L-ICU score, data on
+         respiratory, cardiovascular, and dialysis treatments, diagnosis of sepsis, days on
+         mechanical ventilation (MV), ICU-length of stay (LOS), sequential organ failure assessment
+         (SOFA), and therapeutic intervention score (TISS) were also retrieved from the medical
+         charts.
+      
+      Two years after ICU discharge, patients were contacted via telephone. If the patient
+         was unable to answer the telephone interview, the questions were answered by a proxy,
+         if possible the same person providing information during the ICU admission. Proxies
+         were defined as people with daily contact with the patient since before admission
+         to the ICU.
+      
+      The interviews were performed by one physician and six nurses. They were trained to
+         use the study instruments and participated in a pilot study with 100 patients [6]. Periodic evaluations were performed to determine inter-rater reliability and to
+         make sure that the quality of interviews remained similar/high among data collectors.
+      
+      In addition to the Karnosfky and Lawton-IADL scales, the telephone interview focused
+         on the patient’s self-perception about their quality of life (a subjective question
+         to test the reliability of the scales used).
+      
+      Data classification
+      Changes in physical performance (K-ICU vs. K-24mo) and ability to perform daily activities
+         (L-ICU vs. L-24mo) were categorized as: (a) functional improvement – increase in at
+         least one of the scores over 24&nbsp;months; (b) preserved functional status – no change
+         in scores; (c) moderate functional impairment – reduction of up to 29 points in K-24mo
+         vs. K-ICU and reduction of up to 11 points in L-24mo vs. L-ICU; and (d) major functional
+         impairment – reduction ≥ 30 points in K-24mo vs. K-ICU, and ≥ 12 points in L-24mo
+         vs. L-ICU.
+      
+      As a final question, patients were asked to rate their PFS at 24&nbsp;months as compared
+         to PFS during ICU-stay (worse, equal, or better).
+      
+      Ethics
+      The study was approved by the ethics committees at Hospital Moinhos de Vento and Complexo
+         Hospitalar da Santa Casa de Porto Alegre. Oral consent was provided at the start of
+         the telephone interview.
+      
+      Statistical analysis
+      Categorical variables were reported as percentages, and between-group comparisons
+         were made by chi-square test. Continuous variables were reported as means ± SD when
+         variables were normally distributed or as medians and interquartile [P25-P75] range when variables were not normally distributed. Differences between group means
+         were compared by Student t test for normally distributed variables. Chi-square tests or Fisher exact test were
+         used to compare group medians for non-normally distributed variables.
+      
+      A Kaplan-Meier curve was built to show patient survival. Adjusted residuals were used
+         to evaluate associations between categorical variables and outcome. A paired Student
+         t test for quantitative variables was used to evaluate pre and post ICU scores. ANOVA
+         followed by the Tukey test evaluated the association of APACHE II with four categories
+         of the Karnofsky and Lawton-ADL indices. To examine the association of the SOFA score
+         with the scale categories, the Kruskal-Wallis test was used, followed by the Tukey
+         test. The analysis was adjusted for BMI, days on MV, type of ICU admission, age, pre-existing
+         diseases, Glasgow coma score, and SOFA. In multivariate analyses, the predictors of
+         functional status decline were expressed as relative risk (RR).
+      
+      The analyses were performed with SPSS 16.0 software (SPSS Inc., Chicago, IL, USA),
+         and level of significance was set at p &lt;0.05.
+      
+   
+

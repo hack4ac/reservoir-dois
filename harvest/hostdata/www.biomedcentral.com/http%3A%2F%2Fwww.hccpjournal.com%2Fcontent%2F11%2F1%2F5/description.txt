@@ -1,0 +1,10 @@
+
+			
+				
+					Abstract
+
+				
+				PIK3CA is the most frequently mutated oncogene in human cancers. PIK3CA is phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha. It controls cell growth, proliferation, motility, survival, differentiation and intracellular trafficking. In most of human cancer alteration occurred frequently in the alpha isoform of phosphatidylinositol 3 kinase. PIK3CA mutations were most frequent in endometrial, ovarian, colorectal, breast, cervical, squamous cell cancer of the head and neck, chondroma, thyroid carcinoma and in cancer family syndrome. Inhibition of PI3K signaling can diminish cell proliferation, and in some circumstances, promote cell death. Consequently, components of this pathway present attractive targets for cancer therapeutics. A number of PI3K pathway inhibitors have been developed and used. PI3K inhibitors (both pan-PI3K and isoform-specific PI3K inhibitors), dual PI3K-mTOR inhibitors that are catalytic site inhibitors of the p110 isoforms and mTOR (the kinase component of both mTORC1 and mTORC2), mTOR catalytic site inhibitors, and AKT inhibitors are the most advanced in the clinic. They are approved for the treatment of several carcinomas.
+
+			
+		

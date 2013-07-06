@@ -1,0 +1,1 @@
+Confidence regions for repeated measures ANOVA power curves based on estimated covariance

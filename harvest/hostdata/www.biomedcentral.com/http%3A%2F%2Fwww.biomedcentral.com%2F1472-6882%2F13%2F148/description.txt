@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Limited study on the use of complementary alternative medicine (CAM) among patients with diabetes mellitus (DM), particularly in primary -care settings. This study seeks to understand the prevalence, types, expenditures, attitudes, beliefs, and perceptions of CAM use among patients with DM visiting outpatient primary care clinics.
+
+				
+				
+					
+						Methods
+
+					This is a descriptive, cross-sectional study of 240 diabetic patients. CAM is defined as a group of diverse medical and healthcare systems, practices, and products that are not generally considered part of conventional Western medicine. Data analysis was done using SPSS v. 19 and multiple logistic regressions were used to identify predictors of CAM use.
+
+				
+				
+					
+						Results
+
+					The prevalence of CAM use was 62.5 percent. Female were 1.8 times more likely than male in using CAM. Malays (75%) were the most frequent users, followed Indians (18%) and Chinese (6%). Biological therapy (50.0%) were the most widely used, followed by manipulative-body based systems (9.2%), energy system (8.8%), alternative medicine systems (4.6%) and mind-body system (1.7%). In biological therapy, a total of 30.4 percent, 24.2 percent, 13.3 percent, and 7.9 percent of diabetic patients consumed bitter gourd ( Momordica Charantia ), followed by Misai Kucing ( Orthosiphon Stamineus Benth ), garlic ( Allium Sativum ), and Sabah snake grass ( Clinacanthus Nutans Lindau ) respectively. The mean of the expenditure on CAM usage was RM 52.8 ± 101.9 (US $16.9 ± 32.5) per month. According to multiple logistic regression analyses, being Muslim (OR 5.258, 95 percent CI 2.952-9.368) had significant positive association with CAM use.
+
+				
+				
+					
+						Conclusions
+
+					The prevalence of CAM use was high among diabetics. Islam faith is predictor for CAM use among Type 2 DM patients. The most-common herbs used were bitter gourd ( Momordica Charantia ) and Misai Kucing ( Orthosiphon Stamineus, Benth ). Further studies on the anti-glycemic activity of the isolated compound may be needed in the future.
+
+				
+			
+		

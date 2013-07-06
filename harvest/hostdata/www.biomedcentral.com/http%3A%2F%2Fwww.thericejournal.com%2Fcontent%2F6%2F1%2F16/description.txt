@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The rice transcription factors IDEF1, IDEF2, and OsIRO2 have been identified as key regulators of the genes that control iron (Fe) uptake, including the biosynthesis of mugineic acid-family phytosiderophores (MAs). To clarify the onset of Fe deficiency, changes in gene expression were examined by microarray analysis using rice roots at 3, 6, 9, 12, 24, and 36 h after the onset of Fe-deficiency treatment.
+
+				
+				
+					
+						Results
+
+					More than 1000 genes were found to be upregulated over a time course of 36 h. Expression of MAs-biosynthetic genes,  OsIRO2 , and the Fe 3+ –MAs complex transporter  OsYSL15  was upregulated at the 24 h and 36 h time points. Moreover, these genes showed very similar patterns of expression changes, but their expression patterns were completely different from those of a metallothionein gene ( OsIDS1 ) and the Fe 2+ -transporter genes  OsIRT1  and  OsIRT2. OsIDS1  expression was upregulated by the 6 h time point. The early induction of  OsIDS1  expression was distinct from the other Fe-deficiency-inducible genes investigated and suggested a functional relationship with heavy-metal homeostasis during the early stages of Fe deficiency.
+
+				
+				
+					
+						Conclusions
+
+					We showed that many genes related to MAs biosynthesis and transports were regulated by a distinct mechanism in roots. Furthermore, differences in expression changes and timing in response to Fe deficiency implied that different combinations of gene regulation mechanisms control the initial responses to Fe deficiency.
+
+				
+			
+		

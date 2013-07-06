@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The relationship between intimate partner violence (IPV) and women’s risk of HIV infection has attracted much recent attention, with varying results in terms of whether there is an association and what the magnitude of association is. Understanding this relationship is important for HIV surveillance and intervention programs.
+
+				
+				
+					
+						Methods
+
+					We analyzed data from the 2008-2009 Demographic and Health Survey (DHS) in Kenya, on 1,904 women aged 15-49. A generalized linear mixed model was adapted to explore the relationship between IPV and HIV prevalence, controlling for sociodemographic variables, and treating DHS survey clusters, province and ethnicity as random effects. We used principal components analysis (PCA) to calculate a single IPV score for each woman. The effect of HIV risk behaviours on the association between IPV and HIV was also assessed.
+
+				
+				
+					
+						Results
+
+					Controlling for relevant sociodemographic factors, we found that HIV risk was significantly associated with IPV (P <0.01). After adjustment for risk factors as well as sociodemographic variables, the positive association between IPV and HIV remained significant (P=0.035). The estimated effect size of this model corresponds to an odds ratio of 1.55 for HIV infection comparing a woman who experienced no IPV and a woman at the 95th percentile for our IPV index.
+
+				
+				
+					
+						Conclusion
+
+					This study provides further evidence that IPV and HIV are associated. In addition, we found that this association remains even when we controlled for several HIV risk factors. This implies that IPV can be used as a marker of potential HIV risk, and may be causally associated with HIV risk. Further, these results suggest that IPV monitoring and prevention may have a useful role in HIV prevention in Kenya. Further research, ideally based on longitudinal observations, is needed to disentangle these relationships.
+
+				
+			
+		

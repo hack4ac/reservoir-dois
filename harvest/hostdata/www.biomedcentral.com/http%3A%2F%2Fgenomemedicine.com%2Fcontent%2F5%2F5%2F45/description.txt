@@ -1,0 +1,24 @@
+
+Abstract
+
+Background
+
+The advent of direct-to-consumer (DTC) genetic testing (GT) has sparked a number of debates regarding the scientific validity of tests, their broad health and ethical implications for society as well as their legal status. To date, relatively few empirical studies have been published regarding this phenomenon. We conducted a survey of European clinical geneticists to gauge their awareness of, experiences with, and attitudes towards DTC GT.
+
+
+Methods
+
+We invited 300 clinical geneticists from 28 European countries to complete an online questionnaire. Statistical analyses of closed-ended questions were performed using the STATISTICA software package. Answers to open-ended questions were analysed for recurring themes.
+
+
+Results
+
+One hundred and thirty-one clinical geneticists answered our survey (response rate, 44%). Eighty-six percent (110/128) of respondents were aware of DTC GT, and over one-third had been contacted by at least one patient regarding these services. The majority (84%) of respondents did not agree with telephone medical supervision outside of an established doctor-patient relationship. The majority of clinical geneticists also found it unacceptable to provide non-face-to-face medical supervision for: (i) a presymptomatic test for a condition with very high penetrance; (ii) a predictive test for a condition that has a 'medium' penetrance of 50% to 60%; and (iii) carrier testing. For conditions that are neither treatable nor preventable and for disorders with serious health consequences, clinical geneticists were almost unanimous in expressing the unacceptability of offering such genetic tests outside of the traditional healthcare setting, without an established physician-patient relationship and without face-to-face medical supervision.
+
+
+Conclusion
+
+A high percentage of European clinical geneticists are aware of DTC GT and the majority do not agree with the model of provision used by many commercial companies for certain severe or actionable health conditions. Despite this disagreement with the DTC model of provision, >85% of respondents said that they would offer genetic counselling to patients who asked for a consultation after having undergone DTC genetic testing. The understanding of the views and opinions of this expert stakeholder group should be considered in the attempts to shape responsible policy and guidelines for these services.
+
+
+

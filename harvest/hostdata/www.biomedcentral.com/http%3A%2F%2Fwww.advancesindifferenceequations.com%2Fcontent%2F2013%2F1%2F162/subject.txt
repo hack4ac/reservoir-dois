@@ -1,0 +1,1 @@
+high-order cellular neural networks, anti-periodic solution, exponential stability, time-varying delay, leakage term

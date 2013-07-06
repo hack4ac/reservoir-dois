@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Resistance to CCR5 inhibitors, such as maraviroc and vicriviroc is characterized by reduction of maximal percent inhibition which indicates the use of an inhibitor-bound conformation of CCR5 for human immunodeficiency virus-1(HIV-1) entry. It is accompanied by substitutions in gp120 and gp41. Variable domain 3 (V3) plays the most important role, but substitutions outside V3 could also be involved in phenotype resistance. In this work, we investigated how mutations in variable regions of the viral envelope protein gp120 can contribute to CCR5 inhibitor resistance.
+
+				
+				
+					
+						Methods
+
+					Resistant isolates were selected by passaging CC1/85 and BaL viruses with sub-inhibitory MVC and VCV concentrations. Mutations in gp160 were identified and mutants containing V2 (V169M), V3 (L317W) and V4 (I408T) were constructed.
+
+				
+				
+					
+						Results
+
+					MVC and VCV susceptibility and viral tropism were assessed by single cycle assay. Mutant I408T showed 4-fold change (FC) increase in the half maximal inhibitory concentration (IC 50 ) to MVC, followed by L317W (1.52-FC), V169M (1.23-FC), V169M/I408T (4-FC) L317W/I408T (3-FC), V169M/L317W (1.30-FC), and V169M/L317W/I408T (3.31-FC). MPI reduction was observed for mutants I408T (85%), L317W (95%), V169M/I408T (84%), L317W/I408T (85%) and V169M/L317W/I408T (83%). For VCV, I408T increased the IC 50  by 2-FC and few mutants showed MPI reduction less than 95%: I408T (94%), L317W/I408T (94%) and V169M/L317W/I408T (94%). All mutants remained R5-tropic and presented decreased infectivity.
+
+				
+				
+					
+						Conclusions
+
+					These results suggest that mutations in the V4 loop of HIV-1 may contribute to MVC and VCV resistance alone or combined with mutations in V2 and V3 loops.
+
+				
+			
+		

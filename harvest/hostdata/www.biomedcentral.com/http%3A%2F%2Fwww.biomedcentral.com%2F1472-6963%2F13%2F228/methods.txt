@@ -1,0 +1,77 @@
+Methods
+   
+      Questionnaire
+      The questionnaire was translated and modified to suit the Chinese system. HSOPSC (the
+         original U.S. English version 2010) was developed by Agency for Healthcare Research
+         and Quality (AHRQ) in 2004 [18]. The original questionnaire of 2010 version was designed to assess 12 dimensions
+         of health care with 42 items of patient safety culture. But two dimensions (Frequency
+         of Events Reported and Handoffs and Transitions) with 13 items were omitted due to
+         being sensitive, not adequately providing a response or semantically redundant or
+         ambiguous because of translation [19]. Finally, 10 dimensions containing 29 items of hospital survey on patient safety
+         culture were adopted (Table&nbsp;1).
+      
+      Table 1. Demographic characteristic of respondents
+      All items of HSOPSC questionnaire were developed based on the 5-point Likert response
+         scale of agreement (“Strongly disagree” to “Strongly agree”) or frequency (“Never”
+         to “Always”).
+      
+      Two medical students translated the HSOPSC questionnaire into Chinese with a background
+         in patient safety. The translation was double checked and reviewed by another two
+         professors with background in patient safety, medicine and English.
+      
+      Sample
+      This questionnaire was conducted in July to December in 2011 involving 1160 healthcare
+         workers including physicians (surgical clinicians and internal clinicians) from each
+         department and nurses representing different nursing units. Convenient sampling was
+         used to select hospitals and participants including 32 hospitals in 15 cities across
+         China. We included health care workers who are staff working in hospitals. We also
+         included any kind of hospitals including specialized hospitals and traditional medicine
+         hospitals.
+      
+      Permission to conduct the investigation was granted by the hospitals or departments.
+         The participants were informed of the purpose of the survey and voluntarily completed
+         a paper copy of the questionnaire anonymously by the investigators who were present.
+         The participants were encouraged to ask any questions if they did not understand the
+         questionnaire. Questionnaires were regarded as invalid ones if there were inconsistent
+         answers (e.g., an item with more than one answer). The questionnaires were valid if
+         at least 70% of items were completed.
+      
+      Data analysis
+      Data collection
+      After receiving the completed questionnaires, a preprocessing step was applied to
+         remove incomplete or invalid data and based on the study by Hellings J [17]. The exclusion criteria were similar to the two studies [17,20]. They were as follows: 1) there was no entire section completed; 2) there was fewer
+         than half items answered; or all the items answered the same. All data was entered
+         by three researchers (Nie YL, Cui H, and SH H) independently, and then were cross-checked
+         mutually by Epidata (version, 3.02). In case of doubts or disagreement in some answers,
+         we looked into the original questionnaires. Negatively worded items were reversed
+         to ensure that positive answers indicated a higher score. Most of the items in the
+         questionnaire used the Likert 5- point response scale of agreement (Strongly disagree to Strongly agree) or frequency (Never to Always),so the lowest three scoring (1–3) answers (Strongly disagree/Disagree/Neither Agree nor Disagree or Never/Rarely/Sometimes or Failing/Poor/Acceptable), the highest two scoring (4–5) answers (Agree/Strongly agree or Most of the time/Always or Very good/Excellent) [21], as well as the highest two scoring answers were perceived as positive response answers,
+         and the lowest three scoring answers were deemed other response answer. We calculated
+         the positive response rate to analyze the positive attitudes towards patient safety
+         culture among different populations according to the formula by Grant MJ [22].
+      
+      Descriptive statistics
+      We analyzed the demographic characteristics of the respondents with the Excel 2003.
+         The number of positive response / positive response rates of all the items were also
+         summarized. Positive response rate was used to evaluate the attitudes towards patient
+         safety culture on different dimensions or items.
+      
+      We used the Chi-Square test to analyze whether there was a statistical difference
+         on health care workers in different sections, professionals and qualification levels
+         towards patient safety culture. We used the Kruskal-Wallis test to infer if there
+         was a statistical difference on Patient Safety Grade and Number of Events Reported in Chinese hospitals compared with that of US hospitals, with the significant level
+         of P = 0.05 [21].
+      
+      We calculated the reliability and exploration factor analysis to evaluate the quality
+         of the questionnaire. Internal consistency value (Gronbach’s α ≥ 0.70) for newly developed
+         scales was recommended. Structure validity was explored using principal component
+         factor analysis by Kaiser-Meyer-Olkin Measure of Sampling Adequacy (KMO &gt; 0.7) and
+         by Bartlett’s Test of Sphericity P &lt; 0.05.
+      
+      Ethic
+      The study was conducted according to the principle of Helsinki Declaration. The protocol
+         has been reviewed and approved by the Chinese Ethic Committee of Registering Clinical
+         Trials (ChiECRCT-2011021).
+      
+   
+

@@ -1,0 +1,47 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					CEA is expressed in >90% of pancreatic cancers (PC) and may be an appropriate immunotherapy target. CEA is poorly immunogenic due to immune tolerance; CAP1-6D, an altered peptide ligand can help bypass tolerance. We conducted a pilot randomized phase I trial in PC patients to determine the peptide dose required to induce an optimal CD8 +  T cell response.
+
+				
+				
+					
+						Methods
+
+					Patients with a PS 0-1, HLA-A2+ and CEA-expressing, previously-treated PC were randomized to receive 10 μg (arm A), 100 μg (arm B) or 1000 μg (arm C) of CEA peptide emulsified in Montanide and GM-CSF, given every 2 weeks until disease progression.
+
+				
+				
+					
+						Results
+
+					Sixty-six patients were screened and 19 enrolled of whom 14 received at least 3 doses of the vaccine and thus evaluated for the primary immunologic endpoint. A median of 4 cycles (range 1-81) was delivered. Median and mean peak IFN-γ T cell response by ELISPOT (spots per 10 4  CD8 +  cells, Arm A/B/C) was 11/52/271 (A vs. C, p = 0.028) for medians and 37/148/248 (A vs. C, p = 0.032) for means. T cell responses developed or increased in 20%/60%/100% of pts in Arms A/B/C. Seven of the 19 patients remain alive at a minimum 32 months from trial initiation, including three with unresectable disease.
+
+				
+				
+					
+						Conclusions
+
+					The T cell response in this randomized phase I trial was dose-dependent with the 1 mg CEA peptide dose eliciting the most robust T cell responses. A signal of clinical benefit was observed and no significant toxicity was noted. Further evaluation of 1 mg CEA peptide with stronger adjuvants, and/or combined with agents to overcome immune inhibitory pathways, may be warranted in PC pts.
+
+				
+				
+				
+Trial registration
+
+
+ClinicalTrials.gov  NCT00203892
+
+
+				
+				
+				
+			
+		

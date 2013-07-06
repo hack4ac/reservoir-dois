@@ -1,0 +1,191 @@
+Abstract
+Given a Banach space  X 
+ , let  
+    M 
+    C 
+ 
+ ∈ 
+ B 
+ ( 
+ X 
+ ⊕ 
+ X 
+ ) 
+  denote the upper triangular operator matrix  
+    M 
+    C 
+ 
+ = 
+ 
+    ( 
+    
+       
+          
+             A 
+ 
+          
+             C 
+ 
+ 
+       
+          
+             0 
+ 
+          
+             B 
+ 
+ 
+ 
+    ) 
+ 
+ , and let  
+    δ 
+    
+       A 
+       B 
+ 
+ 
+ ∈ 
+ B 
+ ( 
+ B 
+ ( 
+ X 
+ ) 
+ ) 
+  denote the generalized derivation  
+    δ 
+    
+       A 
+       B 
+ 
+ 
+ ( 
+ X 
+ ) 
+ = 
+ A 
+ X 
+ − 
+ X 
+ B 
+ . If  
+    lim 
+    
+       n 
+       → 
+       ∞ 
+ 
+ 
+ 
+    
+       ∥ 
+       
+          δ 
+          
+             A 
+             B 
+ 
+          n 
+ 
+       ( 
+       C 
+       ) 
+       ∥ 
+ 
+    
+       1 
+       n 
+ 
+ 
+ = 
+ 0 
+ , then  
+    σ 
+    x 
+ 
+ ( 
+ 
+    M 
+    C 
+ 
+ ) 
+ = 
+ 
+    σ 
+    x 
+ 
+ ( 
+ 
+    M 
+    0 
+ 
+ ) 
+ , where  
+    σ 
+    x 
+ 
+  stands for the spectrum or a distinguished part thereof (but not the point spectrum); furthermore, if  R 
+ = 
+ 
+    R 
+    1 
+ 
+ ⊕ 
+ 
+    R 
+    2 
+ 
+ ∈ 
+ B 
+ ( 
+ X 
+ ⊕ 
+ X 
+ ) 
+  is a Riesz operator which commutes with  
+    M 
+    C 
+ 
+ , then  
+    σ 
+    x 
+ 
+ ( 
+ 
+    M 
+    C 
+ 
+ + 
+ R 
+ ) 
+ = 
+ 
+    σ 
+    x 
+ 
+ ( 
+ 
+    M 
+    C 
+ 
+ ) 
+ , where  σ  x  stands for the Fredholm essential spectrum or a distinguished part thereof. These results are applied to prove the equivalence of Browder’s ( a -Browder’s) theorem for  
+    M 
+    0 
+ 
+ ,  M  C ,  
+    M 
+    0 
+ 
+ + 
+ R 
+  and  
+    M 
+    C 
+ 
+ + 
+ R 
+ . Sufficient conditions for the equivalence of Weyl’s ( a -Weyl’s) theorem are also considered.
+MSC: 
+47B40, 47A10, 47B47, 47A11.

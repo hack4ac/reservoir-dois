@@ -1,0 +1,4 @@
+Abstract
+Some common fixed point results for Banach operator pairs in strongly  M -starshaped metric spaces are obtained. As application, invariant approximation theorems are derived.
+MSC: 
+47H10, 54H25.

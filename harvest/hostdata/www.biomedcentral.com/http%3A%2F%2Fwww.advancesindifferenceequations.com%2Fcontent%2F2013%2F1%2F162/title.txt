@@ -1,0 +1,1 @@
+Existence and exponential stability of anti-periodic solutions for HCNNs with time-varying leakage delays

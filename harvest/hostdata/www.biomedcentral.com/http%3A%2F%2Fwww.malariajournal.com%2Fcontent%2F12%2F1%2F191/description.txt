@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The sequestration of  Plasmodium falciparum -infected erythrocytes in brain microvasculature through cytoadherence to endothelium, is the hallmark of the definitive diagnosis of cerebral malaria and plays a critical role in malaria pathogenesis. The complex pathophysiology, which leads each patient to the final outcome of cerebral malaria, is multifaceted and thus, metrics to delineate specific patterns within cerebral malaria are needed to further parse patients.
+
+				
+				
+					
+						Methods
+
+					A method was developed for quantification utilizing counts of capillary contents (early-stage parasites, late-stage parasites and fibrin) from histological preparations of brain tissue after death, and compared it to the standard approach, in which the percentage of parasitized vessels in cross-section is determined.
+
+				
+				
+					
+						Results
+
+					Within the initial cohort of 50 patients, two different observers agreed closely on the percentage of vessels parasitized, pigmented parasites and pigment globules (ICC = 0.795-0.970). Correlations between observers for correct diagnostic classification were high (Kendall’s tau-b = 0.8779, Kappa = 0.8413). When these methods were applied prospectively to a second set of 50 autopsy samples, they revealed a heterogeneous distribution of sequestered parasites in the brain with pigmented parasites and pigment globules present in the cerebellum > cortex > brainstem. There was no difference in the distribution of early stages of parasites or in the percentage of vessels parasitized across the same sites. The second cohort of cases was also used to test a previously published classification and regression tree (CART) analysis; the quantitative data alone were able to accurately classify and distinguish cerebral malaria from non-cerebral malaria. Classification errors occurred within a subclassification of cerebral malaria (CM1  vs  CM2). A repeat CART analysis for the second cohort generated slightly different classification rules with more accurate subclassification, although misclassification still occurred.
+
+				
+				
+					
+						Conclusions
+
+					The traditional measure of parasite sequestration in falciparum malaria, the percentage of vessels parasitized, is the most reliable and consistent for the general diagnosis of cerebral malaria. Methods that involve quantitative measures of different life cycle stages are useful for distinguishing patterns within the cerebral malaria population; these subclassifications may be important for studies of ...

@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Studies have demonstrated associations between cytokine gene polymorphisms and the risk of idiopathic pulmonary fibrosis (IPF). We therefore examined polymorphisms in the genes encoding interleukin (IL)-6, IL-10, interferon gamma (IFN-γ), tumor necrosis factor alpha (TNF-α), and transforming growth factor-beta 1 (TGF-β 1 ), and compared the serum levels of these cytokines in IPF patients and healthy controls. Furthermore, we examined the association of the studied genotypes and serum cytokine levels with physiological parameters and the extent of parenchymal involvement determined by high-resolution computed tomography (HRCT).
+
+				
+				
+					
+						Methods
+
+					Sixty patients with IPF and 150 healthy controls were included. Cytokine genotyping was performed using the polymerase chain reaction sequence specific primer (PCR-SSP) method. In a subset of patients and controls, serum cytokine levels were determined by enzyme-linked immunosorbent assay.
+
+				
+				
+					
+						Results
+
+					There was no difference between IPF patients and controls in the genotype and allele distributions of polymorphisms in TNF-α, IFN-γ, IL-6, IL-10, and TGF-β 1  (all p > 0.05). The TNF-α (−308) GG, IL-6 (−174) GG and CG, and IL-10 (−1082, -819, -592) ACC ATA genotypes were significantly associated with HRCT scores (all p < 0.05). IL-10 (−1082, -819, -592) ACC haplotype was associated with the diffusion capacity of the lung for carbon monoxide, and ATA haplotype was associated with the partial pressure of oxygen (PaO 2 ) (all p < 0.05). The TGF-β 1  (codons 10 and 25) TC GG, TC GC, CC GG and CC GC genotypes were significantly associated with the PaO 2  and HRCT scores (p < 0.05). The TGF-β 1  (codons 10 and 25) CC GG genotype (5 patients) was significantly associated with higher PaO 2  value and less parenchymal involvement (i.e., a lower total extent score) compared to the other TGF-β 1  genotypes (81.5 ± 11.8 mm Hg vs. 67.4 ± 11.1 mm Hg, p = 0.009 and 5.60 ± 1.3 vs. 8.51 ± 2.9, p = 0.037, respectively). Significant differences were noted between patients (n = 38) and controls (n = 36) in the serum levels of IL-6 and IL-10 (both, p < 0.0001), but not in the levels of TNF-α and TGF-β 1  (both, p > 0.05).
+
+				
+				
+					
+						Conclusion
+
+					The studied genotypes and alleles do not predispose to the development of IPF but appear to play an important role in disease severity. Our results suggest that the TGF-β 1  (codons 10 and 25) CC GG genotype could be a useful genetic marker for identifying a subset of IPF patients with a favorable prognosis; however, ...

@@ -1,0 +1,71 @@
+Methods
+   
+      Ethical approval for this study was provided by the Conjoint Faculties Ethic Review
+         Board at the University of Calgary and all participants provided written informed
+         consent.
+      
+      Examination of response options
+      Two experienced interviewers participated in this pilot examination of response options.
+         The pilot study was conducted to determine the preferred wording for telephone interviews.
+         Participants (N=21) meeting the criteria for pathological gambling, as part of a telephone
+         assessment, were informed by the interviewer that: “I am going to ask you some questions
+         regarding how your gambling problem has affected your life in the past month”. Participants
+         where then asked two questions about each of the three domains. The domains were asked
+         in the standard order used previously (work, social and family), but question response
+         order was randomized. For example: “To what extent has your gambling disrupted your
+         work or studies in the past month? Would you say not at all, mildly, moderately, markedly,
+         or very severely? To what extent has your gambling problem disrupted your work or
+         studies in the past month on a scale of 0 to 10, with zero indicating not at all and
+         10 indicating severely?” Participant agreement across the two response options was
+         computed and the interviewers provided qualitative feedback on their preferences.
+      
+      Psychometric examination
+      Participants
+      For the trial of the distance relapse prevention program, a sample of individuals
+         meeting criteria for pathological gambling (N = 169) was recruited through media announcements
+         and was assessed via telephone [21]. Gambling outcomes included self-reported gambling behaviours, confirmed by collateral
+         reports, and gambling problem severity. Assessments were conducted at baseline, six
+         weeks, six months and twelve months by trained research assistants. Results indicated
+         that extended versus brief support did not improve gambling outcomes over 12 months.
+      
+      Interview measures
+      The initial interview included: a gambling history measure including a timeline follow-back
+         interview assessing gambling behaviour [16]; two measures of gambling problem severity (the NODS, which measures DSM-IV criteria
+         for the past year and lifetime [13] and the SOGS [10]), which measures past year problem severity; a measure of self-efficacy for quitting
+         gambling (Gambling Abstinence Self-efficacy Scale or GASS) [22]; a measure of gambling craving over the past 24 hours [23]; a measure of current depression (Centre of Epidemiologic Studies – Depressed Mood
+         Scale or CES) [24]; and the SDS-G. Based upon the pilot study, the specific questions asked were:
+      
+      •To what extent has your gambling problem disrupted your work or studies in the past
+         month on a scale of 0 to 10, with zero indicating not at all and 10 indicating extremely?
+      
+      •To what extent has your gambling problem disrupted your social life in the past month
+         on a scale of 0 to 10, with zero indicating not at all and 10 indicating extremely?
+      
+      •To what extent has your gambling problem disrupted your Family life/household responsibilities
+         in the past month on a scale of 0 to 10, with zero indicating not at all and 10 indicating
+         extremely?
+      
+      The six month follow-up interviews included: a timeline follow-back to capture gambling
+         behaviour since the last assessment; the GASS; the SDS-G; and a measure of perceived
+         control over gambling (0–10 point scale). The twelve month assessments included: the
+         instruments used at six months plus the past-year versions of the NODS and SOGS and
+         a third measure of problem severity, the PGSI; the CES; an unpublished six item past
+         week gambling craving measure; and a measure of perceived social support provided
+         by family and friends [25].
+      
+      Analyses
+      Internal reliability was computed for baseline, six and twelve month data. Confirmatory
+         factor analysis, using maximum likelihood structural equation modelling, was computed
+         using six and twelve month data. To maximize sample size, baseline data were excluded
+         and missing data (6 cases at 12 months) were estimated using full information maximum
+         likelihood [26]. Model fit was assessed using the χ2/df ratio, comparative fit index (CFI) and the root mean square error of approximation
+         (RMSEA). Criteria for good fit was considered to be χ2/df ratio &lt; 3.00 [27], CFI &gt; 0.95 [28] and RMSEA &lt; 0.05 [29]. Concurrent validity was assessed with Pearson correlations between SDS-G scores
+         and measures of gambling behaviour, problem gambling severity and self-efficacy at
+         each assessment. Sensitivity to change was assessed in two ways. Changes in SDS-G
+         scores over time were examined using one-way repeated measures ANOVA. The association
+         between change in SDS-G scores and change in SOGS, days of gambling and depression
+         from baseline to the 12 month follow-up was examined using Pearson correlations of
+         difference scores. Analyses were conducted using SPSS and AMOS V.19.
+      
+   
+

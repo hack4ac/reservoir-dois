@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					A comprehensive model of the relationships among different shared decision-making related constructs and their effects on patient-relevant outcomes is largely missing. Objective of our study was the development of a model linking decision-making in medical encounters to an intermediate and a long-term endpoint. The following hypotheses were tested: physicians are more likely to involve patients who have a preference for participation and are willing to take responsibility in the medical decision-making process, increased patient involvement decreases decisional conflict, and lower decisional conflict favourably influences patient satisfaction with the physician.
+
+				
+				
+					
+						Methods
+
+					This model was tested in a German primary care sample (N = 1,913). Psychometrically tested instruments were administered to assess the following: patients’ preference for being involved in medical decision-making, patients’ experienced involvement in medical decision-making, decisional conflict, and satisfaction with the primary care provider. Structural equation modelling was used to explore multiple associations. The model was tested and adjusted in a development sub-sample and cross-validated in a confirmatory sample. Demographic and clinical characteristics were accounted for as possible confounders.
+
+				
+				
+					
+						Results
+
+					Local and global indexes suggested an acceptable fit between the theoretical model and the data. Increased  patient involvement  was strongly associated with decreased  decisional conflict  (standardised regression coefficient Β = −.73). Both high experienced  involvement  (Β = .34) and low  decisional conflict  (B = -.28) predicted higher  satisfaction with the physician . Patients’  preference for involvement  was negatively associated with the  experienced involvement  (B = −.24).
+
+				
+				
+					
+						Conclusion
+
+					Altogether, our model could be largely corroborated by the collected empirical data except the unexpected negative association between preference for involvement and experienced involvement. Future research on the associations among different SDM-related constructs should incorporate longitudinal studies in order to strengthen the hypothesis of causal associations.
+
+				
+			
+		

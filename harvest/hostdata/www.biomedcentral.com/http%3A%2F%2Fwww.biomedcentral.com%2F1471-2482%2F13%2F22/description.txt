@@ -1,0 +1,27 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In patients with cirrhosis, the synthesis of coagulation factors can fall short, reflected by a prolonged prothrombin time. Although anticoagulants factors are decreased as well, blood loss during orthotopic liver transplantation can still be excessive. Blood loss during orthotopic liver transplantation is currently managed by transfusion of red blood cell concentrates, platelet concentrates, fresh frozen plasma, and fibrinogen concentrate. Transfusion of these products may paradoxically result in an increased bleeding tendency due to aggravated portal hypertension. The hemostatic effect of these products may therefore be overshadowed by bleeding complications due to volume overload.
+In contrast to these transfusion products, prothrombin complex concentrate is a low-volume highly purified concentrate, containing the four vitamin K dependent coagulation factors. Previous studies have suggested that administration of prothrombin complex concentrate is an effective method to normalize a prolonged prothrombin time in patients with liver cirrhosis. We aim to investigate whether the pre-operative administration of prothrombin complex concentrate in patients undergoing liver transplantation for end-stage liver cirrhosis, is a safe and effective method to reduce perioperative blood loss and transfusion requirements.
+
+				
+				
+					
+						Methods/Design
+
+					This is a double blind, multicenter, placebo-controlled randomized trial.
+Cirrhotic patients with a prolonged INR (≥1.5) undergoing liver transplantation will be randomized between placebo or prothrombin complex concentrate administration prior to surgery. Demographic, surgical and transfusion data will be recorded. The primary outcome of this study is RBC transfusion requirements.
+
+				
+				
+					
+						Discussion
+
+					Patients with advanced cirrhosis have reduced plasma levels of both pro- and anticoagulant coagulation proteins. Prothrombin complex concentrate is a low-volume plasma product that contains both procoagulant and anticoagulant proteins and transfusion will not affect the volume status prior to the surgical procedure. We hypothesize that administration of prothrombin complex concentrate will result in a reduction of perioperative blood loss and transfusion requirements. Theoretically, the administration of prothrombin complex concentrate may be associated with a higher risk of ...

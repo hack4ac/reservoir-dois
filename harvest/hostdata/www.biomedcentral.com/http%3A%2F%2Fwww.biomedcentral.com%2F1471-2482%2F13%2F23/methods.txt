@@ -1,0 +1,64 @@
+Methods
+   
+      A total of 36 patients (14 males and 22 females) undergoing DP between May 2005 and
+         December 2011 were included in this study and retrospectively analyzed. All patients
+         were studied preoperatively by contrast-enhanced computed tomography or magnetic resonance
+         imaging. Indications for surgery were benign, borderline or malignant tumors, chronic
+         pancreatitis and pancreatic pseudocysts. Surgical operation consisted in an en-bloc
+         resection of the pancreas tail, eventually extended to the body, associated with splenectomy
+         or other organs resection if needed. In all cases an open approach was performed by
+         a single surgeon. Most of pancreato-jejunostomies were performed not consecutively
+         in the first period of this study, between May 2005 and October 2008, depending on
+         the surgeon preference. From November 2008 all patients undergoing DP were enrolled
+         in another survey in which the pancreatic stump was closed by direct suture with the
+         technique described below. Then we retrospectively observed and analyzed different
+         outcomes between the two techniques.
+      
+      Patients were divided in two groups on the basis of pancreatic stump management. In
+         the first group (Group A), after pancreatic resection, the stump closure was accomplished
+         by ligating the main pancreatic duct with non-resorbable Z-shaped suture and the cut
+         margin was over sewn a traumatically by U-shaped stitches using non-resorbable material
+         (TiCron®, Covidien, Mansfield, MA, USA) supported by PTFE (Teflon) pledgets used as
+         buttress for the suture (Figure&nbsp;1). In the second group (Group B), the main pancreatic duct was closed with the same
+         technique described above and the pancreatic stump was finally invaginated into a
+         jejunal loop performing a Roux-en-Y end-to-end pancreato-jejunostomy. The anastomosis
+         was completed by a capsule-to-seromuscular single layer suture with non-resorbable
+         interrupted stitches (Figure&nbsp;2). A drain was placed intraoperatively in all cases near the anastomosis or the pancreatic
+         stump. All patients received a short-term antibiotic prophylaxis.
+      
+      Figure 1. Hand-sewn closure of the pancreatic remnant. The pancreatic remnant is closed using PTFE pledget-supported interrupted stitches
+         of non-resorbable material.
+      
+      Figure 2. Roux-en-Y end-to-end pancreato-jejunostomy. The pancreatic stump is invaginated into the jejunal loop and a capsule-to-seromuscular
+         suture is performed using non-resorbable interrupted stitches.
+      
+      Intravenous fluids, octreotide (3 × 0.1 mg s.c., daily for 5–7 days) and proton pump
+         inhibitors (omeprazole, 40 mg i.v., daily) were administrated postoperatively. Oral
+         feeding was generally resumed depending on gastrointestinal function. Drainage volume
+         and amylase concentration of drained fluid were measured and registered in the 1st, 3rd, 5th and 7th postoperative day as well as blood tests.
+      
+      Patient demographics, operation data, post-operative morbidity, mortality rate and
+         length of hospital stay were analyzed and compared between the two groups. PF was
+         defined as a drain output of any measurable volume of fluid on or after postoperative
+         day 3 with an amylase content greater than 3 times the upper normal serum value, in
+         accordance to the International Study Group of Pancreatic Fistula (ISGPF) [15]. PF was also classified into three grades (A,B,C) depending on clinical impact (none,
+         moderate and severe, respectively), according to the ISGPF classification. The pancreatic
+         texture was defined as “fibrotic” or “non-fibrotic” depending on histological findings
+         of the specimens: presence of perilobular fibrosis, chronic inflammatory reactions
+         with ductal dilatations, atrophy of the acinar cells. The main pancreatic duct (MPD)
+         was also defined as “small” or “large” according to the diameter &lt; or &gt; 3 mm, respectively.
+         Postoperative hemorrhage (PH) was defined and classified into three different grades
+         (A,B,C), according to the International Study Group of Pancreatic Surgery definition
+         (ISGPS) [16]. Mortality was considered as any death occurred intraoperatively or during the hospital
+         stay.
+      
+      Statistical analysis was performed using χ2 test and Student’s t-test. Differences were considered significant at p-value &lt;0.05.
+      
+      The present study is a retrospective review of medical data and the human research
+         ethics committee of our institution stated to exempt it from formal ethical review
+         according to the ethical principles laid forth by the Helsinki Declaration. Written
+         consent of patients was not sought. No identifying information was recorded by the
+         authors.
+      
+   
+

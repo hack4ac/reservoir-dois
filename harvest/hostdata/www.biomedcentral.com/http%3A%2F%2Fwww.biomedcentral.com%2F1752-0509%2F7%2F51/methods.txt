@@ -1,0 +1,133 @@
+Methods
+   
+      GEO data retrieval, microarray normalization and ensemble mapping
+      The Gene Expression Omnibus (GEO) (http://www.ncbi.nlm.nih.gov/geo/ webcite) is a public repository of various genetic high through put data sources. Microarray
+         data sets for different chips types are deposited with extensive experimental design
+         and information and with normalized and/or raw data. We set our experimental criteria
+         specific to postmortem human hippocampal samples analyzed using an Affymetrix platform.
+         Our search obtained two GEO data sets, GSE5281 and GSE28146 (we only utilized the
+         arrays from severe AD patients from this study), which contained CA1 region specific
+         individual hippocampal neurons data. The appropriate control and AD raw CEL files
+         were downloaded from the GEO site. Next the CEL files were read into the R programming
+         console using the affy package 
+         					[89] (this and other R-based tools were obtained from the open source Bioconductor bioinformatics
+         software, http://www.bioconductor.org webcite). In the uploading process CDF files were associated with the microarrays through
+         the GeneMapper package. Downloaded from GATExplorer 
+         					[89-91] GeneMapper (http://bioinfow.dep.usal.es/xgate/mapping/mapping.php webcite) includes the sets of unambiguous probes that map to each specific Ensemble Gene
+         ID (ENSG ID). Also through affy package, the intensity files were normalized using
+         Robust Multichip Average, RMA. A three-step process, RMA performs a background adjustment,
+         quantile normalization and final summarization 
+         					[92].
+      
+      Ethics
+      The data utilized were obtained from a research repository databank (GEO), involves
+         decedents, contains no personal identifiers, and the authors had no role in the collection
+         or storage of these data.
+      
+      RankProd
+      The R RankProd package contains functions for differential gene expression analysis
+         of microarrays based on a non-parametric statistic 
+         					[93]. RankProd identifies genes that are consistently highly ranked amount a list of genes.
+         Since the method exploits the rank of genes not the actual expression value, it can
+         be flexibly applied to many different questions, such as identifying genes.
+      
+      It assumes that under the null hypothesis the order of genes are random and statistically
+         probabilities are based on the probability of a particular ranking. Rank product is
+         the multiplication of these probabilities. RankProd produces a list of up- or down-
+         regulated genes with false discovery rate (FDR). RankProd also has the ability to
+         combine data sets from different origins into a single meta-analysis to increase the
+         power of the identification 
+         					[93].
+      
+      Ingenuity pathway analysis
+      IPA is commercially available software (Ingenuity Systems, Inc., Redwood City, CA)
+         for several types of analysis and is popular in a variety of biological fields/studies.
+         IPA utilizes a large, well-designed knowledge base and enables functional, canonical
+         pathway and network analysis. IPA uses its knowledge base to better understand how
+         the data fit with the curated functional, canonical pathway, and interaction network
+         information. We utilized the Functional Analysis tool to identify the biological functions
+         and/or diseases that were most significant to the data set. Molecules from the dataset
+         were associated with biological functions and/or diseases in the Ingenuity Knowledge
+         Base were considered for the analysis. Right-tailed Fisher’s exact test was used to
+         calculate a p-value determining the probability that each biological function and/or
+         disease assigned to that data set is due to chance alone.
+      
+      Genes2Networks
+      A publically available bioinformatics database, Genes2Networks (http://actin.pharm.mssm.edu/genes2networks/ webcite) is hub of databases used to find relationships between genes and proteins from seed
+         lists 
+         					[94]. Predictions of genes or proteins that may play crucial roles in pathways or protein
+         complexes are supplemented to the seed list. Gene2Networks calculates a Z statistic
+         using a binomial proportions test on the significance of a supplemented protein in
+         the output sub network.
+      
+      Cytoscape plugins
+      Cytoscape, a popular publically available bioinformatics package (http://www.cytoscape.org webcite), represents networks, with biological entities as nodes and biological interactions
+         as edges between nodes 
+         					[95]. Plugins are designed to run several types of analysis. Before plugins are applied
+         all satellite networks are removed leaving a single interconnected network of nodes.
+         This study uses two such plugins, CentiScaPe and MCODE.
+      
+      CentiScaPe
+      CentiScaPe is an interface to analyze topology of protein-protein interaction networks
+         
+         					[96]. CentiScaPe uses a variety of graph theory centrality measurements to determine and
+         develop sub networks. In this study we used the following:
+      
+      Eccentricity
+      Eccentricity computes the shortest paths between a single node and all other nodes
+         in the graph. Next the longest shortest path is chosen and the reciprocal is taken.
+         Higher value represent nodes that have the shortest paths, meaning all other nodes
+         are in its proximity. All other proteins within the network easily reach proteins
+         with high eccentricity. Thus, a protein with high eccentricity dictates functional
+         directions, but also is subjected to functional control by binding partners. On the
+         opposite end, a low eccentricity suggests a peripheral functional role.
+      
+      Closeness
+      Closeness computes the shortest path between a single node and all other nodes. The
+         summation is taken of the shortest paths and the reciprocal is taken. Nodes with high
+         closeness are in close proximity to all other nodes in the network. If the closeness
+         measure is low, all other nodes are distant from this node. Closeness measurements
+         can also reflect few nodes that are very close or distant from a specific node. Therefore
+         closeness is not specific to the nature of the node couples and should be compared
+         with eccentricity and radiality. In relation to PPI networks, closeness can represent
+         functionally and points of competition between proteins.
+      
+      Radiality
+      Radiality is calculated similarly to closeness, but subtracts the diameter of the
+         graph from each path. This value is then summated and finally divided by the number
+         of nodes minus 1. Short paths have high radiality values where as long paths have
+         low values. With respect to the diameter high radiality nodes are closer to other
+         nodes. In PPI networks radiality can represent functional relevancy between a single
+         protein and other proteins and functional directional control.
+      
+      MCODE
+      Another plugin used Molecular Complex Detection, MCODE, formulates clusters within
+         a network 
+         					[97]. MCODE, a theoretic clustering algorithm, identifies densely connected areas in large
+         protein-protein interaction networks that could suggest protein complexes. MCODE is
+         built on vertex weighting by local neighborhood density and outward crossing from
+         a locally dense protein isolating the dense regions according to user specific parameters.
+         
+         					[97] MCODEv1.32 was used for cluster identification among the proteins with the two sub
+         networks.
+      
+      MetaCore
+      MetaCore is commercially available software (GeneGo, Thompson Reuters, New York, NY)
+         for functional analysis of high throughput data. For this study we focused on using
+         the Disease (by biomarker) analysis. MetaCore bases disease ontology on classifications
+         in Medical Subject headings. Each disease has a corresponding biomarker gene or sets
+         of genes and p-value statistic based on the probability of a random intersection of
+         two different gene sets. The p-value of the intersection between an experimental gene
+         and ontology is considered as a measure of relevance of said ontology to the experimental
+         dataset.
+      
+      The Database for Annotation, Visualization and Integrated Discovery (DAVID)
+      DAVID is a publically available database (http://david.abcc.ncifcrf.gov webcite) that offers a comprehensive set of functional annotation tools to recognize biological
+         meaning behind list from high through put experiments. For this study we focused on
+         using the disease information in the Genetic Association Database curated within DAVID’s
+         functional analysis. The statistics used for predicted disease ontologies are p-values
+         using Fisher’s exact test.. Each statistical measure corresponds to the probability
+         of one or more genes overlapping with the predicted disease ontology.
+      
+   
+

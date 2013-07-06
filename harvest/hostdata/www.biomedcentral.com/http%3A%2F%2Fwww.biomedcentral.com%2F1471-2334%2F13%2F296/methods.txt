@@ -1,0 +1,283 @@
+Methods
+   
+      Study population and hospital
+      Nha Trang is the capital city of the Khanh Hoa Province in South-Central Vietnam.
+         Temperatures are high throughout the year (average 26°C), and the rainy season is
+         from September through December. According to the Vietnam Population and Housing Census
+         and our previously conducted population-based survey, the total mid-year pop-ulation
+         in the city in 2009 was 392,279, with76% of ≥15 years and 6.4% of ≥ 65 years old [16,17]. Influenza vaccine and pneumococcal polysaccharide vaccine had not been included
+         in the national immunisation programme at the time of the study. The introduction
+         of the H. influenzae type b (Hib) conjugate vaccine for all infants aged 2, 3, and 4 months did not take
+         place until May 2010.
+      
+      The Khanh Hoa General Hospital (KHGH) is a pro-vincial-level referral hospital that
+         provides primary and tertiary care for residents. According to our previous survey,
+         the hospital served as the sole provider of hospital care for severe diseases in Nha
+         Trang City [16].
+      
+      Patient enrolment
+      All physicians and infectious disease specialists screened adult patients hospitalised
+         with acute LRTI. Our target population was all patients aged ≥15 years residing in
+         Khanh Hoa Province who were hospitalised with any signs of LRTI from September 1,
+         2009, through August 31, 2010. A patient was classified as having LRTI if presenting
+         to the hospital with at least two of the following symptoms: (1) fever and/or cough
+         (2) fast and/or difficulty of breathing, or (3) any additional severe symptoms including
+         respiratory rate over 30 per minute, SpO2 under 90%, systolic blood pressure under
+         90 mmHg, pulse rate more than 130/min, white blood cell count over 20,000 or under
+         4,000 cells/μL, CRP over 20 mg/dl, dehydrated, altered consciousness and other worse
+         general status. Patients were excluded from the study if they had been hospitalised
+         within the previous week, or have been diagnosed other than LRTI, or if no interpretable
+         chest X-ray was obtained. These criteria were based on criteria in previous studies
+         of CAP and modified considering local settings [18].
+      
+      Demographic and clinical information were collected using a standardised form. The
+         forms were filled out by the hospital physicians, and the data were verified by one
+         dedicated research clinician and one research assistant. Malnutrition was defined
+         as clinically apparent weight loss or skinny and pale appearance accompanied with
+         disability or reduction of eating for more than 7 days. Status of human immunodeficiency
+         virus (HIV) infection was not routinely tested but positive results in previous test
+         were noted. Blood, sputum, and flocked nasopharyngeal swab (NPS) specimens were obtained
+         from the participants immediately after admission and completion of an informed consent
+         form. Chest X-rays were taken within 48 hours of admission.
+      
+      Laboratory testing
+      The clinical specimens were immediately transported to the hospital laboratory. Gram
+         staining was performed on all sputum, and the specimen quality was evaluated according
+         to Geckler’s category [19]. Conventional bacterial culture was performed by trained laboratory technicians.
+         To each of the NPS specimens, 800 μl of normal saline (NS) was added for processing;
+         then, 140 μl of this fluid was transferred to a medium containing skim milk, tryptone,
+         glucose, and glycerine (STGG media). Another 200 μl of the NPS-saline solution was
+         added to viral transfer media (VTM). Residual sputum samples and VTM were stored at
+         −80°C in the hospital laboratory and transported on ice pack to the Institute of Tropical
+         Medicine at Nagasaki University, Japan every three months for further molecular tests.
+         The sputum samples were tested by multiplex PCR, which is a conventional PCR with
+         mixing three sets of pathogen specific primers to identify three typical pathogenic
+         bacteria: Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis. Viral nucleic acid was extracted from VTM using the QIAamp viral RNA extraction
+         kit and tested for 13 previously described respiratory viruses: influenza A/B (FLUA,
+         FLUB), respiratory syncytial virus (RSV), Human adenovirus (HAdV), Human rhinovirus
+         (HRV), Human bocavirus (HBoV), Human metapneumovirus (HMPV), Human parainfluenza virus
+         (HPIV) type 1–4, and Human coronavirus OC43/229E (HCoV) [16].
+      
+      Definitions of pneumonia
+      Patients were classified into either CAP or non-pneumonic lower respiratory tract
+         infections (NPLRTI) according to the findings of the chest X-rays. As there are no
+         common criteria to interpret adult chest X-ray, the World Health Organization’s guideline
+         for childhood pneumonia were modified to standardize the interpretation algorithm
+         [20]. A senior pulmonologist and two physicians who were blinded to the clinical course
+         interpreted all chest X-ray films independently. A case was categorised as CAP if
+         two or more evaluators agreed on the presence of consolidation. The severity of cases
+         was assessed using CURB65 and Pneumonia Severity Index (PSI) scores [21].
+      
+      Estimation of the incidence of CAP
+      To ensure all CAP cases are counted in the incidence estimation, we obtained the hospital
+         admission database with International Classification of Diseases, 10th revision (ICD-10)
+         coding along with age, gender, date of admission and discharge and address codes.
+         The cases of hospitalised ICD-10 coded pneumonia were defined by ICD-10 codes J10–J18
+         (ICD-10 coded pneumonia).
+      
+      Let La denote the number of actively enrolled cases of LRTI and Ca denote the number of actively enrolled CAP cases with chest X-ray confirmation. Let
+         Cd denote the number of cases with ICD-10 coded pneumonia in the hospital database. Amongst
+         Cd there were some cases which had been missed by the active enrolment and hence no chest
+         X-ray was available to determine whether they attributed to the total incidence of
+         CAP. Among those cases which were included in both La and Cd (Lad) we determined the proportion (r), with respect to age group (i) and gender (j), which holds those cases with positive chest X-rays (Cad).
+      
+      
+         
+               
+                  
+                     r
+                     
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     =
+                     
+                        C
+                        a
+                     
+                     
+                        
+                        d
+                     
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     /
+                     
+                        L
+                        a
+                     
+                     
+                        
+                        d
+                     
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                  
+               
+         
+      
+      We assumed that this proportion was the same for the rest of ICD-10 coded pneumonia
+         cases and calculated the total number of cases with CAP (CT):
+      
+      
+         
+               
+                  
+                     
+                        C
+                        T
+                     
+                     
+                        
+                           I
+                           ,
+                           J
+                        
+                     
+                     =
+                     
+                        C
+                        a
+                     
+                     
+                        
+                           I
+                           ,
+                           J
+                        
+                     
+                     +
+                     R
+                     
+                     
+                        
+                           I
+                           ,
+                           J
+                        
+                     
+                     ×
+                     
+                        
+                           
+                              C
+                              d
+                           
+                           
+                              
+                                 I
+                                 ,
+                                 J
+                              
+                           
+                           −
+                           
+                              L
+                              a
+                           
+                           
+                              
+                              d
+                           
+                           
+                              
+                                 I
+                                 ,
+                                 J
+                              
+                           
+                        
+                     
+                  
+               
+         
+      
+      Age and gender specific incidence I[i, j] per 1,000 residents were calculated using population P[i, j];
+      
+      
+         
+               
+                  
+                     I
+                     
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     =
+                     
+                        C
+                        T
+                     
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     /
+                     P
+                     
+                        
+                           i
+                           ,
+                           j
+                        
+                     
+                     ×
+                     1
+                     ,
+                     000
+                  
+               
+         
+      
+      We calculated incidences in age group i of 15–29, 30–44, 45–64 and 75 years and over for gender j of male and female. To compare with other studies, additional estimates for other
+         age groups were also done.
+      
+      For calculation of the incidence, the population and patients were limited to Nha
+         Trang residents because those who reside out of Nha Trang likely to go their own district
+         level hospitals for mild symptoms.
+      
+      Definition of 2009pH1N1 influenza season
+      During the study period, 2009pH1N1 influenza outbreak occurred from Sep until Dec
+         2009. No cases with 2009pH1N1 influenza infection were detected from Jan 2010 until
+         the end of the study according to on-going viral respiratory surveillance in this
+         area [16,22]. Incidence of CAP in 2009pH1N1 influenza season was defined as cases detected from
+         Sep to Dec 2009.
+      
+      Data analysis
+      The characteristics of patients with CAP and NPLRTI were compared using the chi-squared
+         test for categorical variables, a two-tailed unpaired t-test for continuous variables and a nonparametric trend test for ordinal variables.
+         Cases were excluded from each comparison if the relevant data were not recorded; imputations
+         for missing values were not performed in our analyses. The 95% confidence intervals
+         (CIs) for the incidence estimates were calculated using Wilson’s score method. The
+         logistic regression analysis was applied to adjust for possible confounding factors.
+         All statistical analyses were performed using Stata 12.0 (Stata Corp., USA).
+      
+      Ethics
+      This study was approved by the Institutional Review Board (IRB) of the National Institute
+         of Hygiene and Epidemiology, Hanoi, Vietnam, and the IRB of the Institute of Tropical
+         Medicine, Nagasaki University, Nagasaki, Japan. Informed consent was obtained in accordance
+         with international guidelines.
+      
+   
+

@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				We aimed to assess health-impacts of short-term exposure to the air pollutants including PM 10 , SO 2 , and NO 2  in Shiraz, Iran in a two-part study from 2008 to 2010. In part I, local relative risks (RRs) and baseline incidences (BIs) were calculate using generalized additive models. In part II, we estimated the number of excess hospitalizations (NEHs) due to cardiovascular diseases (CDs), respiratory diseases (RDs), respiratory diseases in elderly group (RDsE—people older than 65 years old), and chronic obstructive pulmonary diseases (COPDs) as a result of exposure to air pollutants using AirQ model, which is proposed approach for air pollution health impact assessment by World Health Organization. In part I, exposure to increase in daily mean concentration of PM 10  was associated with hospitalizations due to RDs with a RR of 1.0049 [95% confidence interval (CI), 1.0004 to 1.0110]. In addition, exposure to increase in daily mean concentration of SO 2  and NO 2  were associated with hospitalizations due to RDsE and COPDs with RRs of 1.0540 [95% CI, 1.0050 to 1.1200], 1.0950 [95% CI, 1.0700 to 1.1100], 1.0280 [95% CI, 1.0110 to 1.0450] and 1.0360 [95% CI, 1.0210 to 1.0510] per 10 μg/m 3  rise of these pollutants, respectively. In part II, the maximum NEHs due to CDs because of exposure to PM 10  were in 2009—1489 excess cases (ECs). The maximum NEHs due to RDs because of exposure to PM 10  were in 2009—1163 ECs. Meanwhile, the maximum NEHs due to RDsE and COPDs because of exposure to SO 2  were in 2008, which are 520 and 900 ECs, respectively. In conclusion, elevated morbidity risks were found from acute exposure to air pollutants.
+
+			
+		

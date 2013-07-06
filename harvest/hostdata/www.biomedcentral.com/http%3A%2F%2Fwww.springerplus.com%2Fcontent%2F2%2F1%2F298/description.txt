@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Breast-feeding is a known protective factor against breast cancer. Breast-feeding duration is influenced by hormone levels, milk production, and lifestyle factors. The aims were to investigate how breast-feeding duration and milk production affected tumor characteristics and risk for early breast cancer events in primary breast cancer patients. Between 2002 and 2008, 634 breast cancer patients in Lund, Sweden, took part in an ongoing prospective cohort study. Data were extracted from questionnaires, pathology reports, and patients’ charts from 592 patients without preoperative treatment. Breast-feeding duration ≤12 months of the first child was associated with higher frequency of ER+/PgR+ tumors (P=0.02). Median follow-up time was 4.9 years. Higher risk for early events was observed for breast-feeding duration of first child >12 months (LogRank P=0.001), total breast-feeding duration >12 months (LogRank P=0.008), as well as ‘excessive milk production’ during breast-feeding of the first child (LogRank P=0.001). Patients with ‘almost no milk production’ had no events. In a multivariable model including both ‘excessive milk production’ and breast-feeding duration of the first child >12 months, both were associated with a two-fold risk for early events, adjusted HRs 2.33 (95% CI: 1.25-4.36) and 2.39 (0.97-5.85), respectively, while total breast-feeding duration was not. ‘Excessive milk production’ was associated with a two-fold risk of early distant metastases, adjusted HR 2.59 (1.13-5.94), but not duration. In conclusion, ‘excessive milk production’ during breast-feeding was associated with higher risk for early events independent of tumor characteristics, stressing the need to consider host factors in the evaluation of prognostic markers.
+
+			
+		

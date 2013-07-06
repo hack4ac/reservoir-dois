@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					Criminal network investigation involves a number of complex tasks and problems. Overall tasks include collection, processing, and analysis of information, in which analysis is the key to successful use of information since it transforms raw data into intelligence. Analysts have to deal with problems such as information volume and complexity which are typically resolved with more resources. This approach together with sequential thinking introduces compartmentalization, inhibits information sharing, and ultimately results in intelligence failure. We view analysis as an iterative and incremental process of creative synthesis and logic-based sense-making where all stakeholders participate and contribute. This paper presents a novel tool that supports a human-centered, target-centric model for criminal network investigation. The developed tool provides more comprehensive support for analysis tasks than existing tools and measures of performance indicate that the integration of synthesis and sense-making is feasible.
+
+				
+			
+		

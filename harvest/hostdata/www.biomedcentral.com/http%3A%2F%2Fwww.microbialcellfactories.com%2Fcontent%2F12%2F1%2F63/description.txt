@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The soil bacterium  Corynebacterium glutamicum , best known for its glutamate producing ability, is suitable as a producer of a variety of bioproducts. Glutamate is the precursor of the amino acid proline. Proline biosynthesis typically involves three enzymes and a spontaneous cyclisation reaction. Alternatively, proline can be synthesised from ornithine, an intermediate of arginine biosynthesis. The direct conversion of ornithine to proline is catalysed by ornithine cyclodeaminase. An ornithine overproducing platform strain with deletions of  argR  and  argF  (ORN1) has been employed for production of derived compounds such as putrescine. By heterologous expression of  ocd  this platform strain can be engineered further for proline production.
+
+				
+				
+					
+						Results
+
+					Plasmid-based expression of  ocd  encoding the putative ornithine cyclodeaminase of  C. glutamicum  did not result in detectable proline accumulation in the culture medium. However, plasmid-based expression of  ocd  from  Pseudomonas putida  resulted in proline production with yields up to 0.31 ± 0.01 g proline/g glucose. Overexpression of the gene encoding a feedback-alleviated N-acetylglutamate kinase further increased proline production to 0.36 ± 0.01 g/g. In addition, feedback-alleviation of N-acetylglutamate kinase entailed growth-coupled production of proline and reduced the accumulation of by-products in the culture medium.
+
+				
+				
+					
+						Conclusions
+
+					The product spectrum of the platform strain  C. glutamicum  ORN1 was expanded to include the amino acid L-proline. Upon further development of the ornithine overproducing platform strain, industrial production of amino acids of the glutamate family and derived bioproducts such as diamines might become within reach.
+
+				
+			
+		

@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The p53 pathway is differentially activated in response to distinct DNA damage, leading to alternative phenotypic outcomes in mammalian cells. Recent evidence suggests that p53 expression dynamics play an important role in the differential regulation of cell fate, but questions remain as to how p53 dynamics and the subsequent cellular response are modulated by variable DNA damage.
+
+				
+				
+					
+						Results
+
+					We identified a novel, bimodal switch of p53 dynamics modulated by DNA-damage strength that is crucial for cell-fate control. After low DNA damage, p53 underwent periodic pulsing and cells entered cell-cycle arrest. After high DNA damage, p53 underwent a strong monotonic increase and cells activated apoptosis. We found that the damage dose-dependent bimodal switch was due to differential Mdm2 upregulation, which controlled the alternative cell fates mainly by modulating the induction level and pro-apoptotic activities of p53.
+
+				
+				
+					
+						Conclusions
+
+					Our findings not only uncover a new mode of regulation for p53 dynamics and cell fate, but also suggest that p53 oscillation may function as a suppressor, maintaining a low level of p53 induction and pro-apoptotic activities so as to render cell-cycle arrest that allows damage repair.
+
+				
+			
+		

@@ -1,0 +1,108 @@
+Methods
+   
+      Study populations
+      The present study included 837 Spanish cutaneous melanoma patients. The cutaneous
+         melanoma patients were recruited at the Department of Dermatology, Instituto Valenciano
+         de Oncologia, a referral skin cancer center for the provinces of Valencia, Alicante
+         and Castellón, with ~5 million population. Blood samples from melanoma patients with
+         histopathologically confirmed diagnosis were collected between 2000 and 2007. Clinical
+         and pathological data from the patients were prospectively collected since January
+         2000 through the review of medical history, personal interviews and clinical examination
+         by expert dermatologists. The patients were followed-up for a median of 88.8&nbsp;months
+         (95% CI 83.1-94.4). The tumors were classified according to the AJCC stage system
+         for pathological stage and the relative Breslow thickness was reported. The phenotypic
+         characteristics of skin in cases were classified as Fitzpatrick phototypes after examination
+         by a trained dermatologist. Information about hair and eye color was also documented.
+         Spanish control included 1154 ethnically matched disease-free controls-individuals.
+         Disease-free and ethnically matched healthy control subjects were recruited at the
+         Transfusion Center of Valencia, Spain. The phenotypic characteristics of skin in controls
+         were classified as Fitzpatrick phototypes based on a self-reported questionnaire.
+      
+      All the participants in the study signed an informed consent and the study protocol
+         was approved by institutional ethic board of Instituto Valenciano de Oncologia.
+      
+      Selection and genotyping of the polymorphisms
+      The polymorphisms on chromosome 9p21 were selected according to two criteria: polymorphisms
+         previously reported to be associated in published GWAS on melanoma and nevi and polymorphisms
+         selected through tagging approach to fine map the CDKN2A gene. Ten polymorphisms reported to be associated with melanoma and cutaneous nevi
+         or both were included in the study (Figure&nbsp;1).
+      
+      Figure 1. Linkage disequilibrium map of chromosome 9p21 from 21697000 bp to 22124000 bp. The linkage disequilibrium map derived from HapMap (release #27) shows the SNPs associated
+         with cutaneous nevi or melanoma risk or both in GWAS.
+      
+      The selection of the polymorphisms in order to fine map the CDKN2A gene was done using data on the Caucasian population from HapMap database (release
+         #27). The 47.2 Kb (chromosome 9: 21956221–22003411; build 36.3) region encompassing
+         CDKN2A and the nearby CDKN2B was scanned and 12 polymorphisms with a minor allele frequency ≥0.10 were identified
+         using tagger program in Haploview using a minimum r2 of 0.8 (Figure&nbsp;2). A total of 25 polymorphisms were selected on chromosome 9p21 and genotyped in the
+         Spanish melanoma cases and controls (Additional file 1: Table S1).
+      
+      Figure 2. Linkage disequilibrium map of chromosome 9p21 from 21956221 bp to 22003411 bp. The map derived from HapMap (release #27) reports the genotyped tagging SNPs.
+      
+      Additional file 1: Table S1. Detailed information of genotyped single nucleotide polymorphisms on chromosome 9p21.
+         	Format: DOCX 
+         	Size: 44KB Download file or  display content in a new window
+      Genotyping of the selected polymorphisms was carried out using a PCR based allelic
+         discrimination method (KBiosciences UK). The amplification was carried out in a final
+         volume of 4&nbsp;μl using 5&nbsp;ng of DNA, 2&nbsp;μl 2X reaction mix (KBiosciences, UK), 0.06&nbsp;μl
+         of the solution containing 100 nM of two forward primers specific for two alleles,
+         and one reverse primer mix. The reaction was performed under thermocycling conditions
+         with an initial denaturation at 94°C for 15&nbsp;minutes, followed by 36–46&nbsp;cycles of 20s
+         at 94°C and 60s of annealing (temperatures ranging from 60-50°C). Genotypes in amplified
+         products were determined by differences in VIC and FAM fluorescent level in plate
+         read operation on ABI PRISM 7900HT (Applied Biosystems, Foster City, CA) using SDS
+         1.2 Software. Post operation data were transferred as Microsoft Excel files and converted
+         into genotype informations.
+      
+      The samples for which genotyping failed in Kaspar assay were randomly sequenced. PCR
+         for sequencing was carried out in a total volume of 10&nbsp;μl. The reaction contained
+         10&nbsp;ng of DNA template, 1.0&nbsp;μl of 10X reaction buffer, 0.11&nbsp;mM of each dNTP, 0.20&nbsp;μM
+         of each primer (Additional file 2: Table S2), 1.50&nbsp;mM of MgCl2 and 0.2 U (TAQ POL) of DNA Taq Polymerase (Genaxxon BioScience GmbH, Germany). Thermocycling
+         conditions used were 94&nbsp;C for 5 min, followed by 3 cycles of 94°C for 45 seconds,
+         annealing temperature (Additional file 2: Table S2) for 45 seconds, 72°C for 45 seconds followed by additional 35 repeated
+         cycles of 94°C for 30 seconds, annealing temperature (Additional file 2: Table S2) for 30 seconds and 72&nbsp;C for 45&nbsp;sec. The final step was 72°C for 5&nbsp;minutes.
+      
+      The amplified fragments were checked on 1% agarose gel. PCR product were purified
+         by incubation for 30&nbsp;minutes at 37&nbsp;C with 0.75&nbsp;μl of ExoSAP-IT®(USB Corporation, Cleaveland,
+         OH), followed by an incubation for 15&nbsp;minutes at 85°C. Cycle sequencing reaction on
+         purified PCR products were performed using specific primers (Additional file 2: Table S2). The sequencing reaction was performed using Big Dye® Terminator Cycle
+         Kit (Applied Biosystem, Foster City, CA). The reaction products were precipitated
+         with isopropanol, washed in 70% ethanol and the precipitate was suspended in 25&nbsp;μl
+         of water. The 96 well plates containing DNA were loaded on an ABI prism 3100 Genetic
+         analyzer and the data were analyzed using a sequencing program (Applied Biosystem).
+      
+      Additional file 2: Table S2. Primer sequences and conditions for PCR.
+         	Format: DOCX 
+         	Size: 40KB Download file or  display content in a new window
+      Statistical analysis
+      Genotype frequencies of all SNPs were tested in control subjects for deviation from
+         Hardy-Weinberg equilibrium using Pearson’s X2 test. For association study, 63 patients with melanoma in situ (AJCC stage 0) were
+         excluded from data analysis. The association between cutaneous melanoma and genotype
+         of the polymorphisms was evaluated by odds ratios (OR), 95% confidence intervals (CI)
+         and P values, using logistic regression (SAS version 9.2, SAS institute Inc., NC).
+         Logistic regression models included age and sex as covariates. Analysis was also performed
+         using a model selection that included all covariates.
+      
+      Gene-gene and gene-host factor interactions were carried out after a model selection
+         based on likelihood ratio tests (LTR). The interaction analysis between the variants
+         that showed association with the risk of melanoma and previously genotyped melanocortin receptor 1 (MC1R) variants was carried out by categorizing both cases and controls into carriers and
+         non-carriers [18]. For MC1R categories selected were carriers of any (V60L, D84E, V92M, R151C, I155T, R160W,
+         R163Q and D294H) MC1R variants versus non-carriers and analysis was also carried out by grouping red hair
+         color (RHC; D84E, R151C, R160W and D294H) and non-RHC variants separately. All statistical
+         tests were performed in SAS 9.2 software.
+      
+      Interaction contrast ratio ICR to test departure from additivity (&gt; or &lt; 0) and the
+         multiplicative interaction index MII to test departure from multiplicativity (&gt; or
+         &lt; 1) were also calculated in SAS 9.2. Confidence intervals and the p-values were calculated
+         using bootstrap methods with 10000 simulations (SAS 9.2).
+      
+      Bioinformatic analysis
+      The estimate of linkage disequilibrium between the polymorphisms in Spanish cases
+         and controls combined was performed using SNP_tool package. The converted data were
+         processed in the Haploview software (version 4.2) for linkage disequilibrium estimation.
+      
+      Analysis of expression quantitative trait loci (eQTL) in the eQTL browser (eqtl.uchicago.edu/Home.html)
+         was performed for the statistically significant associated polymorphisms with melanoma
+         risk and the tagged variants.
+      
+   
+

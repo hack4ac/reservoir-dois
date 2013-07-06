@@ -1,0 +1,53 @@
+Methods
+   
+      Design and patients
+      Ninety-four AECOPD patients admitted into the intensive care unit (ICU) of our hospital
+         from June 2008 to March 2012 were included, all of whom in accordance with the criteria
+         of COPD guideline constituted by Chinese Society of Respiratory Diseases in 2007 and
+         the diagnosis standard of pulmonary encephalopathy[2,3]. They were divided into the control group (BMI&lt;21) and the study group (BMI&gt;21) in
+         accordance with the criteria of COPD guideline constituted by American and European
+         Society of Respiratory Diseases in 2004, BMI&lt;21 was underweight and should be treated
+         by nutritional support[4].
+      
+      The study group consist of 23 males and 15 females aged from 41 to 85 years old (average
+         of 64.50±4.75 years) and the course of their diseases are from 3 months to 22.23 years
+         (average of 62.34±3.50 months), among whom there are 6 patients with type III and
+         32 patients with type IV COPD. The control group consist of 32 males and 24 females
+         aged from 42 to 86 years old (average of 63.70±3.90 years) and the course of their
+         diseases are from 4 months to 21.70 years (average of 63.18±4.22 months), among whom
+         there are 12 patients with type III and 44 patients with type IV COPD. There is no
+         significant difference between these two groups in age, gender, course of diseases,
+         type of COPD, the score of APACHE II, result of blood gas analysis (P&gt;0.05).
+      
+      Treatment
+      These two groups were treated by similar symptomatic therapies such as antibacterial,
+         antispasmodic, relieving asthma, antitussive, expectorant, correction of electrolyte
+         imbalance and acid-base balance disorders, strengthen nutritional support, etc. Patients
+         were ventilated using assistance controlled mechanical ventilation (ACMV) during the
+         initial mechanical ventilation, and switched to synchronous intermittent mechanical
+         ventilation (SIMV) and pressure support ventilation (PSV) and positive expiratory
+         end pressure (PEEP) with the improvement of patients’ condition. Mode and parameters
+         of mechanical ventilation were adjusted according to patients’ condition. Patients
+         were ventilated using SIMV and PSV and PEEP, and switched to PSV and PEEP after the
+         PIC window appeared. The level of PSV was decreased gradually to 5-8cmH2O with the improvement of patients’ condition; at least 12 hours later, exudation
+         was conducted and followed by non-invasive mechanical ventilation. The non-invasive
+         mechanical ventilation that we used were bi-level positive airway pressure-spontaneous
+         and timing mode (BiPAP-S/T); the level of inspiration positive airway pressure (IPAP)
+         was 4-7cmH2O (1cmH2O = 0.0198KPa), and then weaning from mechanical ventilation after spontaneous breathe
+         smoothly, instead of nasal breathing. These two groups weighed every day and kept
+         the balance of body fluid. The treatment of the study group was the same as that of
+         the control group until BMI &gt;21, then weaning from mechanical ventilation.
+      
+      Observation items
+      The following indices were recorded at different times including before mechanical
+         ventilation such as BMI, variation of blood gas analysis, invasive mechanical ventilation
+         time, non-invasive mechanical ventilation time, total mechanical ventilation time,
+         VAP occurred rate, re-intubation rate, hospital mortality rate in 28 days.
+      
+      Statistical analysis
+      All parameters were expressed as the mean ±standard deviation (SD), with the use of
+         SPSS13.0 software. All indices were analyzed by independent-sample t test and x2 test between the two groups, and by paired-sample t test between different times
+         for each group. A P value less than 0.05 was considered statistically significant.
+      
+   
+

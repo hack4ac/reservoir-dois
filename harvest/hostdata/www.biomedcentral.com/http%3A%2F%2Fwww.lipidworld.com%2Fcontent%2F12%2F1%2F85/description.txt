@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Hyperlipidaemia is a major risk factor for coronary artery disease (CAD) and cholesteryl ester transfer protein (CETP) gene polymorphisms are known to be associated with lipid profiles.
+
+				
+				
+					
+						Methods
+
+					In this study, we investigated the association of two polymorphisms in the CETP,  Taq1B  (rs708272) and - 629C  >  A  (rs1800775), with CAD and lipid levels HDL-C in 662 CAD + cases and 927 controls from the Singapore population comprising Chinese, Malays and Indians.
+
+				
+				
+					
+						Results
+
+					
+						 TaqB2  frequency was significantly lowest in the Malays (0.43) followed by Chinese (0.47) and highest in the Indians (0.56) in the controls. The  B2  allele frequency was significantly lower in the Chinese CAD + cases compared to the controls (p = 0.002). The absence of the  B2  allele was associated with CAD with an OR 2.0 (95% CI 1.2 to 3.4) after adjustment for the confounding effects of age, smoking, BMI, gender, hypertension, dyslipidemia and diabetes mellitus. The  B2  allele was significantly associated with higher plasma HDL-C levels in the Chinese men after adjusting for confounders. Associations with plasma apoA1 levels were significant only in the Chinese men for  Taq1B  and - 629C  >  A . In addition, the Taq1B polymorphism was only associated with plasma Apo B and Lp(a) in the Malay men. Significant associations were only found in non-smoking subjects with BMI <50 th  percentile. In this study, the LD coefficients between the  Taq1B  and - 629C  >  A  polymorphisms seemed to be weak.
+
+				
+				
+					
+						Conclusion
+
+					The absence the  Taq1B2  allele was associated with CAD in the Chinese population only and the minor allele of the Taq1B polymorphism of the  CETP  gene was significantly associated with higher plasma HDL-C levels in Chinese men.
+
+				
+			
+		

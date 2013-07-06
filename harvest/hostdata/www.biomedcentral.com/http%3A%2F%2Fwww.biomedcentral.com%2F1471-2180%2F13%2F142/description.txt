@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Pre-genomic and post-genomic studies demonstrate that chlamydiae actively recombine in vitro and in vivo, although the molecular and cellular biology of this process is not well understood. In this study, we determined the genome sequence of twelve  Chlamydia trachomatis  recombinants that were generated in vitro under antibiotic selection. These strains were used to explore the process of recombination in  Chlamydia spp. , including analysis of candidate recombination hotspots, and to correlate known  C. trachomatis  in vitro phenotypes with parental phenotypes and genotypes.
+
+				
+				
+					
+						Results
+
+					Each of the 190 examined recombination events was the product of homologous recombination, and no candidate targeting motifs were identified at recombination sites. There was a single deletion event in one recombinant progeny that resulted in the removal of 17.1 kilobases between two rRNA operons. There was no evidence for preference for any specific region of the chromosome for recombination, and analyses of a total of over 200 individual recombination events do not provide any support for recombination hotspots in vitro. Two measurable phenotypes were analyzed in these studies. First, the efficiency of attachment to host cells in the absence of centrifugation was examined, and this property segregated to regions of the chromosome that carry the polymorphic membrane protein (Pmp) genes. Second, the formation of secondary inclusions within cells varied among recombinant progeny, but this did not cleanly segregate to specific regions of the chromosome.
+
+				
+				
+					
+						Conclusions
+
+					These experiments examined the process of recombination in  C. trachomatis  and identified tools that can be used to associate phenotype with genotype in recombinant progeny. There were no data supporting the hypothesis that particular nucleotide sequences are preferentially used for recombination in vitro. Selected phenotypes can be segregated by analysis of recombination, and this technology may be useful in preliminary analysis of the relationship of genetic variation to phenotypic variation in the chlamydiae.
+
+				
+			
+		

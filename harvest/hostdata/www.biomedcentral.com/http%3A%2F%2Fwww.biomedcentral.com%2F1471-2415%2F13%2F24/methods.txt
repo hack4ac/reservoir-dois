@@ -1,0 +1,90 @@
+Methods
+   
+      Included in this prospective, single-center case-series were consecutive patients
+         who underwent clear cornea extracapsular cataract extraction by phacoemulsification
+         and intracapsular lens implantation combined with ELT (phaco-ELT) between 01/2008
+         and 10/2009. If both eyes of a patient underwent phaco-ELT, only the eye that was
+         operated first was included in the study; thus, 9 eyes were excluded. Patients were
+         followed-up at 12 months ± 2 weeks after the procedure. All subjects were recruited
+         from the ophthalmological out-patient department and gave prior written informed consent.
+         The study was approved by the local ethics committee (Ethics Committee of the Canton
+         Zurich, KEK-ZH-Nr. 881, 06/07/2009) and adhered to the tenets of the Declaration of
+         Helsinki and local law. The study is registered in the clinical trials registry of
+         the U.S. National Institutes of Health (http://www.clinicaltrials.gov webcite, NCT01194310). Intraocular pressure (using Goldmann applanation tonometry), best
+         corrected visual acuity (BCVA, using Snellen charts), slit lamp biomicroscopy of the
+         anterior and posterior segment as well as glaucoma medication history were documented
+         by one examiner (M. T.-H.). The indications for a combined phaco-ELT intervention
+         were the presence of a visually significant cataract (BCVA less than or equal to 0.5
+         Snellen) and a moderately elevated IOP in the absence of medical therapy, or a moderate
+         cataract (BCVA less than or equal to 0.8 Snellen) and uncontrolled IOP despite medical
+         therapy.
+      
+      Inclusion/exclusion criteria
+      Inclusion criteria were a diagnosis of ocular hypertension or manifest glaucoma with
+         typical glaucomatous cupping of the optic disc, visual field changes, or both, together
+         with an open iridocorneal angle (grade 3 or 4 on the Shaffer scale [25]). Patients with advanced glaucoma (i.e., fixation-threatening visual-field defects)
+         or with an IOP ≥35 mmHg were excluded. Patients with a history of optic neuropathies
+         other than glaucoma were also excluded.
+      
+      Surgical procedure
+      All surgeries were performed by the same surgeon (J. F.). A standard clear-cornea
+         phacoemulsification and intracapsular lens implantation (Alcon MA 50 BM, Alcon Inc.,
+         Hünenberg, Switzerland) was performed. Immediately afterwards, a medical miosis was
+         induced by acetylcholine chloride (Miochol) and the anterior chamber was deepened
+         with viscoelastic (sodium hyaluronate, Healon). An endoscopically-guided photoablative
+         laser operating at a wavelength of 308 nm (excimer laser, AIDA, TUI-Laser, Munich,
+         Germany) was used to create ten microperforations (ELT channels) into the trabecular
+         meshwork spread over an area of 90°. Each ELT channel was approximately 0.2 mm in
+         diameter. Further details of the laser device are provided in Table&nbsp;1. In order to transmit adequate sub-threshold energy of the laser to the target tissue,
+         the instrument tip had to touch the TM (see Figure&nbsp;1). After laser application a formation of bubbles was seen together with a small retrograde
+         bleeding, indicating the perforation of the trabecular meshwork and the inner wall
+         of Schlemm’s canal (see Figure&nbsp;2). In all patients the bleeding resolved spontaneously. At the end of the surgical
+         procedure, the viscoelastic was washed out of the anterior chamber and the globe was
+         pressurized to approximately 15 mmHg. The paracentesis and clear corneal incision
+         were hydrated with sterile balanced salt solution (BSS). Cefazolin and Dexamethasone
+         were injected subconjunctivally at the end of the procedure. Intracameral endophthalmitis
+         prophylaxis was not used because at the time of the study no commercially available
+         antibiotic solution was certified or approved for this purpose, and because of the
+         risk of serious side effects (e.g. toxic anterior segment syndrome, anaphylaxis in
+         patients with a history of penicillin allergy). Combined Tobramycin and Dexamethasone
+         ointment was applied and the eye was covered with an eye patch overnight. From the
+         first postoperative day, Tobramycin and Dexamethasone eye drops (q.i.d.) and Tobramycin
+         and Dexamethasone ointment (at bedtime) were applied for 2 weeks. After the second
+         week, only the eye drops (three times daily) were applied and reduced weekly by one
+         drop.
+      
+      Table 1. Technical data of the AIDA excimer laser
+      Figure 1. Under endoscopic guidance, ten laser spots were applied into the trabecular meshwork
+            spread over an area of 90°. At the point of laser transmission, the probe is in direct contact with the trabecular
+         meshwork.
+      
+      Figure 2. After laser application a formation of bubbles could be seen, together with a small
+            retrograde bleeding.
+      Study endpoints
+      Primary study endpoints were IOP and number of antiglaucoma drugs (AGD) taken. Secondary
+         study endpoints were BCVA, intra- and postoperative complications, and the requirement
+         for subsequent glaucoma surgery.
+      
+      Statistical analyses
+      Descriptive statistics for quantitative variables such as mean, standard deviation,
+         95% confidence interval and relative frequencies for qualitative variables were calculated
+         for all study eyes (without dropouts) and for the two subgroups separately – one with
+         a preoperative IOP of ≤21 mmHg (study group) and one with a preoperative IOP of &gt;21
+         mmHg (control group). Data are given as arithmetic mean ± standard deviation. A student’s
+         t test was used for testing significant changes in IOP, BCVA and number of AGD. The
+         significance level was defined by p &lt; 0.05. For statistics (e.g. percentage change),
+         BCVA was transformed to logMAR values and retransformed into Snellen for reporting
+         of the results [26,27]. Additionally, the number of patients that met the success criteria was calculated.
+         Statistical analyses were conducted in SPSS software version 19.0.0 for Macintosh
+         (IBM Corporation, New York, NY, USA).
+      
+      Definition of success and failure
+      Success was defined based on the criteria from the Tube Versus Trabeculectomy study
+         (TVT study) [28] as postoperative IOP below or equal to 21 mmHg and IOP reduction of at least 20%.
+         In addition, the number of AGD postoperatively had to be less than or equal to that
+         recorded preoperatively. Subsequent surgery within the follow-up period (12 months)
+         due to insufficient IOP reduction at the initial intervention was classified as treatment
+         failure.
+      
+   
+

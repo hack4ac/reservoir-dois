@@ -1,0 +1,187 @@
+Methods
+   
+      Plant materials
+      Selection of plant species screened in this study was based on their uses in Egyptian
+         traditional medicine (Table&nbsp;1). Information was gleaned from different sources of old Arabic literature available
+         which are believed to be the main references used in the “Attarin” shops in Cairo.
+         In this study we reviewed the information given by some scholars like Dawood el Antaki
+         [11], Al-torkmany [12], Ibn Sina [13], and Ibn el-Bitar [14].
+      
+      Table 1. Egyptian herbal medicines reported for treatment of age- related diseases
+      Plant materials (leaves, roots and seeds) were collected from either their natural
+         habitats or the local market (Table&nbsp;1). Two plants Boswellia scara (supplied and identified by Dr. A. al_Adawi, Ghadafan Agriculture Research Station,
+         Ministry of Agriculture and Fisheries, Sohar, Sultanate of Oman), and Ferula assafoetida (supplied by Dr. M. Ziaratnia, Research Institute of Food Science and Technology,
+         Isfahan, Iran). Voucher specimens (Table&nbsp;1) were identified by Prof. Ibrahim El-garf, a co-author of this article, and deposited
+         in the Department of Phytochemistry, National Research Centre, Egypt. The collected
+         fresh materials were dried, powdered and extracted by homogenization with methanol
+         (10&nbsp;ml&nbsp;g−1), using electrical blender and macerated overnight then filtrated, the residues were
+         re-extracted three times with fresh solvent. The filtrates were combined and the solvent
+         removed at 45°C under reduced pressure. The total extracts were kept at ~ −5°C for
+         further use.
+      
+      The multi-well plate AChE inhibition assay
+      The AChE inhibitory activity of each extract was tested using 96 well micro-plate
+         assay based on previously published methods [15,16] with minor modifications. Each extract (25&nbsp;μl of 10× of final concentrations in DMSO)
+         was dispensed in duplicates onto 96 well micro-plate and mixed with 200&nbsp;μl of Ellman’s
+         mixture containing 10&nbsp;mM Tris–HCl, pH&nbsp;8, 0.1% bovine serum albumin (BSA, fraction
+         V), 1.5&nbsp;mM acetylthiocholine iodide (ATCI, Sigma-Aldrich, Germany) and 3&nbsp;mM 5,5'-dithio-bis-(2-nitrobenzoic
+         acid) (DTNB, Sigma-Aldrich, Germany). The control wells contained the extract vehicle
+         (DMSO) instead of the extract. The reaction was started with the addition of enzyme
+         solution (25&nbsp;μl, 0.1 U/ml). Autohydrolysis of the substrate was corrected by replacing
+         the enzyme with 25&nbsp;μl of enzyme buffer (10&nbsp;mM Tris–HCl, pH&nbsp;8, containing 0.1% BSA)
+         in duplicate wells. The enzymatic activity was monitored kinetically at 450&nbsp;nm every
+         30&nbsp;s intervals for 3&nbsp;min at 30°C (linear reaction). The enzyme rate was calculated
+         from the slope of the curve of absorbance change vs time. As screening strategy, final
+         concentration of 1000&nbsp;μg/ml from each extract was examined and the average % inhibition
+         was calculated relative to the enzyme rate at the vehicle control wells according
+         to equation 1:
+      
+      
+      
+         
+               
+                  
+                     %
+                     
+                     Inhibition
+                     =
+                     ×
+                     
+                        
+                           
+                              mean
+                              
+                              slopes
+                              
+                              of
+                              
+                              the
+                              
+                              vehicle
+                              
+                              control
+                              −
+                              mean
+                              
+                              slopes
+                              
+                              of
+                              
+                              the
+                              
+                              sample
+                           
+                           
+                              mean
+                              
+                              slopes
+                              
+                              of
+                              
+                              the
+                              
+                              vehicle
+                              
+                              control
+                           
+                        
+                     
+                  
+               
+         
+      
+      Equation 1. Calculation of the average % inhibition of different extracts on AChE.
+      Five serial dilutions were prepared from the extracts that showed more than 50% inhibition
+         to determine the IC50 (extract concentration producing 50% inhibition of AChE activity as generated by
+         non-linear regression analysis). Galanthamine (Sigma-Aldrich, Germany) served as positive
+         control.
+      
+      Determination of the inhibition type of plant extracts on AChE
+      The type of inhibition of AChE by P. harmala and A. vasica extracts (reversible or irreversible inhibition) was determined by measuring the
+         restored AChE activity by 10 time dilution of plant extract concentration after mixing
+         and incubation of AChE and plant extract. AChE activity was measured after gentle
+         mixing of 110&nbsp;μl of (100&nbsp;μl enzyme:10&nbsp;μl plant extract) with 890&nbsp;μl of mixture containing
+         10&nbsp;mM Tris–HCl, pH&nbsp;8, 0.1% BSA, 1.5&nbsp;mM ATCI, 3&nbsp;mM DTNB and 90&nbsp;μl plant extract. In
+         a separate experiment, the dilution effect of plant extract on AChE activity was measured
+         after gentle mixing 110&nbsp;μl of (100&nbsp;μl enzyme:10&nbsp;μl plant extract) with 890&nbsp;μl of the
+         same above mixture except that 90&nbsp;μl plant extract was replaced with 90&nbsp;μl DMSO (solvent).
+         In reversible inhibition, AChE activity can be restored by dilution of plant extract,
+         while there is no change in AChE activity with dilution of plant extract in irreversible
+         inhibition.
+      
+      Cyclooxygenase-1 assay
+      Inhibition of prostaglandin biosynthesis by the plant extracts was investigated using
+         COX-1 assay [17]. Indomethacin was included as a standard. Per cent inhibition of plant extracts was
+         calculated by comparing the amount of radioactivity present in the sample with that
+         in the solvent blank.
+      
+      Antioxidant activity: 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay
+      Plant extracts/compounds were prepared in DMSO as 10× stocks from each test concentration
+         (between 0–100&nbsp;μg/ml) and briefly sonicated when necessary in an ultrasonic water
+         bath. Plant extracts/compounds producing radical scavenging activities equal to or
+         higher than 50% at 100&nbsp;μg/ml in a preliminary screen were further tested and EC50 (concentration of the extract/compound producing 50% scavenging of DPPH radicals)
+         determined using non-linear regression analysis of the dose-%AA relationship (Equation
+         1). Three reference radical scavengers (quercetin, gallic acid and t-butylhydroquinone) were tested in the assay as positive controls. The assay method
+         used in the present study was based on a modified procedure [18] which is based essentially on previously published literature [19]. The plant extract/compound stock solutions (20&nbsp;μl/well) were dispensed in duplicates
+         onto 96-well plates (flat-bottomed, Greiner bio one, Belgium). The assay was started
+         with the addition of DPPH reagent (0.004% wt/v in methanol, 180&nbsp;μl/well). Appropriate
+         blanks were prepared using the solvent only in addition to the same amount of DPPH
+         reagent to get rid of any inherent solvent activity. Negative controls were also run
+         in parallel to correct for any non-DPPH absorbance by coloured extracts at the test
+         wavelength. The plate was immediately shaken for 30&nbsp;seconds and incubated in the dark
+         for 30&nbsp;minutes at room temperature. The remaining DPPH was measured in the microplate
+         reader at 540&nbsp;nm. The percentage of antioxidant activity (%AA) was calculated according to equation 2:
+      
+      
+         
+               
+                  
+                     %
+                     
+                     Antioxidant
+                     
+                     activity
+                     
+                     DPPH
+                     
+                     
+                        %AA
+                     
+                     =
+                     100
+                     ×
+                     
+                        
+                           
+                              OD
+                              540
+                              
+                                 blank
+                              
+                              −
+                              OD
+                              540
+                              
+                              
+                                 sample
+                              
+                           
+                        
+                        
+                           OD
+                           540
+                           
+                           
+                              blank
+                           
+                        
+                     
+                  
+               
+         
+      
+      Equation 2. Calculation of the % AA for DPPH assay. OD540 (blank) and OD540 (sample) are the averages of duplicate determinations of the corrected readings of
+         blank and sample at 540&nbsp;nm, respectively.
+      
+   
+

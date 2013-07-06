@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Several proteins involved in epigenetic regulation cause syndromic neurodevelopmental disorders when human genes are mutated. More general involvement of epigenetic mechanisms in neurodevelopmental phenotypes is unclear.
+
+				
+				
+					
+						Methods
+
+					
+					In an attempt to determine whether DNA methylation differentiates clinical subgroups, profiling was performed on bisulfite converted DNA from lymphoblastoid cell lines (LCLs) in discovery ( n  = 20) and replication ( n  = 40) cohorts of females with Rett syndrome (RTT;  n  = 18), autism (AUT;  n  = 17), seizure disorder (SEZ;  n  = 6), and controls (CTL;  n  = 19) using Illumina HumanMethylation27 arrays.  TAC1  CpGs were validated using a Sequenom EpiTYPER assay and expression was measured in LCLs and postmortem brain. Chromatin immunoprecipitation was performed in HEK cells. Cells were treated with valproic acid and MeCP2 binding was assessed.
+
+				
+				
+					
+						Results
+
+					
+					Two female-only cohorts were analyzed. DNA methylation profiling in a discovery cohort identified 40 CpGs that exhibited statistically significant differential methylation (≥15%) between clinical groups ( P  <0.01). Hierarchical clustering and principal components analysis suggested neurodevelopmental groups were distinct from CTL, but not from each other. In a larger and more heterogeneous replication cohort, these 40 CpG sites suggested no clear difference between clinical groups. Pooled analysis of DNA methylation across all 60 samples suggested only four differentially methylated CpG sites ( P  <0.0005), including  TAC1 .  TAC1  promoter CpG hypermethylation was validated in AUT and SEZ ( P  <0.005). Analyzed for the first time in postmortem brain,  TAC1  expression was reduced in cingulate cortex in RTT and AUT+SEZ ( P  = 0.003). However, no significant difference in  TAC1  promoter CpG methylation was detected in RTT and AUT+SEZ brains. Additional molecular analyses revealed that MeCP2 binds directly to the  TAC1  promoter and is sensitive to antiepileptic drug treatment.
+
+				
+				
+					
+						Conclusion
+
+					
+					These data suggest that DNA methylation is not widely altered in RTT, consistent with subtle changes in gene expression previously observed. However,  TAC1  may be an important target for further functional analyses in RTT. Studies of larger sample cohorts using primary cells that also consider shared clinical features and drug treatments may be required to address apparent subtle disruptions of DNA methylation in neurodevelopmental disorders.
+
+				
+			
+		

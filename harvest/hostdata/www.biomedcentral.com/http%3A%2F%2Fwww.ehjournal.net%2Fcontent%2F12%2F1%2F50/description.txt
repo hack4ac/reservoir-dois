@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					This study estimates the potential population health burden from exposure to combustion-derived particulate air pollution in domestic settings in Ireland and Scotland.
+
+				
+				
+					
+						Methods
+
+					The study focused on solid fuel combustion used for heating and the use of gas for cooking. PM 2.5  (particulate matter with an aerodynamic diameter < 2.5 μm) was used as the pollutant mixture indicator. Measured PM 2.5  concentrations in homes using solid fuels were adjusted for other sources of PM 2.5  by subtracting PM 2.5  concentrations in homes using gas for cooking but not solid fuel heating. Health burden was estimated for exposure indoors 6 pm - midnight, or all day (24-hour), by combining estimated attributable annual PM 2.5  exposures with (i) selected epidemiological functions linking PM 2.5  with mortality and morbidity (involving some re-scaling from PM 10  to PM 2.5 , and adjustments ‘translating’ from concentrations to exposures) and (ii) on the current population exposed and background rates of morbidity and mortality.
+
+				
+				
+					
+						Results
+
+					PM 2.5  concentrations in coal and wood burning homes were similar to homes using gas for cooking, used here as a baseline (mean 24-hr PM 2.5  concentrations 8.6 μg/m 3 ) and so health impacts were not calculated. Concentrations of PM 2.5  in homes using peat were higher (24-hr mean 15.6 μg/m 3 ); however, health impacts were calculated for the exposed population in Ireland only; the proportion exposed in Scotland was very small. The assessment for winter evening exposure (estimated annual average increase of 2.11 μg/m 3  over baseline) estimated 21 additional annual cases of all-cause mortality, 55 of chronic bronchitis, and 30,100 and 38,000 annual lower respiratory symptom days (including cough) and restricted activity days respectively.
+
+				
+				
+					
+						Conclusion
+
+					New methods for estimating the potential health burden of combustion-generated pollution from solid fuels in Irish and Scottish homes are provided. The methodology involves several approximations and uncertainties but is consistent with a wider movement towards quantifying risks in PM 2.5  irrespective of source. Results show an effect of indoor smoke from using peat (but not wood or coal) for heating and cooking; but they do not suggest that this is a major public health issue.
+
+				
+			
+		

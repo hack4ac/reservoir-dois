@@ -1,0 +1,365 @@
+Methods
+   
+      Obtaining signed GATK variant quality scores
+      
+      The GATK UnifiedGenotyper[19] is one of publicly available variant callers. For a sample of interest, it takes
+         the sequence data (BAM) and detects SNPs by default. The outputs are summarized in
+         a VCF file, which includes a list of variant positions along with the associated call
+         quality scores (‘QUAL’ column in the VCF). The software can produce calls only at
+         variant sites but also at any callable site regardless of confidence. We used an option
+         for the latter case to obtain variant call quality for all positions of interest.
+         An example of run command is as follow.
+      
+      java -jar GenomeAnalysisTK.jar -R human_reference.fasta -T UnifiedGenotyper -I input.bam
+            –computeSLOD -L positions_of_interest.bed –output_mode EMIT_ALL_SITES -o output.vcf
+      For a given list of genomic positions, we ran the GATK UnifiedGenotyper (version 1.5-3) on each tumor sample and its matched normal sample. We forced it to emit variant
+         call quality for all positions. When no variant allele was found, the variant call
+         quality represents a confidence level for the homozygous reference genotype. To differentiate
+         such positions, we flipped the sign of the variant call quality. Therefore, a large
+         negative value is a strong support for the non-existence of a variant allele, and
+         a large positive value is a strong support for the existence of a variant allele.
+      
+      Constructing an evaluation dataset
+      For method development, we aimed to construct an evaluation dataset that consists
+         of a set of candidate somatic variants for which the validation status is assumed
+         to be known (i.e., determined based on the gold-standard data). For LUSC patients,
+         variants called based on the exome-sequence data can be validated based on the deep-sequencing
+         data for 76 genes. We constructed an evaluation set using the sequence data from 39
+         LUSC patients, which include an additional 23 patients. Note that the exome-seq pairs,
+         the tumor RNA-seq, and the deep-sequence pairs were available for a much larger set
+         of LUSC patients than the 16 patients used for the benchmark mutation-calling comparison.
+      
+      To build an evaluation set that includes all somatic mutations, we first detected
+         variants in each tumor exome-seq data using the GATK UnifiedGenotyper[19] with a very lenient stringency level (GATK variant quality score ≥ 5):
+      
+      java -jar GenomeAnalysisTK.jar -R human_reference.fasta -T UnifiedGenotyper -I input.bam
+            –computeSLOD -L exome_annotations.bed –output_mode EMIT_VARIANTS_ONLY -stand_call_conf
+            5 -o output.vcf
+      When cross-checked with the mutation-call data available for the 16 patients, all
+         but three of the 5,380 mutations in the benchmark data were detected. From the 39
+         LUSC patients, 8,828 variants were detected within the 76 genes (the targeted regions
+         of deep-sequence data). Since we aimed to build a gold standard validation set with
+         a high accuracy, we retained only the variants that have high tumor deep-seq depth
+         with ≥ 100x (8,033). By requiring the tumor and the normal exome-seq depth to be ≥
+         10x, and also by removing 17 ambiguous variants through manual examination, we obtained
+         6,692 variants as our final set. After examining the deep-sequencing data at these
+         variants (see Results), we determined the validation status. A variant is called ‘somatic’
+         (334 sites; ∼ 5%) if the tumor deep-seq vaf is &gt; 10% and the normal deep-seq vaf is
+         &lt; 2%, otherwise, ‘non-somatic’. An alternative criterion for a ‘somatic’ mutation
+         is that the signed GATK quality scores for the tumor sample and for the normal sample
+         are &gt; 200 and &lt; -100, respectively.
+      
+      Utilizing latent class models
+      Here we provide a quick review on the latent class model assuming that mutation callers
+         were developed based on independent algorithms.
+      
+      Suppose that K mutation-callers evaluate N positions for their mutation status (1=somatic, 0=non-somatic). Let Yi,k denote the observed outcome of the ith position by the kth caller, and Yi=(Yi,1,…,Yi,K) be the vector of outcomes over all callers for the ith position. Let Di denote the true mutation status of the ith position, and η the mutation prevalence, P(Di=1), assumed independent of i. Then, the probability of observing Yi is computed as follows: 
+      
+      
+         
+               
+                  
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                        
+                     
+                     )
+                     =
+                     (
+                     1
+                     −
+                     η
+                     )
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     =
+                     0
+                     )
+                     +
+                     ηP
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     =
+                     1
+                     )
+                  
+               
+         
+      
+       Assuming that callers behave conditionally independently given the true mutation
+         status, 
+      
+      
+         
+               
+                  
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     
+                     =
+                     
+                     0
+                     )
+                     
+                     =
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           1
+                        
+                     
+                     ,
+                     …
+                     ,
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           K
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     
+                     =
+                     
+                     0
+                     )
+                     
+                     =
+                     
+                     
+                        
+                           ∏
+                        
+                        
+                           k
+                           =
+                           1
+                        
+                        
+                           K
+                        
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           k
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     =
+                     0
+                     )
+                  
+               
+         
+      
+      
+         
+               
+                  
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     
+                     =
+                     
+                     1
+                     )
+                     
+                     =
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           1
+                        
+                     
+                     ,
+                     …
+                     ,
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           K
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     
+                     =
+                     
+                     1
+                     )
+                     
+                     =
+                     
+                     
+                        
+                           ∏
+                        
+                        
+                           k
+                           =
+                           1
+                        
+                        
+                           K
+                        
+                     
+                     P
+                     (
+                     
+                        
+                           Y
+                        
+                        
+                           i
+                           ,
+                           k
+                        
+                     
+                     |
+                     
+                        
+                           D
+                        
+                        
+                           i
+                        
+                     
+                     =
+                     1
+                     )
+                  
+               
+         
+      
+      Note that P(Yi,k=1|Di=0) and P(Yi,k=0|Di=1) are the false positive and the false negative rates of the kth caller, respectively. Therefore, there are 1+2K parameters: the mutation prevalence η, and the false positive and the false negative rates of each of the K mutation-callers.
+      
+   
+

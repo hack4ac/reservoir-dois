@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Poorly controlled hypertension is independently associated with mortality, cardiovascular risk and disease progression in chronic kidney disease (CKD). In the UK, CKD stage 3 is principally managed in primary care, including blood pressure (BP) management. Controlling BP is key to improving outcomes in CKD. This study aimed to investigate associations of BP control in people with CKD stage 3.
+
+				
+				
+					
+						Methods
+
+					
+					1,741 patients with CKD 3 recruited from 32 general practices for the Renal Risk in Derby Study underwent medical history, clinical assessment and biochemistry testing. BP control was assessed by three standards: National Institute for Health and Clinical Excellence (NICE), National Kidney Foundation Kidney Disease Outcome Quality Initiative (KDOQI) and Kidney Disease: Improving Global Outcomes (KDIGO) guidelines. Descriptive statistics were used to compare characteristics of people achieving and not achieving BP control. Univariate and multivariate logistic regression was used to identify factors associated with BP control.
+
+				
+				
+					
+						Results
+
+					
+					The prevalence of hypertension was 88%. Among people with hypertension, 829/1426 (58.1%) achieved NICE BP targets, 512/1426 (35.9%) KDOQI targets and 859/1426 (60.2%) KDIGO targets. Smaller proportions of people with diabetes and/or albuminuria achieved hypertension targets. 615/1426 (43.1%) were only taking one antihypertensive agent. On multivariable analysis, BP control (NICE and KDIGO) was negatively associated with age (NICE odds ratio (OR) 0.27; 95% confidence interval (95% CI) 0.17-0.43) 70–79 compared to <60), diabetes (OR 0.32; 95% CI 0.25-0.43)), and albuminuria (OR 0.56; 95% CI 0.42-0.74)). For the KDOQI target, there was also association with males (OR 0.76; 95% CI 0.60-0.96)) but not diabetes (target not diabetes specific). Older people were less likely to achieve systolic targets (NICE target OR 0.17 (95% CI 0.09,0.32) p < 0.001) and more likely to achieve diastolic targets (OR 2.35 (95% CI 1.11,4.96) p < 0.001) for people >80 compared to < 60).
+
+				
+				
+					
+						Conclusions
+
+					
+					Suboptimal BP control was common in CKD patients with hypertension in this study, particularly those at highest risk of adverse outcomes due to diabetes and or albuminuria. This study suggests there is scope for improving BP control in people with CKD by using more antihypertensive agents in combination while considering issues of adherence and potential side effects.
+
+				
+			
+		

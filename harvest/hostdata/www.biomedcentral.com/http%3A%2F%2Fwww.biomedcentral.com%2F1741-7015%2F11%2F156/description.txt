@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Delay in seeking care is a major impediment to effective management of tuberculosis (TB) in China. To elucidate factors that underpin patient and diagnostic delays in TB management, we conducted a systematic review and meta-analysis of factors that are associated with delays in TB care-seeking and diagnosis in the country.
+
+				
+				
+					
+						Methods
+
+					This review was prepared following standard procedures of the Cochrane Collaboration and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement and checklist. Relevant studies published up to November 2012 were identified from three major international and Chinese literature databases: Medline/PubMed, EMBASE and CNKI (China National Knowledge Infrastructure).
+
+				
+				
+					
+						Results
+
+					We included 29 studies involving 38,947 patients from 17 provinces in China. Qualitative analysis showed that key individual level determinants of delays included socio-demographic and economic factors, mostly poverty, rural residence, lack of health insurance, lower educational attainment, stigma and poor knowledge of TB. Health facility determinants included limited availability of resources to perform prompt diagnosis, lack of qualified health workers and geographical barriers.
+Quantitative meta-analysis indicated that living in rural areas was a risk factor for patient delays (pooled odds ratio (OR) (95% confidence interval (CI)): 1.79 (1.62, 1.98)) and diagnostic delays (pooled OR (95% CI): 1.40 (1.23, 1.59)). Female patients had higher risk of patient delay (pooled OR (95% CI): 1.94 (1.13, 3.33)). Low educational attainment (primary school and below) was also a risk factor for patient delay (pooled OR (95% CI): 2.14 (1.03, 4.47)). The practice of seeking care first from Traditional Chinese Medicine (TMC) providers was also identified as a risk factor for diagnostic delay (pooled OR (95% CI): 5.75 (3.03, 10.94)).
+
+				
+				
+					
+						Conclusion
+
+					Patient and diagnostic delays in TB care are mediated by individual and health facility factors. Population-based interventions that seek to reduce TB stigma and raise awareness about the benefits of early diagnosis and prompt treatment are needed. Policies that remove patients’ financial barriers in access to TB care, and integration of the informal care sector into TB control in urban and rural settings are central factors in TB control.
+
+				
+			
+		

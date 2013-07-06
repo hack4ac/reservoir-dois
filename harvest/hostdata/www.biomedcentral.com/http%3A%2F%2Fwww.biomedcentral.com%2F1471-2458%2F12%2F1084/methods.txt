@@ -1,0 +1,67 @@
+Methods
+   
+      Survey areas
+      The survey was conducted in portions of six different malaria endemic districts in
+         Bangladesh from July to October 2011. The survey consisted of interviews using a structured
+         questionnaire and the interviewer also completed an observational checklist for each
+         household. Households were randomly selected and sample sizes of each district were
+         fixed on the basis of the population of the areas and the anticipated regional prevalence
+         of malaria. The study area was divided in two zones (1 and 2) on the basis of prevalence
+         of malaria and the physical geography of the study area. Zone 1 (4 districts) is the
+         hilly and highly malaria endemic zone while Zone 2 (2 districts) is the lowlands or
+         plains habitat with low malaria endemicity. Zone 1 includes Lama upazilla (sub-district)
+         of Bandarban, Ramu of Cox’s Bazar, Rajhsthali of Rangamati, and Srimangal of Moulvibazar
+         districts. Zone 2 consisted of Durgapur of Netrokona and Dhobaura of Mymensingh districts
+         (Figure 1 and Table 1). The villages of Lama (Figure 2) and Ramu were inhabited by 1,206 and 1,386 people, respectively comprising both
+         tribal and non-tribal families (Figure 3). Major parts of Lama and Ramu were vegetated by secondary forest with interspersed
+         rubber plantations. The study area of Rajasthali had both a tribal and non-tribal
+         population consisting of 997 people (50.3% male), living within 122 households. The
+         survey was made in Lawachara, Magurchara, Husnabad tea estates (Figure 4) and BTRI (Figure 5) in Moulvibazar district. Almost all the laborers of these tea estates were brought
+         from Orissa state of India during British rule. These sites consist of tea gardens,
+         semi-evergreen coniferous forests and mixed deciduous forests [11]. Survey was also conducted in Durgapur of Netrokona and in Dhobaura of Mymenshing
+         district where some tribal people also live. Both of these districts were within similar
+         climatic zones with foothills, plains and undulating land and densely vegetated by
+         secondary forest. Geographical positions of the surveyed households were recorded
+         using handheld global positioning system (GPS-Garmin Oregon 550). ArcView GIS 3.3
+         and Arc GIS 9.2 software were used to map the distribution of the households where
+         interviews were conducted. 
+      
+      Table 1. Number of respondents and malaria cases in different malaria endemic region of Bangladesh
+      Figure 2. Pattern of the houses in Lama, Bandarban.
+      Figure 3. Interviews with a tribal family in Bandarban.
+      Figure 4. Respondent houses with domestic animal in Srimangal.
+      Figure 5. Household interviews in BTRI.
+      Sample size
+      In this survey, a total of 468 individuals from individual households were interviewed.
+         The largest number of respondents (n=364) were interviewed from four malaria prone
+         districts (zone 1). The remainder of the respondents interviewed lived within the
+         two low malaria endemic districts bordering Meghalaya state of India (Table 1). Sample size of zone 2 was small because of low prevalence of malaria.
+      
+      Ethical approval
+      Ethics approval and authorization was obtained from the ethical committee of Jahangirnagar
+         University, Bangladesh. Before data collection, each participant was clearly informed
+         about the objectives of the study and verbal permission from the head of each household
+         was obtained. Verbal consent was also obatin from the villagers' to capture and publish
+         the interview photographs.
+      
+      Data collection
+      Households and members to be interviewed were randomly selected. The interviewers
+         recorded the address of the interview and type of construction of the house then selected
+         the person to be interviewed. After obtaining verbal consent, questions were asked
+         related to: socio-demographic features of the household members, knowledge and practices
+         regarding malaria prevention and control, treatment-seeking behavior and use of antimalarial
+         drugs. Selected observations related to household construction were also collected
+         using the observational checklist. In order to minimize potential biases and to improve
+         participant understanding the questionnaire was prepared in English but translated
+         and provided in the local language ‘Bangla’.
+      
+      Data analysis
+      Data analysis was done using Statistical Package for Social Sciences 16.0 (SPSS, Inc.,
+         Chicago, IL, USA). Each question was analyzed individually. Statistical relationships
+         were sought between malaria prevalence and selected socio-demographic conditions and
+         practices of the respondents and statistical analysis was conducted only with those
+         families who had malaria within the last year. Results were recorded as frequencies,
+         chi-square and p-values. For all purposes, p-value of 0.05 was considered as the level of significance.
+      
+   
+

@@ -1,0 +1,96 @@
+Methods
+   
+      Materials
+      DMEM medium and fetal bovine serum was obtained from Hyclone (Logan, UT). 5-Fu injection
+         was bought form Xudong Haipu Pharmaceutical Co., Ltd (Shanghai, China). FragEL™ DNA Fragmentation Detection Kit was purchased from EMD Millipore (Darmstadt, Germany).
+         Senescence β-Galactosidase Staining Kit and PARP antibody were from Cell Signaling
+         Technology (Danvers, MA). Caspase-3, Caspase-8 and Caspase-9 Activity Assay Kit were
+         obtained from Beyotime Institute of Biotechnology (Jiangshu, China). Antibody against
+         p21 was purchases from Boster Bio-engineering Limited Company (WuHan, China). XIAP,
+         Survivin, GAPDH and pRB antibodies were purchased from Bioworld Technology (St. Louis
+         Park, MN). Antibody against p16 was purchased from Proteintech (Chicago, IL). Antibodies
+         against CD31 and VEGF were the product of from Santa Cruz Biotechnology (Santa Cruz,
+         CA).
+      
+      Preparation of TLBZT
+      The herbs used in TLBZT formula (Chinese patent ZL200910197565.2) are the roots of
+         Actinidia chinensis (Teng-Li-Geng) 30 g, Solanum nigrum (Long-Kui) 15 g, Duchesnea indica (She-Mei) 15 g, Atractylodes macrocephala Koidz (Bai-Zhu) 9 g, Poria cocos (Fu-Ling) 15 g, Coix seed (Yi-Yi-Ren) 30 g, Mistletoe (Hu-Ji-Sheng) 15 g, and Scutellaria barbata (Ban-Zhi-Lian) 30 g. All those herbs were from the herb store in Longhua Hospital
+         according to the original proportion, and decocted twice with 8-fold volume of distilled
+         water for 1 hour. The decoction were collected, filtered, merged and concentrated
+         to 1.5 g/mL (equivalent to crude herb materials), and stored at 4°C.
+      
+      For Gas chromatography–mass spectrometry (GC/MS) analysis, TLBZT were further extracted
+         with dichloromethane and diethyl ether, and passed through 0.22 μm filter. GC/MS analysis
+         of TLBZT extract was performed by GCMS6800 (Skyray Instrument, Jiangsu, China) equipped
+         with a DB-5ms column (30 m × 0.25 mm × 0.25 μm) (Agilent technologies, CA). Helium
+         was used as carrier gas at a constant flow rate of 1 mL/min. An injection volume of
+         1 μL was employed in splitless mode. Injector and ion-source were maintained at 280°C
+         and 230°C, respectively. The mass-scan range was 50–500. The GC/MS profile of TLBZT
+         is presented in Additional file 1: Figure S1.
+      
+      Additional file 1: Figure S1. GC/MS profile of TLBZT. 
+         	Format: PPT 
+         	Size: 341KB Download file or  display content in a new windowThis file can be viewed with: Microsoft PowerPoint Viewer
+      Cell culture and animal model
+      Murine colon carcinoma CT26 cells were obtained from obtained from Cell Bank of Type
+         Culture Collection of Chinese Academy of Sciences. CT26 cells were grown in DMEM medium
+         with 10% FBS, penicillin (100 U/mL) and streptomycin (100 μg/mL) and maintained at
+         37°C with 5% CO2 in a humidified atmosphere. Female (6–7 weeks old) BALB/c mice (obtained from Shanghai
+         SLAC Laboratory animal center) were acclimated for one week and were fed with animal
+         chow and water ad libitum in SPF animal laboratory of Longhua Hospital.
+      
+      The mice were injected s.c. with 1 × 106 CT26 cells in 100 μl PBS in the right flank. When the tumors were palpable, the mice
+         were randomly divided into 4 groups (n=10 mice/group), and intragastric administered
+         with TLBZT (22.5 g/kg/0.3 ml, equivalent to crude herb materials, once a day) or same
+         volume of distilled water, or i.p. administered with 5-FU (30 mg/kg/0.3 ml, once a
+         week), or treated with both TLBZT and 5-Fu. Tumor width (W) and length (L) were measured
+         every 3 days by calipers. The tumor volume (Tv) was calculated according to the formula:
+         Tv = 0.52 × L × W2. After three weeks of treatment, the mice were sacrificed, and the tumors were removed,
+         weighed and subjected to further experiments. All studies involving mice were approved
+         by the Longhua Hospital Animal Care and Use Committee.
+      
+      TUNEL assay
+      Apoptotic cells were identified by TUNEL (terminal deoxynucleotidyl transferase-mediated
+         nick end labeling) assay following the manufacturer’s guide. Images were captured
+         by the Olympus microscope at ×200 magnification. The apoptotic cells were counted
+         by Image-Pro Plus 6.0 software.
+      
+      Caspases activities assay
+      The activities of Caspases were detected by Caspase-3, 8 and 9 Activity Assay Kit.
+         According to the manufacturer's protocol, the tumor samples were homogenized, and
+         the supernatant were collected and determined protein concentration. Then, the supernatant
+         were respectively incubated with Ac-DEVD-pNA (Caspase-3), Ac-IETD-pNA (Caspase-8)
+         and Ac-LEHD-pNA (Caspase-9) in assay buffer at 37°C for 2 hours. Finally, the production
+         of p-nitroaniline was monitored by microplate reader at wavelength of 405 nm.
+      
+      Senescence β-galactosidase staining
+      Senescent cells in tumor samples were identified by Senescence β-galactosidase (SA-β-gal)
+         staining was performed according to the manufacturer's protocol. Images were captured
+         by Olympus microscope at ×200 magnification and analyzed by Image-Pro Plus 6.0 software.
+      
+      Immunohistochemistry
+      The paraffin-embedded tumor tissues were sectioned (5 μm), deparaffinized, blocked
+         with 3% hydrogen peroxide and washed with PBS. For immunostaining, sections were probed
+         with antibodies against cleaved PARP (1:100), XIAP (1:200), Survivin (1:200), p21
+         (1:200), p16 (1:200), pRB (1:200), CD31 (1:100), and VEGF (1:100) at 4°C overnight,
+         followed by incubation with secondary antibody and visualized using 3,3-diaminobenzidine
+         as chromagen. Sections were counterstained with hematoxylin and mounted with glass
+         coverslips. Images were captured by the Olympus microscope, and analyzed by Image-Pro
+         Plus 6.0 software.
+      
+      Western blot
+      Western blots were performed as described previously [9]. Briefly, after three weeks treatment, CT26 carcinomas (3 tumors/group) were collected,
+         lysed, combined and subjected to 8–10% SDS-PAGE gel, and transferred onto a nitrocellulose
+         membrane (Amersham). The transferred membrane were blocked with 5% non-fat milk, washed,
+         and probed with antibodies against cleaved PARP (1:1000), XIAP (1:1000), Survivin
+         (1:1000), p16 (1:1000), p21 (1:1000), pRB (1:1000), VEGF (1:500) or GAPDH (1:2000).
+         Blots were then washed and incubated with IRDye 700- conjugated (1:3000) or IRDye
+         800-conjugated (1:5000) secondary antibodies (Rockland Immunochemicals), and visualized
+         in Odyssey Infrared Imaging System (LI-COR Biosciences).
+      
+      Data analysis
+      Results were expressed as mean ± standard deviation, and the differences between groups
+         were compared by one-way ANOVA. Differences were considered significant at P&lt;0.05.
+      
+   
+

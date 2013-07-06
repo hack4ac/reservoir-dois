@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Corticotropin-releasing hormone (CRH) plays an important role in regulating the mammalian stress response. Two of the most extensively studied neuronal populations that express CRH are in the hypothalamus and amygdala. Both regions are involved in the stress response, but the amygdala is also involved in mediating response to fear and anxiety. Given that both hypothalamus and amygdala have overlapping functions, but their CRH-expressing neurons may respond differently to a given perturbation, we sought to identify differentially expressed genes between two neuronal cell types, amygdalar AR-5 and hypothalamic IVB cells. Thus, we performed a microarray analysis. Our hypothesis was that we would identify differentially expressed transcription factors, coregulators and chromatin-modifying enzymes.
+
+				
+				
+					
+						Results
+
+					A total of 31,042 genes were analyzed, 10,572 of which were consistently expressed in both cell lines at a 95% confidence level. Of the 10,572 genes, 2,320 genes in AR-5 were expressed at ≥ 2-fold relative to IVBs, 1,104 genes were expressed at ≥2-fold in IVB relative to AR-5 and 7,148 genes were expressed at similar levels between the two cell lines. The greatest difference was in six mitochondrial DNA-encoded genes, which were highly abundant in AR-5 relative to IVB cells. The relative abundance of these genes ranged from 413 to 885-fold according to the microarray results. Differential expression of these genes was verified by RTqPCR. The differentially expressed mitochondrial genes were cytochrome b (MT-CYB), cytochrome c oxidase subunit 1 and 2 (MT-CO1 and MT-CO2) and NADH-ubiquinone oxidoreductase chain 1, 2, and 3 (MT-ND1, MT-ND2, MT-ND3).
+
+				
+				
+					
+						Conclusion
+
+					As expected, the array revealed differential expression of transcription factors and coregulators; however the greatest difference between the two cell lines was in genes encoded by the mitochondrial genome. These genes were abundant in AR-5 relative to IVBs. At present, the reason for the marked difference is unclear. The cells may differ in mtDNA copy number, number of mitochondria, or regulation of the mitochondrial genome. The specific functions served by having such different levels of mitochondrial expression have not been determined. It is possible that the greater expression of the mitochondrial genes in the amygdalar cells reflects higher energy requirements than in the hypothalamic cell line.
+
+				
+			
+		

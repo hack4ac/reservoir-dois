@@ -1,0 +1,1 @@
+A biologically-inspired embedded monitoring network system for moving target detection in panoramic view

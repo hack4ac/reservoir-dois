@@ -1,0 +1,59 @@
+Methods
+   
+      Participants
+      Research ethics approval was obtained from the South and West Multicentre Research
+         Ethics Committee (MREC/98/6/71) and Queens University Belfast Research Ethics Committee,
+         and written informed consent obtained prior to participation. All recruited individuals
+         were white, had type 1 diabetes mellitus (T1D) diagnosed before 32 years of age and
+         were born in the UK or Ireland. Cases with nephropathy (n = 718) and controls without
+         nephropathy (n = 749) were from the Warren 3/UK Genetics of Kidneys in Diabetes (GoKinD)
+         and all-Ireland collections 
+         					[23]. The definition of DN in cases was based on development of persistent proteinuria
+         (&gt;0.5g protein/24h) at least 10 years after diagnosis of T1D, hypertension (blood
+         pressure &gt; 135/85 mmHg or treatment with antihypertensive agents) and associated diabetic
+         retinopathy. Controls were individuals with T1D for at least 15 years with normal
+         urinary albumin excretion rates and no evidence of microalbuminuria on repeated testing
+         (at least 3 assays measuring albumin excretion over a minimum 12 month period, with
+         each test separated by at least 3 months). In addition, control subjects had not been
+         prescribed antihypertensive drug treatment avoiding possible misclassification of
+         diabetic individuals with nephropathy as ‘control phenotypes’ when the use of antihypertensive
+         treatment may have reduced urinary albumin excretion into the normal range. Individuals
+         with micro-albuminuria were excluded from both case and control groups since it is
+         not possible to confidently assign a case or control status to such individuals as
+         their urinary albumin excretion may either regress or progress over time 
+         					[24].
+      
+      Haplotype definition, SNP selection and genotyping
+      A total of 11 genes (AXIN1, CALM3, CTNNB1, DAAM1, DKK2, GSK3B, NFAT5, WNT3, WNT5A, WNT6 and WNT16) were chosen for genotyping (Table&nbsp;
+         					1). SNPs were selected from within these 11 genes to tag common haplotypes (&gt;5% frequency
+         within the HapMap CEU population). Haplotypes for each gene investigated were selected
+         from Phase III, release 2 HapMap (http://www.hapmap.org webcite) CEPH data (Utah residents with ancestry in northern and western Europe; CEU) using
+         Haploview (http://www.broadinstitute.org/haploview webcite) to visualise common haplotypes. Haplotypes were defined using the confidence interval
+         method in Haploview as described in Gabriel et al. 
+         					[25]. Adjacent haplotypes that had a multi-allelic D-prime of greater 0.9 were combined
+         in an iterative fashion. SNPs were selected using multi-marker tagging for their ability
+         to tag unique haplotypes with r2 &gt; 0.8 (LOD threshold 3.0). All SNPs had a minor allele frequency (MAF) ≥5%, with
+         quality control filters of genotype call rate ≥95%, and no deviation from Hardy–Weinberg
+         equilibrium (HWE; P &lt; 0.001).
+      
+      Genotyping was performed by MassARRAY iPLEX (Sequenom, San Diego, CA, USA) or Taqman
+         5' nuclease (Applied Biosystems, Foster City, CA, USA) assays according to the manufacturers’
+         instructions. DNA samples were excluded if missing genotypes exceeded 10%. Other quality
+         control measures included parent/offspring trio samples, duplicates on plates, random
+         sample allocation to plates, independent scoring of problematic genotypes by two individuals
+         and re-sequencing of selected DNAs to validate genotypes.
+      
+      Statistical analysis
+      Clinical characteristics of cases and controls were compared using the z-test for
+         large independent samples and the χ2 test. Association analyses were performed using PLINK 
+         					[26]. Initially a χ2 test for trend (1 df) was used with adjustment for collection centre. Logistic regression analysis was
+         then performed on each SNP with terms for potential confounders (collection centre,
+         gender, duration of T1D and HbA1c) included in the model. The level of statistical
+         significance was set at 5% with correction for multiple testing performed by permutation
+         test (n = 100,000). Pairwise interactions between SNPs were tested in the statistical
+         programming package R, using logistic regression to compare models with and without
+         the interaction terms to obtain a likelihood ratio test. The results of the interaction
+         analysis were corrected for multiple testing by false discovery rate (FDR &lt; 5%).
+      
+   
+

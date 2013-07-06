@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The aetiology of disabling chronic conditions in childhood in high income countries is not fully understood, particularly the association with socio-economic status (SES). Very few studies have used longitudinal datasets to examine whether exposure to social disadvantage in early childhood increases the risk of developing chronic conditions in later childhood. Here we examine this association, and its temporal ordering, with onset of all-cause disabling chronic later childhood in children reported as free from disability in early childhood.
+
+				
+				
+					
+						Methods
+
+					The study comprised a prospective cohort study, using data from the Office for National Statistics Longitudinal Study (ONSLS) for England and Wales. The study sample included 52,839 children with complete data born between 1981–1991 with no disabling chronic condition/s in 1991. Index cases were children with disability recorded in 2001. Comparison cases were children with no recorded disability in 1991. A socio-economic disadvantage index (SDI) was constructed from data on social class, housing tenure and car/van access. Associations were explored with logistic regression modelling controlling sequentially for potentially confounding factors; age, gender, ethnicity and lone parenthood.
+
+				
+				
+					
+						Results
+
+					By 2001, 2049 (4%) had at least one disability. Socio-economic disadvantage, age, gender and lone parenthood but not ethnicity were significantly associated with onset of disabling chronic conditions. The SDI showed a finely graded association with onset of disabling chronic conditions in the index group (most disadvantaged OR 2·11 [CI 1·76 to 2·53]; disadvantaged in two domains OR 1·45 [CI 1·20 to 1·75]; disadvantaged in one domain OR 1·14 [CI 0·93 to 1·39] that was unaffected by age, gender and ethnicity and slightly attenuated by lone parenthood.
+
+				
+				
+					
+						Conclusion
+
+					To our knowledge, this is the first study to identify socio-economic disadvantage in earlier childhood as a predisposing factor for onset of all-cause disabling chronic conditions in later childhood. Temporal ordering and gradation of the response indicate socio-economic disadvantage may play a causal role. This suggests that targeting preventative efforts to reduce socio-economic disadvantage in early childhood is likely to be an important public health strategy to decease health inequalities in later childhood and early adulthood.
+
+				
+			
+		

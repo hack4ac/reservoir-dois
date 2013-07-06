@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The assessment of symptoms of chronic obstructive pulmonary disease (COPD) is important for monitoring and managing the disease and for evaluating outcomes of interventions. COPD patients experience symptoms during the day and night, and symptoms experienced at night often disturb sleep. The aim of this paper is to describe methods used to develop a patient-reported outcome (PRO) instrument for evaluating nighttime symptoms of COPD, and to document evidence for the content validity of the instrument.
+
+				
+				
+					
+						Methods
+
+					Literature review and clinician interviews were conducted to inform discussion guides to explore patients’ nighttime COPD symptom experience. Data from focus groups with COPD patients was used to develop a conceptual framework and the content of a new PRO instrument. Patient understanding of the new instrument was assessed via cognitive interviews with COPD patients.
+
+				
+				
+					
+						Results
+
+					The literature review confirmed that there is no instrument with evidence of content validity currently available to assess nighttime symptoms of COPD. Additionally, the literature review and clinician interviews suggested the need to understand patients’ experience of specific symptoms in order to evaluate nighttime symptoms of COPD. Analyses of patient focus group data (N = 27) supported saturation of concepts and aided in development of a conceptual framework. Items were generated using patients’ terminology to collect data on concepts in the framework including the occurrence and severity of COPD symptoms, use of rescue medication at night, and nocturnal awakening. Response options were chosen to reflect concepts that were salient to patients. Subsequent cognitive interviewing with ten COPD patients demonstrated that the items, response options, recall period, and instructions were understandable, relevant, and interpreted as intended.
+
+				
+				
+					
+						Conclusions
+
+					A new PRO instrument, the Nighttime Symptoms of COPD Instrument (NiSCI), was developed with documented evidence of content validity. The NiSCI is ready for empirical testing, including item reduction and evaluation of psychometric properties.
+
+				
+			
+		

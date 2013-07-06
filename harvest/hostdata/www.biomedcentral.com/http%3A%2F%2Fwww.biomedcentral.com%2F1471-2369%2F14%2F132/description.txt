@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					For chronic kidney disease (CKD) patients, national treatment guidelines recommend a low-density lipoprotein cholesterol (LDL-C) goal <100 mg/dL and blood pressure (BP) target <130/80 mmHg. This analysis assessed the current status of cardiovascular (CV) risk factor treatment and control in US adults with CKD.
+
+				
+				
+					
+						Methods
+
+					Weighted prevalence estimates of CV-related comorbidities, utilization of lipid- and BP-lowering agents, and LDL-C and BP goal attainment in US adults with CKD were assessed among 9,915 men and nonpregnant women aged ≥20 years identified from the fasting subsample of the 2001–2010 National Health and Nutritional Examination Survey (NHANES). Analyses were performed using SAS survey procedures that consider the complex, multistage, probability sampling design of NHANES. All estimates were standardized to the 2008 US adult population (≥20 years). Data were stratified by CKD stage based on presence of albuminuria and estimated glomerular filtration rate (eGFR), calculated using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation. Stage 3 CKD was subdivided into 3a (eGFR 45–59 mL/min/1.73 m 2 ) and 3b (eGFR 30–44 mL/min/1.73 m 2 ); Stage 5 CKD and dialysis recipients were excluded.
+
+				
+				
+					
+						Results
+
+					Of the 9,915 NHANES participants identified for analysis, 1,428 had CKD (Stage 1–4), corresponding to a prevalence estimate for US adults aged ≥20 years of 10.2%. Prevalence of CV-related comorbidities increased markedly with CKD stage, with a ~6–12-fold increase in cardiovascular disease, coronary heart disease (CHD), stroke and congestive heart failure between CKD Stage 1 and 4; prevalence of diabetes, hyperlipidemia and hypertension increased by ~1.2–1.6-fold. Use of lipid-lowering agents increased with CKD stage, from 18.1% (Stage 1) to 44.8% (Stage 4). LDL-C goal attainment increased from 35.8% (Stage 1) to 52.8% (Stage 3b), but decreased in Stage 4 (50.7%). BP goal attainment decreased between Stage 1 and 4 (from 49.5% to 30.2%), despite increased use of antihypertensives (from 30.2% to 78.9%).
+
+				
+				
+					
+						Conclusions
+
+					Individuals with CKD have a high prevalence of CV-related comorbidities. However, attainment of LDL-C or BP goals was low regardless of disease stage. These findings highlight the potential for intensive risk factor modification to maximize CV event reduction in CKD patients at high risk for CHD.
+
+				
+			
+		

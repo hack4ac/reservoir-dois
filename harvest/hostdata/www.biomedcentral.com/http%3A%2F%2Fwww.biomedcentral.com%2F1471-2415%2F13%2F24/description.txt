@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cataract surgery combined with excimer laser trabeculotomy (phaco-ELT) can reduce intraocular pressure (IOP). The aim of this study was to evaluate the effect of phaco-ELT on IOP in patients as a function of preoperative IOP.
+
+				
+				
+					
+						Methods
+
+					Patients with open-angle glacuoma or ocular hypertension who received phaco-ELT between 01/2008 and 10/2009 were included. Patients were assigned based on preoperative IOP either to the study group (≤21 mmHg) or control group (>21 mmHg) in this IRB-approved, prospective, consecutive case series. Visual Acuity, IOP, and number of anti-glaucoma drugs (AGD) were recorded at baseline and 12 months after phaco-ELT. Any postoperative complications were also recorded.
+
+				
+				
+					
+						Results
+
+					64 eyes of 64 patients (76.5 ± 9.4 years) were included. Baseline IOP was 19.8 ± 5.3 mmHg (AGD 2.4 ± 1.1) for all eyes, 16.5 ± 2.9 mmHg (AGD 2.5 ± 1.0) for the study group, and 25.8 ± 2.9 mmHg (AGD 2.2 ± 1.4) for the control group. Across the two groups, IOP was reduced by 4.5 ± 5.9 mmHg (-23.0%, p < 0.001) and AGD by 0.9 ± 1.5 (-38.9%, p < 0.001). For the study group IOP was reduced by 1.9 ± 4.4 mmHg (-11. 5 %, p = 0.012) and AGD by 1.1 ± 1.4 (-42.9%, p < 0.001), and for the control group by 9.5 ± 5.4 mmHg (-36.6%, p < 0.001) and AGD by 0.7 ± 1.6 (-29.5%, p = 0.085). There were no serious postoperative complications such as endophthalmitis, significant hyphema, or a severe fibrinous reaction of the anterior chamber.
+
+				
+				
+					
+						Conclusions
+
+					IOP remained significantly reduced from baseline 12 months after phaco-ELT regardless of preoperative IOP levels, with no major complications. The IOP reduction remained constant over the entire follow-up. Hence, phaco-ELT can be considered in glaucoma and ocular hypertensive patients whenever cataract surgery is performed, in order to further reduce IOP or to reduce the requirement for IOP-reducing medications.
+
+				
+			
+		

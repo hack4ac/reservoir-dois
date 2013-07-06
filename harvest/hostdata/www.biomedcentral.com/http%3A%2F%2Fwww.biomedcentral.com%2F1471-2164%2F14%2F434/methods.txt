@@ -1,0 +1,105 @@
+Methods
+   
+      Animal experimental procedures
+      Wild-type and white mutant (d/d) axolotls were kept at 14–20°C in tap water at pH&nbsp;6.5-7.5.
+         Juvenile axolotls with an approximate 80 to 90&nbsp;mm snout to vent length were subjected
+         to denervation at the brachial plexus (third to fifth spinal nerves) of the right
+         upper limbs, leaving the nerve ends a gap of at least 5&nbsp;mm. After 1 wk, amputation
+         was performed at both forearms at the mid-radius/ulna. At 14 d post-amputation, the
+         full-thickness skin at the tip of limb was gently peeled away by cutting through the
+         full-thickness skin around the circumference of the limb with spring scissors, and
+         the blastemas in the left forearms and non-regenerating stump tissues in the right
+         forearms were collected for total RNA extraction. All the surgical experiments were
+         conducted under anesthesia with 0.1% MS-222 (Sigma-Aldrich, St. Louis, MO, USA). Animal
+         care and experimental procedures were approved by the Institutional Animal Care and
+         Use Committee of National Taiwan University College of Medicine.
+      
+      RNA extraction and library preparation
+      Total RNA was extracted using Trizol Reagent (Invitrogen, Carlsbad, CA, USA) and isolated
+         by RNeasy mini-columns (Qiagen, Germantown, MD, USA). RNA quality was assessed by
+         spectrophotometry. A fragmentation buffer (100 mM ZnCl2 in 100 mM Tris-HCl pH7) was added to cut mRNAs into short fragments. Fragmented RNA
+         was reverse-transcribed to first-strand cDNA with reverse transcriptase (Invitrogen)
+         in the presence of a random hexamer-primer (Invitrogen) and dNTPs for 50 min at 42°C.
+         The second-strand cDNA was synthesized using DNA polymerase I in a buffer containing
+         dNTPs and RNaseH. The short DNA fragments were purified using the QiaQuick PCR extraction
+         kit (Qiagen) and resolved with an elution buffer (10 mM Tris-Cl, pH 8.5) for end reparation
+         and addition of a poly(A) fragment to both ends. Thereafter, the short fragments were
+         connected with sequencing adapters and then separated in gels by electrophoresis.
+         The fragments with a size suitable for NGS were cut from gels and eluted for PCR amplification
+         by using adapter primers.
+      
+      Analysis of Illumina sequencing results
+      Four analytic procedures were conducted on the RNA-seq data.
+      Illumina sequencing and de novo assembly
+      The 2 cDNA libraries were sequenced from both the 5' and 3' ends on the Illumina GA
+         II following the manufacturer’s instructions. The low-quality raw sequences were removed.
+         The remaining short reads with their adaptor sequences trimmed were assembled in a
+         de novo process using 3 assemblers: Trinity [40], trans-ABySS [41], and SOAP de-novo [42]. Similar assembly parameters were used for the 3 assemblers to compare performance.
+         Trinity and SOAP de-novo used the default k-mer setting [40,42], and trans-ABySS was run using k-mer values of 45, 46, to 89 [41]. All assemblies were performed on a server with 24 cores and 128&nbsp;GB of memory. After
+         assembly, the contigs longer than 100 bases were used for subsequent analysis.
+      
+      Functional annotation
+      BLASTx [53] was performed to align the assembled contigs from the 3 assemblers to the nr protein
+         database for functional annotation. The e-value cut-off was set at 1E-5 for further
+         analysis. Each assembled contig was assigned with the gene name and related function
+         based on the best BLASTx hit (the smallest e-value). Assembled contigs assigned to
+         the same gene were further compared, and the contig from the best e-value was adopted.
+         If there was a tie between 2 assembled sequences, the one with the largest sequence
+         identity was selected. In the end, with respect to each assembler, a unique contig
+         was used to represent a potential gene of axolotl, and this gene was named by the
+         corresponding protein in Xenopus laevis.
+      
+      Quantization of transcript sequences
+      Quantitative analysis was performed using CLCbio (CLC Genomics Workbench 4.8, parameter
+         settings: minimum length fraction, 0.5; minimum similarity fraction, 0.95; maximum
+         number of hits for a read, 10). The reads from 2 libraries were mapped to the selected
+         assembled contigs for various assemblers. The read counts accumulated on the selected
+         contigs were further normalized as RPKM values.
+      
+      Identification of differentially expressed genes
+      The fold change of RPKM values (the RPKM is replaced with 0.01 if it equals zero)
+         from the libraries of the two tissue types was calculated to identify differentially
+         expressed genes. Because diverse assemblers deliver different sets of potential axolotl
+         genes, only those homologous to a Xenopus laevis protein and having corresponding contigs from all the 3 assemblers were further analyzed.
+         The genes with 2-fold up- or down-regulation that were consistent among the 3 assemblers
+         were identified.
+      
+      qPCR for mRNA quantification
+      RNA was prepared using Trizol Reagent (Invitrogen). The RNA samples of the blastema
+         tissue and denervated stump end were harvested from the upper limbs 14 days after
+         amputation. The total RNA was reverse-transcribed to first-strand cDNA with reverse
+         transcriptase (Invitrogen) in the presence of a random hexamer-primer (Invitrogen)
+         and dNTPs for 50 min at 42°C. The expression levels of specific mRNAs were determined
+         by qPCR using respective primer pairs (Additional file 5). Each reaction was conducted in a total volume of 20 μL containing 50 ng first-strand cDNA, 10 μL 2X Fast SYBR® Green Master Mix (Applied Biosystems, Carlsbad, CA, USA), and each primer pair at
+         0.5 μM. A Step One™ Real-Time PCR system (Applied Biosystems) was used. Data was analyzed
+         using Step One™ software version 2.1 (Applied Biosystems). Error bars indicate RQ
+         max and RQ min.
+      
+      Additional file 5. Primer pairs used in qPCR for validating the differentially expressed genes.
+         	Format: XLSX 
+         	Size: 15KB Download file or  display content in a new window
+      In situ hybridization
+      
+      Templates of cDNA for axolotl patched-2(319&nbsp;bp) and pax7 (303&nbsp;bp) were amplified by RT-PCR using respective sense primers linked to SP6 promoter
+         sequence and anti-sense primers linked to T7 promoter sequence. Sense and anti-sense
+         RNA probes were synthesized from the cDNA templates using a digoxigenin RNA labeling
+         kit following the manufacturer’s protocol (Roche, Indianapolis, IN, USA). RNA probes
+         were prepared using respective primers: patched-2 (anti-sense), 5' CGATTTAGGTGACACTATAGAAGAGTCCAACGACGTGAGGACAAGA- 3'; patched-2 (sense), 5'- CGTAATACGACTCACTATAGGGAGATTGAGCTGGATGGCGTGAA-3'; pax7 (anti-sense), 5'-CGATTTAGGTGACACTATAGAAGAGAAACAGGCAGGAGCCAATCAA-3'; and pax7 (sense), 5'-CGTAATACGACTCACTATAGGGAGAGCTGACCGGATTCATGTGGTT-3'.
+      
+      Blastema tissues were fixed overnight at 4°C in 4% paraformaldehyde in 1× phosphate
+         buffered saline (PBS) and subsequently embedded in Tissue-Tek (Thermo Scientific,
+         Miami, FL, USA) and frozen at −80°C until sectioning at 10 μm. Before hybridization, sections were digested with 1 μg/mL proteinase K in 1× PBS at room temperature for 8 min, fixed again in 4% paraformaldehyde
+         in 1x PBS at room temperature for 20 min, and carbonated with diethypyrocarbonate
+         in 1× PBS. The slides were covered with Hybri-well Press-seal hybridization chambers
+         (Sigma-Aldrich) and hybridized overnight at 58°C with pre-denatured DIG-labeled probes
+         in a hybridization solution (Roche). After hybridization, the slides were washed in
+         5× SSC twice, each for 1 h, at 65°C, and then in 0.1× SSC for 30 min at room temperature.
+         The slides were rinsed in a buffer containing 100 mM Tris-HCl (pH 7.5) and 150 mM
+         NaCl. The slides were incubated at 4°C overnight in the same buffer containing an
+         alkaline phosphatase-conjugated anti-digoxigenin antibody (Roche) diluted at 1:1000.
+         The slides were washed in PBST (0.1% TritonX-100 in PBS) 3 times for 30 min each at
+         room temperature. The signals of alkaline phosphatase activities bound on the anti-DIG-antibody
+         were detected using a mixture of the BCIP/NBT solution (Sigma-Aldrich).
+      
+   
+

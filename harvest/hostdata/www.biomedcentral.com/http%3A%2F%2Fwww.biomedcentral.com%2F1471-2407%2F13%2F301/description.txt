@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The benefit of induction chemotherapy in locally advanced oral squamous cell carcinoma (OSCC) remains to be clearly defined. Induction chemotherapy is likely to be effective for biologically distinct subgroups of patients and biomarker development might lead to identification of the patients whose tumors are to respond to a particular treatment. Annexin A1 may serve as a biomarker for responsiveness to induction chemotherapy. The aim of this study was to investigate Annexin A1 expression in pre-treatment biopsies from a cohort of OSCC patients treated with surgery and post-operative radiotherapy or docetaxel, cisplatin and 5-fluorouracil (TPF) induction chemotherapy followed by surgery and post-operative radiotherapy. Furthermore we sought to assess the utility of Annexin A1 as a prognostic or predictive biomarker.
+
+				
+				
+					
+						Methods
+
+					Immunohistochemical staining for Annexin A1 was performed in pre-treatment biopsies from 232 of 256 clinical stage III/IVA OSCC patients. Annexin A1 index was estimated as the proportion of tumor cells (low and high, <50% and ≥50% of stained cells, respectively) to Annexin A1 cellular membrane and cytoplasm staining.
+
+				
+				
+					
+						Results
+
+					There was a significant correlation between Annexin A1 expression and pathologic differentiation grade (P=0.015) in OSCC patients. The proportion of patients with low Annexin A1 expression was significantly higher amongst those with moderate/poorly differentiated tumor (78/167) compared to those with well differentiated tumor (18/65). Multivariate Cox model analysis showed clinical stage (P=0.001) and Annexin A1 expression (P=0.038) as independent prognostic risk factors. Furthermore, a low Annexin A1 expression level was predictive of longer disease-free survival (P=0.036, HR=0.620) and locoregional recurrence-free survival (P=0.031, HR=0.607) compared to high Annexin A1 expression. Patients with moderate/poorly differentiated tumor and low Annexin A1 expression benefited from TPF induction chemotherapy as measured by distant metastasis-free survival (P=0.048, HR=0.373) as well as overall survival (P=0.078, HR=0.410).
+
+				
+				
+					
+						Conclusions
+
+					Annexin A1 can be used as a prognostic biomarker for OSCC. Patients with moderate/poorly differentiated OSCC and low Annexin A1 expression can benefit from the addition of TPF induction chemotherapy to surgery and post-operative radiotherapy. Annexin A1 expression can potentially be used as a predictive biomarker to select OSCC patients with moderate/poorly differentiated tumor who may ...

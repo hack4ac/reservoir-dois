@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Clinical diagnosis and therapy for the lumbar disc herniation requires accurate vertebra segmentation. The complex anatomical structure and the degenerative deformations of the vertebrae makes its segmentation challenging.
+
+				
+				
+					
+						Methods
+
+					An improved level set method, namely edge- and region-based level set method (ERBLS), is proposed for vertebra CT images segmentation. By considering the gradient information and local region characteristics of images, the proposed model can efficiently segment images with intensity inhomogeneity and blurry or discontinuous boundaries. To reduce the dependency on manual initialization in many active contour models and for an automatic segmentation, a simple initialization method for the level set function is built, which utilizes the Otsu threshold. In addition, the need of the costly re-initialization procedure is completely eliminated.
+
+				
+				
+					
+						Results
+
+					Experimental results on both synthetic and real images demonstrated that the proposed ERBLS model is very robust and efficient. Compared with the well-known local binary fitting (LBF) model, our method is much more computationally efficient and much less sensitive to the initial contour. The proposed method has also applied to 56 patient data sets and produced very promising results.
+
+				
+				
+					
+						Conclusions
+
+					An improved level set method suitable for vertebra CT images segmentation is proposed. It has the flexibility of segmenting the vertebra CT images with blurry or discontinuous edges, internal inhomogeneity and no need of re-initialization.
+
+				
+			
+		

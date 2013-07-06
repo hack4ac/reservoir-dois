@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					A novel speech bandwidth extension method based on audio watermark is presented in this paper. The time-domain and frequency-domain envelope parameters are extracted from the high-frequency components of speech signal, and then these parameters are embedded in the corresponding narrowband speech bit stream by the modified least significant bit watermark method which uses perception property. At the decoder, the wideband speech is reproduced with the reconstruction of high-frequency components based on the parameters extracted from bit stream of the narrowband speech. The proposed method can decrease poor auditory effect caused by large local distortion. The simulation results show that the synthesized wideband speech has low spectral distortion and its speech perception quality is greatly improved.
+
+				
+			
+		

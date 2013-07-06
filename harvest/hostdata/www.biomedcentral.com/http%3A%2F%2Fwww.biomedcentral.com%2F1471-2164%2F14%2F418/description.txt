@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					In this paper, we address the evidence for the Ambush Hypothesis. Proposed by Seligmann and Pollock, this hypothesis posits that there exists a selection for off-frame stop codons (OSCs) to counteract the possible deleterious effects of translational frameshifts, including the waste of resources and potential cytotoxicity. Two main types of study have been used to support the hypothesis. Some studies analyzed codon usage and showed that codons with more potential to create OSCs seem to be favored over codons with lower potential; they used this finding to support the Ambush Hypothesis. Another study used 342 bacterial genomes to evaluate the hypothesis directly, finding significant excesses of OSCs in these genomes.
+
+				
+				
+					
+						Results
+
+					We repeated both analyses with newer datasets and searched for other factors that could explain the observed trends. In the first case, the relative frequency of codons with the potential to create OSCs is directly correlated with the GC content of organisms, as stop codons are GC-poor. When evaluating the frequency of OSCs directly in 1,976 bacterial genomes we also detected a significant excess. However, when comparing the excess of OSCs with similarly obtained results for the frequency of out-of-frame sense codons, some sense codons have a more significant excess than stop codons.
+
+				
+				
+					
+						Conclusions
+
+					Two avenues of study have been used to support the Ambush Hypothesis. Using the same methods as these previous studies, we demonstrate that the evidence in support of the Ambush Hypothesis does not hold up against more rigorous testing.
+
+				
+			
+		

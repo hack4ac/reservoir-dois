@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Positive feedback is a common motif in gene regulatory networks. It can be used in synthetic networks as an amplifier to increase the level of gene expression, as well as a nonlinear module to create bistable gene networks that display hysteresis in response to a given stimulus. Using a synthetic positive feedback-based tetracycline sensor in  E. coli , we show that the population dynamics of a cell culture has a profound effect on the observed hysteretic response of a population of cells with this synthetic gene circuit.
+
+				
+				
+					
+						Results
+
+					The amount of observable hysteresis in a cell culture harboring the gene circuit depended on the initial concentration of cells within the culture. The magnitude of the hysteresis observed was inversely related to the dilution procedure used to inoculate the subcultures; the higher the dilution of the cell culture, lower was the observed hysteresis of that culture at steady state. Although the behavior of the gene circuit in individual cells did not change significantly in the different subcultures, the proportion of cells exhibiting high levels of steady-state gene expression did change.
+Although the interrelated kinetics of gene expression and cell growth are unpredictable at first sight, we were able to resolve the surprising dilution-dependent hysteresis as a result of two interrelated phenomena - the stochastic switching between the ON and OFF phenotypes that led to the cumulative failure of the gene circuit over time, and the nonlinear, logistic growth of the cell in the batch culture.
+
+				
+				
+					
+						Conclusions
+
+					These findings reinforce the fact that population dynamics cannot be ignored in analyzing the dynamics of gene networks. Indeed population dynamics may play a significant role in the manifestation of bistability and hysteresis, and is an important consideration when designing synthetic gene circuits intended for long-term application.
+
+				
+			
+		

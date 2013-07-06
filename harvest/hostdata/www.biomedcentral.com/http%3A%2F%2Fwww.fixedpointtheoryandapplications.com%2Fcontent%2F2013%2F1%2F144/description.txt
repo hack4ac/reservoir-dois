@@ -1,0 +1,4 @@
+Abstract
+Some common fixed point theorems for a family of non-self mappings defined on a closed subset of a metrically convex cone metric space (over the cone which is not necessarily normal) are obtained which generalize earlier results due to Imdad  et al.  and Janković  et al.
+MSC: 
+47H10, 54H25.

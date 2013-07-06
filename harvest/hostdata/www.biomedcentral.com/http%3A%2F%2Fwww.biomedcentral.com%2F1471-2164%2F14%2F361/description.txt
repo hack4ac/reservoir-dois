@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Receptor tyrosine kinases (RTK) form a family of transmembrane proteins widely conserved in Metazoa, with key functions in cell-to-cell communication and control of multiple cellular processes. A new family of RTK named Venus Kinase Receptor (VKR) has been described in invertebrates. The VKR receptor possesses a Venus Fly Trap (VFT) extracellular module, a bilobate structure that binds small ligands to induce receptor kinase activity. VKR was shown to be highly expressed in the larval stages and gonads of several invertebrates, suggesting that it could have functions in development and/or reproduction.
+
+				
+				
+					
+						Results
+
+					Analysis of recent genomic data has allowed us to extend the presence of VKR to five bilaterian phyla (Platyhelminthes, Arthropoda, Annelida, Mollusca, Echinodermata) as well as to the Cnidaria phylum. The presence of NveVKR in the early-branching metazoan  Nematostella vectensis  suggested that VKR arose before the bilaterian radiation. Phylogenetic and gene structure analyses showed that the 40 receptors identified in 36 animal species grouped monophyletically, and likely evolved from a common ancestor. Multiple alignments of tyrosine kinase (TK) and VFT domains indicated their important level of conservation in all VKRs identified up to date. We showed that VKRs had inducible activity upon binding of extracellular amino-acids and molecular modeling of the VFT domain confirmed the structure of the conserved amino-acid binding site.
+
+				
+				
+					
+						Conclusions
+
+					This study highlights the presence of VKR in a large number of invertebrates, including primitive metazoans like cnidarians, but also its absence from nematodes and chordates. This little-known RTK family deserves to be further explored in order to determine its evolutionary origin, its possible interest for the emergence and specialization of Metazoa, and to understand its function in invertebrate development and/or reproductive biology.
+
+				
+			
+		

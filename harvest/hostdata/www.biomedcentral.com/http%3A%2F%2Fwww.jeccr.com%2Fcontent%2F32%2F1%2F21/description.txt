@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Growing evidences indicate microRNAs play important roles in cancer development, progression, metastasis and may constitute robust biomarkers for cancer prognosis. The aim of this study was to identify the clinical and functional association of microRNA-20a (miR-20a) in hepatocellular carcinoma (HCC).
+
+				
+				
+					
+						Methods
+
+					MiR-20a was detected using Taqman real-time polymerase chain reaction. Kaplan-Meier and Cox proportional regression analyses were utilized to determine the association of miR-20a with survival of patients. The potential functions of miR-20a on proliferation were evaluated by proliferation and flow cytometry analysis. The direct target gene of miR-20a was also identified by luciferase reporter assays.
+
+				
+				
+					
+						Results
+
+					MiR-20a was lower in primary HCC than normal liver, and were further decreased in those with post-liver transplantation (LT) HCC recurrence compared with those with non-recurrence (p = 0.001). Patients with lower miR-20a expression had significantly poorer recurrence-free survival (RFS, Log rank p < 0.001) and overall survival (OS, Log rank p < 0.001). Multivariate analysis revealed that lower miR-20a was an independent predictor of poor prognosis. MiR-20a restoration could suppress HepG2 and SMMC-7721 cells proliferation and induce cell cycle G1 arrest and apoptosis. Subsequent investigations revealed that miR-20a directly targeted myeloid cell leukemia sequence 1 (Mcl-1) and reduced the endogenous protein level of Mcl-1 in HCC cells.
+
+				
+				
+					
+						Conclusions
+
+					MiR-20a is decreased in HCCs and correlates with HCC recurrence and prognosis. Down-regulation of miR-20a increases the proliferation abilities of HCC cells. Our findings suggest miR-20a may represent a novel potential therapeutic target and biomarker for survival of HCC patients.
+
+				
+			
+		

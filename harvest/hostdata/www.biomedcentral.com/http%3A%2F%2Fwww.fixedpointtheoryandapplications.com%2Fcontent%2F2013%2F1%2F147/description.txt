@@ -1,0 +1,4 @@
+Abstract
+We prove quadruple fixed point theorems in partially ordered metric spaces with mixed  g -monotone property. Also, we state some examples to show that our results are real generalization of known ones in quadruple fixed point theory.
+MSC: 
+46T99, 54H25, 47H10, 54E50.

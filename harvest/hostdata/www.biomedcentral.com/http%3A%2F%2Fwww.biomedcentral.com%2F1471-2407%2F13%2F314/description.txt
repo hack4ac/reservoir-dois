@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Circulating tumor cells (CTCs) detection has previously been used for diagnosing gastric cancer. However, the previous studies failed to make an agreement whether the detection of CTCs contributes to the diagnosis of gastric cancer.
+
+				
+				
+					
+						Methods
+
+					A systematic review and meta-analysis was performed to evaluate the overall accuracy of CTCs detection for diagnosing gastric cancer. PubMed, Embase and the Wanfang database were searched in all languages published up to Oct 2012. The pooled sensitivity (SEN), specificity (SPE), positive and negative likelihood ratios (PLR and NLR, respectively), diagnostic odds ratio (DOR) and summary receiver operating characteristic (sROC) curve were calculated to evaluate the overall test performance.
+
+				
+				
+					
+						Results
+
+					Twenty studies were included in this systematic review and meta-analysis. The diagnostic value of CTCs detection for the gastric cancer was calculated to evaluate the overall test performance. The summary estimates of The pooled sensitivity, specificity, positive and negative likelihood ratios, diagnostic odds ratio were 0.42 (95% confidence interval (CI), 0.21-0.67), 0.99 (95% CI, 0.96-1.00), 58.2 (95% CI, 9.8-345.9), 0.58 (95% CI, 0.38-0.89), and 100 (95% CI, 15–663), respectively. The summary receiver operating characteristic curve was 0.97 (95% CI, 0.95–0.98). Deek’s funnel plot asymmetry test found no evidence of study publication bias in the current study (P = 0.49).
+
+				
+				
+					
+						Conclusion
+
+					This systematic review suggests that CTCs detection alone cannot be recommended as a screening test for gastric cancer. However, it might be used as a noninvasive method for the confirmation of the gastric cancer diagnosis.
+
+				
+			
+		

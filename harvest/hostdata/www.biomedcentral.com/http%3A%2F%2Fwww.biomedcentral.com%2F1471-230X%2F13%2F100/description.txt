@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					How to maintain “gut health” is a goal for scientists throughout the world. Therefore, microbiota management models for testing probiotics, prebiotics, and synbiotics have been developed.
+
+				
+				
+					
+						Methods
+
+					The SHIME ®  model was used to study the effect of  Lactobacillus acidophilus  1014 on the fermentation pattern of the colon microbiota. Initially, an inoculum prepared from human feces was introduced into the reactor vessels and stabilized over 2-wk using a culture medium. This stabilization period was followed by a 2-wk control period during which the microbiota was monitored. The microbiota was then subjected to a 4-wk treatment period by adding 5 mL of sterile peptone water with  L. acidophilus  CRL1014 at the concentration of 10 8  CFU/mL to vessel one (the stomach compartment). Plate counts, Denaturing Gradient Gel Electrophoresis (DGGE), short-chain fatty acid (SCFA) and ammonium analyses were carried out for monitoring of the microbial community from the colon compartments.
+
+				
+				
+					
+						Results
+
+					A significant increase (p < 0.01) in the  Lactobacillus  spp. and  Bifidobacterium  spp. populations was observed during the treatment period. The DGGE obtained showed changes in the lactobacilli community from the colon compartments of the SHIME ®  reactor. The (SCFA) concentration increased (p < 0.01) during the treatment period, due mainly to significant increased levels of acetic, butyric, and propionic acids. However, ammonium concentrations decreased during the same period (p < 0.01).
+
+				
+				
+					
+						Conclusions
+
+					This study showed the beneficial influence of  L. acidophilus  CRL 1014 on microbial metabolism and lactobacilli community composition for improving human health.
+
+				
+			
+		

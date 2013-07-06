@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The cytokine growth differentiation factor-15 (GDF-15), a member of the TGF beta superfamily, has recently been discovered to play an important role in cardiovascular diseases. It is mostly expressed in macrophages of atherosclerotic lesions, but its impact on advanced atherosclerosis is still unknown. This study was performed to evaluate the effects of GDF-15 in an established mouse model of advanced atherosclerosis.
+
+				
+				
+					
+						Methods
+
+					Thirty-eight LDL receptor deficient mice received a lethal body radiation. Half of the group was transplanted with bone marrow of GDF-15 deficient mice. Nineteen mice were transplanted with bone marrow from wild-type controls. After 24 weeks on an atherogenic diet, animals were euthanized and sections of the aortic sinus were prepared. Lesion size and lesion composition, as well as macrophage content,were evaluated.
+
+				
+				
+					
+						Results
+
+					While demonstrating no difference in lesion size, LDL-receptor knockout mice transplanted with bone marrow from GDF-15 deficient mice showed enhanced macrophage accumulation and features of atherosclerotic plaque destabilization, such as thinning of fibrous caps. Immunostaining against intercellular adhesion molecule-1 further revealed an increased expression in mice receiving GDF-15-deficient bone marrow.
+
+				
+				
+					
+						Conclusions
+
+					This is the first study that demonstrates a protective role of GDF-15 in advanced atherosclerosis and macrophage accumulation, possibly due to the reduced expression of adhesion molecules.
+
+				
+			
+		

@@ -1,0 +1,49 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cotton fiber length is very important to the quality of textiles. Understanding the genetics and physiology of cotton fiber elongation can provide valuable tools to the cotton industry by targeting genes or other molecules responsible for fiber elongation. Ligon Lintless-1 ( Li 
+						 
+							 1 
+						 ) is a monogenic mutant in Upland cotton ( Gossypium hirsutum ) which exhibits an early cessation of fiber elongation resulting in very short fibers (< 6 mm) at maturity. This presents an excellent model system for studying the underlying molecular and cellular processes involved with cotton fiber elongation. Previous reports have characterized  Li 
+						 
+							 1 
+						  at early cell wall elongation and during later secondary cell wall synthesis, however there has been very limited analysis of the transition period between these developmental time points.
+
+				
+				
+					
+						Results
+
+					Physical and morphological measurements of the  Li 
+						 
+							 1 
+						  mutant fibers were conducted, including measurement of the cellulose content during development. Affymetrix microarrays were used to analyze transcript profiles at the critical developmental time points of 3 days post anthesis (DPA), the late elongation stage of 12 DPA and the early secondary cell wall synthesis stage of 16 DPA. The results indicated severe disruption to key hormonal and other pathways related to fiber development, especially pertaining to the transition stage from elongation to secondary cell wall synthesis. Gene Ontology enrichment analysis identified several key pathways at the transition stage that exhibited altered regulation. Genes involved in ethylene biosynthesis and primary cell wall rearrangement were affected, and a primary cell wall-related cellulose synthase was transcriptionally repressed. Linkage mapping using a population of 2,553 F 2  individuals identified SSR markers associated with the  Li 
+						 
+							 1 
+						  genetic locus on chromosome 22. Linkage mapping in combination with utilizing the diploid  G. raimondii  genome sequences permitted additional analysis of the region containing the  Li 
+						 
+							 1 
+						  gene.
+
+				
+				
+					
+						Conclusions
+
+					The early termination of fiber elongation in the  Li 
+						 
+							 1 
+						  mutant is likely controlled by an early upstream regulatory factor resulting in the altered regulation of hundreds of downstream genes. Several elongation-related genes that exhibited altered expression profiles in the  Li 
+						 
+							 1 
+						  mutant were identified. Molecular markers closely associated with the  Li 
+						 
+							 1 
+						  locus were ...

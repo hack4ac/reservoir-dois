@@ -1,0 +1,33 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Subunit vaccines based on recombinant proteins have been effective in preventing infectious diseases and are expected to meet the demands of future vaccine development. Computational approach, especially reverse vaccinology (RV) method has enormous potential for identification of protein vaccine candidates (PVCs) from a proteome. The existing protective antigen prediction software and web servers have low prediction accuracy leading to limited applications for vaccine development. Besides machine learning techniques, those software and web servers have considered only protein’s adhesin-likeliness as criterion for identification of PVCs. Several non-adhesin functional classes of proteins involved in host-pathogen interactions and pathogenesis are known to provide protection against bacterial infections. Therefore, knowledge of bacterial pathogenesis has potential to identify PVCs.
+
+				
+				
+					
+						Results
+
+					
+					A web server, Jenner-Predict, has been developed for prediction of PVCs from proteomes of bacterial pathogens. The web server targets host-pathogen interactions and pathogenesis by considering known functional domains from protein classes such as adhesin, virulence, invasin, porin, flagellin, colonization, toxin, choline-binding, penicillin-binding, transferring-binding, fibronectin-binding and solute-binding. It predicts non-cytosolic proteins containing above domains as PVCs. It also provides vaccine potential of PVCs in terms of their possible immunogenicity by comparing with experimentally known IEDB epitopes, absence of autoimmunity and conservation in different strains. Predicted PVCs are prioritized so that only few prospective PVCs could be validated experimentally. The performance of web server was evaluated against known protective antigens from diverse classes of bacteria reported in Protegen database and datasets used for VaxiJen server development. The web server efficiently predicted known vaccine candidates reported from  Streptococcus pneumoniae  and  Escherichia coli  proteomes. The Jenner-Predict server outperformed NERVE, Vaxign and VaxiJen methods. It has sensitivity of 0.774 and 0.711 for Protegen and VaxiJen dataset, respectively while specificity of 0.940 has been obtained for the latter dataset.
+
+				
+				
+					
+						Conclusions
+
+					
+					Better prediction accuracy of Jenner-Predict web server signifies that domains involved in host-pathogen interactions and pathogenesis are better criteria for prediction of PVCs. The web server has successfully predicted maximum known PVCs belonging to different functional classes. Jenner-Predict server is freely accessible at  http://117.211.115.67/vaccine/home.html 
+					
+
+				
+			
+		

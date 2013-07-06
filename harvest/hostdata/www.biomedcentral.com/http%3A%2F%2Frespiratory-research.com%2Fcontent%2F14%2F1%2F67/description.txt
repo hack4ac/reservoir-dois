@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Epithelial-mesenchymal transition (EMT) plays a crucial role in small airway fibrosis of patients with chronic obstructive pulmonary disease (COPD). Increasing evidence suggests that the urokinase plasminogen activator receptor (uPAR) is involved in the pathogenesis of COPD. Increased uPAR expression has been implicated in the promotion of EMT in numerous cancers; however the role of uPAR in EMT in small airway epithelial cells of patients with COPD remains unclear. In this study, we investigated the degree of EMT and uPAR expression in lung epithelium of COPD patients, and verified the effect of uPAR on cigarette smoke extract (CSE)-induced EMT  in vitro .
+
+				
+				
+					
+						Methods
+
+					The expression of EMT biomarkers and uPAR was assessed in lung epithelium specimens from non-smokers (n = 25), smokers (n = 25) and non-smokers with COPD (n = 10) and smokers with COPD (n = 18). The role of uPAR on CSE-induced EMT in human small airway epithelial cells (HSAEpiCs) was assessed by silencing uPAR expression  in vitro .
+
+				
+				
+					
+						Results
+
+					Markers of active EMT and uPAR expression were significantly increased in the small airway epithelium of patients with COPD compared with controls. We also observed a significant correlation between uPAR and vimentin expression in the small airway epithelium.  In vitro , CSE-induced EMT in HSAEpiCs was associated with high expression of uPAR, and targeted silencing of uPAR using shRNA inhibited CSE-induced EMT. Finally, we demonstrate that the PI3K/Akt signaling pathway is required for uPAR-mediated EMT in HSAEpiCs.
+
+				
+				
+					
+						Conclusions
+
+					A uPAR-dependent signaling pathway is required for CSE-induced EMT, which contributes to small airway fibrosis in COPD. We propose that increased uPAR expression in the small airway epithelium of patients with COPD participates in an active EMT process.
+
+				
+			
+		

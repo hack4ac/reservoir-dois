@@ -1,0 +1,131 @@
+Methods
+   
+      We compared the postnatal weight gain of preterm infants in three North American cities
+         to a fetal-infant growth reference (FIGR), which was generated based on a systematic
+         review of the literature before 40&nbsp;weeks 
+         				[19] and the World Health Organization Growth Standard (WHOGS) after 40&nbsp;weeks 
+         				[20] of gestation. The FIGR fetal weight values were a weighted average of fetal growth
+         from six population-based surveys with a minimum required sample size &gt; 25,000 infants
+         from developed countries (Germany, Italy, USA, Canada, Australia, and Scotland) over
+         the past 25&nbsp;years 
+         				[4-8,21].
+      
+      The preterm infant multicentre growth study (PreMGS)
+      Growth, medical, nutrition, and descriptive data of preterm infants were collected
+         in three cities: Calgary and Regina in Canada, and San Diego in USA from a retrospective
+         chart review. Neonatal intensive care was provided by Alberta Health Services in Calgary,
+         Regina Qu’Appelle Health Region (RQHR) in Regina, and the NICU at the University of
+         California San Diego (UCSD) Medical Center in San Diego, USA. These neonatal units
+         have provided early nutrition support since 2005. Parenteral nutrition started on
+         the birth day or day one of life for most of these infants. Post-discharge, the infants
+         were cared for in the Neonatal Transition Program and the Southern Alberta Perinatal
+         Clinic in Calgary, the Neonatal Intensive Care Follow-up Program in Regina, and the
+         Premature Infant Nutrition Community (PINC) Clinic in San Diego. The PreMGS was granted
+         ethical approval by the Conjoint Health Research Ethics Board, University of Calgary
+         and RQHR Research Ethics Board Regina, and UCSD Human Research Protections Program.
+      
+      Subjects
+      The preterm infants were included if they were born between 2001 and 2010, and their
+         gestational age was less than 32&nbsp;weeks. Infants were excluded if they had congenital
+         anomalies or did not survive until discharge, as these conditions could affect growth.
+         The data were collected prospectively during clinical care in Level III NICUs, associated
+         Level II units and in routine post-discharge care, and extracted from the charts by
+         trained research assistants.
+      
+      Clinical data
+      Neonatal information included: gender, gestational age (weeks), medical history of
+         necrotizing enterocolitis, oxygen therapy, SNAP II scores, and anthropometric measurements:
+         a) size at birth (weight (kg), head circumference (cm), and recumbent length (cm)),
+         b) daily weights for the first 21&nbsp;days, c) weekly size measures (weight, head circumference,
+         and length) while in the hospital, d) all available size measures post discharge up
+         to and including 4&nbsp;months corrected age. Gestational age was defined by maternal dates
+         and/or ultrasound. If maternal dates differed by more than 2&nbsp;weeks from assessed age,
+         and if early ultrasound data was not available, then assessed age was used. Appropriateness
+         of size for gestational age was assigned based on the FIGR.
+      
+      Nutrition data
+      Data on nutrition support included: age at initiation of parenteral and enteral nutrition
+         (minimal enteral feedings (less than or equal to 20&nbsp;mL/kg/day) as well as enteral
+         feedings (greater than 20&nbsp;mL/kg/day), full enteral feedings (defined as greater than
+         140&nbsp;mL/kg/day), weekly recordings of types of feeding in hospital and post discharge
+         (breast milk or formula), use of human milk fortifier (powder or preterm formula as
+         a fortifier), total fluid intakes, and number of feeding interruptions (defined as
+         being stop of enteral/oral feeds with advancement of feeds that took 4 + days to achieve
+         greater than140 mL/kg).
+      
+      Data management
+      The preterm infants were grouped into three cohorts according to their gestational
+         age at birth: 23 to 25, 26 to 28, and 29 to 31&nbsp;weeks. As not all infants were measured
+         each week after discharge, values were interpolated between measurements. The individual
+         and median weight gain trajectories of the preterm infants were plotted together with
+         the FIGR.
+      
+      The cohorts’ weights at various ages were compared to the FIGR using z-scores. Specifically
+         we determined the proportion of growth restriction (defined as weight less than the
+         10th percentile) separated either as intrauterine growth restriction (IUGR) at birth
+         or extrauterine growth restriction (EUGR) any time postnatally. Comparisons were made
+         against the FIGR (for data up to 40&nbsp;weeks) and the WHOGS (for data 40 to 50&nbsp;weeks).
+      
+      Weight gain velocity was calculated (in g/kg/day) along the median weight curves,
+         for the preterm infant cohorts and the FIGR using the follow calculation 
+         					[22]:
+      
+      
+         
+               
+                  
+                     
+                        
+                           
+                              
+                                 end weight - start weight in grams
+                              
+                              
+                                 _
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 average weight in kilograms
+                              
+                              
+                                 _
+                              
+                           
+                        
+                     
+                     
+                        
+                           number of days
+                        
+                     
+                  
+               
+         
+      
+      The smoothed weight gain velocity of the three preterm infant cohorts, together with
+         the median FIGR weight gain velocity, were plotted against gestational age, and weight
+         gain during the intervals were reported. Differences between median FIGR weight velocity
+         and the preterm infants’ weight gain (g/kg/day) were calculated by subtracting the
+         fetal-infant rates from the preterm rates.
+      
+      The mean weight gain for the three groups of preterm infants in this study were compared
+         to the mean growth of the infants from the National Institute of Child Health and
+         Human Development Neonatal Research Network (NICHD) 
+         					[10] (born between 1994 and 1995), along with the FIGR-WHOGS 3rd, 50th and 97th percentiles.
+         To obtain an NICHD cohort similar to our 23–25&nbsp;week cohort (mean birthweight 664 grams)
+         we combined the 550 and 750 gram NICHD cohorts using a weighted average and pooled
+         standard deviations.
+      
+      Statistical analysis
+      Comparisons of the prevalence of growth restriction at various time points were made
+         using two-sample tests of proportions. t-tests were used to compare mean preterm weight
+         gain velocity rates with the mean of the FIGR estimates. Results with p-values &lt; 0.05
+         were considered to be statistically significant.
+      
+   
+

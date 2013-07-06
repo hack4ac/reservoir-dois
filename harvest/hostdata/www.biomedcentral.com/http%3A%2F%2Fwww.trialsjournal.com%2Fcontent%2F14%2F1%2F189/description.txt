@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Chronic radicular pain can be effectively treated with spinal cord stimulation, but this therapy is not always sufficient for chronic back pain. Subcutaneous nerve stimulation (SQS) refers to the placement of percutaneous leads in the subcutaneous tissue within the area of pain. Case series data show that failed back surgery syndrome (FBSS) patients experience clinically important levels of pain relief following SQS and may also reduce their levels of analgesic therapy and experience functional well-being. However, to date, there is no randomized controlled trial evidence to support the use of SQS in FBSS.
+
+				
+				
+					
+						Methods/Design
+
+					The SubQStim study is a multicenter randomized controlled trial comparing SQS plus optimized medical management (‘SQS arm’) versus optimized medical management alone (‘OMM arm’) in patients with predominant back pain due to FBSS. Up to 400 patients will be recruited from approximately 33 centers in Europe and Australia and will be randomized 1:1 to the SQS or OMM arms. After 9 months, patients who fail to reach the primary outcome will be allowed to switch treatments. Patients will be evaluated at baseline (prior to randomization) and at 1, 3, 6, 9, 12, 18, 24, and 36 months after randomization. The primary outcome is the proportion of patients at 9 months with a ≥50% reduction in back pain intensity compared to baseline. The secondary outcomes are: back and leg pain intensity score, functional disability, health-related quality of life, patient satisfaction, patient global impression of change, healthcare resource utilization/costs, cost-effectiveness analysis and adverse events. Outcomes arms will be compared between SQS and OMM arms at all evaluation points up to and including 9 months. After the 9-month assessment visit, the main analytic focus will be to compare within patient changes in outcomes relative to baseline.
+
+				
+				
+					
+						Discussion
+
+					The SubQStim trial began patient recruitment in November 2012. Recruitment is expected to close in late 2014.
+
+				
+				
+					
+						Trial registration
+
+					ClinicalTrials.gov  NCT01711619 
+					
+
+				
+			
+		

@@ -1,0 +1,1 @@
+predator-prey model, Ivlev functional response, bifurcation, uniqueness

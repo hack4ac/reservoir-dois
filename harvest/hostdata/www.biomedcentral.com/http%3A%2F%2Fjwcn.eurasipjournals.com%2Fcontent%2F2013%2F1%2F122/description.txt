@@ -1,0 +1,15 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					Seaweb is an acoustic communication technology that enables communication between sensor nodes. Seaweb technology utilizes the commercially available telesonar modems that has developed link and network layer firmware to provide a robust undersea communication capability. Seaweb interconnects the underwater nodes through digital signal processing-based modem by using acoustic links between the neighboring sensors. In this paper, we design and investigate a global positioning system-free passive localization protocol by integrating the innovations of levelling and localization with the Seaweb technology. This protocol uses the range data and planar trigonometry principles to estimate the positions of the underwater sensor nodes. Moreover, for precise localization, we consider more realistic conditions namely, (a) small displacement of sensor nodes due to watch circles and (b) deployment of sensor nodes over non-uniform water surface. Once the nodes are localized, we divide the whole network field into circular levels and sectors to minimize the traffic complexity and thereby increases the lifetime of the sensor nodes in the network field. We then form the mesh network inside each of the sectors that increases the reliability. The algorithm is designed in such a way that it overcomes the ambiguous nodes  errata  and reflected paths and therefore makes the algorithm more robust. The synthetic network geometries are so designed which can evaluate the algorithm in the presence of perfect or imperfect ranges or in case of incomplete data. A comparative study is made with the existing algorithms which proves the efficiency of our newly proposed algorithm.
+
+				
+			
+		

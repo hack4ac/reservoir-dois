@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				The accurate measurements on density of the binary mixtures of cetyltrimethylammonium bromide and sodium dodecyl sulphate in pure water and in methanol(1) + water (2) mixed solvent media containing (0.10, 0.20, and 0.30) volume fractions of methanol at 308.15, 318.15, and 323.15 K are reported. The concentrations are varied from (0.03 to 0.12) mol.l -1  of sodium dodecyl sulphate in presence of ~ 5.0×10 -4  mol.l -1  cetyltrimethylammonium bromide. The results showed almost increase in the densities with increasing surfactant mixture concentration, also the densities are found to decrease with increasing temperature over the entire concentration range, investigated in a given mixed solvent medium and these values are found to decrease with increasing methanol content in the solvent composition. The concentration dependence of the apparent molar volumes appear to be negligible over the entire concentration range, investigated in a given mixed solvent medium and the apparent molar volumes increase with increasing temperature and are found to decrease with increasing methanol content in the solvent composition.
+
+			
+		

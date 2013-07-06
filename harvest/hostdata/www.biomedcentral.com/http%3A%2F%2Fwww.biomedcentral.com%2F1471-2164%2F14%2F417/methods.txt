@@ -1,0 +1,64 @@
+Methods
+   
+      Sample origin and DNA sequence assembly
+      Lab-reared populations of Laodelphax striatellus (Nanjing, Jiangsu province, June 2010) and Nilaparvata lugens (Sanya, Hainan province, August 2010) for mitochondrial genome sequence were collected
+         in China. Other natural populations which were used to validating location of trnH of SBPH and detecting the variable number of tandem repeats (VNTRs) in control regions
+         of BPH and SBPH were collected in different locations of China (Additional file 11: Table S7). Following sequencing the genome of Wolbachia infected in these two planthopper species, partial mtDNAs of the two planthoppers
+         were also generated using Illumina HiSeq™ 2000. From the pair-end reads (read length:
+         90 bp) generated from the PCR-free random shotgun-sequencing libraries of average
+         insert size 500 bp, one scaffold composed of three contigs of mitochondrial genome
+         of SBPH (93,375 reads with approximately 520-fold coverage) and one scaffold composed
+         of four contigs of mitochondrial genome of BPH (71,280 reads with approximately 400-fold
+         coverage) were generated (Figure&nbsp;1).
+      
+      Additional file 11: Table S7. Collection information for natural populations of Nilaparvata lugens and Laodelphax striatellus used in this study. 
+         	Format: XLS 
+         	Size: 29KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Excel Viewer
+      Gap closing-PCR amplification, cloning and sequencing
+      According to the flanking sequences of the gaps assembled from the filtered data,
+         we designed 11 pairs of perfectly matched primers to connect the adjacent contigs
+         (Additional file 7: Table S4). In order to reduce the error probability, we chose the high fidelity
+         DNA polymerase Phusion® High-Fidelity DNA Polymerase (New England Biolabs) to perform
+         the PCR amplification. The cycling conditions: 98°C 30 seconds, followed by 35 cycles
+         of 10 s at 98°C, 30 s at different annealing temperatures, 1–2.5 min at 72°C depending
+         on the size of amplicons, and the subsequent final elongation step at 72°C for 10
+         mins. The quality of PCR products was examined by 1% agarose gel electrophoresis.
+         After purification, PCR products which were shorter than 800 bp were directly sequenced
+         from both directions using the ABI 3730XL Genetic Analyzer (PE Applied Biosystems).
+         Otherwise, the PCR fragments (&gt;800 bp) were ligated into pEASY-Blunt cloning vector
+         (Beijing TransGen Biotech) and resulting plasmid DNAs were isolated and used for sequencing.
+         For each larger PCR product, at least two independent clones were sequenced to ensure
+         that we obtained the consistent sequence. The flanking sequences of each gap were
+         exactly matched with the sequences generated based on PCR method. For closing the
+         gaps which contain the AT-rich region and detecting the variable number of tandem
+         repeats (VNTRs) in natural population individuals, we chose the PrimeSTAR GXL DNA
+         polymerase (TAKARA) to perform the PCR amplification. The complete sequences of mitochondrial
+         genome of SBPH and BPH are deposited in the GenBank database under the Accession No.
+         JX880068, JX880069 respectively.
+      
+      Annotation and analysis
+      After finished the gap closing work, we annotated the mitochondrial genomes of BPH
+         and SBPH. All PCGs were identified by ORF Finder implemented at the NCBI website with
+         the invertebrate mitochondrial genetic codes. Finally pair-wise comparisons with orthologous
+         proteins from other hemipteran insects were performed to better define the limits
+         of PCGs. The transfer RNA (tRNA) genes were identified using both of the tRNAscan-SE
+         [54] and ARWEN [55] programs and recognized manually as sequences having the appropriate anticodon and
+         capable of folding into the typical cloverleaf secondary structure. The locations
+         of the two rRNA genes (rrnL and rrnS) were determined based on alignments and secondary structures of rRNA sequences of
+         other hemipteran species. The boundaries of the ribosomal rrnL gene were assumed to be delimited by the ends of the trnL1 (CUN) and trnV. The 3′ end of rrnS gene was assumed to be delimited by the start of trnV while the 5′ end was determined through comparison with orthologous genes of other
+         hemipteran species sequenced so far. The base composition, the Relative Synonymous
+         Codon Usage (RSCU) values of BPH and SBPH were calculated with MEGA 4 program [56].
+      
+      Comparative genomics analysis
+      After downloaded other mitochondrioal genome sequence (Heteroptera, 31 species; Sternorrhyncha,
+         9 species; Auchenorrhyncha, 7 species, Additional file 5: Table S3), we compared the two planthopper species with other hemipteran species,
+         including the gene order, the base composition and the GC/AT-skew. The GC-skew = (G-C)/(G+C)
+         and AT-skew = (A-T)/(A+T) were used [57] to measure the base compositional difference between different taxa in Hemiptera.
+         In addition, in order to reveal whether two trnH rearrangement types really exist in natural populations, we sequenced a region of
+         mitochondrial genome encompassing the trnH gene from 309 individuals of SBPH which were collected from 15 natural populations
+         and also checked the Wolbachia infection status of each individual (Additional file 11: Table S7). After got the sequences, we used Network 4.610 (http://www.fluxus-engineering.com webcite) to calculate the frequency of each haplotype of the sequence of this region. The
+         sequences of each haplotype are deposited in the GenBank database under the Accession
+         No. KC006945 - KC006960.
+      
+   
+

@@ -1,0 +1,10 @@
+
+			
+				
+					Abstract
+
+				The present study aims to investigate coelomocytes, immune mediators cells in the echinoderm  Holothuria tubulosa , as an unusual source of antimicrobial and antibiofilm agents. The activity of the 5kDa peptide fraction of the cytosol from  H. tubulosa  coelomocytes (5-HCC) was tested against a reference group of Gram-negative and Gram-positive human pathogens. Minimal inhibitory concentrations (MICs) ranging from 125 to 500 mg/ml were determined against tested strains. The observed biological activity of 5-HCC could be due to two novel peptides, identified by capillary RP-HPLC/nESI-MS/MS, which present the common chemical-physical characteristics of antimicrobial peptides. Such peptides were chemically synthesized and their antimicrobial activity was tested. The synthetic peptides showed broad-spectrum activity at 12.5 mg/ml against the majority of the tested Gram-positive and Gram-negative strains, and they were also able to inhibit biofilm formation in a significant percentage at a concentration of 3.1 mg/ml against staphylococcal and  Pseudomonas aeruginosa  strains.
+The immune mediators in  H. tubulosa  are a source of novel antimicrobial peptides for the development of new agents against biofilm bacterial communities that are often intrinsically resistant to conventional antibiotics.
+
+			
+		

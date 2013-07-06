@@ -1,0 +1,36 @@
+
+         
+            
+               Abstract
+
+
+            
+               
+                  Introduction
+
+
+               Spondyloarthritis (SpA), an interrelated group of rheumatic diseases, has been suggested to be triggered by bacterial infections prior to the development of an autoimmune response that causes inflammation of the spinal and peripheral joints. Because human heat shock protein 60 (HSP60), recently renamed HSPD1, and bacterial HSP60 are highly homologous, immunological cross-reactivity has been proposed as a mechanism of disease initiation. However, previous investigations of the humoral immune response to HSP60 in SpA patients have lacked determination of immunoglobulin G (IgG) subclasses and patient follow-up. In this study, we have focused on these parameters in a cohort of axial SpA patients with a well-established set of clinical characteristics, including MRI changes and human leukocyte antigen B27.
+
+
+            
+               
+                  Methods
+
+
+               IgG subclass antibodies (IgG1, IgG2, IgG3 and IgG4) against recombinant HSP60 of three reactive arthritis-related bacteria; human HSP60; and the microorganisms  Chlamydia trachomatis and  C. pneumoniae were determined by ELISA. Serum samples collected from 2004 to 2006 and in 2010 and 2011 from 39 axial SpA patients were analyzed and compared with samples from 39 healthy controls. The Mann-Whitney  U test and Wilcoxon matched pairs test were used to compare the antibody levels in different and paired groups, respectively.  P < 0.01 was considered significant. The Spearman nonparametric correlation was used to determine correlation between antibody levels and between antibody levels and the disease parameters.
+
+
+            
+               
+                  Results
+
+
+               Elevated levels of IgG1 and IgG3 to human HSP60 and IgG1 to HSP60 of  Salmonella enterica Enteritidis were observed in SpA patients compared with healthy controls at both time points. The antibody levels were almost constant over time for IgG1, whereas high levels of IgG3 to human HSP60 tended to decrease over time. The antibody response to human HSP60 was predominantly of the IgG3 subclass, and patients with high levels of IgG3 to this antigen had low levels of IgG1, indicating an inverse association. Different IgG subclasses were produced against bacterial and human HSP60 in the same serum sample, IgG1 and IgG3, respectively, indicating that there was no cross-reaction.
+
+
+            
+               
+                  Conclusions
+
+
+               A significant association was observed between axial SpA and the presence of IgG1/IgG3 antibodies to human HSP60 and of IgG1 to  S. enterica Enteritidis and  C. trachomatis . Generation ...

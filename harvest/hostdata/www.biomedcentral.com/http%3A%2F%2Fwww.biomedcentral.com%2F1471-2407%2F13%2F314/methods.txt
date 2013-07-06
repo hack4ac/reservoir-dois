@@ -1,0 +1,82 @@
+Methods
+   
+      Literature search
+      This meta-analysis was conducted according to guidelines for diagnostic meta-analysis
+         [23,24]. PubMed, Embase and the Wanfang database were searched in Oct 2012 using the strategy
+         of (circulating tumor cell OR circulating tumor cells OR CTC or CTCs OR isolated/circulating/disseminated
+         tumor cells OR ITC) AND (Gastric cancer or Gastric Neoplasms or Stomach Cancer) without
+         time or language restrictions. The references of the included studies were also searched
+         manually to identify additional eligible studies.
+      
+      Inclusion and exclusion criteria
+      The inclusion criteria for this meta-analysis were: 1) studies about the diagnosis
+         of gastric cancer with CTCs detection; 2) studies with raw data that true-positive,
+         false-positive, false-negative and true-negative could be found or calculated; 3)
+         studies with reference standard for the diagnosis of gastric cancer; 4) studies with
+         more than 20 patients. Exclusion criteria were: 1) studies with duplicate data reported
+         in other studies; 2) studies that were letters, editorials, case reports or case series.
+      
+      Data extraction and quality assessment
+      The two investigators (Lanhua Tang, Shushan Zhao) independently reviewed the titles
+         and abstracts of all the records searched above, and excluded the reviews, editorials,
+         letters, case reports or case series, and studies without direct link to the main
+         subject. For records which could not be evaluated through the titles and abstracts,
+         full texts were retrieved for detailed evaluation according to the inclusion and exclusion
+         criteria. Disagreements were resolved by discussion with the senior investigator (Meizuo
+         Zhong). The reasons why studies were excluded were listed.
+      
+      Two reviewers independently extracted data from all the eligible studies: 1) basic
+         characteristics of studies including name of the first author, year of the publication,
+         country of origin, markers of CTCs detection methods, mean/median age, diagnosis criteria
+         of gastric cancer, tumor stage distribution of patients, source of control; 2) methods
+         of studies including study design, methods of the inclusion of patients and controls,
+         methods of CTCs detection, the blood volume, time and methods of sample collection;
+         3) outcomes including the number of patients with true or false positive and true
+         or false negative results, detection SEN. If the data of the results were not directly
+         reported, they were calculated based on SEN and SPE or positive and negative predictive
+         value. Disagreements were resolved by discussion and consultation with the senior
+         investigator (Meizuo Zhong).
+      
+      Subsequently, the two independent authors evaluated the quality of the studies by
+         Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) [25] and Standards for Reporting of Diagnostic Accuracy (STARD) [26].
+      
+      Data analysis
+      This systematic review and meta-analysis about the diagnostic accuracy of CTCs detection
+         in gastric cancer was performed using Stata software (version 12.0, College Station,
+         TX) with the MIDAS and METANDI modules and RevMan (version 5.1).
+      
+      With regards to Stata software, continuity correction was implemented by an addition
+         of 1 to avoid the trouble that the cells containing zero values might bring to the
+         analysis process. And when a study adopted several markers for the CTCs detection,
+         the marker with the best SPE or the best SEN was used for the analysis of the pooled
+         diagnostic accuracy.
+      
+      By using a bivariate regression approach, the summary receiver operating characteristic
+         (sROC) curve was constructed. The area under the sROC curve was an alternative global
+         measure of test performance. The pooled estimates of SEN and SPE were calculated as
+         the main outcome measures. Meanwhile, the summary positive and negative likelihood
+         ratios (pooled PLR and pooled NLR, respectively, defined as the ratio of the probabilities
+         that the CTCs detection will be positive/negative in cases with gastric cancer versus
+         those without gastric cancer) were also calculated. The value of pooled PLR higher
+         than 10 indicate that the positive result of the given test is useful for the confirmation
+         of presence of gastric cancer, while the value of pooled NLR lower than 0.1 indicate
+         that the negative result is useful for the exclusion of the disease [27]. As a single indicator measure of the diagnostic test accuracy that comprises a combination
+         of SEN and SPE [28], the diagnostic odds ratio (DOR) describes the odds of positive test results in patients
+         with gastric cancer compared with the odds of positive results in those without the
+         disease. It’s calculated as: DOR = PLR/NLR.
+      
+      The between-study heterogeneity was evaluated by Q test and I-square statistics. The
+         former indicates whether the heterogeneity is significant. An inconsistency index
+         of 0% and P value of 0.05 and more indicate no observed heterogeneity, when I2 becomes higher, the heterogeneity becomes greater. And I2 values ≥50% indicates substantial heterogeneity, in this circumstance, the DerSimonian
+         Laird method was applied for pooled analyses [29,30].
+      
+      Furthermore, to explore the sources of between-study heterogeneity, a meta-regression
+         was used according to the characteristics of the included studies. Subgroup analyses
+         were also performed.
+      
+      Publication bias was studied too by a regression of diagnostic log odds ratio against
+         1/sqn’t. A non-zero slope coefficient suggestive of significant small study bias (p
+         value &lt; 0.10) [31].
+      
+   
+

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Although insomnia is common in patients with low back pain (LBP), it is unknown whether commonly used self-report sleep measures are sufficiently accurate to screen for insomnia in the LBP population. This study investigated the discriminatory properties of the Pittsburgh Sleep Quality Index (Pittsburgh questionnaire), Insomnia Severity Index (Insomnia index), Epworth Sleepiness Scale (Epworth scale) and the sleep item of the Roland and Morris Disability Questionnaire (Roland item) to detect insomnia in patients with LBP by comparing their accuracy to detect insomnia to a sleep diary. The study also aimed to determine the clinical optimal cut-off scores of the questionnaires to detect insomnia in the LBP population.
+
+				
+				
+					
+						Methods
+
+					Seventy nine patients with LBP completed the four self-reported questionnaires and a sleep diary for 7 consecutive nights. The accuracy of the questionnaires was evaluated using Receiver Operator Characteristic (ROC) curves with the Area Under the Curve (AUC) used to examine each test’s accuracy to discriminate participants with insomnia from those without insomnia.
+
+				
+				
+					
+						Results
+
+					The Pittsburgh questionnaire and Insomnia index had moderate accuracy to detect insomnia (AUC = 0.79, 95% CI = 0.68 to 0.87 and AUC = 0.78, 95% CI = 0.67 to 0.86 respectively), whereas the Epworth scale and the Roland item were not found to be accurate discriminators (AUC = 0.53, 95% CI = 0. 41 to 0.64 and AUC = 0.64, 95% CI = 0.53 to 0.75 respectively). The cut-off score of > 6 for the Pittsburgh questionnaire and the cut-off point of > 14 for the Insomnia index provided optimal sensitivity and specificity for the detection of insomnia.
+
+				
+				
+					
+						Conclusions
+
+					The Pittsburgh questionnaire and Insomnia index had similar ability to screen for insomnia in patients with low back pain.
+
+				
+			
+		

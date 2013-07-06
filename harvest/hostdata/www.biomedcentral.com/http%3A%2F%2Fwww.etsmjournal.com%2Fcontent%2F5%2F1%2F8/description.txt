@@ -1,0 +1,32 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Human cerebral small vessel disease (CSVD) has distinct histopathologic and imaging findings in its advanced stages. In spontaneously hypertensive stroke-prone rats (SHRSP), a well-established animal model of CSVD, we recently demonstrated that cerebral microangiopathy is initiated by early microvascular dysfunction leading to the breakdown of the blood–brain barrier and an activated coagulatory state resulting in capillary and arteriolar erythrocyte accumulations (stases). In the present study, we investigated whether initial microvascular dysfunction and other stages of the pathologic CSVD cascade can be detected by serial magnetic resonance imaging (MRI).
+
+				
+				
+					
+						Findings
+
+					
+					Fourteen SHRSP and three control (Wistar) rats (aged 26–44 weeks) were investigated biweekly by 3.0 Tesla (3 T) MRI. After perfusion, brains were stained with hematoxylin–eosin and histology was correlated with MRI data. Three SHRSP developed terminal CSVD stages including cortical, hippocampal, and striatal infarcts and macrohemorrhages, which could be detected consistently by MRI. Corresponding histology showed small vessel thromboses and increased numbers of small perivascular bleeds in the infarcted areas. However, 3 T MRI failed to visualize intravascular erythrocyte accumulations, even in those brain regions with the highest densities of affected vessels and the largest vessels affected by stases, as well as failing to detect small perivascular bleeds.
+
+				
+				
+					
+						Conclusion
+
+					
+					Serial MRI at a field strength of 3 T failed to detect the initial microvascular dysfunction and subsequent small perivascular bleeds in SHRSP; only terminal stages of cerebral microangiopathy were reliably detected. Further investigations at higher magnetic field strengths (7 T) using blood- and flow-sensitive sequences are currently underway.
+
+				
+			
+		

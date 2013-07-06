@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Formaldehyde can induce misfolding and aggregation of Tau protein and β amyloid protein, which are characteristic pathological features of Alzheimer’s disease (AD). An increase in endogenous formaldehyde concentration in the brain is closely related to dementia in aging people. Therefore, the discovery of effective drugs to counteract the adverse impact of formaldehyde on neuronal cells is beneficial for the development of appropriate treatments for age-associated cognitive decline.
+
+				
+				
+					
+						Methods
+
+					
+					In this study, we assessed the neuroprotective properties of TongLuoJiuNao (TLJN), a traditional Chinese medicine preparation, against formaldehyde stress in human neuroblastoma cells (SH-SY5Y cell line). The effect of TLJN and its main ingredients (geniposide and ginsenoside Rg1) on cell viability, apoptosis, intracellular antioxidant activity and the expression of apoptotic-related genes in the presence of formaldehyde were monitored.
+
+				
+				
+					
+						Results
+
+					
+					Cell counting studies showed that in the presence of TLJN, the viability of formaldehyde-treated SH-SY5Y cells significantly recovered. Laser scanning confocal microscopy revealed that the morphology of formaldehyde-injured cells was rescued by TLJN and geniposide, an effective ingredient of TLJN. Moreover, the inhibitory effect of geniposide on formaldehyde-induced apoptosis was dose-dependent. The activity of intracellular antioxidants (superoxide dismutase and glutathione peroxidase) increased, as did mRNA and protein levels of the antiapoptotic gene  Bcl-2  after the addition of geniposide. In contrast, the expression of the apoptotic-related gene -  P53 , apoptotic executer -  caspase 3  and apoptotic initiator -  caspase 9  were downregulated after geniposide treatment.
+
+				
+				
+					
+						Conclusions
+
+					
+					Our results indicate that geniposide can protect SH-SY5Y cells against formaldehyde stress through modulating the expression of  Bcl-2 ,  P53 ,  caspase 3  and  caspase 9,  and by increasing the activity of intracellular superoxide dismutase and glutathione peroxidase.
+
+				
+			
+		

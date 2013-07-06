@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Identification of the subset females with Turner syndrome who face especially high risk of aortic dissection is difficult, and more optimal risk assessment is pivotal in order to improve outcomes. This study aimed to provide comprehensive, dynamic mathematical models of aortic disease in Turner syndrome by use of cardiovascular magnetic resonance (CMR).
+
+				
+				
+					
+						Methods
+
+					A prospective framework of long-term aortic follow-up was used, which comprised diameters of the thoracic aorta prospectively assessed at nine positions by CMR at the three points in time (baseline [n = 102, age 38 ± 11 years], follow-up [after 2.4 ± 0.4 years, n = 80] and end-of-study [after 4.8 ± 0.5 years, n = 78]). Mathematical models were created that cohesively integrated all measurements at all positions, from all visits and for all participants, and using these models cohesive risk factor analyses were conducted based on which predictive modeling was performed on which predictive modelling was performed.
+
+				
+				
+					
+						Results
+
+					The cohesive models showed that the variables with effect on aortic diameter were aortic coarctation (P < 0.0001), bicuspid aortic valves (P < 0.0001), age (P < 0.0001), diastolic blood pressure (P = 0.0008), body surface area (P = 0.015) and antihypertensive treatment (P = 0.005). Oestrogen replacement therapy had an effect of borderline significance (P = 0.08). From these data, mathematical models were created that enabled preemption of aortic dilation from CMR derived aortic diameters in scenarios both with and without known risk factors. The fit of the models to the actual data was good.
+
+				
+				
+					
+						Conclusion
+
+					The presented cohesive model for prediction of aortic diameter in Turner syndrome could help identifying females with rapid growth of aortic diameter, and may enhance clinical decision-making based on serial CMR.
+
+				
+			
+		

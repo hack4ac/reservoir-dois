@@ -1,0 +1,4 @@
+Abstract
+We prove the existence of the PPF dependent common fixed point theorems and the PPF dependent coincidence points for a pair of mappings satisfying some contractive conditions in Banach spaces where the domains and ranges of the mappings are not the same. Our results extend and generalize the results in the literature.
+MSC: 
+54H25, 55M20.

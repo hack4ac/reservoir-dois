@@ -1,0 +1,17 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						
+
+					With the continuous growth of data generated in various scientific and commercial endeavors and the rising need for interdisciplinary studies and applications in e-Science easy exchange of information and computation resources capable of processing large amounts of data to allow ad-hoc co-operation becomes ever more important. Unfortunately different communities often use incompatible resource management systems. In this work we try to alleviate the difficulties occurring on bridging the gap between different research eco-systems by federating resources and thus unifying resource access.
+To this end, our solution presented in this paper outlines a secure, simple, yet highly interoperable and flexible architecture using RESTful Web services and WebDAV. While, first and foremost in the Grid computing domain, there are already standards and solutions in place addressing related problems, our solution differs from those approaches by allowing to federate data storage systems that are not aware of being federated. Access to these is enabled by our federation layer using storage system specific connectors. Hence, our federation approach is intended as an abstraction layer on top of existing storage or middleware solutions, allowing for a more uniform access mechanism.
+Additionally, our solution also allows for submission and management of computational jobs on said data, thereby federating not only data but also computational resources. Once resource access is unified, information from different data formats can be semantically unified by information extraction methods. It is our belief that the work in this paper can complement existing Grid computing efforts by facilitating access to data storage system not inherently available via commonly used Grid computing standards.
+
+				
+			
+		

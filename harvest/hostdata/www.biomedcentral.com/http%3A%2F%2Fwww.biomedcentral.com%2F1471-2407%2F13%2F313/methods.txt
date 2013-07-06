@@ -1,0 +1,146 @@
+Methods
+   
+      Study samples
+      GCTs from pediatric and adolescent patients (ages 0–21&nbsp;years) were obtained from the
+         Cooperative Human Tissue Network (Columbus, OH) and from Children’s Medical Center
+         Dallas (CMC). Tumors were resected at initial diagnosis and snap frozen at -70°C.
+         Pathology reports were also provided. Data were available for tumor histology, tumor
+         location (gonadal or extragonadal), sex, and age at diagnosis. Normal adjacent tissue
+         was also available for five of the tumors (four ovarian and one testicular) in our
+         case series. Diagnosis was verified by a pediatric pathologist prior to molecular
+         analysis and only samples with &gt;70% tumor cellularity of pure histological subtypes
+         were included.
+      
+      This analysis used existing data with no personal identifiers; therefore, the study
+         was deemed exempt from review by the Institutional Review Boards of the University
+         of Minnesota and the University of Texas Southwestern Medical Center and CMC.
+      
+      DNA extraction and bisulfite conversion
+      Genomic DNA was isolated from GCT tissue and paired normal adjacent tissue (when available)
+         using either the TRIzol® extraction method (Invitrogen Life Technologies, California) or a QIAamp DNA Mini
+         Kit (Qiagen Sciences, Maryland) according to the manufacturer’s recommended protocol.
+         DNA yield was quantified using 1&nbsp;μl DNA on a NanoDrop™ spectrophotometer (Thermo Scientific,
+         Maryland). Extracted DNA was stored at -80°C until further analysis.
+      
+      Prior to methylation analysis, 1&nbsp;μg genomic DNA was treated with sodium bisulfite
+         to convert unmethylated cytosines to uracil using the EZ DNA Methylation Kit (Zymo
+         Research, Orange, CA) according to manufacturer’s protocol.
+      
+      GoldenGate cancer methylation panel
+      DNA methylation at 1505 CpG loci in 807 cancer-related genes was evaluated using the
+         GoldenGate Cancer Methylation Panel I (Illumina, Inc.) in the Biomedical Genomics
+         Center at the University of Minnesota following the manufacturer’s protocol as described
+         [18]. Replicates were included, including four duplicates that were included on both arrays
+         and five duplicates that were included within one array.
+      
+      Pyrosequencing
+      Array methylation results were validated by Pyrosequencing using a PyroMark MD80 Pyrosequencer
+         (Qiagen) in a subset of the samples (N = 41 samples from CHTN). Five pyrosequencing
+         assays were designed for regions targeting the CpG loci on the array that had significant
+         methylation differences between yolk sac tumor and other histologic subtypes. Briefly,
+         PCR primers and sequencing primers were designed using PSQ Assay Design software (Qiagen,
+         Inc) to capture the array CpG and as many neighboring CpGs as possible. Methylation
+         at imprinted loci was evaluated using assays described in Woodfine et al. [19]. Primers and conditions are available upon request. Global LINE1 methylation was
+         measured by pyrosequencing 4 CpG loci in the LINE1 region as previously described
+         [20]. LINE1 was measured in triplicate for each sample.
+      
+      Commercially available Epitect methylated and unmethylated DNA standards were used
+         as controls (Qiagen). In addition, a sequencing primer control and a no template control
+         were included for each assay. The level of methylation for each CpG within the target
+         region of analysis was quantified using the Pyro Q-CpG Software.
+      
+      Preparation of total RNA
+      Total RNA was prepared from fresh frozen tumor tissue. 30–50&nbsp;mg of tissue was homogenized
+         using Tissue Miser (Fisher Scientific, Pittsburgh, PA) in TRIzol® Reagent (Invitrogen, Carlsbad, CA); approximately 1&nbsp;mL TRIzol® per 50&nbsp;mg of tissue was used. After incubation for 30&nbsp;minutes at room temperature,
+         phase separation was done using chloroform (200&nbsp;μL/1&nbsp;mL Trizol®). Sample was shaken vigorously, centrifuged at 13000&nbsp;rpm at 4°C, and aqueous phase
+         removed. RNA precipitation was done using 70% ethanol. To remove contaminant genomic
+         DNA, on-column DNase digestion was done using RNase-Free DNase Digestion Kit (Qiagen,
+         Valencia, CA). RNA isolation was done per manufacturer’s instructions using RNeasy® Mini Kit (Qiagen, Valencia, CA) and final elution performed in 20 μL H2O. Quantity and purity was assessed using NanoDrop™ 1000 spectrophotometer (Thermo
+         Fisher Scientific, Wilmington, DE). Absorbance ratios at 260/280&nbsp;nm and 260/230&nbsp;nm
+         were used to verify purity. Quality was further assessed by visualization of 28S and
+         18S bands after performing gel electrophoresis (1% agarose in 1X Tris-EDTA-Acetate
+         Buffer).
+      
+      Quantitative RT-PCR
+      cDNAs were synthesized from 1 μg of purified RNA using RT2 First Strand Kit (SABiosciences, Frederick, MD). Real-time quantitative PCR gene
+         expression profiling was performed using a Wnt pathway-specific array (SABiosciences,
+         Frederick, MD). Arrays profiled 84 pathway-specific genes with validated primers and
+         contained internal control primers to assess genomic DNA contamination, RNA quality,
+         and PCR amplification efficacy. RT-qPCR was performed on Applied Biosystems 7500 Real-Time
+         PCR System (Carlsbad, CA) using RT2 SYBR® Green qPCR Master Mix (SABiosciences, Frederick, MD) as a fluorophore for amplicon
+         detection. PCR conditions were as follows: 95°C × 10&nbsp;minutes, 95°C for 15&nbsp;seconds
+         then 60°C for 1&nbsp;minute × 40&nbsp;cycles, followed by a dissociation stage per manufacturer’s
+         protocol. Gene expression was normalized to endogenous HPRT, β-actin (ACTB) and glyceraldehyde-3-phosphate
+         dehydrogenase (GAPDH), as these internal reference genes exhibited the least variation
+         among the five internal reference genes evaluated. Fold change of gene expression
+         was determined using the 2(-ΔΔCt) method, and compared yolk sac tumors (n = 4) to germinomas (n = 3). We performed
+         unsupervised hierarchical cluster analysis using web-based PCR data analysis software
+         (http://www.sabiosciences.com/pcrarraydataanalysis.php webcite). Raw gene expression data and calculations are shown in Additional file 1: Tables S2-S8, . Gene expression among histologic subtypes was compared using a type
+         3 t-test (Additional file 1: Table S7).
+      
+      Additional file 1: Table S1. Comparison of Methylation and gene expression. Table S2. Wnt pathway gene list. Table S3. Average Ct. Table S4. Average Delta(Ct). Table S5. 2^(-Avg.(Delta(Ct)). Table S6. Fold Change. Table S7. p-value. Table S8. Fold-Regulation. Table S9. Expression of SOX2 and DNMT3B by tumor histology.
+         	Format: XLS 
+         	Size: 130KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Excel Viewer
+      Real time quantitative RT-PCR for SOX2 and DNMT3B (N = 34 samples) was measured using
+         a human embryonic stem cell PCR array (SA Biosciences). Fold change of gene expression
+         was determined using the 2(-ΔΔCt) method, and differences by tumor histology were measured using generalized linear
+         models.
+      
+      Statistical analysis
+      To understand differences in methylation patterns by tumor histology, we evaluated
+         the three main histologic subtypes as determined by pathology review (YSTs, dysgerminomas,
+         and teratomas) using the analytic techniques described below.
+      
+      GoldenGate methylation data
+      Using the GoldenGate array, the methylation status of a CpG site is calculated as
+         the variable β, which is the ratio of the fluorescent signal from the methylated allele
+         to the sum of the fluorescent signals of both methylated and unmethylated alleles
+         [18]. These values range from 0 (unmethylated) to 1 (fully methylated). GenomeStudio software
+         (Illumina, Inc) was used to calculate the average methylation values (β) from the
+         ~30 replicate methylation measurements for each CpG locus. We used raw average β values
+         without normalization. GenomeStudio software was also used to assess data quality
+         for each CpG loci. We omitted all CpG loci where ≥ 25% of the samples had a detection
+         p-value &gt; 0.05 (N = 16, 1%). X-linked CpG loci (N = 84) were also removed, resulting
+         in 1,405 loci for analysis.
+      
+      The remaining analyses for the array data were conducted in R [21]. Methylation differences were evaluated using unsupervised hierarchical clustering
+         with the Manhattan metric and average linkage as previously described [22]. We used recursively partitioned mixture modeling (RPMM) to test associations between
+         methylation status and tumor (histology and location) and demographic (age at diagnosis
+         and sex) characteristics as described [23] and implemented [22,24]. Briefly, samples are assigned to a methylation class using a model-based form of
+         unsupervised clustering. Permutation-based tests (with 10,000 permutations) were used
+         to test for associations between methylation class and covariates: we used a chi-squared
+         test for categorical covariates (tumor histology, tumor location, and sex), and a
+         Kruskal-Wallis test statistic to test associations between methylation class and age.
+      
+      We then used a series of generalized linear models (GLM) to identify genes that were
+         differentially methylated in YSTs and teratomas as previously described [22]. We accounted for multiple testing by controlling the false-discovery rate (FDR)
+         [25]. Q-values were computed using the q-value package in R.
+      
+      Ingenuity Pathway Analysis (IPA; Ingenuity Systems) was used to identify pathways
+         that were enriched in the list of CpG loci with significantly different methylation
+         in YSTs compared with other histologic subtypes of tumors and in immature teratomas
+         compared with mature teratomas. We implemented an IPA Core analysis with HUGO gene
+         symbol as the identifier. For the analysis of YSTs, we restricted the analysis to
+         CpG loci with up-regulated methylation (effect size &gt; 1.0). For the comparison of
+         mature and immature teratomas, we restricted the analysis to CpG loci with down-regulated
+         methylation in immature teratomas. Both analyses included only CpG loci that were
+         significant after controlling for multiple comparisons (q-value &lt; 0.05)
+      
+      Pyrosequencing data
+      Analysis of pyrosequencing data was conducted using SAS v. 9.2 (SAS Institute, Cary,
+         NC). For the array validation assays, Pearson correlation coefficients and p-values
+         are reported for correlation between Pyrosequencing and GoldenGate data.
+      
+      For the imprinted loci, we would expect methylation to be ~50%. We categorized samples
+         into three groups: 1) &lt;33% methylation (hypomethylated), 2) 33-66% methylation (median
+         methylation), and 3) &gt;66% methylation (hypermethylation) as previously described [11,26]. A Fisher’s exact test was used to evaluate statistical significance of any differences
+         in methylation by tumor histology and location.
+      
+      Global LINE1 measure was evaluated by calculating the mean methylation level across
+         the 4 LINE1 CpG loci. The mean was then averaged across the three replicates for each
+         sample. Differences in LINE1 methylation across tumor histology (YST, germinoma, mature
+         teratoma, immature teratoma, normal adjacent), tumor location, sex and age group were
+         evaluated using a GLM with LINE1 methylation as the outcome variable.
+      
+   
+

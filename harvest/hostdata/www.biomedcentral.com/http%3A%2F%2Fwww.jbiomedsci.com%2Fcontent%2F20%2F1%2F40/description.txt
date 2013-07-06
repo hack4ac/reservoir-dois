@@ -1,0 +1,9 @@
+
+			
+				
+					Abstract
+
+				Infection with dengue virus (DENV) causes both mild dengue fever and severe dengue diseases, such as dengue hemorrhagic fever and dengue shock syndrome. The pathogenic mechanisms for DENV are complicated, involving viral cytotoxicity, immunopathogenesis, autoimmunity, and underlying host diseases. Viral load correlates with disease severity, while the antibody-dependent enhancement of infection largely determines the secondary effects of DENV infection. Epidemiological and experimental studies have revealed an association between the plasma levels of interleukin (IL)-10, which is the master anti-inflammatory cytokine, and disease severity in patients with DENV infection. Based on current knowledge of IL-10-mediated immune regulation during infection, researchers speculate an emerging role for IL-10 in clinical disease prognosis and dengue pathogenesis. However, the regulation of dengue pathogenesis has not been fully elucidated. This review article discusses the regulation and implications of IL-10 in DENV infection. For future strategies against DENV infection, manipulating IL-10 may be an effective antiviral treatment in addition to the development of a safe dengue vaccine.
+
+			
+		

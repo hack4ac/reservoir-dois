@@ -1,0 +1,30 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Legionella  is a water and soil bacterium that can infect humans, causing a pneumonia known as Legionnaires’ disease. The pneumonia is almost exclusively caused by the species  L .  pneumophila , of which serogroup 1 is responsible for 90% of patients. Within serogroup 1, large differences in prevalence in clinical isolates have been described. A recent study, using a Dutch  Legionella  strain collection, identified five virulence associated markers. In our study, we verify whether these five Dutch markers can predict the patient or environmental origin of a French  Legionella  strain collection. In addition, we identify new potential virulence markers and verify whether these can predict better. A total of 219 French patient isolates and environmental strains were compared using a mixed-genome micro-array. The micro-array data were analysed to identify predictive markers, using a Random Forest algorithm combined with a logistic regression model. The sequences of the identified markers were compared with eleven known  Legionella  genomes, using BlastN and BlastX; the functionality for each of the predictive markers was checked in the literature.
+
+				
+				
+					
+						Results
+
+					The five Dutch markers insufficiently predicted the patient or environmental origin of the French  Legionella  strains. Subsequent analyses identified four predictive markers for the French collection that were used for the logistic regression model. This model showed a negative predictive value of 91%. Three of the French markers differed from the Dutch markers, one showed considerable overlap and was found in one of the  Legionella  genomes (Lorraine strain). This marker encodes for a structural toxin protein RtxA, described for  L .  pneumophila  as a factor involved in virulence and entry in both human cells and amoebae.
+
+				
+				
+					
+						Conclusions
+
+					The combination of a mixed-genome micro-array and statistical analysis using a Random Forest algorithm has identified virulence markers in a consistent way. The Lorraine strain and related Dutch and French  Legionella  strains contain a marker that encodes a RtxA protein which probably is involved in the increased prevalence in clinical isolates. The current set of predictive markers is insufficient to justify its use as a reliable test in the public health field in France. Our results suggest that genetic differences in  Legionella  strains exist between geographically distinct entities. It may be necessary to develop region-specific mixed-genome microarrays that are constantly adapted and updated.
+
+				
+			
+		

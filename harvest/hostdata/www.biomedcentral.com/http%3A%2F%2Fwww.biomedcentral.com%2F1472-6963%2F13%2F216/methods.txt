@@ -1,0 +1,66 @@
+Methods
+   
+      Data
+      We were supplied with a dataset by the NHS Information Centre for the purpose of statistical
+         modelling of the new SHMI indicator, including the impact of case-mix adjustment variables
+         and the variability of the measure over time. The dataset comprised of all admissions
+         to English hospitals from the Hospital Episode Statistics (HES) data warehouse for
+         spells which ended between 01/04/2005 and 30/09/2010. Date of death data supplied
+         by the Office for National Statistics (ONS) was linked to the hospital episode data
+         set and deaths within 30&nbsp;days of discharge were identified. All patient data provided
+         was anonymised prior to receipt by the authors.
+      
+      We followed the previously described methodology for processing the linked hospital
+         episode data before calculating the SHMI [11,12]. Briefly, this involved excluding maternity admissions, day case admissions, and
+         admissions to private and community hospitals. We also excluded admissions to 72 Specialist
+         trusts. There was no formal definition of General/Specialist status and we took the
+         definition of general trusts from lists reported by other mortality indicator providers.
+      
+      Categories were created for all variables. Age was split into 5&nbsp;year age bands except
+         for infants aged 0–1 and preschool children aged 1–4. A comorbidity score was derived
+         by converting secondary diagnosis codes into the 19 clinical conditions identified
+         in the Charlson comorbidity index [13], with contemporary weights for the presence of individual conditions contribution
+         to the overall score [14]. The Index of Multiple Deprivation rank (an area level deprivation measure derived
+         from the patient’s postcode) was reported by HES and grouped by fifths. Type of admission
+         was grouped into emergency and elective.
+      
+      The reason for admission was identified from the ICD10 code in the first diagnosis
+         field, and collapsed into the diagnostic groups given by the Agency for Healthcare
+         Research and Quality [15]. Diagnosis groups were then combined into the 138 groups used in the calculation
+         of the SHMI [12]. It has previously been reported that the mean c statistic over all diagnosis groups
+         in the SHMI model was 0.830 (range 0.534 – 0.970) and that the coefficient of determination
+         R2 showed the SHMI model accounted for 81% over the total variability [12].
+      
+      Statistical methods
+      We estimated the probability of death in hospital or within 30&nbsp;days of discharge for
+         all completed admissions for the period 01/04/2005 to 30/09/2010 by fitting logistic
+         regression models using the SHMI covariates (age, sex, method of admission and comorbidity)
+         within diagnosis group. We accounted for the effect of seasonal variation in hospital
+         admissions by including an extra categorical variable for month of admission in each
+         of the logistic regression models. We then summed these probabilities predicted by
+         the model over all diagnosis groups and for each trust for each consecutive 3&nbsp;month
+         period to obtain the expected number of deaths per trust for each quarter. The ratio
+         of the observed number in each quarter to the expected is equivalent to indirect standardisation
+         [16]. Fitting one model to the data from all five years combined means that we can make
+         valid comparisons over time. This is because we calculate one set of case-mix weights
+         for all time periods instead of the weights changing over time (which would be the
+         case if separate models were fitted for each year or quarter).
+      
+      We plotted the quarterly values of the SHMI, expected number of deaths and observed
+         number deaths in all hospitals against time for the five year period. Coding levels
+         of the comorbidity variable have changed over this time period so we examined the
+         effect of removing comorbidity from the model so that we could be sure any trends
+         identified were not a result of these changes. Further analyses examined the quarterly
+         changes in SHMI in subgroups of age, sex, admission method, index of deprivation and
+         comorbidity. As the SHMI model adjusts for age, sex, admission method and comorbidity
+         we would not expect to see differences in the overall SHMI between the subgroups.
+         However, trend is not adjusted for in the SHMI model so we can investigate any differences
+         between subgroups in terms of their time trend.
+      
+      We estimated the linear trend in individual hospital SHMIs by ordinary least squares
+         regression of the 22 quarterly SHMIs on time. The regression coefficients were plotted
+         on a funnel plot with control lines calculated in a conventional manner [17,18], Winsorising the 20% most extreme values to examine whether there were any extremes
+         in the rate of change.
+      
+   
+

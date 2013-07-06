@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Cilia are found on nearly every cell type in the mammalian body, and have been historically classified as either motile or immotile. Motile cilia are important for fluid and cellular movement; however, the roles of non-motile or primary cilia in most tissues remain unknown. Several genetic syndromes, called the ciliopathies, are associated with defects in cilia structure or function and have a wide range of clinical presentations. Much of what we know about the formation and maintenance of cilia comes from model systems like  C. elegans  and  Chalmydomonas . Studies of mammalian cilia in live tissues have been hampered by difficulty visualizing them.
+
+				
+				
+					
+						Results
+
+					To facilitate analyses of mammalian cilia function we generated an inducible Cilia GFP  mouse by targeting mouse cDNA encoding a cilia-localized protein somatostatin receptor 3 fused to GFP (Sstr3::GFP) into the ROSA26 locus. In this system, Sstr3::GFP is expressed from the ubiquitous ROSA26 promoter after Cre mediated deletion of an upstream Neo cassette flanked by lox P sites. Fluorescent cilia labeling was observed in a variety of live tissues and after fixation. Both cell-type specific and temporally regulated cilia labeling were obtained using multiple Cre lines. The analysis of renal cilia in anesthetized live mice demonstrates that cilia commonly lay nearly parallel to the apical surface of the tubule. In contrast, in more deeply anesthetized mice the cilia display a synchronized, repetitive oscillation that ceases upon death, suggesting a relationship to heart beat, blood pressure or glomerular filtration.
+
+				
+				
+					
+						Conclusions
+
+					The ability to visualize cilia in live samples within the Cilia GFP  mouse will greatly aid studies of ciliary function. This mouse will be useful for  in vivo  genetic and pharmacological screens to assess pathways regulating cilia motility, signaling, assembly, trafficking, resorption and length control and to study cilia regulated physiology in relation to ciliopathy phenotypes.
+
+				
+			
+		

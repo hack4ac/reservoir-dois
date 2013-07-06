@@ -1,0 +1,40 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+					Folate-nanoliposomes delivery system has emerged recently as a specific and safety delivery method and gradually used as the carrier of a variety kinds of drugs including compounds, plasmids and siRNAs.
+
+				
+				
+					
+						Methods
+
+					
+					In this study, we established a bone marrow and bone metastasis xenograft mouse model by injecting the LA-N-5 cell into the bone marrow cavity. Fluorescence microscopy, TUNEL Assay, Quantitative RT-PCR and western blot were conducted to analysis the distribution of folate-nanoliposomes entrapped MYCN (V-myc myelocytomatosis viral related oncogene) siRNA in mice and the relevant suppression effect.
+
+				
+				
+					
+						Results
+
+					
+					The folate-nanoliposomes entrapped MYCN siRNA can be specifically distributed in tumor tissues. Further study shows that folate-nanoliposomes entrapped MYCN siRNA lead to MYCN mRNA expression significantly down-regulated (>50%, and p < 0.05) compared with negative control siRNA treatment. MYCN protein expression was inhibited about 60% in vivo, thus induced tumor cell apoptosis markedly.
+
+				
+				
+					
+						Conclusion
+
+					
+					This study point to a new way for treatment of metastatic neuroblastoma and could widen the application of folate-nanoliposomes delivery system in tumor therapy.
+
+				
+			
+		

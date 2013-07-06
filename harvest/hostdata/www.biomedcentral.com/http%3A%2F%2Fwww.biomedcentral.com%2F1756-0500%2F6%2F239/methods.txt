@@ -1,0 +1,46 @@
+Methods
+   
+      Animals and treatment
+      This study utilized thirty-two young adult (3&nbsp;months) female Wistar rats, which were
+         obtained from the Laboratory Animal Resource Unit, Faculty of Medicine, Universiti
+         Kebangsaan Malaysia. The rats, weighing 190&nbsp;g-260&nbsp;g, were randomly assigned to four
+         groups with eight rats in each group. Group 1 was sham operated (Sham) while the second
+         group was ovariectomized control group (OVX). The third and fourth groups were ovariectomized
+         and treated with calcium 1% (Ca) ad libitum and force-fed with 500&nbsp;mg/kg C. caudatus extract (CC) respectively. The ovariectomy and sham operation protocol was carried
+         out as previously described [18]. Rats were left recuperating for 1&nbsp;week before commencing the treatment. Treatment
+         was given six days a week for eight weeks. All rats were injected with two doses of
+         calcein nine days and two days before sacrificed. The study was approved by the Universiti
+         Kebangsaan Malaysia Animal Ethics Committee with the approval code of PP/FAR/2008/NORAZLINA/12-AUGUST/225-SEPT-2008-AUG-2009.
+      
+      Diet, Cosmos caudatus and calcium 1%
+      
+      All rats received normal rat chow obtained from Gold Coin, Malaysia. Water extraction
+         method was used to obtain 500&nbsp;g/300&nbsp;ml concentration of C. caudatus aqueous extract. Extraction was carried out by School of Chemical Sciences &amp; Food
+         Technology, Faculty of Science and Technology, Universiti Kebangsaan Malaysia as previously
+         described [19]. The 500&nbsp;mg/kg dose was prepared by mixing C. caudatus with deionized water in ratio 3:7. Calcium 1% solution was prepared by mixing 1&nbsp;g
+         of hemicalcium lactic acid (Sigma Chemical CO., USA) with 100&nbsp;ml deionized water.
+      
+      Bone histomorphometry
+      After 8&nbsp;weeks of treatment, rats were sacrificed via euthanasia with diethyl ether.
+         The left femora were removed and the distal parts were fixed in 70% ethanol. Cellular
+         parameters measured were osteoid volume (OV/BS, osteoid volume over bone surface),
+         osteoid surface (OS/BS, osteoid surface over bone surface), osteoclast surface (Oc.S/BS,
+         osteoclast surface over bone surface), osteoblast surface (Ob.S/BS, osteoblast surface
+         over bone surface) and eroded surface (ES/BS, eroded surface over bone surface). Bone
+         samples were decalcified according to the method described by Hermizi et al. [20]. In addition, undecalcified bone samples were used to measure dynamic parameters
+         i.e. single labeled surface (sLS/BS, single labeled surface over bone surface), double-labeled
+         surface (dLS/BS, double-labeled surface over bone surface), mineralized surface (MS/BS,
+         mineralized surface over bone surface), mineral appositional rate (MAR), and bone
+         formation rate (BFR/BS, bone formation rate over bone surface). Preparation of bone
+         samples and measurement techniques were carried out as previously described [20].
+      
+      Statistical analysis
+      All data were subjected to normality test using the Kolmogorov test. For normally
+         distributed data, the statistical test used was analysis of variance, followed by
+         Tukey’s honestly significance difference test. While non-normally distributed data
+         were analysed using Mann–Whitney and Kruskal Wallis tests. Data analysis was performed
+         using Statistical Package for Social Sciences (18.0.1; SPSS, Inc., Chicago, IL) software.
+         Results were expressed as mean ± standard error of the mean (SEM).
+      
+   
+

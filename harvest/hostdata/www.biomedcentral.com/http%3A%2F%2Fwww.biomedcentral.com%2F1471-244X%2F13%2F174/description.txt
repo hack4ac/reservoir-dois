@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The relationship between TB/HIV co-infection and common mental disorders (CMD) is not well investigated. A follow up study was conducted to assess the change in CMD over a 6-months period and its predictors among TB/HIV co-infected and HIV patients without TB in Ethiopia.
+
+				
+				
+					
+						Methods
+
+					A longitudinal study was conducted in 2009. A total of 465 HIV/AIDS patients without TB and 124 TB/HIV co-infected patients from four antiretroviral treatment (ART) centers in Ethiopia were recruited to assess CMD and quality of life (QoL). CMD and QoL were assessed at baseline and at six month using the Kessler-10 scale and the short Amharic version of the World Health Organization Quality of Life Instrument for HIV clients (WHOQOL HIV-Bref) respectively. Multivariate analysis was conducted using generalized estimating equations (GEE) using STATA to assess change in CMD and its predictors.
+
+				
+				
+					
+						Results
+
+					At the 6 month, 540 (97 TB/HIV co-infected and 455 HIV/AIDS patients without TB) patients completed the follow up and 8.6% (21% among TB/HIV co-infected and 2.2% among HIV patients without TB) lost to follow-up.
+At baseline, 54.4% of TB/HIV co-infected patients had mild to severe mental disorder compared to 41.2% among HIV patients without TB. At the six month follow up, 18.1% of TB/HIV co-infected patients had mild to severe mental disorder compared to 21.8% among HIV patients without TB. The decline of the prevalence of any form of metal disorder was 36.3% among TB/HIV co-infected patients compared to 19.4% among HIV patients without TB (P<0.001).
+QoL was strongly associated with CMD in TB/HIV co-infected patients and HIV patients without TB (β = −0.04, P<0.001) after controlling the effect of several confounding variables such as sex, income, WHO disease stage, duration on ART, CD4 lymphocyte count, adherence to ART and social support.
+
+				
+				
+					
+						Conclusion
+
+					The prevalence of CMD has significantly reduced particularly among TB/HIV co-infected patients over a 6 months period. Poor QoL is the major independent predictors of CMD. We recommend integration of mental health services in TB/HIV programs. Training of health care providers at TB/HIV clinics could help to screen and treat CMD among TB/HIV co-infected patients.
+
+				
+			
+		

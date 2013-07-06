@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Accurate QTL mapping is a prerequisite in the search for causative mutations. Bayesian genomic selection models that analyse many markers simultaneously should provide more accurate QTL detection results than single-marker models. Our objectives were to (a) evaluate by simulation the influence of heritability, number of QTL and number of records on the accuracy of QTL mapping with Bayes Cπ and Bayes C; (b) estimate the QTL status (homozygous vs. heterozygous) of the individuals analysed. This study focussed on the ten largest detected QTL, assuming they are candidates for further characterization.
+
+				
+				
+					
+						Methods
+
+					Our simulations were based on a true dairy cattle population genotyped for 38 277 phased markers. Some of these markers were considered biallelic QTL and used to generate corresponding phenotypes. Different numbers of records (4387 and 1500), heritability values (0.1, 0.4 and 0.7) and numbers of QTL (10, 100 and 1000) were studied. QTL detection was based on the posterior inclusion probability for individual markers, or on the sum of the posterior inclusion probabilities for consecutive markers, estimated using Bayes C or Bayes Cπ. The QTL status of the individuals was derived from the contrast between the sums of the SNP allelic effects of their chromosomal segments.
+
+				
+				
+					
+						Results
+
+					The proportion of markers with null effect (π) frequently did not reach convergence, leading to poor results for Bayes Cπ in QTL detection. Fixing π led to better results. Detection of the largest QTL was most accurate for medium to high heritability, for low to moderate numbers of QTL, and with a large number of records. The QTL status was accurately inferred when the distribution of the contrast between chromosomal segment effects was bimodal.
+
+				
+				
+					
+						Conclusions
+
+					QTL detection is feasible with Bayes C. For QTL detection, it is recommended to use a large dataset and to focus on highly heritable traits and on the largest QTL. QTL statuses were inferred based on the distribution of the contrast between chromosomal segment effects.
+
+				
+			
+		

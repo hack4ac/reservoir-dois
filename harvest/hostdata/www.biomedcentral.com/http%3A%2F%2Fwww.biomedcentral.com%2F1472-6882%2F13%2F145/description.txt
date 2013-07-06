@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Rhaphidophora korthalsii  (Araceae) is a root-climber plant which has been widely used in Chinese traditional medicine for cancer and skin disease treatment. Previous reports have recorded its immunomodulatory effects on mice splenocyte and human peripheral blood. This study investigated the potential immunostimulatory effect of  Rhaphidophora korthalsii  on human PBMC enriched NK cell.
+
+				
+				
+					
+						Methods
+
+					PBMC was exposed to various concentrations of  R. korthalsii  extract and the T and NK cell population in the control and extract treated PBMC were identified by immunophenotyping. Intracellular perforin and granzyme B expressions were detected by flow cytometry and extra-cellular Granzyme B, IFN-γ and TNF-α production in the isolated NK cells were determined by ELISA. The cytotoxicity of effector NK cell towards target K562 cell was assessed by CytoTox 96 assay.
+
+				
+				
+					
+						Results
+
+					
+						 Rhaphidophora korthalsii  methanol extract significantly increased PBMC NK cell population and intracellular perforin and granzyme B expressions. Moreover, the extract also enhanced the secretion of IFN-γ and TNF-α which subsequently enhanced the cytotoxicity of NK cell against the NK sensitive target K562 cell line. NK cell enriched with extract treated PBMC showed better activation than NK cell directly treated with the extract.
+
+				
+				
+					
+						Conclusion
+
+					Our findings indicated a potential IL-2 free immunotherapy through direct and indirect  R. korthalsii  stimulation on NK cell activation.
+
+				
+			
+		

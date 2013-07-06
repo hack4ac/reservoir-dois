@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Fetal asphyctic (FA) preconditioning is effective in attenuating brain damage incurred by a subsequent perinatal asphyctic insult. Unraveling mechanisms of this endogenous neuroprotection, activated by FA preconditioning, is an important step towards new clinical strategies for asphyctic neonates. Genomic reprogramming is thought to be, at least in part, responsible for the protective effect of preconditioning. Therefore we investigated whole genome differential gene expression in the preconditioned rat brain. FA preconditioning was induced on embryonic day 17 by reversibly clamping uterine circulation. Male control and FA offspring were sacrificed 96 h after FA preconditioning. Whole genome transcription was investigated with Affymetrix Gene1.0ST chip.
+
+				
+				
+					
+						Results
+
+					Data were analyzed with the Bioconductor Limma package, which showed 53 down-regulated and 35 up-regulated transcripts in the FA-group. We validated these findings with RT-qPCR for  adh1 ,  edn1 ,  leptin ,  rdh2 , and  smad6 . Moreover, we investigated differences in gene expression across different brain regions. In addition, we performed Gene Set Enrichment Analysis (GSEA) which revealed 19 significantly down-regulated gene sets, mainly involved in neurotransmission and ion transport. 10 Gene sets were significantly up-regulated, these are mainly involved in nucleosomal structure and transcription, including genes such as  mecp2 .
+
+				
+				
+					
+						Conclusions
+
+					Here we identify for the first time differential gene expression after asphyctic preconditioning in fetal brain tissue, with the majority of differentially expressed transcripts being down-regulated. The observed down-regulation of cellular processes such as neurotransmission and ion transport could represent a restriction in energy turnover which could prevent energy failure and subsequent neuronal damage in an asphyctic event. Up-regulated transcripts seem to exert their function mainly within the cell nucleus, and subsequent Gene Set Enrichment Analysis suggests that epigenetic mechanisms play an important role in preconditioning induced neuroprotection.
+
+				
+			
+		

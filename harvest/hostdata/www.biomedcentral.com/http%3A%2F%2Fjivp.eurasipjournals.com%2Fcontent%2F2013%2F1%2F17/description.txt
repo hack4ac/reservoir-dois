@@ -1,0 +1,16 @@
+
+			
+				
+					Abstract
+
+				
+				
+				
+				
+
+				
+					Local binary pattern (LBP) operators have become commonly used texture descriptors in recent years. Several new LBP-based descriptors have been proposed, of which some aim at improving robustness to noise. To do this, the thresholding and encoding schemes used in the descriptors are modified. In this article, the robustness to noise for the eight following LBP-based descriptors are evaluated; improved LBP, median binary patterns (MBP), local ternary patterns (LTP), improved LTP (ILTP), local quinary patterns, robust LBP, and fuzzy LBP (FLBP). To put their performance into perspective they are compared to three well-known reference descriptors; the classic LBP, Gabor filter banks (GF), and standard descriptors derived from gray-level co-occurrence matrices. In addition, a roughly five times faster implementation of the FLBP descriptor is presented, and a new descriptor which we call shift LBP is introduced as an even faster approximation to the FLBP. The texture descriptors are compared and evaluated on six texture datasets; Brodatz, KTH-TIPS2b, Kylberg, Mondial Marmi, UIUC, and a Virus texture dataset. After optimizing all parameters for each dataset the descriptors are evaluated under increasing levels of additive Gaussian white noise. The discriminating power of the texture descriptors is assessed using tenfolded cross-validation of a nearest neighbor classifier. The results show that several of the descriptors perform well at low levels of noise while they all suffer, to different degrees, from higher levels of introduced noise. In our tests, ILTP and FLBP show an overall good performance on several datasets. The GF are often very noise robust compared to the LBP-family under moderate to high levels of noise but not necessarily the best descriptor under low levels of added noise. In our tests, MBP is neither a good texture descriptor nor stable to noise.
+
+				
+			
+		

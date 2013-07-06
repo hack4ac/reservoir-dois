@@ -1,0 +1,13 @@
+Abstract
+City-scale mass gatherings attract hundreds of thousands of pedestrians. These pedestrians need to be monitored constantly to detect critical crowd situations at an early stage and to mitigate the risk that situations evolve towards dangerous incidents. Hereby, the crowd density is an important characteristic to assess the criticality of crowd situations.
+In this work, we consider location-aware smartphones for monitoring crowds during mass gatherings as an alternative to established video-based solutions. We follow a participatory sensing approach in which pedestrians share their locations on a voluntary basis. As participation is voluntarily, we can assume that only a fraction of all pedestrians shares location information. This raises a challenge when concluding about the crowd density. We present a methodology to infer the crowd density even if only a limited set of pedestrians share their locations. Our methodology is based on the assumption that the walking speed of pedestrians depends on the crowd density. By modeling this behavior, we can infer a crowd density estimation.
+We evaluate our methodology with a real-world data set collected during the Lord Mayor’s Show 2011 in London. This festival attracts around half a million spectators and we obtained the locations of 828 pedestrians. With this data set, we first verify that the walking speed of pedestrians depends on the crowd density. In particular, we identify a crowd density-dependent upper limit speed with which pedestrians move through urban spaces. We then evaluate the accuracy of our methodology by comparing our crowd density estimates to ground truth information obtained from video cameras used by the authorities. We achieve an average calibration error of  0.36 
+  
+ 
+     m 
+    
+       − 
+       2 
+ 
+ 
+  and confirm the appropriateness of our model. With a discussion of the limitations of our methodology, we identify the area of application and conclude that smartphones are a promising tool for crowd monitoring.

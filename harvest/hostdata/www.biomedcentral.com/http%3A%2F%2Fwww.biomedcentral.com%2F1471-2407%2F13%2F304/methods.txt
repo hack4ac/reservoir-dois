@@ -1,0 +1,54 @@
+Methods
+   
+      Data sources
+      We analysed 38,439 cases diagnosed with first, primary, invasive malignant tumour
+         of the following cancers: stomach (International Classification of Diseases, 10th revision code [13]: C16), colorectal (C18-C20), lung (C33, C34), breast (C50, female only) and prostate
+         (C61) from 1990–2004. They were followed up between 2000 and 2004 in Osaka, Japan,
+         from the Osaka Cancer Registry database. We limited the data to patients who were
+         diagnosed at age 15 to 69 years. Patients over 70 years of age at diagnosis were excluded
+         from the analyses as long-term survival estimates are unstable for older age groups.
+         In the Osaka Cancer Registry, we followed patients up using the death certificate
+         database for residents in Osaka prefecture. However, if patients had moved outside
+         the Osaka Prefecture after diagnosis the death certificate database would be unable
+         to capture their details. In these cases resident registries were used to follow the
+         patients up. Residents in Osaka-city (30% of total population of Osaka prefecture)
+         were not followed-up using residence registries before 1993, so patients who lived
+         in Osaka-city were excluded from the analysis. Cases diagnosed from 1990 to 1999 were
+         followed up for 10 years after diagnosis, whereas follow-up was limited to 5 years
+         for those diagnosed from 2000 to 2004 (Figure&nbsp;1).
+      
+      Figure 1. Illustration of period approach to estimate up-to-date long-term survival.
+      Statistical analysis
+      First, we estimated ten-year relative survival using the Osaka Cancer Registry data
+         by sex, age group (15–49, 50–59 and 60–69 years old) and stage at diagnosis (localised,
+         regional and distant metastasis). Relative survival is a ratio of the observed survival
+         (overall survival) and the survival that would have been expected if the cancer patient
+         had only experienced the normal (background) mortality of the general population in
+         which they live [14]. In this study we estimated relative survival using the maximum likelihood method
+         developed by Esteve et al. [15] and the publicly available Stata programme strel[16]. We derived the expected survival from complete (single-year-of-age) national population
+         life tables by sex [17]. We used conventional 10-year relative survival estimating based on data from patients
+         who were diagnosed from1995-1999 and were followed-up over 10 years (dashed line in
+         Figure&nbsp;1). However, calculation of long-term survival using the conventional method is outdated.
+         We therefore used period analysis to derive more up-to-date long-term survival using
+         data from recently followed-up cancer patients [18]. In this study, we used data from cancer patients who were diagnosed from 1990–2004
+         and followed-up between 2000 and 2004 (solid black line, in Figure&nbsp;1).
+      
+      Second, we calculated conditional five-year survival for patients who survived for
+         0 to 5 years after diagnosis using ten-year cumulative relative survival. To estimate
+         the five-year conditional survival of patients who survived x years, the (x + 5)-year
+         cumulative survival rates is divided by the x-year cumulative survival. In the other
+         words, conditional five-year survival is five-year survival of the patients who are
+         alive several years after diagnosis [2,10].
+      
+      Third, for missing stage cases, we used the multiple imputation approach [19]. We examined the characteristics of patients with missing stage before multiple imputation,
+         then we assumed the mechanism of missingness as Missing At Random. The relative survival
+         of the ten completed data sets contained the imputed value of stage for cases with
+         missing information (6.4-17.1%). The imputation model was a multinomial logistic regression
+         including follow-up time, vital status, period of diagnosis, age at diagnosis, and
+         interactions between follow-up time and other factors. Rubin’s rules were applied
+         to estimate relative survival and standard errors combining the ten completed data
+         sets. All statistical analyses were performed using the standard statistical package
+         Stata Ver. 12.1 [20].
+      
+   
+

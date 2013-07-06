@@ -1,0 +1,29 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Nuclear factor kappa-B (NF-κB) signalling plays an important role in diabetic nephropathy. Altered expression of connexin43 (Cx43) has been found in kidneys of diabetic animals. The aim of the current study was to investigate the role of Cx43 in the activation of NF-κB induced by high glucose in glomerular mesangial cells (GMCs) and to determine whether c-Src is involved in this process.
+
+				
+				
+					
+						Results
+
+					We found that downregulation of Cx43 expression induced by high glucose activated NF-κB in GMCs. Orverexpression of Cx43 attenuated NF-κB p65 nuclear translocation induced by high glucose. High glucose inhibited the interaction between Cx43 and c-Src, and enhanced the interaction between c-Src and IκB-α. PP2, a c-Src inhibitor, also inhibited the tyrosine phosphorylation of IκB-α and NF-κB p65 nuclear translocation induced by high glucose. Furthermore, overexpression of Cx43 or inhibition of c-Src attenuated the upregulation of intercellular adhesion molecule-1 (ICAM-1), transforming growth factor-beta 1 (TGF-β1) and fibronectin (FN) expression induced by high glucose.
+
+				
+				
+					
+						Conclusions
+
+					In conclusion, downregulation of Cx43 in GMCs induced by high glucose activates c-Src, which in turn promotes interaction between c-Src and IκB-α and contributes to NF-κB activation in GMCs, leading to renal inflammation.
+
+				
+			
+		

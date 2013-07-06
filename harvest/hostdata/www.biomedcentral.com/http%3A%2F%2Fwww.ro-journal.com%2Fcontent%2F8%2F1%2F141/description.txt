@@ -1,0 +1,37 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					The lack of sensitive biocompatible particle track detectors has so far limited parallel detection of physical energy deposition and biological response. Fluorescent nuclear track detectors (FNTDs) based on Al 2 O 3 :C,Mg single crystals combined with confocal laser scanning microscopy (CLSM) provide 3D information on ion tracks with a resolution limited by light diffraction. Here we report the development of next generation cell-fluorescent ion track hybrid detectors (Cell-Fit-HD).
+
+				
+				
+					
+						Methods
+
+					The biocompatibility of FNTDs was tested using six different cell lines, i.e. human non-small cell lung carcinoma (A549), glioblastoma (U87), androgen independent prostate cancer (PC3), epidermoid cancer (A431) and murine (VmDk) glioma SMA-560. To evaluate cell adherence, viability and conformal coverage of the crystals different seeding densities and alternative coating with extracellular matrix (fibronectin) was tested. Carbon irradiation was performed in Bragg peak (initial 270.55 MeV  u 
+						 −1 ). A series of cell compartment specific fluorescence stains including nuclear (HOECHST), membrane (Glut-1), cytoplasm (Calcein AM, CM-DiI) were tested on Cell-Fit-HDs and a single CLSM was employed to co-detect the physical (crystal) as well as the biological (cell layer) information.
+
+				
+				
+					
+						Results
+
+					The FNTD provides a biocompatible surface. Among the cells tested, A549 cells formed the most uniform, viable, tightly packed epithelial like monolayer. The ion track information was not compromised in Cell-Fit-HD as compared to the FNTD alone. Neither cell coating and culturing, nor additional staining procedures affected the properties of the FNTD surface to detect ion tracks. Standard immunofluorescence and live staining procedures could be employed to co-register cell biology and ion track information.
+
+				
+				
+					
+						Conclusions
+
+					The Cell-Fit-Hybrid Detector system is a promising platform for a multitude of studies linking biological response to energy deposition at high level of optical microscopy resolution.
+
+				
+			
+		

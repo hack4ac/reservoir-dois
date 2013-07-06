@@ -1,0 +1,33 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					
+						 Botrytis cinerea  CCg378 is a wild-type strain infected with two types of double-stranded RNA (dsRNA) mycoviruses and which presents hypovirulence-associated traits. The objectives of the present study were to characterize the mycoviruses and investigate their relationship with the low virulence degree of the fungal host.
+
+				
+				
+					
+						Results
+
+					
+						 B .  cinerea  CCg378 contains five dsRNA molecules that are associated with two different types of isometric viral particles of 32 and 23 nm in diameter, formed by structural polypeptides of 70-kDa and 48-kDa, respectively.
+The transfection of spheroplasts of a virus-free strain,  B .  cinerea  CKg54, with viral particles purified from the CCg378 strain revealed that the 2.2-kbp dsRNAs have no dependency on the smaller molecules for its stable maintenance in the fungal cytoplasm, because a fungal clone that only contains the 2.2-kbp dsRNAs associated with the 32-nm particles was obtained, which we named  B .  cinerea  CKg54vi378. One of the 2.2 kbpdsRNA segments (2219 bp) was sequenced and corresponds to the gene encoding the capsid protein of  B .  cinerea  CCg378 virus 1 (Bc378V1), a putative new member of the  Partitiviridae  family.
+Furthermore, physiological parameters related to the degree of virulence of the fungus, such as the sporulation rate and laccase activity, were lower in  B .  cinerea  CCg378 and  B .  cinerea  CKg54vi378 than in  B .  cinerea  CKg54. Additionally, bioassays performed on grapevine leaves showed that the CCg378 and CKg54vi378 strains presented a lower degree of invasiveness on the plant tissue than the CKg54 strain.
+
+				
+				
+					
+						Conclusions
+
+					The results show that  B .  cinerea  CCg378 is coinfected by two mycoviruses and that the 2.2-kbp dsRNAs correspond to the 32-nm mycovirus genome, which would be a new member of the  Partitiviridae  family as it has the typical pattern of partitiviruses. On the other hand, the results suggest that the hypovirulence of  B .  cinerea  CCg378 could be conferred by both mycoviruses, since the fungal clone  B .  cinerea  CKg54vi378 presents an intermediate virulence between the CKg54 and CCg378 strains. Therefore, the putative  partitivirus  would be partially contributing to the hypovirulence phenotype of the CCg378 strain.
+
+				
+			
+		

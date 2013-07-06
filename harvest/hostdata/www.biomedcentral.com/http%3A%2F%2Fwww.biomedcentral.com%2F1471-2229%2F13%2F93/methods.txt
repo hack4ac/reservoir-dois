@@ -1,0 +1,83 @@
+Methods
+   
+      The general experimental design, reagents and materials are described in an Additional
+         file [see Additional file 9].
+      
+      Additional file 9. Additional methodology details, including: experimental design, error and replicates,
+            isolation of endophytic fungi, fungal genotyping, terminal restriction fragment length
+            polymorphism (tRFLP), Taxol quantification, callus and suspension culture initiation
+            protocol, RT-PCR, quantitative real-time PCR, and identification of taxadiene synthase
+            (TS) enzyme by Western blot analysis.
+         	Format: DOC 
+         	Size: 111KB Download file or  display content in a new windowThis file can be viewed with: Microsoft Word Viewer
+      Isolation of endophytic fungi and fungal genotyping
+      Previously, a Taxol-producing endophytic fungus was cultured from old branches of
+         Taxus x media plants cultivated on the University of Guelph Main Campus and Arboretum [16] (Guelph, Canada). The fungal ITS sequence matched to Paraconiothyrium spp [see Additional file 2], and the fungus was assigned the name Paraconiothyrium SSM001 [16]. For taxonomic classification and to ensure consistency between experiments, every
+         fungal culture was genotyped by PCR and DNA sequencing of the internal transcribed
+         spacer regions (ITS) of 18S rDNA [40] to confirm both strain identity and purity [see Additional file 9 for details].
+      
+      Terminal restriction fragment length polymorphism (tRFLP)
+      Specific fluorescent labelled fungal 18S primers were used for amplification. The
+         primer sequences were nu-SSU-0817 5`-TTAGCATGGAATAATRRAATAGGA-3’ and nu-SSU-1536 5’-ATTGCAATGCYCTATCCCCA-3’
+         which amplify a 762 bp fragment [41]. TRFLP separation analysis used a capillary electrophoresis ABI prism 310 DNA Sequencer
+         (PE Applied Biosystems, Canada). TRFLP data was analyzed using ABI Prism 310 Collection
+         version 2.0 and Peakscanner Analysis Software (version 1.0) [see Additional file 9 for details].
+      
+      Taxol quantification
+      Taxol was verified and quantified either by a competitive immunoassay procedure [42,43], TLC spot densitometry [44,45] or by HPLC-UV. Additional details have been published [16] and are in an Additional file [see Additional file 9].
+      
+      Maxim XL fungicide effect on Paraconiothyrium SSM001
+      
+      PDA plates were mixed with different concentration of the Maxim XL fungicide (0, 0.1,
+         0.5, 1.0, 1.5, 2.0, 2.5, 5.0 μM), and left to dry. A small piece of fungal mycelia
+         was cultured separately on each plate surface and the plates were kept in the dark
+         at room temperature for two weeks. Fungal mycelial growth was observed by the naked
+         eye.
+      
+      Effect of fungicide on Taxus x media plantlets
+      
+      In a pilot experiment, three different volumes (200 μL/plant, 500 μL/plant and 1 mL/plant)
+         of Maxim XL fungicide (Syngenta) were injected into stems of one-year old Taxus x media plantlets or buffer (water). This was followed by RNA extraction and quantification
+         of fungal endophytes by RT-PCR using specific fungal primers. In comparison to buffer
+         injected plantlets, only 1 mL of fungicide/ plant was effective in decreasing the
+         amount of endophytic fungi including Paraconiothyrium SSM001 using fungal 18S quantification. Subsequently, one-year old T. x media plantlets were injected with 1 mL/plant fungicide into the stem just passing beyond
+         the outer bark. The plantlets received another two doses of the fungicide two months
+         apart. The plantlets were left to grow for another 5 months with weekly watering.
+         The plantlets were kept at room temperature (25°C) under 24 h cool white fluorescent
+         light (60–80 μmol m-2 sec-2). Both the control and treated plantlets were arranged randomly. Only the stems were
+         analyzed.
+      
+      Effects of fungicide and herbicides on Taxol yield
+      For each biological replicate, 4–6 wood pieces randomly pooled from fresh T. x media branches of mature trees obtained from the University of Guelph Campus, were incubated
+         with 15 μM of either Maxim-XL fungicide (consists of 25 g/L fludioxonil, 10 g/L metalaxyl-M),
+         isoxaben herbicide (N-(3-(1-ethyl-1-methylpropyl)-5-isoxazolyl)-2,6-dimethoxy benzamide
+         powder), or buffer (water) for 24 h in the dark at 25°C with shaking at 50 rpm. The
+         wood pieces were then washed with water three times and then sterilized as mentioned
+         earlier prior to culturing on PDA medium for 2 weeks. Four grams of each treated wood
+         were ground, and 50 mg was used for RNA extraction; the remainder was used for taxane
+         extraction and Taxol quantification.
+      
+      Taxol fungicide assay
+      To test for the fungicide effects of Taxol, Paraconiothyrium SSM001 and six plant fungal pathogens and endophytes were incubated separately on
+         PDA plates containing Taxol or the solvent control. Based on the literature and testing
+         serial concentrations of Taxol (data not shown), 12 μM Taxol was chosen as the IC50.
+         The following fungal pathogens were chosen: Heterobasidion annosum, Perenniporia subacida, an Alternaria ssp., a Pestalotiopsis ssp., Phaeolus schweinitzii and Fusarium graminearum. In all the experiments, the fungal plates were incubated in the dark at 25°C and
+         the fungal growth was followed for one week.
+      
+      RT-PCR
+      For the gene, 3-hydroxy-3-methyl glutaryl CoA reductase, primers PlantHMGRF2 (5’-TCCCTGTGGGTGTTGCAGGGC-3’)
+         and PlantHMGRR2 (5’-AACCTAACAACGGAGCCC -3’) were used. For 3-deoxy xylulose-5-phosphate
+         reductoisomerase (DXR), primers PlantDXRF4 (5’-AGGTGGAACCATGACTGG-3’) and PlantDXRR4
+         (5’-TGCAGCATACTTTCTGGCCC-3’) were used. For taxadiene synthase, primers TSinF (5’-GGTTTGCTCCAAATCAGGGC-3’)
+         and TSinR (5’-TAACATTGTGGTGCCACAGA-3’) were used. For fungal quantification, fungal
+         18S rRNA specific primers were used: 18SrDNA-RtF (5’-GGCATCAGTATTCAGTTGTC-3’) and
+         18SrDNA-RtR (5’-GTTAAGACTACGACGGTATC-3’) [46]. Taxus 18S rRNA was used as an internal standard for normalization using the following primers:
+         Tax18SF2 (5’-TTTTCCCTTTGCAATGCC-3’) and Tax18SR2 (5’-TCGCCCTTGTAATAACCCG-3’) [see
+         Additional file 9 for details].
+      
+      Identification of taxadiene synthase (TS) enzyme by Western blot analysis
+      Proteins were extracted from liquid nitrogen-ground Taxus stem tissues using extraction buffer [47] supplemented with 1% glycine [48] followed by SDS-PAGE on 12% acrylamide gels [49] and transferred to nitrocellulose membrane [50] followed by immunoblotting using a polyclonal anti-TS antibody [see Additional file
+         9 for details].
+      
+   
+

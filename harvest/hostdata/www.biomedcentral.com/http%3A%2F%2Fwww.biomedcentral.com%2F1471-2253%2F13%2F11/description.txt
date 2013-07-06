@@ -1,0 +1,25 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Studies suggest that in patients admitted to intensive care units (ICU), physical functional status (PFS) improves over time, but does not return to the same level as before ICU admission. The goal of this study was to assess physical functional status two years after discharge from an ICU and to determine factors influencing physical status in this population.
+
+				
+				
+					
+						Methods
+
+					The study reviewed all patients admitted to two non-trauma ICUs during a one-year period and included patients with age ≥ 18 yrs, ICU stay ≥ 24 h, and who were alive 24 months after ICU discharge. To assess PFS, Karnofsky Performance Status Scale scores and Lawton-Instrumental Activities of Daily Living (IADL) scores at ICU admission (K-ICU and L-ICU) were compared to the scores at the end of 24 months (K-24mo and L-24mo). Data at 24 months were obtained through telephone interviews.
+
+				
+				
+					
+						Results
+
+					A total of 1,216 patients were eligible for the study. Twenty-four months after ICU discharge, 499 (41.6%) were alive, agreed to answer the interview, and had all hospital data available. PFS (K-ICU: 86.6 ± 13.8 vs. K-24mo: 77.1 ± 19.6, p < 0.001) and IADL (L-ICU: 27.0 ± 11.7 vs. L-24mo: 22.5 ± 11.5, p < 0.001) declined in patients with medical and unplanned surgical admissions. Most strikingly, the level of dependency increased in neurological patients (K-ICU: 86 ± 12 vs. K-24mo: 64 ± 21, relative risk [RR] 2.6, 95% CI, 1.8–3.6, p < 0.001) and trauma patients (K-ICU: 99 ± 2 vs. K-24mo: 83 ± 21, RR 2.7, 95% CI, 1.6–4.6, p < 0.001). The largest reduction in the ability to perform ADL occurred in neurological patients (L-ICU: 27 ± 7 vs. L-24mo: 15 ± 12, RR 3.3, 95% CI, 2.3–4.6 p < 0.001), trauma patients (L-ICU: 32 ± 0 vs. L-24mo: 25 ± 11, RR 2.8, 95% CI, 1.5–5.1, p < 0.001), patients aged ≥ 65 years (RR 1.4, 95% CI, 1.07–1.86, p = 0.01) and those who received mechanical ventilation for ≥ 8 days (RR ...

@@ -1,0 +1,38 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Eczema is a prevalent skin disease that is mainly characterized by systemic deviation of immune response and defective epidermal barrier. Th2 cytokines, such as IL-13 and transcription factor STAT6 are key elements in the inflammatory response that characterize allergic disorders, including eczema. Previous genetic association studies showed inconsistent results for the association of single nucleotide polymorphisms (SNPs) with eczema. Our aim was to investigate whether SNPs in  IL13  and  STAT6  genes, which share a biological pathway, have an interactive effect on eczema risk.
+
+				
+				
+					
+						Methods
+
+					Data from two independent population-based studies were analyzed, namely the Isle of Wight birth cohort study (IOW; n = 1,456) and for the purpose of replication the Swansea PAPA (Poblogaeth Asthma Prifysgol Abertawe; n = 1,445) cross-sectional study. Log-binomial regressions were applied to (i) account for the interaction between  IL13  (rs20541) and  STAT6  (rs1059513) polymorphisms and (ii) estimate the combined effect, in terms of risk ratios (RRs), of both risk factors on the risk of eczema.
+
+				
+				
+					
+						Results
+
+					Under a dominant genetic model, the interaction term [ IL13  (rs20541) ×  STAT6  (rs1059513)] was statistically significant in both studies (IOW: adjusted  P 
+						 interaction  = 0.046; PAPA:  P 
+						 interaction  = 0.037). The assessment of the combined effect associated with having risk genotypes in both SNPs yielded a 1.52-fold increased risk of eczema in the IOW study (95% confidence interval (CI): 1.05 – 2.20;  P  = 0.028) and a 2.01-fold higher risk of eczema (95% CI: 1.29 – 3.12;  P  = 0.002) in the PAPA study population.
+
+				
+				
+					
+						Conclusions
+
+					Our study adds to the current knowledge of genetic susceptibility by demonstrating for the first time an interactive effect between SNPs in  IL13  (rs20541) and  STAT6  (rs1059513) on the occurrence of eczema in two independent samples. Findings of this report further support the emerging evidence that points toward the existence of genetic effects that occur via complex networks involving gene-gene interactions (epistasis).
+
+				
+			
+		

@@ -1,0 +1,144 @@
+Methods
+   
+      Study overview
+      This was a cross-sectional study conducted between March 2010 and June 2012. The study
+         protocol was approved by the University of Sydney Human Research Ethics Committee,
+         Australia (09-2009/12100). All participants signed an informed consent form before
+         participating in the study. Participants were compensated for their time and transportation
+         expenses.
+      
+      Participants
+      Participants were recruited from physiotherapy clinics in the Sydney metropolitan
+         area, through advertising using flyers and posters in physiotherapy clinics and community
+         centers and by advertising on local social media web sites. The inclusion criteria
+         were: patients with non-specific low back pain (i.e. low back pain with no specific
+         pathology) [22], aged between 18 and 79&nbsp;years and possessing sufficient fluency in the English language
+         to answer self-completed questionnaires. Exclusion criteria were: sciatica (i.e. pain
+         radiating below the knee with definite neurological signs); spinal surgery within
+         the preceding 6&nbsp;months; previously diagnosed with a sleep disorder for which they
+         were receiving care; receiving care for a mental health condition; and rotating night
+         shift workers. There was no restriction on duration of LBP.
+      
+      Procedures
+      Recruiting physiotherapists informed patients about the study and passed their contact
+         details to the study researcher. Potential participants from the community were provided
+         with information about the study through the post or email. Volunteers who showed
+         an interest in participating were then contacted and screened for inclusion by the
+         study researcher.
+      
+      All those who met the eligibility criteria were given an appointment to meet the study
+         researcher at the sleep clinic of the Woolcock Institute of Medical Research, the
+         University of Sydney, Australia. During their visit to the clinic, participants completed
+         a baseline assessment booklet, which took approximately 30 to 45&nbsp;minutes. The baseline
+         assessment booklet contained:
+      
+      (i) Demographic questions regarding a participant’s age, gender, weight, height, educational
+         level, employment status, smoking status, and whether the participant was seeking
+         care for LBP or taking medication.
+      
+      (ii) Self-reported measures of sleep quality, including the Pittsburgh questionnaire,
+         Insomnia index, and Epworth scale.
+      
+      (iii) The Brief Pain Inventory, which measures pain intensity [23]; the Depression, Anxiety and Stress Scale (DASS-21) [24], which measures depression, anxiety and stress; the Roland and Morris Disability
+         Questionnaire [13], which measures disability due to LBP; and the Fatigue Severity Scale [25], which measures fatigue.
+      
+      Participants also completed the Pittsburgh sleep diary [21], over 7 consecutive days. Participants were followed up, at least once, either via
+         phone calls or through SMS text messages to ensure that the sleep diary was being
+         completed.
+      
+      Measures
+      The Pittsburgh sleep diary (sleep diary)
+      The sleep diary [21] consists of two sections. Although both sections were completed, only the second
+         section was used in this study. The section collects information about the previous
+         night’s sleep and is completed immediately after awaking. It contains the following
+         items: (1) time went to bed, (2) lights out time, (3) sleep onset latency (SOL) calculated
+         as the minutes from lights out until falling asleep, (4) time of final waking, (5)
+         method/ reason of final waking, (6) number of times the participant woke during the
+         night, wake after sleep onset (WASO), (7) duration of WASO in minutes calculated as
+         the total number of minutes of awake that occurred after sleep onset and before the
+         final awaking, (8) reason(s) for WASO, (9) sleep quality, (10) mood on final awaking,
+         and (11) alertness on final waking. Items 9 to 11 were completed on a 0–10 Numerical
+         Rating Scale (NRS).
+      
+      The Pittsburgh sleep quality index (Pittsburgh questionnaire)
+      The Pittsburgh questionnaire is a self-report instrument designed to evaluate sleep
+         quality over the last month. It consists of 19 items to produce 7 aspects of sleep
+         quality (sleep onset latency, sleep duration, efficiency, quality, disturbances, medication,
+         and day-time dysfunction). The sum of these 7 aspects (0–3) yields a global score
+         of sleep quality (0–21); a high sore is an indication of poor sleep quality. The cut-off
+         score of &gt; 5 has been found to be an accurate cut-off score to distinguish between
+         patients with primary insomnia and those without insomnia [18].
+      
+      The insomnia severity index (Insomnia index)
+      The Insomnia index is a 7-item scale, with each item rated on a 5-point Likert-scale.
+         It assesses insomnia severity, sleep satisfaction, sleep interference with day-time
+         functioning, noticeability of sleep impairment, and distress caused by insomnia over
+         the last 2&nbsp;weeks. Summation of the 7-items provides a score ranging from 0 to 28,
+         where 0–7 indicates no significant insomnia, 8 to 14 indicates sub-threshold insomnia,
+         15 to 21 indicates moderate insomnia, and 22 to 28 indicates severe insomnia. The
+         cut-off score of &gt; 14 has been reported to be the most accurate point to detect patients
+         with primary insomnia [19].
+      
+      The Epworth sleepiness scale (Epworth scale)
+      The Epworth scale is an 8-item self-report questionnaire used to assess excessive
+         day-time sleepiness over the last week. Participants indicate on a 4-point Likert-
+         type scale (0 = never, 3 = high chance) the likelihood that they will “doze off or
+         fall asleep” in eight different situations. Summation of the 8 responses produces
+         a total score ranging from 0 to 24; with higher scores reflecting greater sleepiness.
+         The cut off score of &gt; 10 has been found to accurately determine excessive day-time
+         sleepiness [26].
+      
+      The sleep item of the Roland and Morris disability questionnaire (Roland item)
+      The Roland and Morris Disability questionnaire [13] is a 24-item self-administered questionnaire designed to measure the effect of LBP
+         on a patient’s normal activities of daily living. The sleep item (Roland item) examines
+         sleep quality in relation to the effect of pain: “I sleep less well because of my back”. The response format of the item is dichotomous (yes/no). The item has been reported
+         to be easy to understand and answer by patients with LBP [27].
+      
+      The four self-reported sleep questionnaires, the Pittsburgh questionnaire; Insomnia
+         index; Epworth scale and the Roland item were selected for several reasons. Both the
+         Pittsburgh questionnaire and the Insomnia index assess several aspects of insomnia,
+         including sleep difficulty and day-time impairments related to night’s sleep, and
+         have been widely used in the assessment of sleep quality in patients with LBP [28]. On the other hand, a questionnaire with a single item may potentially be easier
+         to complete, less time consuming and easier to score and interpret than a measure
+         with multiple insomnia items [29]. We, therefore, attempted to evaluate the discriminatory properties of the Roland
+         item and the Epworth scale to detect insomnia in patients with LBP. The Roland item
+         assesses sleep difficulty and is commonly employed by clinicians and researchers in
+         the domain of LBP [30] and the Epworth scale is also a common measure that has been translated into 52 languages
+         to assess individual’s day-time sleepiness [31].
+      
+      Insomnia classification
+      We adopted the general criteria of the International Classification of Sleep Disorder,
+         second edition (ICSD-2) to classify insomnia [1]. Participants were classified as having insomnia if they reported in the sleep diary,
+         for at least 3 of the 7 nights, either (i) wake after sleep onset (WASO) &gt; 30&nbsp;minutes
+         or (ii) sleep onset latency (SOL) &gt; 30&nbsp;minutes. These symptoms should be associated
+         with either poor sleep quality or low mood. Poor sleep quality was defined as &lt; 5
+         on a 0–10 scale where 0 = very bad sleep quality and 10 = very good sleep quality.
+         Low mood was defined as &lt; 5 on final waking on 0–10 scale where 0 = very tense and
+         10 = very calm. We chose the frequency of ≥ 3 nights and duration of SOL and WASO
+         of &gt; 30&nbsp;minutes as these are the most commonly recommended criteria [1,3,32].
+      
+      Statistical Analyses
+      Statistical analyses were conducted as described below using SPSS version 19 (SPSS
+         Inc., Chicago, IL), MedCalc for Windows, version 12.2.1.0 (MedCalc Software, Mariakerke,
+         Belgium) and Meta-DiSc data analysis software [33].
+      
+      Assessment of test properties
+      Discriminatory properties of self-report questionnaires were tested using the sleep
+         diary as the reference test and each questionnaire as the index test.
+      
+      1. The scores from the index tests were used to construct Receiver Operator Characteristic
+         (ROC) curves using non-parametric methods [34], with the Area Under the Curve (AUC) used to examine each test’s accuracy to discriminate
+         participants with insomnia from those without insomnia. The AUC ranges from 0 to 1.0
+         with a value of 0.5 representing discrimination no better than chance. Using DeLong’s
+         method ROC curves were compared to test for statistically significantly differences
+         between AUCs [34]. AUC values were interpreted using guidelines provided by Swets (1988) [35]: (0.5 to 0.7 = low accuracy, 0.7 to 0.9 = moderate accuracy, &gt;0.9 = high accuracy).
+      
+      2. Index test scores were dichotomised using both the ROC technique and scores based
+         on the literature: for the Pittsburgh questionnaire we used cut-off points of &gt; 5
+         [18] and &gt; 10 [36], a cut-off &gt; 14 for the Insomnia index [19], and for the Epworth scale we used a cut-off point of &gt;10 [26]. A 2 x 2 table was created to calculate sensitivity, specificity, positive likelihood
+         ratio and negative likelihood ratio. Sensitivity was defined as the proportion of
+         people with insomnia who tested positive, while specificity was defined as the proportion
+         of people without insomnia who tested negative.
+      
+   
+

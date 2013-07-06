@@ -1,0 +1,155 @@
+Methods
+   
+      Study description
+      The Rakai Community Cohort Study (RCCS) has been described previously [22]. In brief, the Rakai cohort was established in 1994 for a community randomized trial
+         of the control of sexually transmitted diseases (STD) for prevention of HIV (1994-99),
+         and continued annual surveillance thereafter (1999 to-date). The RCCS was conducted
+         in selected study communities that were originally mapped for the STD trial [22], and households within these communities were included in the RCCS. At household
+         level, all consenting adults aged 15-49&nbsp;years were invited to participate in an interview.
+         Prior to each study visit; a household census was conducted in the 50 study communities
+         to update information on the current residents and to identify eligible persons aged
+         15-49&nbsp;years. Participants completed an extensive socio-demographic (age, sex, education,
+         religious affiliation, and type of union, i.e. monogamous or polygamous) and behavioral
+         (engagement in extra-marital relations, lifetime number of sexual partners, prior
+         HIV testing and receipt of HIV test results, ever use of condoms, and HIV risk perception)
+         interviews, administered by trained same-sex interviewers. Venous blood was collected
+         for HIV and STD diagnoses. Serologic diagnosis of HIV was based on two enzyme immunosorbent
+         assays (EIA) (Vironostika HIV; Organon Teknika, Charlotte, North Carolina and Cambridge
+         Biotech, Worcester, Massachusetts, USA) with Western blot confirmation of sero-discordant
+         EIA results and recent HIV sero-converters (HIV WB; Bio-Merieux-Vitek, St Louis, Missiouri,
+         USA).
+      
+      The Rakai HCT program
+      The Rakai HCT program has been described elsewhere [23]. Briefly, all individuals who provided a blood sample at each survey round were asked
+         if they were interested in receiving their HIV test results, and if they were, they
+         were asked if they preferred to receive them together as a couple or individually.
+         On average, HIV test results were available within 1&nbsp;month from the time of interview
+         and blood draw (rapid HIV testing was not performed). Individuals had the option of
+         receiving their test results and counseling at home (&gt;95% of couples chose to receive
+         HCT at home) or at another venue of their choice. A community-resident HIV counselor
+         (employed by Rakai Health Sciences Program) visited homes of those interested in receiving
+         their HIV test results and provided individual or couples’ HCT based on the couples’
+         preference. Individuals had the option of declining to receive their HIV test results,
+         despite having initially requested to receive their results, or to receive individual
+         HCT even though they had initially requested to receive them as a couple or the other
+         way round. For each HCT session completed, HIV test counselors completed relevant
+         HCT forms and returned them to the main field office in Kalisizo for entry into the
+         main RCCS database. The HCT forms had provisions for couples that had refused to receive
+         their HIV test results and those who could not be traced in the community either because
+         they out-migrated from the study communities or died between the time of the interview
+         and the delivery of the HIV test results. Individuals who tested HIV-positive were
+         referred to HIV care clinics that exist within the study communities. The clinics,
+         which were established by the Rakai Health Sciences Program, offer antiretroviral
+         therapy, treatment for sexually transmitted infections and other opportunistic infections,
+         prevention of mother-to-child transmission of HIV (PMTCT) services, among others.
+      
+      The Rakai Health Sciences Program employed trained and certified HIV counselors who
+         were responsible for providing HCT to interested participants. HIV counselors received
+         training in how to conduct couples’ HIV counseling and testing, including how to support
+         HIV-discordant couples, from Ministry of Health trainers. Counselors were also trained
+         in survey research methods to collect basic information about the clients served.
+         The study employed HIV counselors who had been involved in the provision of HCT services
+         in prior studies within the same cohort, so they had the experience needed to provide
+         HCT services to couples and individuals.
+      
+      HIV test results were provided verbally in a private face-to-face setting in order
+         to ensure privacy and reduce social harm. During the post-test counseling, all study
+         participants were provided with HIV risk-reduction education including faithfulness
+         to one’s spouse (“Be faithful”), and condom use, in line with the National HIV and
+         AIDS Strategic Plan [24]. Information was also provided on couples’ counseling services available, HIV status
+         disclosure, marital stability, nutrition and social support. Participants receiving
+         HCT were helped to assess their own risk for HIV infection and/or transmission and
+         how to reduce this risk. Participants who received individual HCT were encouraged
+         to disclose their HIV test results to their partners, but no involuntary disclosure
+         of HIV status was done since it is not permissible under the National HIV Counseling
+         and Testing Policy [25].
+      
+      Measures
+      As part of the RCCS interviews, participants were asked if they were currently married;
+         the number of marital partners they had and partner identifying information, such
+         as name, household or community of residence, was collected. This information was
+         necessary for linking married individuals to their marital partners at the time of
+         analysis. Married individuals were categorized as being in ‘monogamous relationships’
+         if they reported only one marital partner or in ‘polygamous relationships’ if they
+         reported more than one marital partner. The definition of a ‘polygamous relationship’
+         was restricted to the number of marital partners reported by the male partner, since
+         women are culturally not expected to have more than one husband. We used a generic
+         sense of the term “marriage” to encompass all forms of marriage, including cohabitation,
+         those married in church/mosque, and those in traditional and civil marriages. At each
+         visit, married individuals were interviewed separately but at the time of analysis,
+         these individuals were retrospectively linked to their marital partners to form couples,
+         using study identifiers.
+      
+      A separate couples’ dataset was created for this analysis consisting of HIV status
+         and HCT data as well as information on background socio-demographic and risk behavioral
+         characteristics for married individuals enrolled into the RCCS between 2003 and 2009.
+         Couples in the dataset were considered to be concordant HIV-negative if both partners
+         were HIV-negative (designated as M-F- in this article), concordant HIV-positive if
+         both partners were HIV-positive (M+F+), and HIV-discordant if one of the partners
+         – but not both – was infected with HIV (M-F+ or M+ F-). Uptake of individual HCT was
+         defined as the proportion of couples at each study visit in which one or both members
+         had received individual HCT, and uptake of couples’ HCT was defined as the proportion
+         of couples at each study visit who received HCT, including disclosure of test results,
+         as a couple. Condom use was assessed as use of condoms with any sexual partner in
+         the twelve months preceding the survey, and was coded as Yes = 1 and No = 2. HIV risk
+         perception was categorized as ‘very likely’, ‘somewhat likely’, ‘not likely at all’
+         or ‘unsure’. The question on HIV risk perception was administered to all participants
+         regardless of their current HIV status, i.e. including those who had previously tested
+         HIV-positive, since interviewers did not know the participants’ HIV status at the
+         time of interview.
+      
+      For all married individuals in the couples’ dataset, we examined whether they had
+         ever received HCT or disclosed their HIV status to their sexual partners. This question
+         was asked of participants regarding their behaviors prior to 2003/04 and also in between
+         each subsequent RCCS study visit. Assessing prior HCT and disclosure experiences was
+         important because evidence from the Rakai cohort [23] as well as from elsewhere [26] shows that prior receipt of HCT can influence future participation in HCT, including
+         couples’ HCT. In order to identify individuals with prior HCT or HIV status disclosure
+         experience, we linked all individuals in the couples’ dataset to the main RCCS database
+         and checked if one or both partners had received HCT or disclosed their HIV status
+         to their marital partners in the RCCS study visits preceding the current visit. If
+         evidence of prior receipt of HCT was available (regardless of whether one or both
+         partners had ever received HCT), this was categorized as “prior HCT” in the couples’
+         dataset. Similarly, if evidence of prior HIV status disclosure was available (i.e.
+         ever disclosed to any sexual partner, including the current partner), this was categorized
+         as “prior HIV status disclosure” in the couples’ dataset.
+      
+      Statistical analysis
+      We conducted cross-sectional analyses to assess trends in HIV counseling and testing
+         uptake among 21,798 who participated in four study visits of the Rakai Community Cohort
+         Study between 2003 and 2009 (2003/04; 2005/06; 2006/08; and 2008/09). Couples with
+         complete data were then categorized into those in whom (i) both members had never
+         received HCT (i.e. never tested for HIV), (ii) one or both members had ever received
+         HCT individually, or (iii) both partners had ever received HCT together (i.e., couples’
+         HCT). Couples were considered to have ever received couples’ HCT if both partners
+         received HCT together in the same sitting, or if the couples were assisted to disclose
+         each other’s HIV test results by a program counselor (i.e. counselor-assisted disclosure).
+         Couples with self-reported HIV status disclosure were excluded from the estimation
+         of couples’ HCT uptake since it was not possible to verify these self-reports. Uptake
+         of couples’ HCT in polygamous relationships was ascertained separately for each husband-wife
+         pair, while keeping the husband constant in each pair. We computed the proportion
+         of couples that had never received HCT, those that had ever received HCT separately
+         and those that had ever received HCT together – overall and by socio-demographic (age,
+         sex, education, religious affiliation and type of union) and risk behavioral (ever
+         use of condoms, lifetime number of sexual partners, engagement in extra-marital relationship,
+         and HIV risk perception) characteristics. We conducted χ2 tests to assess time trends in HCT uptake for the entire sample and multinomial logistic
+         regression to assess relative risk ratios (RRR) of HCT uptake among a sub-sample 0f
+         10,712 married individuals who had participated in the RCCS for at least three study
+         visits. The decision on the number of participants to include in the sub-group analysis
+         was based on the need to examine predictors of HCT uptake in individuals who had had
+         a long period of exposure to HCT. The multinomial logistic regression analysis included
+         socio-demographic (age-group, gender and level of education) and behavioral characteristics
+         (extra-marital relations, prior HCT, and couple HIV status) that were found significant
+         (P &lt; 0.05) at the bivariate analysis level. Since the primary outcome of the study is
+         uptake of HCT, we used ‘never tested’ as the base outcome. All analyses were adjusted
+         for repeated measures on the same individuals and number of times an individual participated
+         in the study, using robust standard errors. A two-sided p-value of 0.05 or less was
+         regarded as significant. Statistical analyses were done using STATA statistical software,
+         Release 11.0 (College Station, TX: STATA Corporation).
+      
+      Ethics statement
+      The RCCS and the subsequent HCT services were approved by ethics committees at the
+         Uganda Virus Research Institute in Uganda and the Johns Hopkins Bloomberg School of
+         Public Health in the United States of America.
+      
+   
+

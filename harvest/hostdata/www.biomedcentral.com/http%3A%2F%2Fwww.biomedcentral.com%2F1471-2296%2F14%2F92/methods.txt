@@ -1,0 +1,51 @@
+Methods
+   
+      Design
+      Face-to-face, in-depth, semi-structured interviews were conducted with GPs in Greater
+         Manchester, England who were participating in a larger programme of work which aimed
+         to validate prospectively a risk assessment tool for predicting chronicity in patients
+         with IBS. Initially we approached all practices that had a Service Level Agreement
+         with the Greater Manchester Comprehensive Local Research Network (CLRN). We then took
+         a staged approach to roll the study out to general practices within Primary Care Organisations
+         in Greater Manchester. The total number of practices recruited to the study was 58.
+         At the time of recruitment practices were informed about both the Risk Assessment
+         Study and the qualitative interview study. GPs were invited to contact us if they
+         were interested in taking part in the qualitative study. The role of the practices
+         was to recruit patients to the study, rather than use the predictive tool. Data were
+         collected between March and December 2011.
+      
+      Sampling
+      Purposive sampling was used to maximise the variation of the sample of GPs. GPs who
+         were invited to participate in the main study were also invited to participate in
+         this nested qualitative study and two GPs agreed. The remaining 17 GPs were recruited
+         from the 58 practices who had agreed to recruit patients for the main study. We sampled
+         practices according to location, and asked if one of the GPs would participate in
+         the interview study. As recruitment continued, we tried to ensure a spread of participants
+         across gender, ethnicities, age ranges and years of experience in practice. Recruitment
+         was then continued until theme saturation was achieved.
+      
+      Data collection
+      Interviews were conducted, with written consent, at GPs’ premises, by two of the authors
+         (EFH and VH). Interviews lasted between 20 and 70 minutes (mean 42 minutes). The topic
+         guide was developed from review of the existing literature and discussion within the
+         research team. The topic guide, designed to be used flexibly, was modified in the
+         light of emerging themes. The main areas explored were GPs’ views on the aetiology
+         of IBS, how they make the diagnosis of IBS and explain this to patients, treatments
+         offered to patients, and the potential usefulness of a tool to aid their management
+         decisions. The risk assessment tool was described to GPs as a management device to
+         help stratify patients into those who might become high consulters in the long term,
+         and thus may aid future decisions about management of these patients.
+      
+      Interviews were fully transcribed. Data coding was by constant comparison across interviews
+         [19], by individual authors (CCG, EFH, VH and SH) and emerging themes were agreed through
+         discussion amongst all authors, from different professional backgrounds (academic
+         primary care, health services research, epidemiology). An iterative approach to data
+         collection and analysis was taken; coding and conceptual categories were constantly
+         reviewed and refined in the light of new interview data and ongoing discussion in
+         the research team. Tensions between GP descriptions of their management and the NICE
+         guideline were particularly investigated in the analysis. The topic guide was modified
+         to allow for further exploration of emerging themes. N Vivo 9 (QSR International Pty
+         Ltd, Victoria, Australia) was used to store and manage the data.
+      
+   
+

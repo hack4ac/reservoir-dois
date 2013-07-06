@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Emerging studies have demonstrated that pretreatment with electroacupuncture (EA) induces significant tolerance to focal cerebral ischemia. The present study seeks to determine the involvement of monocyte chemotactic protein-induced protein 1 (MCPIP1), a recently identified novel modulator of inflammatory reactions, in the cerebral neuroprotection conferred by EA pretreatment in the animal model of focal cerebral ischemia and to elucidate the mechanisms of EA pretreatment-induced ischemic brain tolerance.
+
+				
+				
+					
+						Methods
+
+					Twenty-four hours after the end of the last EA pretreatment, focal cerebral ischemia was induced by middle cerebral artery occlusion (MCAO) for 90 minutes in male C57BL/6 mice and MCPIP1 knockout mice. Transcription and expression of MCPIP1 gene was monitored by qRT-PCR, Western blot and immunohistochemistry. The neurobehavioral scores, infarction volumes, proinflammatory cytokines and leukocyte infiltration in brain and NF-κB signaling were evaluated after ischemia/reperfusion.
+
+				
+				
+					
+						Results
+
+					MCPIP1 protein and mRNA levels significantly increased specifically in mouse brain undergoing EA pretreatment. EA pretreatment significantly attenuated the infarct volume, neurological deficits, upregulation of proinflammatory cytokines and leukocyte infiltration in the brain of wild-type mice after MCAO compared with that of the non-EA group. MCPIP1-deficient mice failed to evoke EA pretreatment-induced tolerance compared with that of the control MCPIP1 knockout group without EA treatment. Furthermore, the activation of NF-κB signaling was significantly reduced in EA-pretreated wild-type mice after MCAO compared to that of the non-EA control group and MCPIP1-deficient mice failed to confer the EA pretreatment-induced inhibition of NF-κB signaling after MCAO.
+
+				
+				
+					
+						Conclusions
+
+					Our data demonstrated that MCPIP1 deficiency caused significant lack of EA pretreatment-induced cerebral protective effects after MCAO compared with the control group and that MCPIP1 is involved in EA pretreatment-induced delayed brain ischemia tolerance.
+
+				
+			
+		

@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					To compare the results of a new-user cohort study design and the self-controlled case series (SCCS) design using the risk of hospitalisation for pneumonia in those dispensed proton pump inhibitors compared to those unexposed as a case study.
+
+				
+				
+					
+						Methods
+
+					The Australian Government Department of Veterans’ Affairs administrative claims database was used. Exposure to proton pump inhibitors and hospitalisations for pneumonia were identified over a 4 year study period 01 Jul 2007 -30 Jun 2011. The same inclusion and exclusion criteria were applied to both studies, however, the SCCS study included subjects with a least one hospitalisation for pneumonia.
+
+				
+				
+					
+						Results
+
+					There were 105,467 subjects included in the cohort study and 6775 in the SCCS. Both studies showed an increased risk of hospitalisations for pneumonia in the three defined risk periods following initiation of proton pump inhibitors compared to baseline. With the highest risk in the first 1 to 7 days (Cohort RR, 3.24; 95% CI (2.50, 4.19): SCCS: RR, 3.07; 95% CI (2.69, 3.50)).
+
+				
+				
+					
+						Conclusions
+
+					This study has shown that the self-controlled case series method produces similar risk estimates to a new-users cohort study design when applied to the association of proton pump inhibitors and pneumonia. Exposure to a proton pump inhibitor increases the likelihood of being admitted to hospital for pneumonia, with the risk highest in the first week of treatment.
+
+				
+			
+		

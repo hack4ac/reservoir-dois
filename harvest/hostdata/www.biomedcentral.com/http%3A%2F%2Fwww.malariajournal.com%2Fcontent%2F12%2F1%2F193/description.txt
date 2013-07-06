@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Haematologic abnormalities are features in  Plasmodium falciparum  infection, and anaemia is an inevitable outcome. This study examines the influence of malaria status and altitude on haematologic parameters in school-aged pupils.
+
+				
+				
+					
+						Methods
+
+					A cross-sectional study was conducted among 728 school pupils aged between four and 15 years at three different altitudinal ranges along the slope of the Mount Cameroon region. The investigative methods included the use of questionnaire, clinical evaluation and laboratory investigations. Blood sample collected from each child was used for the preparation of blood films for detection of malaria parasites and assessment of malaria parasite density as well as full blood count determination using an automated haematology analyzer.
+
+				
+				
+					
+						Results
+
+					The prevalence of malaria in the study population was 33.8% and 64.2% (158/246) of these were asymptomatic (AM). Pupils in lowlands had a significantly (P <0.05) prevalence (95% confidence interval, CI) of malaria (60.6%, CI = 54.6–65.9%) than those in middle belt (29.1%, CI = 23.9–34.8%) and highlands (7.7%, CI = 6.1–9.8%), while those in middle belt had significantly higher geometric mean parasite density (475) than those in lowlands (233) and highlands (388). The prevalence of malaria was significantly higher in children that presented with fever (40.4%, CI = 33.8–47.2%) when compared with afebrile subjects (31%, CI = 27–35.2%). Pupils with AM had a higher prevalence of leucopaenia (43.7%, CI = 35.8–51.8%), microcytosis (27.2%, CI = 20.5–34.9%), hypochromasia (27.8%, CI = 21–35.5%) and thrombocytopaenia (14.9%, CI = 8.9–22.8%) when compared with those with clinical malaria (CM). All mean haematological parameters were comparable in pupils with CM and AM, except for the mean white blood cell (WBC) counts. Pupils with AM had significantly lower (P = 0.02) mean WBC counts (5.1 ± 2.5 × 10 9 /L) than those with CM (5.9 ± 2.3 × 10 9 /L). Age, altitude and malaria parasitaemia was of significant influence on several haematological parameters.
+
+				
+				
+					
+						Conclusion
+
+					Altitude influenced the distribution and density of malaria parasites and was of confounding influence on the haematologic profiles. These results highlight the insidious effects of AM on the haematologic components.
+
+				
+			
+		

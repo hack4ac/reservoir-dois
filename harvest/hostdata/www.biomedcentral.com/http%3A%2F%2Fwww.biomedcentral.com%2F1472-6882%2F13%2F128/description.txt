@@ -1,0 +1,36 @@
+
+			
+				
+					Abstract
+
+				
+				
+					
+						Background
+
+					Colorectal cancer remains one of the leading causes of cancer death worldwide. Traditional Chinese Medicine (TCM) has played a positive role in colorectal cancer treatment. There is a great need to establish effective herbal formula for colorectal cancer treatment. Based on TCM principles and clinical practices, we have established an eight herbs composed formula for colorectal cancer treatment, which is Teng-Long-Bu-Zhong-Tang (TLBZT). We have demonstrated the anticancer effects of TLBZT against colorectal carcinoma  in vitro . In present study, we evaluated the anticancer potential of TLBZT, used alone or in combination with low dose of 5-Fluorouracil (5-Fu), in CT26 colon carcinoma  in vivo .
+
+				
+				
+					
+						Methods
+
+					CT26 colon carcinoma was established in BALB/c mice and treated with TLBZT, 5-Fu, or TLBZT plus 5-Fu. The tumor volumes were observed. Apoptosis was detected by TUNEL assay. Caspases activities were detected by colorimetric assay. Cell senescence was indentified by senescence β-galactosidase staining. Gene expression and angiogenesis was observed by immunohistochemistry or western blot.
+
+				
+				
+					
+						Results
+
+					TLBZT significantly inhibited CT26 colon carcinoma growth. TLBZT elicited apoptosis in CT26 colon carcinoma, accompanied by Caspase-3, 8, and 9 activation and PARP cleavage, and downregulation of XIAP and Survivin. TLBZT also induced cell senescence in CT26 colon carcinoma, with concomitant upregulation of p16 and p21 and downregulation of RB phosphorylation. In addition, angiogenesis and VEGF expression in CT26 colon carcinoma was significantly inhibited by TLBZT treatment. Furthermore, TLBZT significantly enhanced anticancer effects of 5-Fu in CT26 colon carcinoma.
+
+				
+				
+					
+						Conclusions
+
+					TLBZT exhibited significantly anticancer effect, and enhanced the effects of 5-Fu in CT26 colon carcinoma, which may correlate with induction of apoptosis and cell senescence, and angiogenesis inhibition. The present study provides new insight into TCM approaches for colon cancer treatment that are worth of further study.
+
+				
+			
+		
