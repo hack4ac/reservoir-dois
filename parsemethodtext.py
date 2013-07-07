@@ -7,6 +7,7 @@ import os.path
 import glob
 import cPickle as pickle
 import copy
+import urllib
 
 from sklearn.manifold import MDS
 import numpy as np
@@ -205,7 +206,7 @@ def mds_of_wordbags(train_analyses, test_analyses, grandwordlist):
 				bestother = otherfilepath
 		# decide if matches
 		if (bestother in qual_filepaths):
-			print filepath
+			print urllib.unquote(os.path.basename(os.path.dirname(filepath)))
 
 
 ################################################
